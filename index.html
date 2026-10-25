@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#1f3a5f">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Mein Nachrichten-Überblick</title>
+<style>
+  :root {
+    --bg: #f5f6f8; --card: #ffffff; --ink: #1c2330; --muted: #5d6677; --line: #e1e4ea;
+    --accent: #1f3a5f; --accent-ink: #ffffff; --chip: #eaeef4; --warn: #9a5b00; --warn-bg: #fff4de;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12161d; --card: #1b212b; --ink: #e8ebf1; --muted: #9aa4b5; --line: #2b3340;
+      --accent: #8fb4e8; --accent-ink: #10151c; --chip: #262e3b; --warn: #f0c070; --warn-bg: #2f2616;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 16px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { padding: 18px 16px 8px; max-width: 760px; margin: 0 auto; }
+  h1 { margin: 0; font-size: 1.35rem; }
+  .stand { color: var(--muted); font-size: .82rem; margin-top: 2px; }
+  main { max-width: 760px; margin: 0 auto; padding: 0 16px 40px; }
+  .tabs, .seg { display: flex; gap: 6px; margin: 12px 0; flex-wrap: wrap; }
+  button { font: inherit; border: 1px solid var(--line); background: var(--card); color: var(--ink);
+           padding: 8px 14px; border-radius: 999px; cursor: pointer; }
+  button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+  .tabs button { flex: 1; font-weight: 600; border-radius: 10px; }
+  .seg button { font-size: .9rem; padding: 6px 12px; }
+  ol { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+  li.story { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px;
+             display: grid; grid-template-columns: 28px 1fr; gap: 10px; }
+  .rank { font-weight: 700; color: var(--accent); font-size: 1.1rem; }
+  .title a { color: var(--ink); text-decoration: none; font-weight: 600; }
+  .title a:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: .8rem; margin-top: 4px; }
+  .badges { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+  .badges a { background: var(--chip); color: var(--ink); text-decoration: none; font-size: .78rem;
+              padding: 3px 9px; border-radius: 999px; }
+  .badges a:hover { text-decoration: underline; }
+  .count { font-weight: 600; color: var(--accent); }
+  .note { background: var(--warn-bg); color: var(--warn); border-radius: 10px; padding: 10px 12px;
+          font-size: .85rem; margin: 6px 0 12px; }
+  h2 { font-size: 1rem; margin: 22px 0 8px; }
+  .empty { color: var(--muted); padding: 24px 4px; }
+  details { margin-top: 28px; font-size: .85rem; color: var(--muted); }
+  details table { width: 100%; border-collapse: collapse; margin-top: 8px; }
+  details td { padding: 4px 6px; border-top: 1px solid var(--line); vertical-align: top; }
+  .bad { color: #c0392b; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Mein Nachrichten-Überblick</h1>
+  <div class="stand" id="stand">Lade …</div>
+</header>
+<main>
+  <div class="tabs" id="tabs"></div>
+  <div class="seg" id="windows"></div>
+  <div class="seg" id="regions"></div>
+  <div id="note"></div>
+  <div id="content"></div>
+  <details id="status"></details>
+</main>
+
+<script>
+"use strict";
+const WINDOW_LABEL = { "24h": "24 Stunden", "7d": "7 Tage", "30d": "Monat" };
+const WINDOW_HOURS = { "24h": 24, "7d": 168, "30d": 720 };
+const REGION_LABEL = { de: "Deutschland", eu: "Europa", world: "Welt" };
+const TABS = [["news", "Nachrichten"], ["payments", "Payments"], ["social", "Social"]];
+const state = { tab: "news", win: "24h", region: "de", data: null };
+
+function el(tag, attrs, ...kids) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs || {})) {
+    if (k === "text") n.textContent = v;
+    else if (k === "href") { if (/^https?:\/\//.test(v)) { n.href = v; n.target = "_blank"; n.rel = "noopener noreferrer"; } }
+    else n.setAttribute(k, v);
+  }
+  for (const kid of kids) if (kid) n.append(kid);
+  return n;
+}
+function ago(iso) {
+  const min = Math.max(0, Math.round((Date.now() - new Date(iso)) / 60000));
+  if (min < 60) return "vor " + min + " Min.";
+  if (min < 1440) return "vor " + Math.round(min / 60) + " Std.";
+  return "vor " + Math.round(min / 1440) + " Tg.";
+}
+function fmt(iso) {
+  return new Date(iso).toLocaleString("de-DE", { day: "2-digit", month: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit" });
+}
+function segment(host, entries, current, onPick) {
+  host.replaceChildren(...entries.map(([key, label]) => {
+    const b = el("button", { type: "button", "aria-pressed": String(key === current), text: label });
+    b.onclick = () => onPick(key);
+    return b;
+  }));
+}
+
+function storyList(stories) {
+  if (!stories || !stories.length) return el("div", { class: "empty", text: "Für diesen Zeitraum liegen noch keine Meldungen vor." });
+  const ol = el("ol");
+  stories.forEach((s, i) => {
+    const badges = el("div", { class: "badges" }, ...s.sources.map(src => el("a", { href: src.link, title: src.title, text: src.name })));
+    const meta = el("div", { class: "meta" });
+    if (s.n_sources > 1) meta.append(el("span", { class: "count", text: s.n_sources + " Quellen" }), " · ");
+    meta.append(ago(s.time));
+    ol.append(el("li", { class: "story" },
+      el("div", { class: "rank", text: String(i + 1) }),
+      el("div", {}, el("div", { class: "title" }, el("a", { href: s.link, text: s.title })), meta, badges)));
+  });
+  return ol;
+}
+
+function socialList(blocks) {
+  const wrap = el("div");
+  blocks.forEach(b => {
+    wrap.append(el("h2", { text: b.name }));
+    if (!b.items.length) { wrap.append(el("div", { class: "empty", text: "Gerade nicht abrufbar (siehe Quellenstatus unten)." })); return; }
+    const ol = el("ol");
+    b.items.forEach((it, i) => ol.append(el("li", { class: "story" },
+      el("div", { class: "rank", text: String(i + 1) }),
+      el("div", {}, el("div", { class: "title" }, el("a", { href: it.link, text: it.title })), it.meta ? el("div", { class: "meta", text: it.meta }) : null))));
+    wrap.append(ol);
+  });
+  return wrap;
+}
+
+function render() {
+  const d = state.data;
+  segment(document.getElementById("tabs"), TABS, state.tab, k => { state.tab = k; render(); });
+  const showWin = state.tab !== "social";
+  segment(document.getElementById("windows"), showWin ? Object.entries(WINDOW_LABEL) : [], state.win, k => { state.win = k; render(); });
+  segment(document.getElementById("regions"), state.tab === "payments" ? Object.entries(REGION_LABEL) : [], state.region, k => { state.region = k; render(); });
+
+  const note = document.getElementById("note"); note.replaceChildren();
+  if (showWin && d.history_since) {
+    const days = (Date.now() - new Date(d.history_since)) / 3600000;
+    if (days < WINDOW_HOURS[state.win] * 0.95) {
+      note.append(el("div", { class: "note", text: "Der Zeitraum „" + WINDOW_LABEL[state.win] + "“ ist noch nicht voll abgedeckt: Die Sammlung läuft seit " + fmt(d.history_since) + ". Die Liste wird mit jedem Tag aussagekräftiger." }));
+    }
+  }
+  const content = document.getElementById("content");
+  if (state.tab === "news") content.replaceChildren(storyList(d.news[state.win]));
+  else if (state.tab === "payments") content.replaceChildren(storyList(d.payments[state.region][state.win]));
+  else content.replaceChildren(socialList(d.social));
+}
+
+function renderStatus(d) {
+  const host = document.getElementById("status");
+  const bad = d.status.filter(s => !s.ok).length;
+  host.replaceChildren(el("summary", { text: "Quellenstatus (" + (d.status.length - bad) + " von " + d.status.length + " erreichbar)" }));
+  const t = el("table");
+  d.status.forEach(s => t.append(el("tr", {}, el("td", { text: s.source }), el("td", { text: s.category }),
+    el("td", { class: s.ok ? "" : "bad", text: s.ok ? s.count + " Meldungen" : s.error }))));
+  host.append(t);
+}
+
+fetch("data.json?t=" + Date.now()).then(r => r.json()).then(d => {
+  if (!d.generated) {
+    document.getElementById("stand").textContent = "Noch keine Daten.";
+    document.getElementById("content").append(el("div", { class: "empty", text: "Starten Sie in GitHub unter „Actions“ den Lauf „Daten aktualisieren“ einmal von Hand. Danach erscheinen hier die Listen." }));
+    return;
+  }
+  state.data = d;
+  document.getElementById("stand").textContent = "Stand: " + fmt(d.generated);
+  renderStatus(d);
+  render();
+}).catch(() => { document.getElementById("stand").textContent = "Daten konnten nicht geladen werden."; });
+</script>
+</body>
+</html>

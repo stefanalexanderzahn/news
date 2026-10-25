@@ -1,0 +1,35 @@
+{
+  "_hinweis": "Hier pflegen Sie Ihre Quellen. Eintrag kopieren, Name und Adresse (url) ändern, speichern. Optional: \"weight\": 2 gibt einer Quelle mehr Gewicht im Ranking. Eintrag löschen = Quelle entfällt.",
+
+  "news": [
+    { "name": "Tagesschau",   "url": "https://www.tagesschau.de/index~rss2.xml" },
+    { "name": "Spiegel",      "url": "https://www.spiegel.de/schlagzeilen/index.rss" },
+    { "name": "Zeit Online",  "url": "https://newsfeed.zeit.de/index" },
+    { "name": "FAZ",          "url": "https://www.faz.net/rss/aktuell/" },
+    { "name": "Handelsblatt", "url": "https://www.handelsblatt.com/contentexport/feed/top-themen" }
+  ],
+
+  "payments": {
+    "de": [
+      { "name": "IT-Finanzmagazin", "url": "https://www.it-finanzmagazin.de/feed/" },
+      { "name": "Payment & Banking", "url": "https://paymentandbanking.com/feed/" },
+      { "name": "Heise Newsticker",  "url": "https://www.heise.de/rss/heise-atom.xml" }
+    ],
+    "eu": [
+      { "name": "Finextra",          "url": "https://www.finextra.com/rss/headlines.aspx" },
+      { "name": "The Paypers",       "url": "https://thepaypers.com/rss" },
+      { "name": "Fintech Futures",   "url": "https://www.fintechfutures.com/feed/" }
+    ],
+    "world": [
+      { "name": "Payments Dive",     "url": "https://www.paymentsdive.com/feeds/news/" },
+      { "name": "PYMNTS",            "url": "https://www.pymnts.com/feed/" },
+      { "name": "Finextra",          "url": "https://www.finextra.com/rss/headlines.aspx" }
+    ]
+  },
+
+  "social": [
+    { "name": "Google Trends Deutschland", "type": "googletrends", "url": "https://trends.google.com/trending/rss?geo=DE" },
+    { "name": "Reddit r/de (Top des Tages)", "type": "reddit", "subreddit": "de" },
+    { "name": "Reddit r/germany (Top des Tages)", "type": "reddit", "subreddit": "germany" }
+  ]
+}
