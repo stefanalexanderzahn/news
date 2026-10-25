@@ -1,11 +1,36 @@
 {
- "generated": "2026-10-25T11:28:37+00:00",
+ "generated": "2026-10-25T11:47:01+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
    {
+    "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+    "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
+    "image": "https://images.tagesschau.de/image/236feb84-b24d-4116-b8f0-5a0b0cf48424/AAABoW7hjg0/AAABnSSvrFg/16x9-big/marseille-protest-100.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-25T11:30:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Frankreich: Mindestens 1000 Festnahmen bei Protesten gegen soziale Ungerechtigkeit",
+      "link": "https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Proteste: 1300 Festnahmen bei erneuten Krawallen in Frankreich – Plünderungen und Chaos in Barcelona",
+      "link": "https://www.handelsblatt.com/politik/international/frankreich-1300-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html"
+     }
+    ]
+   },
+   {
     "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
     "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+    "image": "https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1920",
     "n_sources": 3,
     "time": "2026-10-25T07:45:03+00:00",
     "sources": [
@@ -29,6 +54,7 @@
    {
     "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich in Wahlkampf mit Trump-Kritik ein",
     "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
+    "image": "https://images.tagesschau.de/image/99deff4b-d50e-4e7b-9c89-3c6ec5ff3798/AAABoXJueMA/AAABnSSvrFg/16x9-big/obama-954.jpg?width=1920",
     "n_sources": 2,
     "time": "2026-10-25T10:35:11+00:00",
     "sources": [
@@ -45,8 +71,28 @@
     ]
    },
    {
+    "title": "Wohnungskrise: Alexander Dobrindt legt Eckpunkte für Investitionsschutzgesetz vor",
+    "link": "https://www.zeit.de/politik/deutschland/2026-10/investitionsschutzgesetz-enteignung-wohnungen-vergesellschaftung-berlin-gxe",
+    "image": "https://img.zeit.de/politik/deutschland/2026-10/investitionsschutzgesetz-enteignung-wohnungen-vergesellschaftung-berlin-gxe-foto-1/original__640x360",
+    "n_sources": 2,
+    "time": "2026-10-25T11:42:52+00:00",
+    "sources": [
+     {
+      "name": "Zeit Online",
+      "title": "Wohnungskrise: Alexander Dobrindt legt Eckpunkte für Investitionsschutzgesetz vor",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/investitionsschutzgesetz-enteignung-wohnungen-vergesellschaftung-berlin-gxe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Deutschland Liveblog: Dobrindt leckt Eckpunkte für Investitionsschutzgesetz vor",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-dobrindt-leckt-eckpunkte-fuer-investitionsschutzgesetz-vor-faz-110093143.html"
+     }
+    ]
+   },
+   {
     "title": "Katholische Kirche: Erzdiözese New York zahlt Opfern von Missbrauch mehr als 800 Millionen Dollar",
     "link": "https://www.spiegel.de/panorama/justiz/katholische-kirche-erzdioezese-new-york-zahlt-opfern-von-missbrauch-mehr-als-800-millionen-dollar-a-a7954e9a-b31e-4b4d-a73c-802c543c153c#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/683cc80f-e013-4ff7-b7f0-f31428a847cd_w520_r2.08_fpx32.67_fpy55.01.jpg",
     "n_sources": 2,
     "time": "2026-10-25T11:09:00+00:00",
     "sources": [
@@ -63,26 +109,9 @@
     ]
    },
    {
-    "title": "Frankreich: Mindestens 1000 Festnahmen bei Protesten gegen soziale Ungerechtigkeit",
-    "link": "https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss",
-    "n_sources": 2,
-    "time": "2026-10-25T11:06:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Frankreich: Mindestens 1000 Festnahmen bei Protesten gegen soziale Ungerechtigkeit",
-      "link": "https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Proteste: 1000 Festnahmen bei erneuten Krawallen in Frankreich – Plünderungen und Chaos in Barcelona",
-      "link": "https://www.handelsblatt.com/politik/international/frankreich-1000-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html"
-     }
-    ]
-   },
-   {
     "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+    "image": "https://images.tagesschau.de/image/9ac8c9bf-ce83-4fd4-85c7-c284fe8da23d/AAABoXH7A5k/AAABnSSvrFg/16x9-big/brasilien-726.jpg?width=1920",
     "n_sources": 2,
     "time": "2026-10-25T09:42:27+00:00",
     "sources": [
@@ -101,6 +130,7 @@
    {
     "title": "Formel 1: Kimi Antonelli startete von der Pole Position beim Großen Preis der USA in Austin",
     "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin-a-5d755b09-a593-42c5-b193-e1c17516414f#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/728eaef2-24bc-411d-be2f-f95ad00cb60c_w520_r2.08_fpx47_fpy61.jpg",
     "n_sources": 2,
     "time": "2026-10-25T09:40:00+00:00",
     "sources": [
@@ -119,6 +149,7 @@
    {
     "title": "Regionalverkehr: Steffen Bilger befürwortet Deutschlandticket für Gelegenheitsfahrer",
     "link": "https://www.zeit.de/mobilitaet/2026-10/e-ticket-oepnv-digitalisierung-gelegenheitsfahrten-deutschlandticket-nrw-gxe",
+    "image": "https://img.zeit.de/mobilitaet/2026-10/e-ticket-oepnv-digitalisierung-gelegenheitsfahrten-deutschlandticket-nrw-gxe-foto-1/original__640x360",
     "n_sources": 2,
     "time": "2026-10-25T10:13:57+00:00",
     "sources": [
@@ -137,6 +168,7 @@
    {
     "title": "Israel will Westjordanland am Wahltag abriegeln",
     "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+    "image": "https://images.tagesschau.de/image/d97311c9-8348-4f07-b955-1d558d3fb4b3/AAABoXEMPS8/AAABnSSvrFg/16x9-big/israel-westjordanland-144.jpg?width=1920",
     "n_sources": 2,
     "time": "2026-10-25T08:51:16+00:00",
     "sources": [
@@ -155,6 +187,7 @@
    {
     "title": "Midterms in den USA: Barack Obama greift Donald Trump an - »Chaos, Grausamkeit, Korruption«",
     "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/7eca0c61-f08a-492e-98d0-5ed57649a2f9_w520_r2.08_fpx37_fpy46.jpg",
     "n_sources": 2,
     "time": "2026-10-25T06:47:00+00:00",
     "sources": [
@@ -169,30 +202,42 @@
       "link": "https://www.faz.net/aktuell/politik/ausland/obama-greift-trump-im-wahlkampf-scharf-an-accg-201618651.html"
      }
     ]
-   },
-   {
-    "title": "Audi baut für vier Milliarden Dollar eigenes Werk in den USA",
-    "link": "https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss",
-    "n_sources": 2,
-    "time": "2026-10-25T05:04:07+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Audi baut für vier Milliarden Dollar eigenes Werk in den USA",
-      "link": "https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Deutsche AutoIndustrie: Audi baut für vier Milliarden Dollar ein eigenes Werk in den USA",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-kuendigt-auf-trump-wahlkampfveranstaltung-sein-erstes-us-werk-an-accg-201618697.html"
-     }
-    ]
    }
   ],
   "7d": [
    {
+    "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+    "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
+    "image": "https://images.tagesschau.de/image/236feb84-b24d-4116-b8f0-5a0b0cf48424/AAABoW7hjg0/AAABnSSvrFg/16x9-big/marseille-protest-100.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-25T11:30:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Frankreich: Mindestens 1000 Festnahmen bei Protesten gegen soziale Ungerechtigkeit",
+      "link": "https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Unruhen: Die gescheiterte Integration in Frankreich",
+      "link": "https://www.faz.net/aktuell/politik/ausland/die-unruhen-in-frankreich-sind-kein-zufall-die-integration-ist-gescheitert-201599861.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Proteste: 1300 Festnahmen bei erneuten Krawallen in Frankreich – Plünderungen und Chaos in Barcelona",
+      "link": "https://www.handelsblatt.com/politik/international/frankreich-1300-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html"
+     }
+    ]
+   },
+   {
     "title": "Kimi Antonelli: So kann der Mercedes-Pilot schon in Austin Formel-1-Weltmeister werden?",
     "link": "https://www.sportschau.de/motorsport/formel1/wie-antonelli-schon-am-sonntag-weltmeister-werden-koennte,rechenbeispiel-antonelli-100.html",
+    "image": "https://images.sportschau.de/image/d6a29409-1868-4f0b-bce6-b0e2376683a3/AAABoVURoR0/AAABnSSvrFg/16x9-big/antonelli-178.jpg?width=1920",
     "n_sources": 3,
     "time": "2026-10-25T09:40:00+00:00",
     "sources": [
@@ -216,6 +261,7 @@
    {
     "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
     "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+    "image": "https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1920",
     "n_sources": 3,
     "time": "2026-10-25T07:45:03+00:00",
     "sources": [
@@ -239,6 +285,7 @@
    {
     "title": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html",
+    "image": "https://images.tagesschau.de/image/0b9dfd8f-63ed-469d-9375-373e707e1d29/AAABoW1PJPI/AAABnSSvrFg/16x9-big/regionalzug-126.jpg?width=1920",
     "n_sources": 3,
     "time": "2026-10-25T10:13:57+00:00",
     "sources": [
@@ -262,6 +309,7 @@
    {
     "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich in Wahlkampf mit Trump-Kritik ein",
     "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
+    "image": "https://images.tagesschau.de/image/99deff4b-d50e-4e7b-9c89-3c6ec5ff3798/AAABoXJueMA/AAABnSSvrFg/16x9-big/obama-954.jpg?width=1920",
     "n_sources": 2,
     "time": "2026-10-25T10:35:11+00:00",
     "sources": [
@@ -278,8 +326,28 @@
     ]
    },
    {
+    "title": "Wohnungskrise: Alexander Dobrindt legt Eckpunkte für Investitionsschutzgesetz vor",
+    "link": "https://www.zeit.de/politik/deutschland/2026-10/investitionsschutzgesetz-enteignung-wohnungen-vergesellschaftung-berlin-gxe",
+    "image": "https://img.zeit.de/politik/deutschland/2026-10/investitionsschutzgesetz-enteignung-wohnungen-vergesellschaftung-berlin-gxe-foto-1/original__640x360",
+    "n_sources": 2,
+    "time": "2026-10-25T11:42:52+00:00",
+    "sources": [
+     {
+      "name": "Zeit Online",
+      "title": "Wohnungskrise: Alexander Dobrindt legt Eckpunkte für Investitionsschutzgesetz vor",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/investitionsschutzgesetz-enteignung-wohnungen-vergesellschaftung-berlin-gxe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Deutschland Liveblog: Dobrindt leckt Eckpunkte für Investitionsschutzgesetz vor",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-dobrindt-leckt-eckpunkte-fuer-investitionsschutzgesetz-vor-faz-110093143.html"
+     }
+    ]
+   },
+   {
     "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+    "image": "https://images.tagesschau.de/image/9ac8c9bf-ce83-4fd4-85c7-c284fe8da23d/AAABoXH7A5k/AAABnSSvrFg/16x9-big/brasilien-726.jpg?width=1920",
     "n_sources": 2,
     "time": "2026-10-25T09:42:27+00:00",
     "sources": [
@@ -298,6 +366,7 @@
    {
     "title": "Katholische Kirche: Erzdiözese New York zahlt Opfern von Missbrauch mehr als 800 Millionen Dollar",
     "link": "https://www.spiegel.de/panorama/justiz/katholische-kirche-erzdioezese-new-york-zahlt-opfern-von-missbrauch-mehr-als-800-millionen-dollar-a-a7954e9a-b31e-4b4d-a73c-802c543c153c#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/683cc80f-e013-4ff7-b7f0-f31428a847cd_w520_r2.08_fpx32.67_fpy55.01.jpg",
     "n_sources": 2,
     "time": "2026-10-25T11:09:00+00:00",
     "sources": [
@@ -314,26 +383,9 @@
     ]
    },
    {
-    "title": "Frankreich: Mindestens 1000 Festnahmen bei Protesten gegen soziale Ungerechtigkeit",
-    "link": "https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss",
-    "n_sources": 2,
-    "time": "2026-10-25T11:06:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Frankreich: Mindestens 1000 Festnahmen bei Protesten gegen soziale Ungerechtigkeit",
-      "link": "https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Proteste: 1000 Festnahmen bei erneuten Krawallen in Frankreich – Plünderungen und Chaos in Barcelona",
-      "link": "https://www.handelsblatt.com/politik/international/frankreich-1000-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html"
-     }
-    ]
-   },
-   {
     "title": "Israel will Westjordanland am Wahltag abriegeln",
     "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+    "image": "https://images.tagesschau.de/image/d97311c9-8348-4f07-b955-1d558d3fb4b3/AAABoXEMPS8/AAABnSSvrFg/16x9-big/israel-westjordanland-144.jpg?width=1920",
     "n_sources": 2,
     "time": "2026-10-25T08:51:16+00:00",
     "sources": [
@@ -352,6 +404,7 @@
    {
     "title": "Midterms in den USA: Barack Obama greift Donald Trump an - »Chaos, Grausamkeit, Korruption«",
     "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/7eca0c61-f08a-492e-98d0-5ed57649a2f9_w520_r2.08_fpx37_fpy46.jpg",
     "n_sources": 2,
     "time": "2026-10-25T06:47:00+00:00",
     "sources": [
@@ -366,30 +419,42 @@
       "link": "https://www.faz.net/aktuell/politik/ausland/obama-greift-trump-im-wahlkampf-scharf-an-accg-201618651.html"
      }
     ]
-   },
+   }
+  ],
+  "30d": [
    {
-    "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html",
-    "n_sources": 2,
-    "time": "2026-10-24T21:23:23+00:00",
+    "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+    "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
+    "image": "https://images.tagesschau.de/image/236feb84-b24d-4116-b8f0-5a0b0cf48424/AAABoW7hjg0/AAABnSSvrFg/16x9-big/marseille-protest-100.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-25T11:30:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html"
+      "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Frankreich: Mindestens 1000 Festnahmen bei Protesten gegen soziale Ungerechtigkeit",
+      "link": "https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss"
      },
      {
       "name": "FAZ",
       "title": "Unruhen: Die gescheiterte Integration in Frankreich",
       "link": "https://www.faz.net/aktuell/politik/ausland/die-unruhen-in-frankreich-sind-kein-zufall-die-integration-ist-gescheitert-201599861.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Proteste: 1300 Festnahmen bei erneuten Krawallen in Frankreich – Plünderungen und Chaos in Barcelona",
+      "link": "https://www.handelsblatt.com/politik/international/frankreich-1300-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html"
      }
     ]
-   }
-  ],
-  "30d": [
+   },
    {
     "title": "Kimi Antonelli: So kann der Mercedes-Pilot schon in Austin Formel-1-Weltmeister werden?",
     "link": "https://www.sportschau.de/motorsport/formel1/wie-antonelli-schon-am-sonntag-weltmeister-werden-koennte,rechenbeispiel-antonelli-100.html",
+    "image": "https://images.sportschau.de/image/d6a29409-1868-4f0b-bce6-b0e2376683a3/AAABoVURoR0/AAABnSSvrFg/16x9-big/antonelli-178.jpg?width=1920",
     "n_sources": 3,
     "time": "2026-10-25T09:40:00+00:00",
     "sources": [
@@ -413,6 +478,7 @@
    {
     "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
     "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+    "image": "https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1920",
     "n_sources": 3,
     "time": "2026-10-25T07:45:03+00:00",
     "sources": [
@@ -436,6 +502,7 @@
    {
     "title": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html",
+    "image": "https://images.tagesschau.de/image/0b9dfd8f-63ed-469d-9375-373e707e1d29/AAABoW1PJPI/AAABnSSvrFg/16x9-big/regionalzug-126.jpg?width=1920",
     "n_sources": 3,
     "time": "2026-10-25T10:13:57+00:00",
     "sources": [
@@ -459,6 +526,7 @@
    {
     "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich in Wahlkampf mit Trump-Kritik ein",
     "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
+    "image": "https://images.tagesschau.de/image/99deff4b-d50e-4e7b-9c89-3c6ec5ff3798/AAABoXJueMA/AAABnSSvrFg/16x9-big/obama-954.jpg?width=1920",
     "n_sources": 2,
     "time": "2026-10-25T10:35:11+00:00",
     "sources": [
@@ -475,8 +543,28 @@
     ]
    },
    {
+    "title": "Wohnungskrise: Alexander Dobrindt legt Eckpunkte für Investitionsschutzgesetz vor",
+    "link": "https://www.zeit.de/politik/deutschland/2026-10/investitionsschutzgesetz-enteignung-wohnungen-vergesellschaftung-berlin-gxe",
+    "image": "https://img.zeit.de/politik/deutschland/2026-10/investitionsschutzgesetz-enteignung-wohnungen-vergesellschaftung-berlin-gxe-foto-1/original__640x360",
+    "n_sources": 2,
+    "time": "2026-10-25T11:42:52+00:00",
+    "sources": [
+     {
+      "name": "Zeit Online",
+      "title": "Wohnungskrise: Alexander Dobrindt legt Eckpunkte für Investitionsschutzgesetz vor",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/investitionsschutzgesetz-enteignung-wohnungen-vergesellschaftung-berlin-gxe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Deutschland Liveblog: Dobrindt leckt Eckpunkte für Investitionsschutzgesetz vor",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-dobrindt-leckt-eckpunkte-fuer-investitionsschutzgesetz-vor-faz-110093143.html"
+     }
+    ]
+   },
+   {
     "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+    "image": "https://images.tagesschau.de/image/9ac8c9bf-ce83-4fd4-85c7-c284fe8da23d/AAABoXH7A5k/AAABnSSvrFg/16x9-big/brasilien-726.jpg?width=1920",
     "n_sources": 2,
     "time": "2026-10-25T09:42:27+00:00",
     "sources": [
@@ -493,26 +581,9 @@
     ]
    },
    {
-    "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html",
-    "n_sources": 2,
-    "time": "2026-10-24T21:23:23+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html"
-     },
-     {
-      "name": "FAZ",
-      "title": "Unruhen: Die gescheiterte Integration in Frankreich",
-      "link": "https://www.faz.net/aktuell/politik/ausland/die-unruhen-in-frankreich-sind-kein-zufall-die-integration-ist-gescheitert-201599861.html"
-     }
-    ]
-   },
-   {
     "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
     "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
+    "image": "https://images.tagesschau.de/image/75e53fcc-ad65-4552-9098-c0f1ed6df143/AAABoW5wUjA/AAABnSSvrFg/16x9-big/merz-aigner-102.jpg?width=1920",
     "n_sources": 2,
     "time": "2026-10-24T16:51:47+00:00",
     "sources": [
@@ -531,6 +602,7 @@
    {
     "title": "Katholische Kirche: Erzdiözese New York zahlt Opfern von Missbrauch mehr als 800 Millionen Dollar",
     "link": "https://www.spiegel.de/panorama/justiz/katholische-kirche-erzdioezese-new-york-zahlt-opfern-von-missbrauch-mehr-als-800-millionen-dollar-a-a7954e9a-b31e-4b4d-a73c-802c543c153c#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/683cc80f-e013-4ff7-b7f0-f31428a847cd_w520_r2.08_fpx32.67_fpy55.01.jpg",
     "n_sources": 2,
     "time": "2026-10-25T11:09:00+00:00",
     "sources": [
@@ -547,26 +619,9 @@
     ]
    },
    {
-    "title": "Frankreich: Mindestens 1000 Festnahmen bei Protesten gegen soziale Ungerechtigkeit",
-    "link": "https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss",
-    "n_sources": 2,
-    "time": "2026-10-25T11:06:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Frankreich: Mindestens 1000 Festnahmen bei Protesten gegen soziale Ungerechtigkeit",
-      "link": "https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033#ref=rss"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Proteste: 1000 Festnahmen bei erneuten Krawallen in Frankreich – Plünderungen und Chaos in Barcelona",
-      "link": "https://www.handelsblatt.com/politik/international/frankreich-1000-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html"
-     }
-    ]
-   },
-   {
     "title": "Israel will Westjordanland am Wahltag abriegeln",
     "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+    "image": "https://images.tagesschau.de/image/d97311c9-8348-4f07-b955-1d558d3fb4b3/AAABoXEMPS8/AAABnSSvrFg/16x9-big/israel-westjordanland-144.jpg?width=1920",
     "n_sources": 2,
     "time": "2026-10-25T08:51:16+00:00",
     "sources": [
@@ -586,398 +641,287 @@
  },
  "payments": {
   "de": {
-   "24h": [
-    {
-     "title": "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
-     "link": "https://www.heise.de/news/Cyberagentur-Software-Schwachstellen-bleiben-laenger-ein-Problem-11499379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-     "n_sources": 1,
-     "time": "2026-10-25T10:28:00+00:00",
-     "sources": [
-      {
-       "name": "Heise Newsticker",
-       "title": "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
-       "link": "https://www.heise.de/news/Cyberagentur-Software-Schwachstellen-bleiben-laenger-ein-Problem-11499379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "title": "heise+ | Desinfec't: Defekten Grub-Bootloader unter Linux wiederherstellen",
-     "link": "https://www.heise.de/ratgeber/Desinfec-t-Defekten-Grub-Bootloader-unter-Linux-wiederherstellen-11488347.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-     "n_sources": 1,
-     "time": "2026-10-25T10:00:00+00:00",
-     "sources": [
-      {
-       "name": "Heise Newsticker",
-       "title": "heise+ | Desinfec't: Defekten Grub-Bootloader unter Linux wiederherstellen",
-       "link": "https://www.heise.de/ratgeber/Desinfec-t-Defekten-Grub-Bootloader-unter-Linux-wiederherstellen-11488347.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
-      }
-     ]
-    },
-    {
-     "title": "heise-Angebot: iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
-     "link": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11476289.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-     "n_sources": 1,
-     "time": "2026-10-25T09:00:00+00:00",
-     "sources": [
-      {
-       "name": "Heise Newsticker",
-       "title": "heise-Angebot: iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
-       "link": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11476289.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "title": "„Tomb Raider“: Der Hit, der Core Design zum Verhängnis wurde",
-     "link": "https://www.heise.de/hintergrund/30-Jahre-Tomb-Raider-Zum-Erfolg-verdammt-11495198.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-     "n_sources": 1,
-     "time": "2026-10-25T08:00:00+00:00",
-     "sources": [
-      {
-       "name": "Heise Newsticker",
-       "title": "„Tomb Raider“: Der Hit, der Core Design zum Verhängnis wurde",
-       "link": "https://www.heise.de/hintergrund/30-Jahre-Tomb-Raider-Zum-Erfolg-verdammt-11495198.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "title": "Missing Link: Vor, zurück, vor zurück",
-     "link": "https://www.heise.de/hintergrund/Missing-Link-Vor-zurueck-vor-zurueck-11498921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-     "n_sources": 1,
-     "time": "2026-10-25T06:48:00+00:00",
-     "sources": [
-      {
-       "name": "Heise Newsticker",
-       "title": "Missing Link: Vor, zurück, vor zurück",
-       "link": "https://www.heise.de/hintergrund/Missing-Link-Vor-zurueck-vor-zurueck-11498921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "title": "Top 10: Die beste Smartwatch mit EKG – Gesundheitsuhren im Test",
-     "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-gesundheitsuhren-im-test/02n25tj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-     "n_sources": 1,
-     "time": "2026-10-24T18:00:00+00:00",
-     "sources": [
-      {
-       "name": "Heise Newsticker",
-       "title": "Top 10: Die beste Smartwatch mit EKG – Gesundheitsuhren im Test",
-       "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-gesundheitsuhren-im-test/02n25tj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "title": "BGH: Auch Textnachrichten können sexuellen Missbrauch per Chat begründen",
-     "link": "https://www.heise.de/news/BGH-Auch-Textnachrichten-koennen-sexuellen-Missbrauch-per-Chat-begruenden-11499273.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-     "n_sources": 1,
-     "time": "2026-10-24T16:19:00+00:00",
-     "sources": [
-      {
-       "name": "Heise Newsticker",
-       "title": "BGH: Auch Textnachrichten können sexuellen Missbrauch per Chat begründen",
-       "link": "https://www.heise.de/news/BGH-Auch-Textnachrichten-koennen-sexuellen-Missbrauch-per-Chat-begruenden-11499273.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "title": "Bundeswehr-Digitalfunk: Test bestanden, aber der Marder fällt durch",
-     "link": "https://www.heise.de/news/Bundeswehr-Digitalfunk-Test-bestanden-aber-der-Marder-faellt-durch-11499229.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-     "n_sources": 1,
-     "time": "2026-10-24T15:39:00+00:00",
-     "sources": [
-      {
-       "name": "Heise Newsticker",
-       "title": "Bundeswehr-Digitalfunk: Test bestanden, aber der Marder fällt durch",
-       "link": "https://www.heise.de/news/Bundeswehr-Digitalfunk-Test-bestanden-aber-der-Marder-faellt-durch-11499229.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "title": "Griechenland verbietet soziale Medien für unter 15-Jährige",
-     "link": "https://www.heise.de/news/Griechenland-verbietet-soziale-Medien-fuer-unter-15-Jaehrige-11499195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-     "n_sources": 1,
-     "time": "2026-10-24T14:46:00+00:00",
-     "sources": [
-      {
-       "name": "Heise Newsticker",
-       "title": "Griechenland verbietet soziale Medien für unter 15-Jährige",
-       "link": "https://www.heise.de/news/Griechenland-verbietet-soziale-Medien-fuer-unter-15-Jaehrige-11499195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "title": "Ecovacs X12S Omnicyclone im Test: Beutelloser Saugroboter mit Wassersprüher",
-     "link": "https://www.heise.de/bestenlisten/testbericht/ecovacs-x12s-omnicyclone-im-test-beutelloser-saugroboter-mit-wassersprueher/059zlth?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-     "n_sources": 1,
-     "time": "2026-10-24T14:00:00+00:00",
-     "sources": [
-      {
-       "name": "Heise Newsticker",
-       "title": "Ecovacs X12S Omnicyclone im Test: Beutelloser Saugroboter mit Wassersprüher",
-       "link": "https://www.heise.de/bestenlisten/testbericht/ecovacs-x12s-omnicyclone-im-test-beutelloser-saugroboter-mit-wassersprueher/059zlth?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    }
-   ],
+   "24h": [],
    "7d": [
     {
-     "title": "heise-Angebot: iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
-     "link": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11476289.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Solaris: „Open Banking war die Blaupause, Embedded Finance ist die Mutation“",
+     "link": "https://www.it-finanzmagazin.de/open-banking-war-die-blaupause-embedded-finance-ist-die-mutation-252163/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T09:00:00+00:00",
+     "time": "2026-10-23T11:10:22+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "heise-Angebot: iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
-       "link": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11476289.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Solaris: „Open Banking war die Blaupause, Embedded Finance ist die Mutation“",
+       "link": "https://www.it-finanzmagazin.de/open-banking-war-die-blaupause-embedded-finance-ist-die-mutation-252163/"
       }
      ]
     },
     {
-     "title": "Top 10: Die beste Smartwatch mit EKG – Gesundheitsuhren im Test",
-     "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-gesundheitsuhren-im-test/02n25tj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Sumsub-KYA-Update soll KI-Agenten kontrollierbarer machen",
+     "link": "https://www.it-finanzmagazin.de/sumsub-kya-update-soll-ki-agenten-kontrollierbarer-machen-252688/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-24T18:00:00+00:00",
+     "time": "2026-10-23T06:00:08+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "Top 10: Die beste Smartwatch mit EKG – Gesundheitsuhren im Test",
-       "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-gesundheitsuhren-im-test/02n25tj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Sumsub-KYA-Update soll KI-Agenten kontrollierbarer machen",
+       "link": "https://www.it-finanzmagazin.de/sumsub-kya-update-soll-ki-agenten-kontrollierbarer-machen-252688/"
       }
      ]
     },
     {
-     "title": "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
-     "link": "https://www.heise.de/news/Cyberagentur-Software-Schwachstellen-bleiben-laenger-ein-Problem-11499379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "PHP2Shell-Sicherheitslücken bedrohen weiterhin auch Banken und Finanzdienstleister",
+     "link": "https://www.it-finanzmagazin.de/php2shell-sicherheitsluecken-bedrohen-weiterhin-auch-banken-und-finanzdienstleister-252814/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T10:28:00+00:00",
+     "time": "2026-10-23T05:30:07+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
-       "link": "https://www.heise.de/news/Cyberagentur-Software-Schwachstellen-bleiben-laenger-ein-Problem-11499379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "PHP2Shell-Sicherheitslücken bedrohen weiterhin auch Banken und Finanzdienstleister",
+       "link": "https://www.it-finanzmagazin.de/php2shell-sicherheitsluecken-bedrohen-weiterhin-auch-banken-und-finanzdienstleister-252814/"
       }
      ]
     },
     {
-     "title": "heise+ | Desinfec't: Defekten Grub-Bootloader unter Linux wiederherstellen",
-     "link": "https://www.heise.de/ratgeber/Desinfec-t-Defekten-Grub-Bootloader-unter-Linux-wiederherstellen-11488347.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+     "title": "Finom lässt Claude und ChatGPT ins Geschäftskonto schauen",
+     "link": "https://www.it-finanzmagazin.de/finom-laesst-claude-und-chatgpt-ins-geschaeftskonto-schauen-252789/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T10:00:00+00:00",
+     "time": "2026-10-22T14:32:59+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "heise+ | Desinfec't: Defekten Grub-Bootloader unter Linux wiederherstellen",
-       "link": "https://www.heise.de/ratgeber/Desinfec-t-Defekten-Grub-Bootloader-unter-Linux-wiederherstellen-11488347.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+       "name": "IT-Finanzmagazin",
+       "title": "Finom lässt Claude und ChatGPT ins Geschäftskonto schauen",
+       "link": "https://www.it-finanzmagazin.de/finom-laesst-claude-und-chatgpt-ins-geschaeftskonto-schauen-252789/"
       }
      ]
     },
     {
-     "title": "„Tomb Raider“: Der Hit, der Core Design zum Verhängnis wurde",
-     "link": "https://www.heise.de/hintergrund/30-Jahre-Tomb-Raider-Zum-Erfolg-verdammt-11495198.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Neues Beratungshaus „Compliance Networks“ kümmert sich um Finanzmarktregulierung und Compliance",
+     "link": "https://www.it-finanzmagazin.de/compliance-networks-finanzmarktregulierung-und-compliance-252737/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T08:00:00+00:00",
+     "time": "2026-10-22T09:56:31+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "„Tomb Raider“: Der Hit, der Core Design zum Verhängnis wurde",
-       "link": "https://www.heise.de/hintergrund/30-Jahre-Tomb-Raider-Zum-Erfolg-verdammt-11495198.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Neues Beratungshaus „Compliance Networks“ kümmert sich um Finanzmarktregulierung und Compliance",
+       "link": "https://www.it-finanzmagazin.de/compliance-networks-finanzmarktregulierung-und-compliance-252737/"
       }
      ]
     },
     {
-     "title": "Missing Link: Vor, zurück, vor zurück",
-     "link": "https://www.heise.de/hintergrund/Missing-Link-Vor-zurueck-vor-zurueck-11498921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "G+D Ventures investiert in europäischen Cloud-Anbieter Impossible Cloud",
+     "link": "https://www.it-finanzmagazin.de/gd-ventures-investiert-in-europaeischen-cloudanbieter-impossible-cloud-252679/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T06:48:00+00:00",
+     "time": "2026-10-22T09:00:15+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "Missing Link: Vor, zurück, vor zurück",
-       "link": "https://www.heise.de/hintergrund/Missing-Link-Vor-zurueck-vor-zurueck-11498921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "G+D Ventures investiert in europäischen Cloud-Anbieter Impossible Cloud",
+       "link": "https://www.it-finanzmagazin.de/gd-ventures-investiert-in-europaeischen-cloudanbieter-impossible-cloud-252679/"
       }
      ]
     },
     {
-     "title": "BGH: Auch Textnachrichten können sexuellen Missbrauch per Chat begründen",
-     "link": "https://www.heise.de/news/BGH-Auch-Textnachrichten-koennen-sexuellen-Missbrauch-per-Chat-begruenden-11499273.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Umweltbank setzt auf Sprach-KI: 40 Anliegen erkennen, Anrufe gezielt weiterleiten",
+     "link": "https://www.it-finanzmagazin.de/umweltbank-setzt-auf-sprach-ki-40-anliegen-erkennen-anrufe-gezielt-weiterleiten-252675/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-24T16:19:00+00:00",
+     "time": "2026-10-22T07:00:46+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "BGH: Auch Textnachrichten können sexuellen Missbrauch per Chat begründen",
-       "link": "https://www.heise.de/news/BGH-Auch-Textnachrichten-koennen-sexuellen-Missbrauch-per-Chat-begruenden-11499273.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Umweltbank setzt auf Sprach-KI: 40 Anliegen erkennen, Anrufe gezielt weiterleiten",
+       "link": "https://www.it-finanzmagazin.de/umweltbank-setzt-auf-sprach-ki-40-anliegen-erkennen-anrufe-gezielt-weiterleiten-252675/"
       }
      ]
     },
     {
-     "title": "Bundeswehr-Digitalfunk: Test bestanden, aber der Marder fällt durch",
-     "link": "https://www.heise.de/news/Bundeswehr-Digitalfunk-Test-bestanden-aber-der-Marder-faellt-durch-11499229.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Fintech Qivalis erhält Zulassung als E-Geld-Institut",
+     "link": "https://www.it-finanzmagazin.de/fintech-qivalis-erhaelt-zulassung-als-e-geld-institut-252485/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-24T15:39:00+00:00",
+     "time": "2026-10-22T06:00:57+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "Bundeswehr-Digitalfunk: Test bestanden, aber der Marder fällt durch",
-       "link": "https://www.heise.de/news/Bundeswehr-Digitalfunk-Test-bestanden-aber-der-Marder-faellt-durch-11499229.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Fintech Qivalis erhält Zulassung als E-Geld-Institut",
+       "link": "https://www.it-finanzmagazin.de/fintech-qivalis-erhaelt-zulassung-als-e-geld-institut-252485/"
       }
      ]
     },
     {
-     "title": "Griechenland verbietet soziale Medien für unter 15-Jährige",
-     "link": "https://www.heise.de/news/Griechenland-verbietet-soziale-Medien-fuer-unter-15-Jaehrige-11499195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Vom EZB-Brief zum Engineering-Backlog: Was bis zum 31. Oktober auf den Plan gehört",
+     "link": "https://www.it-finanzmagazin.de/vom-ezb-brief-zum-engineering-backlog-was-bis-zum-31-oktober-auf-den-plan-gehoert-252127/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-24T14:46:00+00:00",
+     "time": "2026-10-21T13:21:28+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "Griechenland verbietet soziale Medien für unter 15-Jährige",
-       "link": "https://www.heise.de/news/Griechenland-verbietet-soziale-Medien-fuer-unter-15-Jaehrige-11499195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Vom EZB-Brief zum Engineering-Backlog: Was bis zum 31. Oktober auf den Plan gehört",
+       "link": "https://www.it-finanzmagazin.de/vom-ezb-brief-zum-engineering-backlog-was-bis-zum-31-oktober-auf-den-plan-gehoert-252127/"
       }
      ]
     },
     {
-     "title": "Ecovacs X12S Omnicyclone im Test: Beutelloser Saugroboter mit Wassersprüher",
-     "link": "https://www.heise.de/bestenlisten/testbericht/ecovacs-x12s-omnicyclone-im-test-beutelloser-saugroboter-mit-wassersprueher/059zlth?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Quantensicherheit in der Finanzbranche: Warum die Infrastruktur jetzt in den Fokus rückt",
+     "link": "https://www.it-finanzmagazin.de/quantensicherheit-in-der-finanzbranche-warum-die-infrastruktur-jetzt-in-den-fokus-rueckt-252112/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-24T14:00:00+00:00",
+     "time": "2026-10-21T11:44:02+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "Ecovacs X12S Omnicyclone im Test: Beutelloser Saugroboter mit Wassersprüher",
-       "link": "https://www.heise.de/bestenlisten/testbericht/ecovacs-x12s-omnicyclone-im-test-beutelloser-saugroboter-mit-wassersprueher/059zlth?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Quantensicherheit in der Finanzbranche: Warum die Infrastruktur jetzt in den Fokus rückt",
+       "link": "https://www.it-finanzmagazin.de/quantensicherheit-in-der-finanzbranche-warum-die-infrastruktur-jetzt-in-den-fokus-rueckt-252112/"
       }
      ]
     }
    ],
    "30d": [
     {
-     "title": "heise-Angebot: iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
-     "link": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11476289.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Solaris: „Open Banking war die Blaupause, Embedded Finance ist die Mutation“",
+     "link": "https://www.it-finanzmagazin.de/open-banking-war-die-blaupause-embedded-finance-ist-die-mutation-252163/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T09:00:00+00:00",
+     "time": "2026-10-23T11:10:22+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "heise-Angebot: iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
-       "link": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11476289.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Solaris: „Open Banking war die Blaupause, Embedded Finance ist die Mutation“",
+       "link": "https://www.it-finanzmagazin.de/open-banking-war-die-blaupause-embedded-finance-ist-die-mutation-252163/"
       }
      ]
     },
     {
-     "title": "Top 10: Die beste Smartwatch mit EKG – Gesundheitsuhren im Test",
-     "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-gesundheitsuhren-im-test/02n25tj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Sumsub-KYA-Update soll KI-Agenten kontrollierbarer machen",
+     "link": "https://www.it-finanzmagazin.de/sumsub-kya-update-soll-ki-agenten-kontrollierbarer-machen-252688/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-24T18:00:00+00:00",
+     "time": "2026-10-23T06:00:08+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "Top 10: Die beste Smartwatch mit EKG – Gesundheitsuhren im Test",
-       "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-gesundheitsuhren-im-test/02n25tj?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Sumsub-KYA-Update soll KI-Agenten kontrollierbarer machen",
+       "link": "https://www.it-finanzmagazin.de/sumsub-kya-update-soll-ki-agenten-kontrollierbarer-machen-252688/"
       }
      ]
     },
     {
-     "title": "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
-     "link": "https://www.heise.de/news/Cyberagentur-Software-Schwachstellen-bleiben-laenger-ein-Problem-11499379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "PHP2Shell-Sicherheitslücken bedrohen weiterhin auch Banken und Finanzdienstleister",
+     "link": "https://www.it-finanzmagazin.de/php2shell-sicherheitsluecken-bedrohen-weiterhin-auch-banken-und-finanzdienstleister-252814/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T10:28:00+00:00",
+     "time": "2026-10-23T05:30:07+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
-       "link": "https://www.heise.de/news/Cyberagentur-Software-Schwachstellen-bleiben-laenger-ein-Problem-11499379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "PHP2Shell-Sicherheitslücken bedrohen weiterhin auch Banken und Finanzdienstleister",
+       "link": "https://www.it-finanzmagazin.de/php2shell-sicherheitsluecken-bedrohen-weiterhin-auch-banken-und-finanzdienstleister-252814/"
       }
      ]
     },
     {
-     "title": "heise+ | Desinfec't: Defekten Grub-Bootloader unter Linux wiederherstellen",
-     "link": "https://www.heise.de/ratgeber/Desinfec-t-Defekten-Grub-Bootloader-unter-Linux-wiederherstellen-11488347.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+     "title": "Finom lässt Claude und ChatGPT ins Geschäftskonto schauen",
+     "link": "https://www.it-finanzmagazin.de/finom-laesst-claude-und-chatgpt-ins-geschaeftskonto-schauen-252789/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T10:00:00+00:00",
+     "time": "2026-10-22T14:32:59+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "heise+ | Desinfec't: Defekten Grub-Bootloader unter Linux wiederherstellen",
-       "link": "https://www.heise.de/ratgeber/Desinfec-t-Defekten-Grub-Bootloader-unter-Linux-wiederherstellen-11488347.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+       "name": "IT-Finanzmagazin",
+       "title": "Finom lässt Claude und ChatGPT ins Geschäftskonto schauen",
+       "link": "https://www.it-finanzmagazin.de/finom-laesst-claude-und-chatgpt-ins-geschaeftskonto-schauen-252789/"
       }
      ]
     },
     {
-     "title": "„Tomb Raider“: Der Hit, der Core Design zum Verhängnis wurde",
-     "link": "https://www.heise.de/hintergrund/30-Jahre-Tomb-Raider-Zum-Erfolg-verdammt-11495198.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Neues Beratungshaus „Compliance Networks“ kümmert sich um Finanzmarktregulierung und Compliance",
+     "link": "https://www.it-finanzmagazin.de/compliance-networks-finanzmarktregulierung-und-compliance-252737/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T08:00:00+00:00",
+     "time": "2026-10-22T09:56:31+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "„Tomb Raider“: Der Hit, der Core Design zum Verhängnis wurde",
-       "link": "https://www.heise.de/hintergrund/30-Jahre-Tomb-Raider-Zum-Erfolg-verdammt-11495198.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Neues Beratungshaus „Compliance Networks“ kümmert sich um Finanzmarktregulierung und Compliance",
+       "link": "https://www.it-finanzmagazin.de/compliance-networks-finanzmarktregulierung-und-compliance-252737/"
       }
      ]
     },
     {
-     "title": "Missing Link: Vor, zurück, vor zurück",
-     "link": "https://www.heise.de/hintergrund/Missing-Link-Vor-zurueck-vor-zurueck-11498921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "G+D Ventures investiert in europäischen Cloud-Anbieter Impossible Cloud",
+     "link": "https://www.it-finanzmagazin.de/gd-ventures-investiert-in-europaeischen-cloudanbieter-impossible-cloud-252679/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T06:48:00+00:00",
+     "time": "2026-10-22T09:00:15+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "Missing Link: Vor, zurück, vor zurück",
-       "link": "https://www.heise.de/hintergrund/Missing-Link-Vor-zurueck-vor-zurueck-11498921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "G+D Ventures investiert in europäischen Cloud-Anbieter Impossible Cloud",
+       "link": "https://www.it-finanzmagazin.de/gd-ventures-investiert-in-europaeischen-cloudanbieter-impossible-cloud-252679/"
       }
      ]
     },
     {
-     "title": "Trump: Musk hat Starlink-Drosselung für Ukraine aufgehoben",
-     "link": "https://www.heise.de/news/Trump-Musk-hat-Starlink-Drosselung-fuer-Ukraine-aufgehoben-11497718.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Umweltbank setzt auf Sprach-KI: 40 Anliegen erkennen, Anrufe gezielt weiterleiten",
+     "link": "https://www.it-finanzmagazin.de/umweltbank-setzt-auf-sprach-ki-40-anliegen-erkennen-anrufe-gezielt-weiterleiten-252675/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-23T06:42:00+00:00",
+     "time": "2026-10-22T07:00:46+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "Trump: Musk hat Starlink-Drosselung für Ukraine aufgehoben",
-       "link": "https://www.heise.de/news/Trump-Musk-hat-Starlink-Drosselung-fuer-Ukraine-aufgehoben-11497718.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Umweltbank setzt auf Sprach-KI: 40 Anliegen erkennen, Anrufe gezielt weiterleiten",
+       "link": "https://www.it-finanzmagazin.de/umweltbank-setzt-auf-sprach-ki-40-anliegen-erkennen-anrufe-gezielt-weiterleiten-252675/"
       }
      ]
     },
     {
-     "title": "BGH: Auch Textnachrichten können sexuellen Missbrauch per Chat begründen",
-     "link": "https://www.heise.de/news/BGH-Auch-Textnachrichten-koennen-sexuellen-Missbrauch-per-Chat-begruenden-11499273.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Fintech Qivalis erhält Zulassung als E-Geld-Institut",
+     "link": "https://www.it-finanzmagazin.de/fintech-qivalis-erhaelt-zulassung-als-e-geld-institut-252485/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-24T16:19:00+00:00",
+     "time": "2026-10-22T06:00:57+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "BGH: Auch Textnachrichten können sexuellen Missbrauch per Chat begründen",
-       "link": "https://www.heise.de/news/BGH-Auch-Textnachrichten-koennen-sexuellen-Missbrauch-per-Chat-begruenden-11499273.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Fintech Qivalis erhält Zulassung als E-Geld-Institut",
+       "link": "https://www.it-finanzmagazin.de/fintech-qivalis-erhaelt-zulassung-als-e-geld-institut-252485/"
       }
      ]
     },
     {
-     "title": "Bundeswehr-Digitalfunk: Test bestanden, aber der Marder fällt durch",
-     "link": "https://www.heise.de/news/Bundeswehr-Digitalfunk-Test-bestanden-aber-der-Marder-faellt-durch-11499229.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Vom EZB-Brief zum Engineering-Backlog: Was bis zum 31. Oktober auf den Plan gehört",
+     "link": "https://www.it-finanzmagazin.de/vom-ezb-brief-zum-engineering-backlog-was-bis-zum-31-oktober-auf-den-plan-gehoert-252127/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-24T15:39:00+00:00",
+     "time": "2026-10-21T13:21:28+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "Bundeswehr-Digitalfunk: Test bestanden, aber der Marder fällt durch",
-       "link": "https://www.heise.de/news/Bundeswehr-Digitalfunk-Test-bestanden-aber-der-Marder-faellt-durch-11499229.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Vom EZB-Brief zum Engineering-Backlog: Was bis zum 31. Oktober auf den Plan gehört",
+       "link": "https://www.it-finanzmagazin.de/vom-ezb-brief-zum-engineering-backlog-was-bis-zum-31-oktober-auf-den-plan-gehoert-252127/"
       }
      ]
     },
     {
-     "title": "Griechenland verbietet soziale Medien für unter 15-Jährige",
-     "link": "https://www.heise.de/news/Griechenland-verbietet-soziale-Medien-fuer-unter-15-Jaehrige-11499195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "title": "Quantensicherheit in der Finanzbranche: Warum die Infrastruktur jetzt in den Fokus rückt",
+     "link": "https://www.it-finanzmagazin.de/quantensicherheit-in-der-finanzbranche-warum-die-infrastruktur-jetzt-in-den-fokus-rueckt-252112/",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-24T14:46:00+00:00",
+     "time": "2026-10-21T11:44:02+00:00",
      "sources": [
       {
-       "name": "Heise Newsticker",
-       "title": "Griechenland verbietet soziale Medien für unter 15-Jährige",
-       "link": "https://www.heise.de/news/Griechenland-verbietet-soziale-Medien-fuer-unter-15-Jaehrige-11499195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+       "name": "IT-Finanzmagazin",
+       "title": "Quantensicherheit in der Finanzbranche: Warum die Infrastruktur jetzt in den Fokus rückt",
+       "link": "https://www.it-finanzmagazin.de/quantensicherheit-in-der-finanzbranche-warum-die-infrastruktur-jetzt-in-den-fokus-rueckt-252112/"
       }
      ]
     }
@@ -988,6 +932,7 @@
     {
      "title": "Mind the gap: What’s missing from modern resilience?",
      "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1001,6 +946,7 @@
     {
      "title": "How acquirers are commercialising fraud intelligence",
      "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1014,6 +960,7 @@
     {
      "title": "Cross-border payments: How banks can close the corporate service gap",
      "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1027,6 +974,7 @@
     {
      "title": "Is Europe ready to embrace stablecoins?",
      "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1040,6 +988,7 @@
     {
      "title": "Beyond fraud detection: Why dispute management needs an overhaul",
      "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1053,6 +1002,7 @@
     {
      "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
      "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1066,6 +1016,7 @@
     {
      "title": "What defines the issuer of tomorrow?",
      "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1079,6 +1030,7 @@
     {
      "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
      "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1092,6 +1044,7 @@
     {
      "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
      "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1105,6 +1058,7 @@
     {
      "title": "An industry in motion: Why real-time becomes the foundation for everything in 2027",
      "link": "https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1120,6 +1074,7 @@
     {
      "title": "Cross-border payments: How banks can close the corporate service gap",
      "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1133,6 +1088,7 @@
     {
      "title": "Who controls payment initiation? The battle for the future of payments",
      "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1146,6 +1102,7 @@
     {
      "title": "Mind the gap: What’s missing from modern resilience?",
      "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1159,6 +1116,7 @@
     {
      "title": "How acquirers are commercialising fraud intelligence",
      "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1172,6 +1130,7 @@
     {
      "title": "Is Europe ready to embrace stablecoins?",
      "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1185,6 +1144,7 @@
     {
      "title": "Beyond fraud detection: Why dispute management needs an overhaul",
      "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1198,6 +1158,7 @@
     {
      "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
      "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1211,6 +1172,7 @@
     {
      "title": "What defines the issuer of tomorrow?",
      "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1224,6 +1186,7 @@
     {
      "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
      "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1237,6 +1200,7 @@
     {
      "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
      "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1252,6 +1216,7 @@
     {
      "title": "Cross-border payments: How banks can close the corporate service gap",
      "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1265,6 +1230,7 @@
     {
      "title": "Who controls payment initiation? The battle for the future of payments",
      "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1278,6 +1244,7 @@
     {
      "title": "Mind the gap: What’s missing from modern resilience?",
      "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1291,6 +1258,7 @@
     {
      "title": "How acquirers are commercialising fraud intelligence",
      "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1304,6 +1272,7 @@
     {
      "title": "Is Europe ready to embrace stablecoins?",
      "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1317,6 +1286,7 @@
     {
      "title": "Beyond fraud detection: Why dispute management needs an overhaul",
      "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1330,6 +1300,7 @@
     {
      "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
      "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1343,6 +1314,7 @@
     {
      "title": "What defines the issuer of tomorrow?",
      "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1356,6 +1328,7 @@
     {
      "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
      "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1369,6 +1342,7 @@
     {
      "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
      "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1386,6 +1360,7 @@
     {
      "title": "Mind the gap: What’s missing from modern resilience?",
      "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1399,6 +1374,7 @@
     {
      "title": "How acquirers are commercialising fraud intelligence",
      "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1412,6 +1388,7 @@
     {
      "title": "Cross-border payments: How banks can close the corporate service gap",
      "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1425,6 +1402,7 @@
     {
      "title": "Is Europe ready to embrace stablecoins?",
      "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1438,6 +1416,7 @@
     {
      "title": "Beyond fraud detection: Why dispute management needs an overhaul",
      "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1451,6 +1430,7 @@
     {
      "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
      "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1464,6 +1444,7 @@
     {
      "title": "What defines the issuer of tomorrow?",
      "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1477,6 +1458,7 @@
     {
      "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
      "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1490,6 +1472,7 @@
     {
      "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
      "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1503,6 +1486,7 @@
     {
      "title": "An industry in motion: Why real-time becomes the foundation for everything in 2027",
      "link": "https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1516,8 +1500,47 @@
    ],
    "7d": [
     {
+     "title": "Fiserv adds Raj Seshadri to board",
+     "link": "https://www.finextra.com/pressarticle/111429/fiserv-adds-raj-seshadri-to-board?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/06/Fiserv.jpeg?w=457",
+     "n_sources": 2,
+     "time": "2026-10-24T00:36:14+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Fiserv adds Raj Seshadri to board",
+       "link": "https://www.finextra.com/pressarticle/111429/fiserv-adds-raj-seshadri-to-board?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Fiserv Appoints Mastercard Senior Strategic Advisor Raj Seshadri to Board",
+       "link": "https://www.pymnts.com/personnel/2026/fiserv-appoints-mastercard-senior-strategic-advisor-raj-seshadri-to-board/"
+      }
+     ]
+    },
+    {
+     "title": "Sezzle seeks OCC bank charter",
+     "link": "https://www.paymentsdive.com/news/sezzle-seeks-occ-bank-charter/833847/",
+     "image": "https://imgproxy.divecdn.com/f62fINWQ7k0ajz5kcT5aNdx5MKOoM2Bs1RXs8Ip__Fs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzX1BodXhnZlkuanBn.webp",
+     "n_sources": 2,
+     "time": "2026-10-23T23:18:02+00:00",
+     "sources": [
+      {
+       "name": "Payments Dive",
+       "title": "Sezzle seeks OCC bank charter",
+       "link": "https://www.paymentsdive.com/news/sezzle-seeks-occ-bank-charter/833847/"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Sezzle Pursues National Bank Charter to Add FDIC-Insured Deposit Accounts",
+       "link": "https://www.pymnts.com/legal/bank-regulation/2026/sezzle-pursues-national-bank-charter-to-add-fdic-insured-deposit-accounts/"
+      }
+     ]
+    },
+    {
      "title": "Cross-border payments: How banks can close the corporate service gap",
      "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1531,6 +1554,7 @@
     {
      "title": "Who controls payment initiation? The battle for the future of payments",
      "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1544,6 +1568,7 @@
     {
      "title": "Mind the gap: What’s missing from modern resilience?",
      "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1557,6 +1582,7 @@
     {
      "title": "How acquirers are commercialising fraud intelligence",
      "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1570,6 +1596,7 @@
     {
      "title": "Is Europe ready to embrace stablecoins?",
      "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1583,6 +1610,7 @@
     {
      "title": "Beyond fraud detection: Why dispute management needs an overhaul",
      "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1596,6 +1624,7 @@
     {
      "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
      "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1609,6 +1638,7 @@
     {
      "title": "What defines the issuer of tomorrow?",
      "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1616,40 +1646,53 @@
        "name": "Finextra",
        "title": "What defines the issuer of tomorrow?",
        "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
-     "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
-       "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-     "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-       "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     }
    ],
    "30d": [
     {
+     "title": "Fiserv adds Raj Seshadri to board",
+     "link": "https://www.finextra.com/pressarticle/111429/fiserv-adds-raj-seshadri-to-board?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/06/Fiserv.jpeg?w=457",
+     "n_sources": 2,
+     "time": "2026-10-24T00:36:14+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Fiserv adds Raj Seshadri to board",
+       "link": "https://www.finextra.com/pressarticle/111429/fiserv-adds-raj-seshadri-to-board?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Fiserv Appoints Mastercard Senior Strategic Advisor Raj Seshadri to Board",
+       "link": "https://www.pymnts.com/personnel/2026/fiserv-appoints-mastercard-senior-strategic-advisor-raj-seshadri-to-board/"
+      }
+     ]
+    },
+    {
+     "title": "Sezzle seeks OCC bank charter",
+     "link": "https://www.paymentsdive.com/news/sezzle-seeks-occ-bank-charter/833847/",
+     "image": "https://imgproxy.divecdn.com/f62fINWQ7k0ajz5kcT5aNdx5MKOoM2Bs1RXs8Ip__Fs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzX1BodXhnZlkuanBn.webp",
+     "n_sources": 2,
+     "time": "2026-10-23T23:18:02+00:00",
+     "sources": [
+      {
+       "name": "Payments Dive",
+       "title": "Sezzle seeks OCC bank charter",
+       "link": "https://www.paymentsdive.com/news/sezzle-seeks-occ-bank-charter/833847/"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Sezzle Pursues National Bank Charter to Add FDIC-Insured Deposit Accounts",
+       "link": "https://www.pymnts.com/legal/bank-regulation/2026/sezzle-pursues-national-bank-charter-to-add-fdic-insured-deposit-accounts/"
+      }
+     ]
+    },
+    {
      "title": "Cross-border payments: How banks can close the corporate service gap",
      "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1663,6 +1706,7 @@
     {
      "title": "Who controls payment initiation? The battle for the future of payments",
      "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1676,6 +1720,7 @@
     {
      "title": "Mind the gap: What’s missing from modern resilience?",
      "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1689,6 +1734,7 @@
     {
      "title": "How acquirers are commercialising fraud intelligence",
      "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1702,6 +1748,7 @@
     {
      "title": "Is Europe ready to embrace stablecoins?",
      "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1715,6 +1762,7 @@
     {
      "title": "Beyond fraud detection: Why dispute management needs an overhaul",
      "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1728,6 +1776,7 @@
     {
      "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
      "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1741,6 +1790,7 @@
     {
      "title": "What defines the issuer of tomorrow?",
      "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
      "time": "2026-10-25T11:28:37+00:00",
      "sources": [
@@ -1748,32 +1798,6 @@
        "name": "Finextra",
        "title": "What defines the issuer of tomorrow?",
        "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
-     "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
-       "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-     "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-       "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     }
@@ -1785,9 +1809,39 @@
    "name": "Google Trends Deutschland",
    "items": [
     {
-     "title": "eintracht braunschweig",
-     "link": "https://www.sportbuzzer.de/fussball/eintracht-braunschweig-gegen-hannover-96-heute-live-wer-zeigt-das-2-bundesliga-spiel-im-tv-und-BWALI4WQOZBDTFWJOHPJ6TMAKQ.html",
+     "title": "marijam agischewa",
+     "link": "https://www.mdr.de/video/mdr-videos/c/video-1671606.html",
      "meta": "500+ Suchanfragen"
+    },
+    {
+     "title": "b401",
+     "link": "https://www.ndr.de/nachrichten/niedersachsen/osnabrueck_emsland/toedlicher-unfall-mann-stirbt-bei-zusammenstoss-von-auto-und-lkw,aktuellosnabrueck-3010.html",
+     "meta": "200+ Suchanfragen"
+    },
+    {
+     "title": "überschlag",
+     "link": "https://www.augsburger-allgemeine.de/mindelheim/bad-woerishofen-a96-bei-bad-woerishofen-nach-schwerem-unfall-gesperrt-115564181",
+     "meta": "200+ Suchanfragen"
+    },
+    {
+     "title": "nfl paris",
+     "link": "https://www.espn.com/nfl/story/_/id/50264705/nfl-house-paris-closes-ahead-street-protests",
+     "meta": "100+ Suchanfragen"
+    },
+    {
+     "title": "presseclub heute",
+     "link": "https://www1.wdr.de/daserste/presseclub/gaestebuch/gaestebuch-Protestwelle100.html",
+     "meta": "200+ Suchanfragen"
+    },
+    {
+     "title": "steffen henssler",
+     "link": "https://www.tvspielfilm.de/tv-programm/sendung/grenzenlos-genial-gekocht-mit-henssler-und-lafer,6abe709e207c32108a33267c.html",
+     "meta": "200+ Suchanfragen"
+    },
+    {
+     "title": "eintracht braunschweig",
+     "link": "https://www.neuepresse.de/sport/regional/hannover-96-bei-braunschweig-im-liveticker-alles-rund-ums-derby-UZ5PCXZ5U5FBHAJGD4JA3CHQO4.html",
+     "meta": "1000+ Suchanfragen"
     },
     {
      "title": "el clasico heute",
@@ -1795,54 +1849,71 @@
      "meta": "100+ Suchanfragen"
     },
     {
+     "title": "a99",
+     "link": "https://www.br.de/nachrichten/bayern/a99-polizei-stoppt-tesla-cybertruck,VZ38skj",
+     "meta": "2000+ Suchanfragen"
+    },
+    {
      "title": "felipe vi.",
      "link": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html",
-     "meta": "1000+ Suchanfragen"
-    },
-    {
-     "title": "a99",
-     "link": "https://www.merkur.de/lokales/ebersberg/vaterstetten-ort29638/tesla-cybertruck-auf-der-a99-gestoppt-schwede-braucht-lkw-fuehrerschein-94557049.html",
-     "meta": "1000+ Suchanfragen"
-    },
-    {
-     "title": "mafia",
-     "link": "https://www.welt.de/politik/deutschland/plus6ada07f77d7d59c2a19ee470/organisierte-kriminalitaet-die-blutspur-der-tuerkisch-kurdischen-gen-z-mafia-und-die-spur-nach-russland.html",
-     "meta": "500+ Suchanfragen"
-    },
-    {
-     "title": "inter – fiorentina",
-     "link": "https://sports.yahoo.com/articles/serie-liveblog-inter-fiorentina-lecce-104000817.html",
-     "meta": "1000+ Suchanfragen"
-    },
-    {
-     "title": "inter - fiorentina",
-     "link": "https://www.dazn.com/it-IT/news/calcio/inter-fiorentina-live-diretta-testuale/78k6g28k9oqb1419jdqio9hu3",
-     "meta": "500+ Suchanfragen"
-    },
-    {
-     "title": "könig charles iii.",
-     "link": "https://www.n-tv.de/leute/Koenig-Charles-steht-vor-groesstem-Risiko-seiner-Regentschaft-id31455726.html",
-     "meta": "500+ Suchanfragen"
-    },
-    {
-     "title": "detmold",
-     "link": "https://www.lz.de/lippe/detmold/24448073_Polizei-sucht-Zeugen-Graffiti-an-Hausfassaden-in-Detmold-entdeckt.html",
-     "meta": "200+ Suchanfragen"
-    },
-    {
-     "title": "roxeler straße",
-     "link": "https://www.wn.de/muenster/stadtteile/roxel/schwerer-unfall-auto-kollision-baum-fahrer-tot-3696376",
-     "meta": "200+ Suchanfragen"
+     "meta": "2000+ Suchanfragen"
     }
    ]
   },
   {
-   "name": "Reddit r/de (Top des Tages)",
-   "items": []
-  },
-  {
-   "name": "Reddit r/germany (Top des Tages)",
-   "items": []
+   "name": "Mastodon: meistgeteilte Links",
+   "items": [
+    {
+     "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+     "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+     "meta": "The New York Times · 300 Personen teilen"
+    },
+    {
+     "title": "The Man Who Saved the Internet Yesterday",
+     "link": "https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123/",
+     "meta": "The Atlantic · 90 Personen teilen"
+    },
+    {
+     "title": "DOJ demands some California counties set aside ballots belonging to suspected noncitizen voters",
+     "link": "https://apnews.com/article/california-department-of-justice-noncitizen-voting-election-0a70161dba31a833fa75507a7484853b",
+     "meta": "AP News · 103 Personen teilen"
+    },
+    {
+     "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
+     "link": "https://kyivindependent.com/sanctioned-russian-energy-giant-secretly-funded-us-gas-project-nyt-reports/",
+     "meta": "The Kyiv Independent · 53 Personen teilen"
+    },
+    {
+     "title": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act.",
+     "link": "https://www.propublica.org/article/bird-flu-mink-farm-utah-human-risk",
+     "meta": "ProPublica · 110 Personen teilen"
+    },
+    {
+     "title": "Online safety laws have failed to protect children in UK, Ofcom admits",
+     "link": "https://www.theguardian.com/society/2026/oct/23/uk-children-just-as-likely-to-have-suffered-harm-on-social-media-despite-crackdown-ofcom-online-safety-act",
+     "meta": "The Guardian · 318 Personen teilen"
+    },
+    {
+     "title": "How Trump Gave the Worst Polluters a Free Pass",
+     "link": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
+     "meta": "The New York Times · 71 Personen teilen"
+    },
+    {
+     "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
+     "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+     "meta": "The Guardian · 36 Personen teilen"
+    },
+    {
+     "title": "Hundreds of thousands march across France in protests over schools and policing",
+     "link": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+     "meta": "The Guardian · 80 Personen teilen"
+    },
+    {
+     "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election",
+     "meta": "Al Jazeera · 36 Personen teilen"
+    }
+   ]
   }
  ],
  "status": [
@@ -1882,6 +1953,20 @@
    "error": ""
   },
   {
+   "source": "Finanz-Szene",
+   "category": "pay_de",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+   "source": "Finanz-Szene",
+   "category": "pay_de",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
    "source": "IT-Finanzmagazin",
    "category": "pay_de",
    "ok": true,
@@ -1889,24 +1974,24 @@
    "error": ""
   },
   {
-   "source": "Payment & Banking",
-   "category": "pay_de",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 404: Not Found"
-  },
-  {
-   "source": "Heise Newsticker",
+   "source": "Handelsblatt",
    "category": "pay_de",
    "ok": true,
-   "count": 151,
+   "count": 0,
+   "error": ""
+  },
+  {
+   "source": "Heise",
+   "category": "pay_de",
+   "ok": true,
+   "count": 0,
    "error": ""
   },
   {
    "source": "Finextra",
    "category": "pay_eu",
    "ok": true,
-   "count": 53,
+   "count": 5,
    "error": ""
   },
   {
@@ -1914,14 +1999,14 @@
    "category": "pay_eu",
    "ok": false,
    "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 33, column 393"
+   "error": "ValueError: Feed nicht lesbar"
   },
   {
-   "source": "Fintech Futures",
-   "category": "pay_eu",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "source": "Finextra",
+   "category": "pay_world",
+   "ok": true,
+   "count": 53,
+   "error": ""
   },
   {
    "source": "Payments Dive",
@@ -1933,15 +2018,8 @@
   {
    "source": "PYMNTS",
    "category": "pay_world",
-   "ok": false,
-   "count": 0,
-   "error": "ParseError: not well-formed (invalid token): line 55, column 183"
-  },
-  {
-   "source": "Finextra",
-   "category": "pay_world",
    "ok": true,
-   "count": 53,
+   "count": 10,
    "error": ""
   },
   {
@@ -1952,18 +2030,11 @@
    "error": ""
   },
   {
-   "source": "Reddit r/de (Top des Tages)",
+   "source": "Mastodon: meistgeteilte Links",
    "category": "social",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Blocked"
-  },
-  {
-   "source": "Reddit r/germany (Top des Tages)",
-   "category": "social",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Blocked"
+   "ok": true,
+   "count": 10,
+   "error": ""
   }
  ]
 }
