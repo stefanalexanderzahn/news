@@ -1,0 +1,30 @@
+name: Daten aktualisieren
+
+on:
+  schedule:
+    - cron: "15 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Feeds abrufen und Listen berechnen
+        run: python3 update.py
+
+      - name: Ergebnis speichern
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add items.json data.json
+          git diff --cached --quiet || git commit -m "Daten aktualisiert"
+          git push
