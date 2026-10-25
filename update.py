@@ -92,7 +92,42 @@ def parse_date(s):
     return d.astimezone(timezone.utc)
 
 
-def parse_feed(data):
+IMG_EXT = (".jpg", ".jpeg", ".png", ".webp", ".gif", ".avif")
+
+
+def good_image(url):
+    """Nur https-Bilder (sonst blockiert der Browser sie auf einer https-Seite)."""
+    url = html.unescape((url or "").strip())
+    return url if url.startswith("https://") and len(url) < 600 else ""
+
+
+def find_image(el):
+    """Sucht in einem RSS-/Atom-Eintrag nach einem Vorschaubild."""
+    thumbs, contents, encl, inline = [], [], [], []
+    for sub in el.iter():
+        name = local(sub.tag)
+        url = sub.get("url") or ""
+        typ = (sub.get("type") or "").lower()
+        if name == "thumbnail" and url:
+            thumbs.append(url)
+        elif name == "content" and url and (sub.get("medium") == "image" or typ.startswith("image") or url.lower().split("?")[0].endswith(IMG_EXT)):
+            contents.append(url)
+        elif name == "enclosure" and url and (typ.startswith("image") or url.lower().split("?")[0].endswith(IMG_EXT)):
+            encl.append(url)
+        elif name == "link" and sub.get("rel") == "enclosure" and sub.get("href") and typ.startswith("image"):
+            encl.append(sub.get("href"))
+        elif name in ("description", "encoded", "summary", "content") and sub.text:
+            m = re.search(r"<img[^>]+src=[\"']([^\"']+)", html.unescape(sub.text), flags=re.I)
+            if m:
+                inline.append(m.group(1))
+    for url in thumbs + contents + encl + inline:
+        ok = good_image(url)
+        if ok:
+            return ok
+    return ""
+
+
+def _parse_feed_xml(data):
     """RSS 2.0 und Atom -> Liste aus {title, link, date}."""
     root = ET.fromstring(data)
     out = []
@@ -118,9 +153,51 @@ def parse_feed(data):
                     "title": d["title"],
                     "link": safe_link(d.get("link")),
                     "date": parse_date(d.get("date")),
+                    "image": find_image(el),
                 }
             )
     return out
+
+
+def _parse_feed_lenient(data):
+    """Notlösung für Feeds mit kleinen XML-Fehlern (z. B. loses &-Zeichen)."""
+    text = data.decode("utf-8", errors="replace")
+    out = []
+    for block in re.findall(r"<(?:item|entry)[ >].*?</(?:item|entry)>", text, flags=re.S | re.I):
+
+        def tag(name):
+            m = re.search(r"<%s(?:\s[^>]*)?>(.*?)</%s>" % (name, name), block, flags=re.S | re.I)
+            if not m:
+                return ""
+            v = m.group(1).strip()
+            c = re.match(r"<!\[CDATA\[(.*?)\]\]>$", v, flags=re.S)
+            return c.group(1) if c else v
+
+        title = clean(tag("title"))
+        link = tag("link")
+        if not link:
+            m = re.search(r'<link[^>]*href="([^"]+)"', block, flags=re.I)
+            link = m.group(1) if m else ""
+        date = tag("pubDate") or tag("published") or tag("updated") or tag("dc:date")
+        image = ""
+        for pat in (r'<media:thumbnail[^>]*url="([^"]+)"', r'<media:content[^>]*url="([^"]+)"',
+                    r'<enclosure[^>]*url="([^"]+)"[^>]*type="image', r'<img[^>]+src=["\']([^"\']+)'):
+            m = re.search(pat, block, flags=re.I)
+            if m and good_image(m.group(1)):
+                image = good_image(m.group(1))
+                break
+        if title:
+            out.append({"title": title, "link": safe_link(html.unescape(link)), "date": parse_date(date), "image": image})
+    if not out:
+        raise ValueError("Feed nicht lesbar")
+    return out
+
+
+def parse_feed(data):
+    try:
+        return _parse_feed_xml(data)
+    except ET.ParseError:
+        return _parse_feed_lenient(data)
 
 
 # ----------------------------------------------------------------- Nachrichten / Payments
@@ -129,6 +206,8 @@ def update_history(history, category, source, entries, now):
     for e in entries:
         key = hashlib.sha1((category + "|" + (e["link"] or e["title"])).encode()).hexdigest()[:16]
         if key in history:
+            if e.get("image") and not history[key].get("image"):
+                history[key]["image"] = e["image"]
             continue
         pub = e["date"]
         if pub and pub > now + timedelta(hours=1):
@@ -140,6 +219,7 @@ def update_history(history, category, source, entries, now):
             "category": category,
             "published": iso(pub) if pub else None,
             "first_seen": iso(now),
+            "image": e.get("image", ""),
         }
         added += 1
     return added
@@ -212,11 +292,13 @@ def top_stories(items, now, hours, weights, order):
             + min(len(members), 5) * 0.5
         )
         lead = min(per_source.values(), key=lambda m: (-weights.get(m["source"], 1), order.get(m["source"], 99)))
+        with_img = [m for m in sorted(members, key=lambda m: (m["source"] != lead["source"], -m["time"].timestamp())) if m.get("image")]
         stories.append(
             {
                 "score": score,
                 "title": lead["title"],
                 "link": lead["link"],
+                "image": with_img[0]["image"] if with_img else "",
                 "n_sources": len(per_source),
                 "time": iso(newest),
                 "sources": [
@@ -270,6 +352,22 @@ def fetch_social(src):
                 }
             )
         return out
+    if kind == "mastodon":
+        inst = src.get("instance", "mastodon.social")
+        url = src.get("url") or "https://%s/api/v1/trends/links?limit=%d" % (inst, TOP_N)
+        out = []
+        for link in json.loads(fetch(url))[:TOP_N]:
+            hist = link.get("history") or [{}]
+            people = sum(int(h.get("accounts", 0)) for h in hist[:2])
+            parts = [clean(link.get("provider_name")), ("%d Personen teilen" % people) if people else ""]
+            out.append(
+                {
+                    "title": clean(link.get("title")) or link.get("url", ""),
+                    "link": safe_link(link.get("url")),
+                    "meta": " · ".join(x for x in parts if x),
+                }
+            )
+        return out
     if kind == "rss":
         return [
             {"title": e["title"], "link": e["link"], "meta": ""} for e in parse_feed(fetch(src["url"]))[:TOP_N]
@@ -304,10 +402,13 @@ def main():
             row = {"source": src["name"], "category": cat, "ok": True, "count": 0, "error": ""}
             try:
                 entries = parse_feed(fetch(src["url"]))
-                row["count"] = len(entries)
                 if not entries:
                     row["ok"] = False
                     row["error"] = "Feed enthält keine Meldungen"
+                keywords = [k.lower() for k in src.get("keywords", [])]
+                if keywords:  # nur Meldungen, deren Überschrift eines der Stichwörter enthält
+                    entries = [e for e in entries if any(k in e["title"].lower() for k in keywords)]
+                row["count"] = len(entries)
                 update_history(history, cat, src["name"], entries, now)
             except Exception as exc:  # ein kaputter Feed darf nie alles stoppen
                 row["ok"] = False
@@ -329,7 +430,7 @@ def main():
             if v["category"] == cat and v["source"] in names:
                 items.append(
                     {"title": v["title"], "link": v["link"], "source": v["source"],
-                     "time": effective_time(v), "tok": tokens(v["title"])}
+                     "time": effective_time(v), "tok": tokens(v["title"]), "image": v.get("image", "")}
                 )
         return {w: top_stories(items, now, h, weights, order) for w, h in WINDOWS.items()}
 

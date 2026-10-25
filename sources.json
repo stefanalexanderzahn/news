@@ -1,5 +1,5 @@
 {
-  "_hinweis": "Hier pflegen Sie Ihre Quellen. Eintrag kopieren, Name und Adresse (url) ändern, speichern. Optional: \"weight\": 2 gibt einer Quelle mehr Gewicht im Ranking. Eintrag löschen = Quelle entfällt.",
+  "_hinweis": "Hier pflegen Sie Ihre Quellen. Eintrag kopieren, Name und Adresse (url) ändern, speichern. Optional: \"weight\": 2 gibt einer Quelle mehr Gewicht im Ranking. \"keywords\": [...] übernimmt nur Meldungen, in deren Überschrift eines der Wörter vorkommt (für Allgemein-Feeds). Eintrag löschen = Quelle entfällt.",
 
   "news": [
     { "name": "Tagesschau",   "url": "https://www.tagesschau.de/index~rss2.xml" },
@@ -11,25 +11,29 @@
 
   "payments": {
     "de": [
+      { "name": "Finanz-Szene", "url": "https://finanz-szene.de/tag/payment-fintechs/feed/" },
+      { "name": "Finanz-Szene", "url": "https://finanz-szene.de/feed/",
+        "keywords": ["payment", "zahlung", "bezahl", "wero", "paypal", "girocard", "sepa", "visa", "mastercard", "kreditkarte", "karte", "klarna", "adyen", "stripe", "digitaler euro", "digitale euro", "epi"] },
       { "name": "IT-Finanzmagazin", "url": "https://www.it-finanzmagazin.de/feed/" },
-      { "name": "Payment & Banking", "url": "https://paymentandbanking.com/feed/" },
-      { "name": "Heise Newsticker",  "url": "https://www.heise.de/rss/heise-atom.xml" }
+      { "name": "Handelsblatt", "url": "https://www.handelsblatt.com/contentexport/feed/top-themen",
+        "keywords": ["payment", "zahlung", "bezahl", "wero", "paypal", "girocard", "sepa", "visa", "mastercard", "kreditkarte", "klarna", "adyen", "digitaler euro", "digitale euro", "bargeld", "fintech"] },
+      { "name": "Heise", "url": "https://www.heise.de/rss/heise-atom.xml",
+        "keywords": ["payment", "zahlung", "bezahl", "wero", "paypal", "girocard", "sepa", "visa", "mastercard", "kreditkarte", "klarna", "digitaler euro", "digitale euro", "bargeld", "fintech", "apple pay", "google pay"] }
     ],
     "eu": [
-      { "name": "Finextra",          "url": "https://www.finextra.com/rss/headlines.aspx" },
-      { "name": "The Paypers",       "url": "https://thepaypers.com/rss" },
-      { "name": "Fintech Futures",   "url": "https://www.fintechfutures.com/feed/" }
+      { "name": "Finextra", "url": "https://www.finextra.com/rss/headlines.aspx",
+        "keywords": ["europe", "eu ", "euro", "sepa", "ecb", "wero", "psd", "instant payment", "ideal", "germany", "german", "france", "french", "italy", "spain", "netherlands", "dutch", "nordic", "uk "] },
+      { "name": "The Paypers", "url": "https://thepaypers.com/rss" }
     ],
     "world": [
-      { "name": "Payments Dive",     "url": "https://www.paymentsdive.com/feeds/news/" },
-      { "name": "PYMNTS",            "url": "https://www.pymnts.com/feed/" },
-      { "name": "Finextra",          "url": "https://www.finextra.com/rss/headlines.aspx" }
+      { "name": "Finextra",      "url": "https://www.finextra.com/rss/headlines.aspx" },
+      { "name": "Payments Dive", "url": "https://www.paymentsdive.com/feeds/news/" },
+      { "name": "PYMNTS",        "url": "https://www.pymnts.com/feed/" }
     ]
   },
 
   "social": [
     { "name": "Google Trends Deutschland", "type": "googletrends", "url": "https://trends.google.com/trending/rss?geo=DE" },
-    { "name": "Reddit r/de (Top des Tages)", "type": "reddit", "subreddit": "de" },
-    { "name": "Reddit r/germany (Top des Tages)", "type": "reddit", "subreddit": "germany" }
+    { "name": "Mastodon: meistgeteilte Links", "type": "mastodon", "instance": "mastodon.social" }
   ]
 }

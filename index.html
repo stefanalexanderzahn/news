@@ -32,7 +32,8 @@
   .seg button { font-size: .9rem; padding: 6px 12px; }
   ol { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
   li.story { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px;
-             display: grid; grid-template-columns: 28px 1fr; gap: 10px; }
+             display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; }
+  .thumb { width: 84px; height: 84px; object-fit: cover; border-radius: 8px; background: var(--chip); display: block; }
   .rank { font-weight: 700; color: var(--accent); font-size: 1.1rem; }
   .title a { color: var(--ink); text-decoration: none; font-weight: 600; }
   .title a:hover { text-decoration: underline; }
@@ -63,6 +64,7 @@
   <div class="seg" id="regions"></div>
   <div id="note"></div>
   <div id="content"></div>
+  <p class="stand" style="margin-top:22px">Vorschaubilder gehören den jeweiligen Quellen und werden direkt von dort geladen.</p>
   <details id="status"></details>
 </main>
 
@@ -109,9 +111,16 @@ function storyList(stories) {
     const meta = el("div", { class: "meta" });
     if (s.n_sources > 1) meta.append(el("span", { class: "count", text: s.n_sources + " Quellen" }), " · ");
     meta.append(ago(s.time));
+    let thumb = null;
+    if (s.image && /^https:\/\//.test(s.image)) {
+      const img = el("img", { class: "thumb", src: s.image, alt: "", loading: "lazy", referrerpolicy: "no-referrer" });
+      img.onerror = () => thumb.remove();
+      thumb = el("a", { href: s.link }, img);
+    }
     ol.append(el("li", { class: "story" },
       el("div", { class: "rank", text: String(i + 1) }),
-      el("div", {}, el("div", { class: "title" }, el("a", { href: s.link, text: s.title })), meta, badges)));
+      el("div", {}, el("div", { class: "title" }, el("a", { href: s.link, text: s.title })), meta, badges),
+      thumb));
   });
   return ol;
 }
