@@ -1,34 +1,39 @@
 {
- "generated": "2026-10-25T21:40:29+00:00",
+ "generated": "2026-10-26T01:05:43+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
    {
-    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
-    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-25T21:24:09+00:00",
+    "title": "Lula gewinnt Wahl in Brasilien",
+    "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+    "image": "https://images.tagesschau.de/image/ba76c763-2b5a-4960-9f74-e00636121b6b/AAABoXWmDPE/AAABnSSvrFg/16x9-big/lula-232.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-26T01:01:55+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
+      "title": "Lula gewinnt Wahl in Brasilien",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Brasilien: Lula gewinnt Präsidentschaftswahl gegen Flávio Bolsonaro knapp",
+      "link": "https://www.spiegel.de/ausland/brasilien-lula-gewinnt-praesidentschaftswahl-gegen-flavio-bolsonaro-knapp-a-1d4b448a-82dc-403d-8f23-d23f71aa375e#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
-      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
+      "title": "Gegen Rechtsruck in der Region: Brasilien bleibt links: Lula gewinnt Präsidentenwahl",
+      "link": "https://www.zeit.de/news/2026-10/26/kopf-an-kopf-rennen-bei-praesidentenwahl-in-brasilien"
      },
      {
       "name": "FAZ",
-      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
+      "title": "Brasilien: Lula gewinnt Brasiliens Präsidentenwahl",
+      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-accg-201620584.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
+      "title": "Wahlen in Brasilien: Lula gewinnt Stichwahl in Brasilien",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-stichwahl-in-brasilien/100264825.html"
      }
     ]
    },
@@ -62,6 +67,30 @@
     ]
    },
    {
+    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
+    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-25T22:38:18+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
+      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
+     },
+     {
+      "name": "FAZ",
+      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
+      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
+     }
+    ]
+   },
+   {
     "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
     "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
     "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920",
@@ -86,6 +115,30 @@
     ]
    },
    {
+    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
+    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-25T21:24:09+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Wahlen: Serbien: Vucic gesteht Niederlage ein",
+      "link": "https://www.zeit.de/news/2026-10/25/serbien-vucic-gesteht-niederlage-ein"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
+     }
+    ]
+   },
+   {
     "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
     "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/c87b1e56-db7a-47cb-a110-4c2fd6ac03eb_w520_r2.08_fpx45.99_fpy44.99.jpg",
@@ -106,30 +159,6 @@
       "name": "FAZ",
       "title": "Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
       "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html"
-     }
-    ]
-   },
-   {
-    "title": "Kopf-an-Kopf-Rennen bei Stichwahl ums Präsidentenamt in Brasilien",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672518.html",
-    "image": "https://images.tagesschau.de/image/d89fdaab-108e-4930-9dde-a3f6013ff0b6/AAABoXSAnGQ/AAABnSSvrFg/16x9-big/sendungsbild-1817094.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T19:19:26+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Kopf-an-Kopf-Rennen bei Stichwahl ums Präsidentenamt in Brasilien",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672518.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Stichwahl in Brasilien: Kommt jetzt der nächste Bolsonaro an die Macht?",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/stichwahl-brasilien-lula-da-silva-flavio-bolsonaro-faq"
-     },
-     {
-      "name": "FAZ",
-      "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Flavio Bolsonaro",
-      "link": "https://www.faz.net/video/lula-gegen-flavio-bolsonaro-stichwahl-um-brasiliens-praesidentschaft-201619371.html"
      }
     ]
    },
@@ -228,59 +257,40 @@
       "link": "https://www.zeit.de/news/2026-10/25/dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen"
      }
     ]
-   },
-   {
-    "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich in Wahlkampf mit Trump-Kritik ein",
-    "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
-    "image": "https://images.tagesschau.de/image/99deff4b-d50e-4e7b-9c89-3c6ec5ff3798/AAABoXJueMA/AAABnSSvrFg/16x9-big/obama-954.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T10:35:11+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich in Wahlkampf mit Trump-Kritik ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "US-Midterms: Donald Trump gibt vorzeitig Stimme für Kongresswahl ab",
-      "link": "https://www.spiegel.de/ausland/midterms-donald-trump-gibt-vorzeitig-stimme-fuer-us-kongresswahl-ab-a-471e69eb-612d-405d-9bd6-724cd8b37851#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Midterms: Obama greift Trump im Wahlkampf scharf an",
-      "link": "https://www.faz.net/aktuell/politik/ausland/obama-greift-trump-im-wahlkampf-scharf-an-accg-201618651.html"
-     }
-    ]
    }
   ],
   "7d": [
    {
-    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
-    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-25T21:24:09+00:00",
+    "title": "Lula gewinnt Wahl in Brasilien",
+    "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+    "image": "https://images.tagesschau.de/image/ba76c763-2b5a-4960-9f74-e00636121b6b/AAABoXWmDPE/AAABnSSvrFg/16x9-big/lula-232.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-26T01:01:55+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
+      "title": "Lula gewinnt Wahl in Brasilien",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Brasilien: Lula gewinnt Präsidentschaftswahl gegen Flávio Bolsonaro knapp",
+      "link": "https://www.spiegel.de/ausland/brasilien-lula-gewinnt-praesidentschaftswahl-gegen-flavio-bolsonaro-knapp-a-1d4b448a-82dc-403d-8f23-d23f71aa375e#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
-      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
+      "title": "Gegen Rechtsruck in der Region: Brasilien bleibt links: Lula gewinnt Präsidentenwahl",
+      "link": "https://www.zeit.de/news/2026-10/26/kopf-an-kopf-rennen-bei-praesidentenwahl-in-brasilien"
      },
      {
       "name": "FAZ",
-      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
+      "title": "Brasilien: Lula gewinnt Brasiliens Präsidentenwahl",
+      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-accg-201620584.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
+      "title": "Wahlen in Brasilien: Lula gewinnt Stichwahl in Brasilien",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-stichwahl-in-brasilien/100264825.html"
      }
     ]
    },
@@ -362,30 +372,6 @@
     ]
    },
    {
-    "title": "Kopf-an-Kopf-Rennen bei Stichwahl ums Präsidentenamt in Brasilien",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672518.html",
-    "image": "https://images.tagesschau.de/image/d89fdaab-108e-4930-9dde-a3f6013ff0b6/AAABoXSAnGQ/AAABnSSvrFg/16x9-big/sendungsbild-1817094.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T19:19:26+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Kopf-an-Kopf-Rennen bei Stichwahl ums Präsidentenamt in Brasilien",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672518.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Stichwahl in Brasilien: Kommt jetzt der nächste Bolsonaro an die Macht?",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/stichwahl-brasilien-lula-da-silva-flavio-bolsonaro-faq"
-     },
-     {
-      "name": "FAZ",
-      "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Flavio Bolsonaro",
-      "link": "https://www.faz.net/video/lula-gegen-flavio-bolsonaro-stichwahl-um-brasiliens-praesidentschaft-201619371.html"
-     }
-    ]
-   },
-   {
     "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
     "image": "https://images.tagesschau.de/image/f28ef7d6-f75c-4bad-8385-a567b64dda1d/AAABoXSAUfY/AAABnSSvrFg/16x9-big/sendungsbild-1817092.jpg?width=1920",
@@ -434,6 +420,54 @@
     ]
    },
    {
+    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
+    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-25T22:38:18+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
+      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
+     },
+     {
+      "name": "FAZ",
+      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
+      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
+     }
+    ]
+   },
+   {
+    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
+    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-25T21:24:09+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Wahlen: Serbien: Vucic gesteht Niederlage ein",
+      "link": "https://www.zeit.de/news/2026-10/25/serbien-vucic-gesteht-niederlage-ein"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
+     }
+    ]
+   },
+   {
     "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
     "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/c87b1e56-db7a-47cb-a110-4c2fd6ac03eb_w520_r2.08_fpx45.99_fpy44.99.jpg",
@@ -454,30 +488,6 @@
       "name": "FAZ",
       "title": "Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
       "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html"
-     }
-    ]
-   },
-   {
-    "title": "Kimi Antonelli: So kann der Mercedes-Pilot schon in Austin Formel-1-Weltmeister werden?",
-    "link": "https://www.sportschau.de/motorsport/formel1/wie-antonelli-schon-am-sonntag-weltmeister-werden-koennte,rechenbeispiel-antonelli-100.html",
-    "image": "https://images.sportschau.de/image/d6a29409-1868-4f0b-bce6-b0e2376683a3/AAABoVURoR0/AAABnSSvrFg/16x9-big/antonelli-178.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T09:40:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Kimi Antonelli: So kann der Mercedes-Pilot schon in Austin Formel-1-Weltmeister werden?",
-      "link": "https://www.sportschau.de/motorsport/formel1/wie-antonelli-schon-am-sonntag-weltmeister-werden-koennte,rechenbeispiel-antonelli-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Formel 1: Kimi Antonelli startete von der Pole Position beim Großen Preis der USA in Austin",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin-a-5d755b09-a593-42c5-b193-e1c17516414f#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Formel 1: Wird Antonelli in Austin zum jüngsten Weltmeister der Geschichte?",
-      "link": "https://www.faz.net/aktuell/sport/formel-1/formel-1-wird-kimi-antonelli-in-austin-zum-juengsten-weltmeister-der-geschichte-accg-201618934.html"
      }
     ]
    },
@@ -508,31 +518,36 @@
   ],
   "30d": [
    {
-    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
-    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-25T21:24:09+00:00",
+    "title": "Lula gewinnt Wahl in Brasilien",
+    "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+    "image": "https://images.tagesschau.de/image/ba76c763-2b5a-4960-9f74-e00636121b6b/AAABoXWmDPE/AAABnSSvrFg/16x9-big/lula-232.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-26T01:01:55+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
+      "title": "Lula gewinnt Wahl in Brasilien",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Brasilien: Lula gewinnt Präsidentschaftswahl gegen Flávio Bolsonaro knapp",
+      "link": "https://www.spiegel.de/ausland/brasilien-lula-gewinnt-praesidentschaftswahl-gegen-flavio-bolsonaro-knapp-a-1d4b448a-82dc-403d-8f23-d23f71aa375e#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
-      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
+      "title": "Gegen Rechtsruck in der Region: Brasilien bleibt links: Lula gewinnt Präsidentenwahl",
+      "link": "https://www.zeit.de/news/2026-10/26/kopf-an-kopf-rennen-bei-praesidentenwahl-in-brasilien"
      },
      {
       "name": "FAZ",
-      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
+      "title": "Brasilien: Lula gewinnt Brasiliens Präsidentenwahl",
+      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-accg-201620584.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
+      "title": "Wahlen in Brasilien: Lula gewinnt Stichwahl in Brasilien",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-stichwahl-in-brasilien/100264825.html"
      }
     ]
    },
@@ -638,30 +653,6 @@
     ]
    },
    {
-    "title": "Kopf-an-Kopf-Rennen bei Stichwahl ums Präsidentenamt in Brasilien",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672518.html",
-    "image": "https://images.tagesschau.de/image/d89fdaab-108e-4930-9dde-a3f6013ff0b6/AAABoXSAnGQ/AAABnSSvrFg/16x9-big/sendungsbild-1817094.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T19:19:26+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Kopf-an-Kopf-Rennen bei Stichwahl ums Präsidentenamt in Brasilien",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672518.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Stichwahl in Brasilien: Kommt jetzt der nächste Bolsonaro an die Macht?",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/stichwahl-brasilien-lula-da-silva-flavio-bolsonaro-faq"
-     },
-     {
-      "name": "FAZ",
-      "title": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Flavio Bolsonaro",
-      "link": "https://www.faz.net/video/lula-gegen-flavio-bolsonaro-stichwahl-um-brasiliens-praesidentschaft-201619371.html"
-     }
-    ]
-   },
-   {
     "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
     "image": "https://images.tagesschau.de/image/f28ef7d6-f75c-4bad-8385-a567b64dda1d/AAABoXSAUfY/AAABnSSvrFg/16x9-big/sendungsbild-1817092.jpg?width=1920",
@@ -686,26 +677,50 @@
     ]
    },
    {
-    "title": "Kimi Antonelli: So kann der Mercedes-Pilot schon in Austin Formel-1-Weltmeister werden?",
-    "link": "https://www.sportschau.de/motorsport/formel1/wie-antonelli-schon-am-sonntag-weltmeister-werden-koennte,rechenbeispiel-antonelli-100.html",
-    "image": "https://images.sportschau.de/image/d6a29409-1868-4f0b-bce6-b0e2376683a3/AAABoVURoR0/AAABnSSvrFg/16x9-big/antonelli-178.jpg?width=1920",
+    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
+    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
     "n_sources": 3,
-    "time": "2026-10-25T09:40:00+00:00",
+    "time": "2026-10-25T22:38:18+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Kimi Antonelli: So kann der Mercedes-Pilot schon in Austin Formel-1-Weltmeister werden?",
-      "link": "https://www.sportschau.de/motorsport/formel1/wie-antonelli-schon-am-sonntag-weltmeister-werden-koennte,rechenbeispiel-antonelli-100.html"
+      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
      },
      {
-      "name": "Spiegel",
-      "title": "Formel 1: Kimi Antonelli startete von der Pole Position beim Großen Preis der USA in Austin",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-startete-von-der-pole-position-beim-grossen-preis-der-usa-in-austin-a-5d755b09-a593-42c5-b193-e1c17516414f#ref=rss"
+      "name": "Zeit Online",
+      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
+      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
      },
      {
       "name": "FAZ",
-      "title": "Formel 1: Wird Antonelli in Austin zum jüngsten Weltmeister der Geschichte?",
-      "link": "https://www.faz.net/aktuell/sport/formel-1/formel-1-wird-kimi-antonelli-in-austin-zum-juengsten-weltmeister-der-geschichte-accg-201618934.html"
+      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
+      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
+     }
+    ]
+   },
+   {
+    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
+    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-25T21:24:09+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Wahlen: Serbien: Vucic gesteht Niederlage ein",
+      "link": "https://www.zeit.de/news/2026-10/25/serbien-vucic-gesteht-niederlage-ein"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
      }
     ]
    },
@@ -1478,6 +1493,132 @@
   "world": {
    "24h": [
     {
+     "title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apollo-says-ai-has-shown-zero-payoff-outside-tech/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Apollo-AI-investment-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-26T00:48:38+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apollo-says-ai-has-shown-zero-payoff-outside-tech/"
+      }
+     ]
+    },
+    {
+     "title": "Wonder Plans IPO and Aims to Be Fully Autonomous by 2040",
+     "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Wonder-IPO-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-26T00:26:09+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Wonder Plans IPO and Aims to Be Fully Autonomous by 2040",
+       "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/"
+      }
+     ]
+    },
+    {
+     "title": "Riksbank reignites e-krona debate",
+     "link": "https://www.finextra.com/newsarticle/48642/riksbank-reignites-e-krona-debate?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-26T00:01:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Riksbank reignites e-krona debate",
+       "link": "https://www.finextra.com/newsarticle/48642/riksbank-reignites-e-krona-debate?utm_medium=rssfinextra&utm_source=finextrafeed"
+      }
+     ]
+    },
+    {
+     "title": "Block’s Voice AI Wins Praise and Triggers Scam Concerns",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/blocks-voice-ai-wins-praise-and-triggers-scam-concerns/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/02/Block-earnings-layoffs-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-25T23:54:44+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Block’s Voice AI Wins Praise and Triggers Scam Concerns",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/blocks-voice-ai-wins-praise-and-triggers-scam-concerns/"
+      }
+     ]
+    },
+    {
+     "title": "Instacart Holds Sale Talks With Rivals Uber and DoorDash",
+     "link": "https://www.pymnts.com/news/delivery/2026/instacart-holds-sale-talks-with-rivals-uber-and-doordash/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Instacart-sale-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-25T23:32:31+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Instacart Holds Sale Talks With Rivals Uber and DoorDash",
+       "link": "https://www.pymnts.com/news/delivery/2026/instacart-holds-sale-talks-with-rivals-uber-and-doordash/"
+      }
+     ]
+    },
+    {
+     "title": "OpenAI Training AI in Systems Shut Off From Web Access",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/07/OpenAI-safety-boss-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-25T23:13:28+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "OpenAI Training AI in Systems Shut Off From Web Access",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic Merges Claude Chat and Cowork for Enterprise Users",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Claude-chat-and-cowork-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-25T22:51:49+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Anthropic Merges Claude Chat and Cowork for Enterprise Users",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/"
+      }
+     ]
+    },
+    {
+     "title": "Affordability Drags Consumer Sentiment Down 10% in a Year",
+     "link": "https://www.pymnts.com/economy/2026/affordability-drags-consumer-sentiment-down-10-in-a-year/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/consumer-sentiment-affordability-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-25T22:29:24+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Affordability Drags Consumer Sentiment Down 10% in a Year",
+       "link": "https://www.pymnts.com/economy/2026/affordability-drags-consumer-sentiment-down-10-in-a-year/"
+      }
+     ]
+    },
+    {
+     "title": "Kalshi Pitches Banks on Inflation-Related Futures Market",
+     "link": "https://www.pymnts.com/economy/markets/2026/kalshi-pitches-banks-on-inflation-related-futures-market/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/03/Kalshi-Arizona-xxx1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-25T21:53:49+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Kalshi Pitches Banks on Inflation-Related Futures Market",
+       "link": "https://www.pymnts.com/economy/markets/2026/kalshi-pitches-banks-on-inflation-related-futures-market/"
+      }
+     ]
+    },
+    {
      "title": "Mind the gap: What’s missing from modern resilience?",
      "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1488,132 +1629,6 @@
        "name": "Finextra",
        "title": "Mind the gap: What’s missing from modern resilience?",
        "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "How acquirers are commercialising fraud intelligence",
-     "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "How acquirers are commercialising fraud intelligence",
-       "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Cross-border payments: How banks can close the corporate service gap",
-     "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Cross-border payments: How banks can close the corporate service gap",
-       "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Is Europe ready to embrace stablecoins?",
-     "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Is Europe ready to embrace stablecoins?",
-       "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Beyond fraud detection: Why dispute management needs an overhaul",
-     "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Beyond fraud detection: Why dispute management needs an overhaul",
-       "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
-     "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
-       "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "What defines the issuer of tomorrow?",
-     "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "What defines the issuer of tomorrow?",
-       "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
-     "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
-       "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-     "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-       "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "An industry in motion: Why real-time becomes the foundation for everything in 2027",
-     "link": "https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "An industry in motion: Why real-time becomes the foundation for everything in 2027",
-       "link": "https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     }
@@ -1658,114 +1673,114 @@
      ]
     },
     {
-     "title": "Cross-border payments: How banks can close the corporate service gap",
-     "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apollo-says-ai-has-shown-zero-payoff-outside-tech/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Apollo-AI-investment-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-26T00:48:38+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "Cross-border payments: How banks can close the corporate service gap",
-       "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apollo-says-ai-has-shown-zero-payoff-outside-tech/"
       }
      ]
     },
     {
-     "title": "Who controls payment initiation? The battle for the future of payments",
-     "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Wonder Plans IPO and Aims to Be Fully Autonomous by 2040",
+     "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Wonder-IPO-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-26T00:26:09+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "Who controls payment initiation? The battle for the future of payments",
-       "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "Wonder Plans IPO and Aims to Be Fully Autonomous by 2040",
+       "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/"
       }
      ]
     },
     {
-     "title": "Mind the gap: What’s missing from modern resilience?",
-     "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "title": "Riksbank reignites e-krona debate",
+     "link": "https://www.finextra.com/newsarticle/48642/riksbank-reignites-e-krona-debate?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-26T00:01:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Mind the gap: What’s missing from modern resilience?",
-       "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "Riksbank reignites e-krona debate",
+       "link": "https://www.finextra.com/newsarticle/48642/riksbank-reignites-e-krona-debate?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "How acquirers are commercialising fraud intelligence",
-     "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Block’s Voice AI Wins Praise and Triggers Scam Concerns",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/blocks-voice-ai-wins-praise-and-triggers-scam-concerns/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/02/Block-earnings-layoffs-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-25T23:54:44+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "How acquirers are commercialising fraud intelligence",
-       "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "Block’s Voice AI Wins Praise and Triggers Scam Concerns",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/blocks-voice-ai-wins-praise-and-triggers-scam-concerns/"
       }
      ]
     },
     {
-     "title": "Is Europe ready to embrace stablecoins?",
-     "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Instacart Holds Sale Talks With Rivals Uber and DoorDash",
+     "link": "https://www.pymnts.com/news/delivery/2026/instacart-holds-sale-talks-with-rivals-uber-and-doordash/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Instacart-sale-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-25T23:32:31+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "Is Europe ready to embrace stablecoins?",
-       "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "Instacart Holds Sale Talks With Rivals Uber and DoorDash",
+       "link": "https://www.pymnts.com/news/delivery/2026/instacart-holds-sale-talks-with-rivals-uber-and-doordash/"
       }
      ]
     },
     {
-     "title": "Beyond fraud detection: Why dispute management needs an overhaul",
-     "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "OpenAI Training AI in Systems Shut Off From Web Access",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/07/OpenAI-safety-boss-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-25T23:13:28+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "Beyond fraud detection: Why dispute management needs an overhaul",
-       "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "OpenAI Training AI in Systems Shut Off From Web Access",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/"
       }
      ]
     },
     {
-     "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
-     "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Anthropic Merges Claude Chat and Cowork for Enterprise Users",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Claude-chat-and-cowork-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-25T22:51:49+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
-       "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "Anthropic Merges Claude Chat and Cowork for Enterprise Users",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/"
       }
      ]
     },
     {
-     "title": "What defines the issuer of tomorrow?",
-     "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Affordability Drags Consumer Sentiment Down 10% in a Year",
+     "link": "https://www.pymnts.com/economy/2026/affordability-drags-consumer-sentiment-down-10-in-a-year/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/consumer-sentiment-affordability-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-25T22:29:24+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "What defines the issuer of tomorrow?",
-       "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "Affordability Drags Consumer Sentiment Down 10% in a Year",
+       "link": "https://www.pymnts.com/economy/2026/affordability-drags-consumer-sentiment-down-10-in-a-year/"
       }
      ]
     }
@@ -1838,86 +1853,86 @@
      ]
     },
     {
-     "title": "Mind the gap: What’s missing from modern resilience?",
-     "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apollo-says-ai-has-shown-zero-payoff-outside-tech/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Apollo-AI-investment-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-26T00:48:38+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "Mind the gap: What’s missing from modern resilience?",
-       "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apollo-says-ai-has-shown-zero-payoff-outside-tech/"
       }
      ]
     },
     {
-     "title": "How acquirers are commercialising fraud intelligence",
-     "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Wonder Plans IPO and Aims to Be Fully Autonomous by 2040",
+     "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Wonder-IPO-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-26T00:26:09+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "How acquirers are commercialising fraud intelligence",
-       "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "Wonder Plans IPO and Aims to Be Fully Autonomous by 2040",
+       "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/"
       }
      ]
     },
     {
-     "title": "Is Europe ready to embrace stablecoins?",
-     "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "title": "Riksbank reignites e-krona debate",
+     "link": "https://www.finextra.com/newsarticle/48642/riksbank-reignites-e-krona-debate?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-26T00:01:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Is Europe ready to embrace stablecoins?",
-       "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "Riksbank reignites e-krona debate",
+       "link": "https://www.finextra.com/newsarticle/48642/riksbank-reignites-e-krona-debate?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "Beyond fraud detection: Why dispute management needs an overhaul",
-     "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Block’s Voice AI Wins Praise and Triggers Scam Concerns",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/blocks-voice-ai-wins-praise-and-triggers-scam-concerns/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/02/Block-earnings-layoffs-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-25T23:54:44+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "Beyond fraud detection: Why dispute management needs an overhaul",
-       "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "Block’s Voice AI Wins Praise and Triggers Scam Concerns",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/blocks-voice-ai-wins-praise-and-triggers-scam-concerns/"
       }
      ]
     },
     {
-     "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
-     "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Instacart Holds Sale Talks With Rivals Uber and DoorDash",
+     "link": "https://www.pymnts.com/news/delivery/2026/instacart-holds-sale-talks-with-rivals-uber-and-doordash/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Instacart-sale-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-25T23:32:31+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
-       "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "Instacart Holds Sale Talks With Rivals Uber and DoorDash",
+       "link": "https://www.pymnts.com/news/delivery/2026/instacart-holds-sale-talks-with-rivals-uber-and-doordash/"
       }
      ]
     },
     {
-     "title": "What defines the issuer of tomorrow?",
-     "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "OpenAI Training AI in Systems Shut Off From Web Access",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/07/OpenAI-safety-boss-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-25T23:13:28+00:00",
      "sources": [
       {
-       "name": "Finextra",
-       "title": "What defines the issuer of tomorrow?",
-       "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "name": "PYMNTS",
+       "title": "OpenAI Training AI in Systems Shut Off From Web Access",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/"
       }
      ]
     }
@@ -1929,54 +1944,54 @@
    "name": "Google Trends Deutschland",
    "items": [
     {
-     "title": "littbarski",
-     "link": "https://www.t-online.de/sport/fussball/bundesliga/id_101496482/naechster-schwacher-auftritt-fans-fordern-aus-von-bundesliga-trainer.html",
-     "meta": "2000+ Suchanfragen"
-    },
-    {
-     "title": "fc barcelona vs real madrid stats",
-     "link": "https://www.bbc.com/sport/football/live/cj3vqz410y42t",
+     "title": "cnn",
+     "link": "https://www.politico.com/news/2026/10/25/blanche-alaska-lawsuit-could-be-crime-01134861",
      "meta": "100+ Suchanfragen"
     },
     {
-     "title": "das vergessen",
-     "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/julia-koschitz-zur-serie-das-vergessen-demenz-und-leben-accg-201603321.html",
+     "title": "76ers – pistons",
+     "link": "https://www.thebiglead.com/how-to-watch-pistons-vs-76ers-nba-live-stream-tv-channel/",
+     "meta": "100+ Suchanfragen"
+    },
+    {
+     "title": "seahawks – chiefs",
+     "link": "https://www.seahawks.com/news/how-to-watch-listen-and-follow-seahawks-vs-chiefs-in-week-7-on-sunday-october-25",
      "meta": "500+ Suchanfragen"
     },
     {
-     "title": "alejandro balde",
-     "link": "https://onefootball.com/es/noticias/el-barcelona-busca-alternativas-para-enero-andrea-cambiaso-aparece-como-posible-sustituto-de-alejandro-balde-43667133",
-     "meta": "200+ Suchanfragen"
+     "title": "worlds 2026",
+     "link": "https://www.sheepesports.com/en/articles/worlds-2026-swiss-stage-round-3-draw/en",
+     "meta": "100+ Suchanfragen"
     },
     {
-     "title": "brand",
-     "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/kehlsteinhaus-brand-obersalzberg-berchtesgaden-gxe",
-     "meta": "2000+ Suchanfragen"
+     "title": "brasil eleições 2026",
+     "link": "https://www1.folha.uol.com.br/poder/2026/10/eleicao-nos-estados-termina-com-13-governadores-reeleitos-e-6-derrotados.shtml",
+     "meta": "100+ Suchanfragen"
     },
     {
-     "title": "wdr live",
-     "link": "https://www.tvspielfilm.de/tv-programm/sendung/koelner-treff,6abe3935207c32108a328e9b.html",
+     "title": "sharon stone",
+     "link": "https://faroutmagazine.co.uk/sharon-stone-made-terrible-movie-wont-even-say-its-name/",
+     "meta": "100+ Suchanfragen"
+    },
+    {
+     "title": "resultados das eleições",
+     "link": "https://oglobo.globo.com/blogs/bela-megale/post/2026/10/a-tensa-conversa-entre-zanin-em-nunes-marques-sobre-a-prorrogacao-da-votacao-na-eleicao.ghtml",
      "meta": "500+ Suchanfragen"
     },
     {
-     "title": "bundesliga frauen",
-     "link": "https://www.sportschau.de/regional/ndr/Bundesliga-Frauen-HSV-Union-Berlin-Spielbericht,hsv-frauen-370.html",
-     "meta": "2000+ Suchanfragen"
+     "title": "osint",
+     "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059635/",
+     "meta": "100+ Suchanfragen"
     },
     {
-     "title": "demonstration",
-     "link": "https://www.spiegel.de/ausland/tschechien-zehntausende-demonstrieren-gegen-rundfunkreform-in-prag-a-8ccdee78-833c-41ec-8409-83c873f50f16",
+     "title": "kreuzfahrtschiff kanada",
+     "link": "https://www.bild.de/news/ausland/kreuzfahrt-geht-schief-tausende-wollten-in-die-karibik-und-landeten-in-kanada-6add871f247c1fa201305dd9",
+     "meta": "50000+ Suchanfragen"
+    },
+    {
+     "title": "sandra bullock",
+     "link": "https://www.imdb.com/news/ni66075987/?ref_=nmnw_art_perm",
      "meta": "200+ Suchanfragen"
-    },
-    {
-     "title": "index hr",
-     "link": "https://trends.google.de/trends/explore?geo=DE&q=index%20hr",
-     "meta": "100+ Suchanfragen"
-    },
-    {
-     "title": "pau cubarsí",
-     "link": "https://biz.chosun.com/en/en-sports/2026/10/25/JKYHSJKAGRFCVFSZVTJLNZ7OWI/",
-     "meta": "100+ Suchanfragen"
     }
    ]
   },
@@ -1984,24 +1999,34 @@
    "name": "Mastodon: meistgeteilte Links",
    "items": [
     {
-     "title": "The Small-Town Cop Who Helped ICE Deport His Neighbors",
-     "link": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
-     "meta": "ProPublica · 137 Personen teilen"
+     "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+     "meta": "the Guardian · 261 Personen teilen"
     },
     {
-     "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-     "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-     "meta": "The New York Times · 331 Personen teilen"
+     "title": "The Small-Town Cop Who Helped ICE Deport His Neighbors",
+     "link": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
+     "meta": "ProPublica · 148 Personen teilen"
     },
     {
      "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
      "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
-     "meta": "The Guardian · 101 Personen teilen"
+     "meta": "The Guardian · 112 Personen teilen"
     },
     {
-     "title": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
-     "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-     "meta": "the Guardian · 95 Personen teilen"
+     "title": "Serbia’s Aleksandar Vucic concedes defeat to student-led movement in seismic political shift",
+     "link": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775",
+     "meta": "AP News · 125 Personen teilen"
+    },
+    {
+     "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+     "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+     "meta": "The New York Times · 62 Personen teilen"
+    },
+    {
+     "title": "Finns are seething after Google illegally toppled 250,000 trees for a data center",
+     "link": "https://www.motherjones.com/politics/2026/10/finland-finns-angry-google-illegal-clear-cutting-trees-data-center/",
+     "meta": "Mother Jones · 233 Personen teilen"
     },
     {
      "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
@@ -2009,29 +2034,19 @@
      "meta": "The Kyiv Independent · 72 Personen teilen"
     },
     {
-     "title": "Finns are seething after Google illegally toppled 250,000 trees for a data center",
-     "link": "https://www.motherjones.com/politics/2026/10/finland-finns-angry-google-illegal-clear-cutting-trees-data-center/",
-     "meta": "Mother Jones · 230 Personen teilen"
+     "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+     "link": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+     "meta": "The Guardian · 64 Personen teilen"
     },
     {
-     "title": "The Man Who Saved the Internet Yesterday",
-     "link": "https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123/",
-     "meta": "The Atlantic · 108 Personen teilen"
+     "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+     "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+     "meta": "The Guardian · 52 Personen teilen"
     },
     {
-     "title": "Trump administration has pushed off 13% of Americans enrolled in food stamps",
-     "link": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
-     "meta": "The Guardian · 46 Personen teilen"
-    },
-    {
-     "title": "Be warned: the next deadly pandemic is not inevitable, but all the elements are in place",
-     "link": "https://www.theguardian.com/commentisfree/2023/feb/08/next-pandemic-bird-flu-mink-farms-transmission",
-     "meta": "The Guardian · 43 Personen teilen"
-    },
-    {
-     "title": "r/opensource just banned AI, non-English speakers, and more",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-     "meta": "The Verge · 39 Personen teilen"
+     "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+     "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+     "meta": "BBC News · 56 Personen teilen"
     }
    ]
   }
@@ -2041,7 +2056,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 67,
+   "count": 68,
    "error": ""
   },
   {
@@ -2062,7 +2077,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 160,
+   "count": 162,
    "error": ""
   },
   {
