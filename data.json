@@ -1,34 +1,68 @@
 {
- "generated": "2026-10-26T09:54:29+00:00",
+ "generated": "2026-10-26T14:53:59+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
    {
-    "title": "Stichwahl um das Präsidentenamt in Brasilien",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672562.html",
-    "image": "https://images.tagesschau.de/image/8b777a5d-0f7a-4194-badd-176c7e1913da/AAABoXVV8zA/AAABnSSvrFg/16x9-big/sendungsbild-1817158.jpg?width=1920",
+    "title": "Daniela Olivares, BR, über die Kritik an Audi-Chef Döllner nach Auftritt im US-Wahlkampf",
+    "link": "https://www.tagesschau.de/video/video-1672834.html",
+    "image": "https://images.tagesschau.de/image/3c923f72-ead0-4f4c-804e-6c94c5aea86c/AAABoXiM1nw/AAABnSSvrFg/16x9-big/sendungsbild-1817398.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-26T05:38:40+00:00",
+    "time": "2026-10-26T14:36:45+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Stichwahl um das Präsidentenamt in Brasilien",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672562.html"
+      "title": "Daniela Olivares, BR, über die Kritik an Audi-Chef Döllner nach Auftritt im US-Wahlkampf",
+      "link": "https://www.tagesschau.de/video/video-1672834.html"
      },
      {
       "name": "Spiegel",
-      "title": "Brasilien: Lula gewinnt Präsidentschaftswahl gegen Flávio Bolsonaro knapp",
-      "link": "https://www.spiegel.de/ausland/brasilien-lula-gewinnt-praesidentschaftswahl-gegen-flavio-bolsonaro-knapp-a-1d4b448a-82dc-403d-8f23-d23f71aa375e#ref=rss"
+      "title": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
+      "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Stichwahl in Brasilien: Lula triumphiert. Doch der Bolsonaro-Clan gibt nicht auf",
-      "link": "https://www.zeit.de/politik/2026-10/stichwahl-brasilien-praesidentschaft-lula-da-silva-flavio-bolsonaro"
+      "title": "Audi-Werk in den USA: VW-Betriebsratschefin findet Auftritt von Döllner bei Trump beschämend",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/audi-gernot-doellner-donald-trump-wahlkampf-usa-gxe"
      },
      {
       "name": "FAZ",
-      "title": "Sieg in Stichwahl: Lula gewinnt Brasiliens Präsidentenwahl",
-      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-knapp-bolsonaro-fordert-annullierung-accg-201620584.html"
+      "title": "nach Auftritt mit Trump: Scharfe Kritik an Audi-Chef",
+      "link": "https://www.faz.net/video/auftritt-mit-trump-scharfe-kritik-an-audi-chef-201622770.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Gernot Döllner: „Verstörend und erbärmlich“: Politiker kritisieren Auftritt des Audi-Chefs bei Donald Trump",
+      "link": "https://www.handelsblatt.com/politik/deutschland/audi-chef-politiker-kritisieren-wahlkampf-auftritt-bei-trump-als-verstoerend/100264950.html"
+     }
+    ]
+   },
+   {
+    "title": "Lula gewinnt Präsidentenwahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+    "link": "https://www.tagesschau.de/video/video-1672794.html",
+    "image": "https://images.tagesschau.de/image/f26e689f-a6cd-4cb0-9392-227fabba4165/AAABoXhZQ9c/AAABnSSvrFg/16x9-big/sendungsbild-1817378.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-26T13:14:42+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Lula gewinnt Präsidentenwahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+      "link": "https://www.tagesschau.de/video/video-1672794.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Brasilien: Wie Lula da Silva überraschend Flávio Bolsonaro besiegte",
+      "link": "https://www.spiegel.de/ausland/brasilien-wie-lula-da-silva-ueberraschend-flavio-bolsonaro-besiegte-a-54205e62-424d-419d-b42b-78fd7a5d236d#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Gegen Rechtsruck in der Region: Brasilien bleibt links: Lula gewinnt Präsidentenwahl",
+      "link": "https://www.zeit.de/news/2026-10/26/kopf-an-kopf-rennen-bei-praesidentenwahl-in-brasilien"
+     },
+     {
+      "name": "FAZ",
+      "title": "Brasilien: Bolsonaro will Wahl anfechten",
+      "link": "https://www.faz.net/video/brasilien-lula-gewinnt-stichwahl-201621621.html"
      },
      {
       "name": "Handelsblatt",
@@ -72,194 +106,11 @@
     ]
    },
    {
-    "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-    "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-    "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-26T09:40:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Bremerhaven: Kreuzfahrt mit der »Mein Schiff 3« nach Kollision abgesagt",
-      "link": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrt-mit-der-mein-schiff-3-nach-kollision-abgesagt-a-bec8865f-4420-4479-9f46-a7b2ae887625#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Kreuzfahrtschiff »Mein Schiff 3«: Kreuzfahrtschiff stößt in Bremerhaven mit Containerschiffen zusammen",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/kreuzfahrtschiff-mein-schiff-3-kollision-bremerhaven-tui-cruises"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
-     }
-    ]
-   },
-   {
-    "title": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
-    "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/bbfd76d2-93b6-4a23-97a7-802cb85bbbef_w520_r2.08_fpx53.32_fpy49.99.jpg",
-    "n_sources": 4,
-    "time": "2026-10-26T07:18:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
-      "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Audi-Werk in den USA: VW-Betriebsratschefin findet Auftritt von Döllner bei Trump beschämend",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/audi-gernot-doellner-donald-trump-wahlkampf-usa-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Fabrik in Georgia: Der Audi-Chef macht sich zu Trumps Wahlhelfer",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-chef-gernot-doellner-als-trumps-wahlkampfhelfer-201619089.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Audi in den USA: Cavallo: Auftritt von Audi-Chef bei Trump ist beschämend",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/audi-in-den-usa-auftritt-von-audi-chef-bei-trump-laut-cavallo-beschaemend/100264879.html"
-     }
-    ]
-   },
-   {
-    "title": "Rückkehr von Friedensnobelpreisträgerin Machado nach Venezuela",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672516.html",
-    "image": "https://images.tagesschau.de/image/4152bc75-d647-4eec-96be-d0666d66c819/AAABoXSAx6I/AAABnSSvrFg/16x9-big/sendungsbild-1817096.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-25T19:19:24+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Rückkehr von Friedensnobelpreisträgerin Machado nach Venezuela",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672516.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "María Corina Machado: Oppositionspolitikerin gibt Rückkehr nach Venezuela bekannt",
-      "link": "https://www.spiegel.de/ausland/maria-corina-machado-oppositionspolitikerin-gibt-rueckkehr-nach-venezuela-bekannt-a-0645a250-a873-4c28-b833-748ab7f03b25#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "María Corina Machado: Oppositionspolitikerin Machado ist nach Venezuela zurückgekehrt",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/maria-corina-machado-rueckkehr-venezuela-opposition-edmundo-gonzalez-urrutia-gxe"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Venezuela: Oppositionelle Machado kehrt überraschend nach Venezuela zurück",
-      "link": "https://www.handelsblatt.com/politik/international/venezuela-oppositionelle-machado-kehrt-ueberraschend-nach-venezuela-zurueck/100264806.html"
-     }
-    ]
-   },
-   {
-    "title": "2. Fußball-Bundesliga: Hannover 96 verurteilt eigene Fans für »inakzeptable Eskalation«",
-    "link": "https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-verurteilt-eigene-fans-fuer-inakzeptable-eskalation-a-d81b58f2-11b2-48ed-aa95-187909abc21b#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/40672a4d-9e08-47a0-af7b-2f636542c4d5_w520_r2.08_fpx55.97_fpy45.jpg",
-    "n_sources": 3,
-    "time": "2026-10-26T08:38:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "2. Fußball-Bundesliga: Hannover 96 verurteilt eigene Fans für »inakzeptable Eskalation«",
-      "link": "https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-verurteilt-eigene-fans-fuer-inakzeptable-eskalation-a-d81b58f2-11b2-48ed-aa95-187909abc21b#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "2. Fußball-Bundesliga: Hannover reagiert auf Fankrawalle: «Inakzeptable Eskalation»",
-      "link": "https://www.zeit.de/news/2026-10/25/vor-niedersachsen-derby-bis-anpfiff-keine-vorkommnisse"
-     },
-     {
-      "name": "FAZ",
-      "title": "Zweite Bundesliga: Hannover 96 verurteilt nach Derby „inakzeptable Eskalation“",
-      "link": "https://www.faz.net/aktuell/sport/fussball/bundesliga/eintracht-braunschweig-gegen-hannover-96-reaktion-auf-pyro-randale-201620214.html"
-     }
-    ]
-   },
-   {
-    "title": "Lula gewinnt Wahl in Brasilien",
-    "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
-    "image": "https://images.tagesschau.de/image/ba76c763-2b5a-4960-9f74-e00636121b6b/AAABoXWmDPE/AAABnSSvrFg/16x9-big/lula-232.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-26T06:22:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Lula gewinnt Wahl in Brasilien",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Brasilien: Wie Lula da Silva überraschend Flávio Bolsonaro besiegte",
-      "link": "https://www.spiegel.de/ausland/brasilien-wie-lula-da-silva-ueberraschend-flavio-bolsonaro-besiegte-a-54205e62-424d-419d-b42b-78fd7a5d236d#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Brasilien: Flávio Bolsonaro fordert Annullierung der Wahl",
-      "link": "https://www.faz.net/aktuell/flavio-bolsonaro-will-stichwahl-in-brasilien-annullieren-lassen-accg-201620649.html"
-     }
-    ]
-   },
-   {
-    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
-    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T22:38:18+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
-      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
-     },
-     {
-      "name": "FAZ",
-      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
-     }
-    ]
-   },
-   {
-    "title": "Formel 1: Antonelli gewinnt in Austin - Titel ganz nah",
-    "link": "https://www.sportschau.de/motorsport/formel1/formel-1-antonelli-gewinnt-in-austin-titel-ganz-nah,gp-usa-antonelli-100.html",
-    "image": "https://images.sportschau.de/image/d3d5f4bb-6136-40ef-979c-5bed3787dd32/AAABoXUXpD4/AAABnSSvrFg/16x9-big/kimi-antonelli-jubel-100.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T22:30:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Formel 1: Antonelli gewinnt in Austin - Titel ganz nah",
-      "link": "https://www.sportschau.de/motorsport/formel1/formel-1-antonelli-gewinnt-in-austin-titel-ganz-nah,gp-usa-antonelli-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Formel 1: Kimi Antonelli gewinnt vor Charles Leclerc – WM-Titel ganz nah",
-      "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-vor-charles-leclerc-wm-titel-ganz-nah-a-0ced9638-35c2-497d-8750-301a0bbed86c#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Formel 1 in den USA: Antonelli siegt in Austin – ist aber noch nicht Weltmeister",
-      "link": "https://www.faz.net/aktuell/sport/formel-1/kimi-antonelli-siegt-bei-formel-1-in-austin-ist-aber-noch-nicht-weltmeister-201244824.html"
-     }
-    ]
-   },
-   {
     "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
     "image": "https://images.tagesschau.de/image/f28ef7d6-f75c-4bad-8385-a567b64dda1d/AAABoXSAUfY/AAABnSSvrFg/16x9-big/sendungsbild-1817092.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T19:19:22+00:00",
+    "n_sources": 4,
+    "time": "2026-10-26T10:49:24+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -268,44 +119,227 @@
      },
      {
       "name": "Spiegel",
-      "title": "Hanni Vanhaiden ist tot: NDR-Fernsehansagerin mit 88 Jahren gestorben",
-      "link": "https://www.spiegel.de/kultur/tv/hanni-vanhaiden-ist-tot-ndr-fernsehansagerin-mit-88-jahren-gestorben-a-cd261d76-67b5-4cec-98fa-ee216a0e448b#ref=rss"
+      "title": "Schriftsteller Joachim Lottmann ist tot",
+      "link": "https://www.spiegel.de/kultur/literatur/schriftsteller-joachim-lottmann-ist-tot-a-f43f4961-22b2-483a-8569-c4e34e2285e4#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Joachim Lottmann: Schriftsteller Joachim Lottmann ist tot",
+      "link": "https://www.zeit.de/feuilleton/2026-10/joachim-lottmann-schriftsteller-popliteratur-tot-gxe"
      },
      {
       "name": "FAZ",
-      "title": "Im alter von 88 Jahren: NDR-Fernsehansagerin Hanni Vanhaiden gestorben",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/hanni-vanhaiden-ehemalige-fernsehansagerin-im-alter-von-88-jahren-gestorben-201620299.html"
+      "title": "Im Alter von 70 Jahren: Schriftsteller Joachim Lottmann gestorben",
+      "link": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/popliterat-joachim-lottmann-ist-gestorben-accg-201621375.html"
+     }
+    ]
+   },
+   {
+    "title": "Rückkehr von Friedensnobelpreisträgerin Machado nach Venezuela",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672516.html",
+    "image": "https://images.tagesschau.de/image/4152bc75-d647-4eec-96be-d0666d66c819/AAABoXSAx6I/AAABnSSvrFg/16x9-big/sendungsbild-1817096.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-25T19:19:24+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Rückkehr von Friedensnobelpreisträgerin Machado nach Venezuela",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672516.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "María Corina Machado: Oppositionspolitikerin gibt Rückkehr nach Venezuela bekannt",
+      "link": "https://www.spiegel.de/ausland/maria-corina-machado-oppositionspolitikerin-gibt-rueckkehr-nach-venezuela-bekannt-a-0645a250-a873-4c28-b833-748ab7f03b25#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "María Corina Machado: Oppositionspolitikerin Machado ist nach Venezuela zurückgekehrt",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/maria-corina-machado-rueckkehr-venezuela-opposition-edmundo-gonzalez-urrutia-gxe"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Venezuela: Oppositionelle Machado kehrt überraschend nach Venezuela zurück",
+      "link": "https://www.handelsblatt.com/politik/international/venezuela-oppositionelle-machado-kehrt-ueberraschend-nach-venezuela-zurueck/100264806.html"
+     }
+    ]
+   },
+   {
+    "title": "Bremerhaven: Kreuzfahrt mit der »Mein Schiff 3« nach Kollision abgesagt",
+    "link": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrt-mit-der-mein-schiff-3-nach-kollision-abgesagt-a-bec8865f-4420-4479-9f46-a7b2ae887625#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/bd63186e-1d92-4bfc-a542-dbf00beff9ee_w520_r2.08_fpx41.33_fpy49.99.jpg",
+    "n_sources": 3,
+    "time": "2026-10-26T14:29:20+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "Bremerhaven: Kreuzfahrt mit der »Mein Schiff 3« nach Kollision abgesagt",
+      "link": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrt-mit-der-mein-schiff-3-nach-kollision-abgesagt-a-bec8865f-4420-4479-9f46-a7b2ae887625#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Zusammenstoß in Bremerhaven: «Mein Schiff 3» soll in Werft – Ermittlungen gegen Kapitän",
+      "link": "https://www.zeit.de/news/2026-10/26/kreuzfahrtschiff-rammt-schiffe-polizei-will-informieren"
+     },
+     {
+      "name": "FAZ",
+      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
+     }
+    ]
+   },
+   {
+    "title": "Oxford Street in London wird zur Fußgängerzone",
+    "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html",
+    "image": "https://images.tagesschau.de/image/67a76492-56bf-492b-80f9-5555aa3ce687/AAABoXhKpwM/AAABnSSvrFg/16x9-big/fussgaengerzone-london-104.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-26T10:27:47+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Oxford Street in London wird zur Fußgängerzone",
+      "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Umbau zur Fußgängerzone: London verbannt Autos aus der Oxford Street",
+      "link": "https://www.spiegel.de/wirtschaft/umbau-zur-fussgaengerzone-london-verbannt-autos-aus-der-oxford-street-a-ba746ffb-aca3-43af-aaa9-9bcd4857ab70#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Shoppingmeile: Londoner Oxford Street wird zur Fußgängerzone",
+      "link": "https://www.faz.net/aktuell/gesellschaft/londons-oxford-street-wird-zur-fussgaengerzone-accg-201620713.html"
+     }
+    ]
+   },
+   {
+    "title": "2. Fußball-Bundesliga: Hannover 96 verurteilt eigene Fans für »inakzeptable Eskalation«",
+    "link": "https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-verurteilt-eigene-fans-fuer-inakzeptable-eskalation-a-d81b58f2-11b2-48ed-aa95-187909abc21b#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/40672a4d-9e08-47a0-af7b-2f636542c4d5_w520_r2.08_fpx55.97_fpy45.jpg",
+    "n_sources": 3,
+    "time": "2026-10-26T08:38:00+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "2. Fußball-Bundesliga: Hannover 96 verurteilt eigene Fans für »inakzeptable Eskalation«",
+      "link": "https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-verurteilt-eigene-fans-fuer-inakzeptable-eskalation-a-d81b58f2-11b2-48ed-aa95-187909abc21b#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "2. Fußball-Bundesliga: Hannover reagiert auf Fankrawalle: «Inakzeptable Eskalation»",
+      "link": "https://www.zeit.de/news/2026-10/25/vor-niedersachsen-derby-bis-anpfiff-keine-vorkommnisse"
+     },
+     {
+      "name": "FAZ",
+      "title": "Zweite Bundesliga: Hannover 96 verurteilt nach Derby „inakzeptable Eskalation“",
+      "link": "https://www.faz.net/aktuell/sport/fussball/bundesliga/eintracht-braunschweig-gegen-hannover-96-reaktion-auf-pyro-randale-201620214.html"
+     }
+    ]
+   },
+   {
+    "title": "Formel 1: Antonelli gewinnt in Austin - Titel ganz nah",
+    "link": "https://www.sportschau.de/motorsport/formel1/formel-1-antonelli-gewinnt-in-austin-titel-ganz-nah,gp-usa-antonelli-100.html",
+    "image": "https://images.sportschau.de/image/d3d5f4bb-6136-40ef-979c-5bed3787dd32/AAABoXUXpD4/AAABnSSvrFg/16x9-big/kimi-antonelli-jubel-100.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-25T22:30:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Formel 1: Antonelli gewinnt in Austin - Titel ganz nah",
+      "link": "https://www.sportschau.de/motorsport/formel1/formel-1-antonelli-gewinnt-in-austin-titel-ganz-nah,gp-usa-antonelli-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Formel 1: Kimi Antonelli gewinnt vor Charles Leclerc – WM-Titel ganz nah",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-gewinnt-vor-charles-leclerc-wm-titel-ganz-nah-a-0ced9638-35c2-497d-8750-301a0bbed86c#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Formel 1 in den USA: Antonelli siegt in Austin – ist aber noch nicht Weltmeister",
+      "link": "https://www.faz.net/aktuell/sport/formel-1/kimi-antonelli-siegt-bei-formel-1-in-austin-ist-aber-noch-nicht-weltmeister-201244824.html"
+     }
+    ]
+   },
+   {
+    "title": "Kreuzfahrtschiff rammt Containerschiffe - neue Sturmflutwarnung",
+    "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
+    "image": "https://images.tagesschau.de/image/2fbc9641-2c16-4fbf-9c94-fa30c59b95f3/AAABoXdBTh4/AAABnSSvrFg/16x9-big/kreuzfahrtschiff-kollision-102.jpg?width=1920",
+    "n_sources": 2,
+    "time": "2026-10-26T14:22:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Kreuzfahrtschiff rammt Containerschiffe - neue Sturmflutwarnung",
+      "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Bremerhaven: Kreuzfahrtschiff von TUI Cruises kollidiert beim Ablegen mit Containerschiffen",
+      "link": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrtschiff-von-tui-cruises-kollidiert-beim-ablegen-mit-containerschiffen-a-77344493-d250-4aa1-b857-e6a854091d48#ref=rss"
      }
     ]
    }
   ],
   "7d": [
    {
-    "title": "Stichwahl um das Präsidentenamt in Brasilien",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672562.html",
-    "image": "https://images.tagesschau.de/image/8b777a5d-0f7a-4194-badd-176c7e1913da/AAABoXVV8zA/AAABnSSvrFg/16x9-big/sendungsbild-1817158.jpg?width=1920",
+    "title": "Daniela Olivares, BR, über die Kritik an Audi-Chef Döllner nach Auftritt im US-Wahlkampf",
+    "link": "https://www.tagesschau.de/video/video-1672834.html",
+    "image": "https://images.tagesschau.de/image/3c923f72-ead0-4f4c-804e-6c94c5aea86c/AAABoXiM1nw/AAABnSSvrFg/16x9-big/sendungsbild-1817398.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-26T05:38:40+00:00",
+    "time": "2026-10-26T14:36:45+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Stichwahl um das Präsidentenamt in Brasilien",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672562.html"
+      "title": "Daniela Olivares, BR, über die Kritik an Audi-Chef Döllner nach Auftritt im US-Wahlkampf",
+      "link": "https://www.tagesschau.de/video/video-1672834.html"
      },
      {
       "name": "Spiegel",
-      "title": "Brasilien: Lula gewinnt Präsidentschaftswahl gegen Flávio Bolsonaro knapp",
-      "link": "https://www.spiegel.de/ausland/brasilien-lula-gewinnt-praesidentschaftswahl-gegen-flavio-bolsonaro-knapp-a-1d4b448a-82dc-403d-8f23-d23f71aa375e#ref=rss"
+      "title": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
+      "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Stichwahl in Brasilien: Lula triumphiert. Doch der Bolsonaro-Clan gibt nicht auf",
-      "link": "https://www.zeit.de/politik/2026-10/stichwahl-brasilien-praesidentschaft-lula-da-silva-flavio-bolsonaro"
+      "title": "Audi-Werk in den USA: VW-Betriebsratschefin findet Auftritt von Döllner bei Trump beschämend",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/audi-gernot-doellner-donald-trump-wahlkampf-usa-gxe"
      },
      {
       "name": "FAZ",
-      "title": "Sieg in Stichwahl: Lula gewinnt Brasiliens Präsidentenwahl",
-      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-knapp-bolsonaro-fordert-annullierung-accg-201620584.html"
+      "title": "nach Auftritt mit Trump: Scharfe Kritik an Audi-Chef",
+      "link": "https://www.faz.net/video/auftritt-mit-trump-scharfe-kritik-an-audi-chef-201622770.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Gernot Döllner: „Verstörend und erbärmlich“: Politiker kritisieren Auftritt des Audi-Chefs bei Donald Trump",
+      "link": "https://www.handelsblatt.com/politik/deutschland/audi-chef-politiker-kritisieren-wahlkampf-auftritt-bei-trump-als-verstoerend/100264950.html"
+     }
+    ]
+   },
+   {
+    "title": "Lula gewinnt Präsidentenwahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+    "link": "https://www.tagesschau.de/video/video-1672794.html",
+    "image": "https://images.tagesschau.de/image/f26e689f-a6cd-4cb0-9392-227fabba4165/AAABoXhZQ9c/AAABnSSvrFg/16x9-big/sendungsbild-1817378.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-26T13:14:42+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Lula gewinnt Präsidentenwahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+      "link": "https://www.tagesschau.de/video/video-1672794.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Brasilien: Wie Lula da Silva überraschend Flávio Bolsonaro besiegte",
+      "link": "https://www.spiegel.de/ausland/brasilien-wie-lula-da-silva-ueberraschend-flavio-bolsonaro-besiegte-a-54205e62-424d-419d-b42b-78fd7a5d236d#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Gegen Rechtsruck in der Region: Brasilien bleibt links: Lula gewinnt Präsidentenwahl",
+      "link": "https://www.zeit.de/news/2026-10/26/kopf-an-kopf-rennen-bei-praesidentenwahl-in-brasilien"
+     },
+     {
+      "name": "FAZ",
+      "title": "Brasilien: Bolsonaro will Wahl anfechten",
+      "link": "https://www.faz.net/video/brasilien-lula-gewinnt-stichwahl-201621621.html"
      },
      {
       "name": "Handelsblatt",
@@ -349,60 +383,31 @@
     ]
    },
    {
-    "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-    "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-    "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920",
+    "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
+    "image": "https://images.tagesschau.de/image/f28ef7d6-f75c-4bad-8385-a567b64dda1d/AAABoXSAUfY/AAABnSSvrFg/16x9-big/sendungsbild-1817092.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-10-26T09:40:00+00:00",
+    "time": "2026-10-26T10:49:24+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
+      "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html"
      },
      {
       "name": "Spiegel",
-      "title": "Bremerhaven: Kreuzfahrt mit der »Mein Schiff 3« nach Kollision abgesagt",
-      "link": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrt-mit-der-mein-schiff-3-nach-kollision-abgesagt-a-bec8865f-4420-4479-9f46-a7b2ae887625#ref=rss"
+      "title": "Schriftsteller Joachim Lottmann ist tot",
+      "link": "https://www.spiegel.de/kultur/literatur/schriftsteller-joachim-lottmann-ist-tot-a-f43f4961-22b2-483a-8569-c4e34e2285e4#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Kreuzfahrtschiff »Mein Schiff 3«: Kreuzfahrtschiff stößt in Bremerhaven mit Containerschiffen zusammen",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/kreuzfahrtschiff-mein-schiff-3-kollision-bremerhaven-tui-cruises"
+      "title": "Joachim Lottmann: Schriftsteller Joachim Lottmann ist tot",
+      "link": "https://www.zeit.de/feuilleton/2026-10/joachim-lottmann-schriftsteller-popliteratur-tot-gxe"
      },
      {
       "name": "FAZ",
-      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
-     }
-    ]
-   },
-   {
-    "title": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
-    "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/bbfd76d2-93b6-4a23-97a7-802cb85bbbef_w520_r2.08_fpx53.32_fpy49.99.jpg",
-    "n_sources": 4,
-    "time": "2026-10-26T07:18:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
-      "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Audi-Werk in den USA: VW-Betriebsratschefin findet Auftritt von Döllner bei Trump beschämend",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/audi-gernot-doellner-donald-trump-wahlkampf-usa-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Fabrik in Georgia: Der Audi-Chef macht sich zu Trumps Wahlhelfer",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-chef-gernot-doellner-als-trumps-wahlkampfhelfer-201619089.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Audi in den USA: Cavallo: Auftritt von Audi-Chef bei Trump ist beschämend",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/audi-in-den-usa-auftritt-von-audi-chef-bei-trump-laut-cavallo-beschaemend/100264879.html"
+      "title": "Im Alter von 70 Jahren: Schriftsteller Joachim Lottmann gestorben",
+      "link": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/popliterat-joachim-lottmann-ist-gestorben-accg-201621375.html"
      }
     ]
    },
@@ -432,6 +437,78 @@
       "name": "Handelsblatt",
       "title": "Venezuela: Oppositionelle Machado kehrt überraschend nach Venezuela zurück",
       "link": "https://www.handelsblatt.com/politik/international/venezuela-oppositionelle-machado-kehrt-ueberraschend-nach-venezuela-zurueck/100264806.html"
+     }
+    ]
+   },
+   {
+    "title": "Bremerhaven: Kreuzfahrt mit der »Mein Schiff 3« nach Kollision abgesagt",
+    "link": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrt-mit-der-mein-schiff-3-nach-kollision-abgesagt-a-bec8865f-4420-4479-9f46-a7b2ae887625#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/bd63186e-1d92-4bfc-a542-dbf00beff9ee_w520_r2.08_fpx41.33_fpy49.99.jpg",
+    "n_sources": 3,
+    "time": "2026-10-26T14:29:20+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "Bremerhaven: Kreuzfahrt mit der »Mein Schiff 3« nach Kollision abgesagt",
+      "link": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrt-mit-der-mein-schiff-3-nach-kollision-abgesagt-a-bec8865f-4420-4479-9f46-a7b2ae887625#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Zusammenstoß in Bremerhaven: «Mein Schiff 3» soll in Werft – Ermittlungen gegen Kapitän",
+      "link": "https://www.zeit.de/news/2026-10/26/kreuzfahrtschiff-rammt-schiffe-polizei-will-informieren"
+     },
+     {
+      "name": "FAZ",
+      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
+     }
+    ]
+   },
+   {
+    "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html",
+    "image": "https://images.tagesschau.de/image/2499f771-a9dd-4a29-8486-7b333fd578cc/AAABoXL_6vU/AAABnSSvrFg/16x9-big/berlin-vergesellschaftungen-100.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-26T12:09:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Berlin: Elif Eralp kritisiert Alexander Dobrindts Pläne gegen Vergesellschaftung als verfassungswidrig",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-elif-eralp-kritisiert-alexander-dobrindts-plaene-gegen-vergesellschaftung-als-verfassungswidrig-a-8a10e6db-ac88-4e97-9d81-286c84d5e070#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Wohnungen: Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "link": "https://www.zeit.de/news/2026-10/25/dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen"
+     }
+    ]
+   },
+   {
+    "title": "Oxford Street in London wird zur Fußgängerzone",
+    "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html",
+    "image": "https://images.tagesschau.de/image/67a76492-56bf-492b-80f9-5555aa3ce687/AAABoXhKpwM/AAABnSSvrFg/16x9-big/fussgaengerzone-london-104.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-26T10:27:47+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Oxford Street in London wird zur Fußgängerzone",
+      "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Umbau zur Fußgängerzone: London verbannt Autos aus der Oxford Street",
+      "link": "https://www.spiegel.de/wirtschaft/umbau-zur-fussgaengerzone-london-verbannt-autos-aus-der-oxford-street-a-ba746ffb-aca3-43af-aaa9-9bcd4857ab70#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Shoppingmeile: Londoner Oxford Street wird zur Fußgängerzone",
+      "link": "https://www.faz.net/aktuell/gesellschaft/londons-oxford-street-wird-zur-fussgaengerzone-accg-201620713.html"
      }
     ]
    },
@@ -482,66 +559,54 @@
       "link": "https://www.faz.net/aktuell/sport/fussball/bundesliga/eintracht-braunschweig-gegen-hannover-96-reaktion-auf-pyro-randale-201620214.html"
      }
     ]
-   },
+   }
+  ],
+  "30d": [
    {
-    "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html",
-    "image": "https://images.tagesschau.de/image/64bf57c9-7695-4eaa-8369-d62730bb5988/AAABoW_LNhk/AAABnSSvrFg/16x9-big/sendungsbild-1816732.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T23:29:26+00:00",
+    "title": "Daniela Olivares, BR, über die Kritik an Audi-Chef Döllner nach Auftritt im US-Wahlkampf",
+    "link": "https://www.tagesschau.de/video/video-1672834.html",
+    "image": "https://images.tagesschau.de/image/3c923f72-ead0-4f4c-804e-6c94c5aea86c/AAABoXiM1nw/AAABnSSvrFg/16x9-big/sendungsbild-1817398.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-26T14:36:45+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html"
-     },
-     {
-      "name": "FAZ",
-      "title": "Unruhen: Die gescheiterte Integration in Frankreich",
-      "link": "https://www.faz.net/aktuell/politik/ausland/die-unruhen-in-frankreich-sind-kein-zufall-die-integration-ist-gescheitert-201599861.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Gen-Z-Proteste: Politiker warnen vor „Gewaltexzessen“ in deutschen Städten wie in Frankreich",
-      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-proteste-politiker-warnen-vor-gewaltexzessen-wie-in-frankreich/100264821.html"
-     }
-    ]
-   },
-   {
-    "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-    "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
-    "image": "https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T14:57:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html"
+      "title": "Daniela Olivares, BR, über die Kritik an Audi-Chef Döllner nach Auftritt im US-Wahlkampf",
+      "link": "https://www.tagesschau.de/video/video-1672834.html"
      },
      {
       "name": "Spiegel",
-      "title": "Ukraine: Elon Musk wirft Kyjiw Missbrauch von Starlink-Satelliten vor",
-      "link": "https://www.spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor-a-042c1f86-3094-4a33-9fbc-c6e1b057e1e9#ref=rss"
+      "title": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
+      "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Audi-Werk in den USA: VW-Betriebsratschefin findet Auftritt von Döllner bei Trump beschämend",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/audi-gernot-doellner-donald-trump-wahlkampf-usa-gxe"
+     },
+     {
+      "name": "FAZ",
+      "title": "nach Auftritt mit Trump: Scharfe Kritik an Audi-Chef",
+      "link": "https://www.faz.net/video/auftritt-mit-trump-scharfe-kritik-an-audi-chef-201622770.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Ukraine weist Vorwürfe von Musk zu Starlink-Nutzung für Offensivangriffe zurück",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-ukraine-weist-vorwuerfe-von-musk-zu-starlink-nutzung-zurueck/27982126.html"
+      "title": "Gernot Döllner: „Verstörend und erbärmlich“: Politiker kritisieren Auftritt des Audi-Chefs bei Donald Trump",
+      "link": "https://www.handelsblatt.com/politik/deutschland/audi-chef-politiker-kritisieren-wahlkampf-auftritt-bei-trump-als-verstoerend/100264950.html"
      }
     ]
    },
    {
-    "title": "Lula gewinnt Wahl in Brasilien",
-    "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
-    "image": "https://images.tagesschau.de/image/ba76c763-2b5a-4960-9f74-e00636121b6b/AAABoXWmDPE/AAABnSSvrFg/16x9-big/lula-232.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-26T06:22:00+00:00",
+    "title": "Lula gewinnt Präsidentenwahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+    "link": "https://www.tagesschau.de/video/video-1672794.html",
+    "image": "https://images.tagesschau.de/image/f26e689f-a6cd-4cb0-9392-227fabba4165/AAABoXhZQ9c/AAABnSSvrFg/16x9-big/sendungsbild-1817378.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-26T13:14:42+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Lula gewinnt Wahl in Brasilien",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+      "title": "Lula gewinnt Präsidentenwahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+      "link": "https://www.tagesschau.de/video/video-1672794.html"
      },
      {
       "name": "Spiegel",
@@ -549,40 +614,14 @@
       "link": "https://www.spiegel.de/ausland/brasilien-wie-lula-da-silva-ueberraschend-flavio-bolsonaro-besiegte-a-54205e62-424d-419d-b42b-78fd7a5d236d#ref=rss"
      },
      {
-      "name": "FAZ",
-      "title": "Brasilien: Flávio Bolsonaro fordert Annullierung der Wahl",
-      "link": "https://www.faz.net/aktuell/flavio-bolsonaro-will-stichwahl-in-brasilien-annullieren-lassen-accg-201620649.html"
-     }
-    ]
-   }
-  ],
-  "30d": [
-   {
-    "title": "Stichwahl um das Präsidentenamt in Brasilien",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672562.html",
-    "image": "https://images.tagesschau.de/image/8b777a5d-0f7a-4194-badd-176c7e1913da/AAABoXVV8zA/AAABnSSvrFg/16x9-big/sendungsbild-1817158.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-26T05:38:40+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Stichwahl um das Präsidentenamt in Brasilien",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672562.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Brasilien: Lula gewinnt Präsidentschaftswahl gegen Flávio Bolsonaro knapp",
-      "link": "https://www.spiegel.de/ausland/brasilien-lula-gewinnt-praesidentschaftswahl-gegen-flavio-bolsonaro-knapp-a-1d4b448a-82dc-403d-8f23-d23f71aa375e#ref=rss"
-     },
-     {
       "name": "Zeit Online",
-      "title": "Stichwahl in Brasilien: Lula triumphiert. Doch der Bolsonaro-Clan gibt nicht auf",
-      "link": "https://www.zeit.de/politik/2026-10/stichwahl-brasilien-praesidentschaft-lula-da-silva-flavio-bolsonaro"
+      "title": "Gegen Rechtsruck in der Region: Brasilien bleibt links: Lula gewinnt Präsidentenwahl",
+      "link": "https://www.zeit.de/news/2026-10/26/kopf-an-kopf-rennen-bei-praesidentenwahl-in-brasilien"
      },
      {
       "name": "FAZ",
-      "title": "Sieg in Stichwahl: Lula gewinnt Brasiliens Präsidentenwahl",
-      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-knapp-bolsonaro-fordert-annullierung-accg-201620584.html"
+      "title": "Brasilien: Bolsonaro will Wahl anfechten",
+      "link": "https://www.faz.net/video/brasilien-lula-gewinnt-stichwahl-201621621.html"
      },
      {
       "name": "Handelsblatt",
@@ -626,60 +665,31 @@
     ]
    },
    {
-    "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-    "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-    "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920",
+    "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
+    "image": "https://images.tagesschau.de/image/f28ef7d6-f75c-4bad-8385-a567b64dda1d/AAABoXSAUfY/AAABnSSvrFg/16x9-big/sendungsbild-1817092.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-10-26T09:40:00+00:00",
+    "time": "2026-10-26T10:49:24+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
+      "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html"
      },
      {
       "name": "Spiegel",
-      "title": "Bremerhaven: Kreuzfahrt mit der »Mein Schiff 3« nach Kollision abgesagt",
-      "link": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrt-mit-der-mein-schiff-3-nach-kollision-abgesagt-a-bec8865f-4420-4479-9f46-a7b2ae887625#ref=rss"
+      "title": "Schriftsteller Joachim Lottmann ist tot",
+      "link": "https://www.spiegel.de/kultur/literatur/schriftsteller-joachim-lottmann-ist-tot-a-f43f4961-22b2-483a-8569-c4e34e2285e4#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Kreuzfahrtschiff »Mein Schiff 3«: Kreuzfahrtschiff stößt in Bremerhaven mit Containerschiffen zusammen",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/kreuzfahrtschiff-mein-schiff-3-kollision-bremerhaven-tui-cruises"
+      "title": "Joachim Lottmann: Schriftsteller Joachim Lottmann ist tot",
+      "link": "https://www.zeit.de/feuilleton/2026-10/joachim-lottmann-schriftsteller-popliteratur-tot-gxe"
      },
      {
       "name": "FAZ",
-      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
-     }
-    ]
-   },
-   {
-    "title": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
-    "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/bbfd76d2-93b6-4a23-97a7-802cb85bbbef_w520_r2.08_fpx53.32_fpy49.99.jpg",
-    "n_sources": 4,
-    "time": "2026-10-26T07:18:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
-      "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Audi-Werk in den USA: VW-Betriebsratschefin findet Auftritt von Döllner bei Trump beschämend",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/audi-gernot-doellner-donald-trump-wahlkampf-usa-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Fabrik in Georgia: Der Audi-Chef macht sich zu Trumps Wahlhelfer",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-chef-gernot-doellner-als-trumps-wahlkampfhelfer-201619089.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Audi in den USA: Cavallo: Auftritt von Audi-Chef bei Trump ist beschämend",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/audi-in-den-usa-auftritt-von-audi-chef-bei-trump-laut-cavallo-beschaemend/100264879.html"
+      "title": "Im Alter von 70 Jahren: Schriftsteller Joachim Lottmann gestorben",
+      "link": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/popliterat-joachim-lottmann-ist-gestorben-accg-201621375.html"
      }
     ]
    },
@@ -709,6 +719,30 @@
       "name": "Handelsblatt",
       "title": "Venezuela: Oppositionelle Machado kehrt überraschend nach Venezuela zurück",
       "link": "https://www.handelsblatt.com/politik/international/venezuela-oppositionelle-machado-kehrt-ueberraschend-nach-venezuela-zurueck/100264806.html"
+     }
+    ]
+   },
+   {
+    "title": "Bremerhaven: Kreuzfahrt mit der »Mein Schiff 3« nach Kollision abgesagt",
+    "link": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrt-mit-der-mein-schiff-3-nach-kollision-abgesagt-a-bec8865f-4420-4479-9f46-a7b2ae887625#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/bd63186e-1d92-4bfc-a542-dbf00beff9ee_w520_r2.08_fpx41.33_fpy49.99.jpg",
+    "n_sources": 3,
+    "time": "2026-10-26T14:29:20+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "Bremerhaven: Kreuzfahrt mit der »Mein Schiff 3« nach Kollision abgesagt",
+      "link": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrt-mit-der-mein-schiff-3-nach-kollision-abgesagt-a-bec8865f-4420-4479-9f46-a7b2ae887625#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Zusammenstoß in Bremerhaven: «Mein Schiff 3» soll in Werft – Ermittlungen gegen Kapitän",
+      "link": "https://www.zeit.de/news/2026-10/26/kreuzfahrtschiff-rammt-schiffe-polizei-will-informieren"
+     },
+     {
+      "name": "FAZ",
+      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
      }
     ]
    },
@@ -785,50 +819,26 @@
     ]
    },
    {
-    "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html",
-    "image": "https://images.tagesschau.de/image/64bf57c9-7695-4eaa-8369-d62730bb5988/AAABoW_LNhk/AAABnSSvrFg/16x9-big/sendungsbild-1816732.jpg?width=1920",
+    "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html",
+    "image": "https://images.tagesschau.de/image/2499f771-a9dd-4a29-8486-7b333fd578cc/AAABoXL_6vU/AAABnSSvrFg/16x9-big/berlin-vergesellschaftungen-100.jpg?width=1920",
     "n_sources": 3,
-    "time": "2026-10-25T23:29:26+00:00",
+    "time": "2026-10-26T12:09:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html"
-     },
-     {
-      "name": "FAZ",
-      "title": "Unruhen: Die gescheiterte Integration in Frankreich",
-      "link": "https://www.faz.net/aktuell/politik/ausland/die-unruhen-in-frankreich-sind-kein-zufall-die-integration-ist-gescheitert-201599861.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Gen-Z-Proteste: Politiker warnen vor „Gewaltexzessen“ in deutschen Städten wie in Frankreich",
-      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-proteste-politiker-warnen-vor-gewaltexzessen-wie-in-frankreich/100264821.html"
-     }
-    ]
-   },
-   {
-    "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
-    "image": "https://images.tagesschau.de/image/f28ef7d6-f75c-4bad-8385-a567b64dda1d/AAABoXSAUfY/AAABnSSvrFg/16x9-big/sendungsbild-1817092.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T19:19:22+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html"
+      "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Hanni Vanhaiden ist tot: NDR-Fernsehansagerin mit 88 Jahren gestorben",
-      "link": "https://www.spiegel.de/kultur/tv/hanni-vanhaiden-ist-tot-ndr-fernsehansagerin-mit-88-jahren-gestorben-a-cd261d76-67b5-4cec-98fa-ee216a0e448b#ref=rss"
+      "title": "Berlin: Elif Eralp kritisiert Alexander Dobrindts Pläne gegen Vergesellschaftung als verfassungswidrig",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-elif-eralp-kritisiert-alexander-dobrindts-plaene-gegen-vergesellschaftung-als-verfassungswidrig-a-8a10e6db-ac88-4e97-9d81-286c84d5e070#ref=rss"
      },
      {
-      "name": "FAZ",
-      "title": "Im alter von 88 Jahren: NDR-Fernsehansagerin Hanni Vanhaiden gestorben",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/hanni-vanhaiden-ehemalige-fernsehansagerin-im-alter-von-88-jahren-gestorben-201620299.html"
+      "name": "Zeit Online",
+      "title": "Wohnungen: Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "link": "https://www.zeit.de/news/2026-10/25/dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen"
      }
     ]
    }
@@ -838,6 +848,34 @@
   "de": {
    "24h": [
     {
+     "title": "Finanzchef24: Vergleich von Gewerbeversicherungen per KI‑Dialog",
+     "link": "https://www.it-finanzmagazin.de/finanzchef24-vergleich-von-gewerbeversicherungen-per-ki-dialog-252909/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-26T14:09:59+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Finanzchef24: Vergleich von Gewerbeversicherungen per KI‑Dialog",
+       "link": "https://www.it-finanzmagazin.de/finanzchef24-vergleich-von-gewerbeversicherungen-per-ki-dialog-252909/"
+      }
+     ]
+    },
+    {
+     "title": "Steuerung von KI-Agenten wird zur Herausforderung für Versicherungskernsysteme",
+     "link": "https://www.it-finanzmagazin.de/steuerung-von-ki-agenten-wird-zur-herausforderung-fuer-versicherungskernsysteme-252878/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-26T13:26:01+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Steuerung von KI-Agenten wird zur Herausforderung für Versicherungskernsysteme",
+       "link": "https://www.it-finanzmagazin.de/steuerung-von-ki-agenten-wird-zur-herausforderung-fuer-versicherungskernsysteme-252878/"
+      }
+     ]
+    },
+    {
      "title": "Drei Schreibweisen, ein Kunde: Warum Agenten falsch rechnen",
      "link": "https://www.it-finanzmagazin.de/drei-schreibweisen-ein-kunde-warum-ki-agenten-falsch-rechnen-252294/",
      "image": "",
@@ -868,6 +906,34 @@
    ],
    "7d": [
     {
+     "title": "Finanzchef24: Vergleich von Gewerbeversicherungen per KI‑Dialog",
+     "link": "https://www.it-finanzmagazin.de/finanzchef24-vergleich-von-gewerbeversicherungen-per-ki-dialog-252909/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-26T14:09:59+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Finanzchef24: Vergleich von Gewerbeversicherungen per KI‑Dialog",
+       "link": "https://www.it-finanzmagazin.de/finanzchef24-vergleich-von-gewerbeversicherungen-per-ki-dialog-252909/"
+      }
+     ]
+    },
+    {
+     "title": "Steuerung von KI-Agenten wird zur Herausforderung für Versicherungskernsysteme",
+     "link": "https://www.it-finanzmagazin.de/steuerung-von-ki-agenten-wird-zur-herausforderung-fuer-versicherungskernsysteme-252878/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-26T13:26:01+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Steuerung von KI-Agenten wird zur Herausforderung für Versicherungskernsysteme",
+       "link": "https://www.it-finanzmagazin.de/steuerung-von-ki-agenten-wird-zur-herausforderung-fuer-versicherungskernsysteme-252878/"
+      }
+     ]
+    },
+    {
      "title": "Drei Schreibweisen, ein Kunde: Warum Agenten falsch rechnen",
      "link": "https://www.it-finanzmagazin.de/drei-schreibweisen-ein-kunde-warum-ki-agenten-falsch-rechnen-252294/",
      "image": "",
@@ -976,40 +1042,40 @@
        "name": "IT-Finanzmagazin",
        "title": "G+D Ventures investiert in europäischen Cloud-Anbieter Impossible Cloud",
        "link": "https://www.it-finanzmagazin.de/gd-ventures-investiert-in-europaeischen-cloudanbieter-impossible-cloud-252679/"
-      }
-     ]
-    },
-    {
-     "title": "Umweltbank setzt auf Sprach-KI: 40 Anliegen erkennen, Anrufe gezielt weiterleiten",
-     "link": "https://www.it-finanzmagazin.de/umweltbank-setzt-auf-sprach-ki-40-anliegen-erkennen-anrufe-gezielt-weiterleiten-252675/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-22T07:00:46+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Umweltbank setzt auf Sprach-KI: 40 Anliegen erkennen, Anrufe gezielt weiterleiten",
-       "link": "https://www.it-finanzmagazin.de/umweltbank-setzt-auf-sprach-ki-40-anliegen-erkennen-anrufe-gezielt-weiterleiten-252675/"
-      }
-     ]
-    },
-    {
-     "title": "Fintech Qivalis erhält Zulassung als E-Geld-Institut",
-     "link": "https://www.it-finanzmagazin.de/fintech-qivalis-erhaelt-zulassung-als-e-geld-institut-252485/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-22T06:00:57+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Fintech Qivalis erhält Zulassung als E-Geld-Institut",
-       "link": "https://www.it-finanzmagazin.de/fintech-qivalis-erhaelt-zulassung-als-e-geld-institut-252485/"
       }
      ]
     }
    ],
    "30d": [
     {
+     "title": "Finanzchef24: Vergleich von Gewerbeversicherungen per KI‑Dialog",
+     "link": "https://www.it-finanzmagazin.de/finanzchef24-vergleich-von-gewerbeversicherungen-per-ki-dialog-252909/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-26T14:09:59+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Finanzchef24: Vergleich von Gewerbeversicherungen per KI‑Dialog",
+       "link": "https://www.it-finanzmagazin.de/finanzchef24-vergleich-von-gewerbeversicherungen-per-ki-dialog-252909/"
+      }
+     ]
+    },
+    {
+     "title": "Steuerung von KI-Agenten wird zur Herausforderung für Versicherungskernsysteme",
+     "link": "https://www.it-finanzmagazin.de/steuerung-von-ki-agenten-wird-zur-herausforderung-fuer-versicherungskernsysteme-252878/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-26T13:26:01+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Steuerung von KI-Agenten wird zur Herausforderung für Versicherungskernsysteme",
+       "link": "https://www.it-finanzmagazin.de/steuerung-von-ki-agenten-wird-zur-herausforderung-fuer-versicherungskernsysteme-252878/"
+      }
+     ]
+    },
+    {
      "title": "Drei Schreibweisen, ein Kunde: Warum Agenten falsch rechnen",
      "link": "https://www.it-finanzmagazin.de/drei-schreibweisen-ein-kunde-warum-ki-agenten-falsch-rechnen-252294/",
      "image": "",
@@ -1118,34 +1184,6 @@
        "name": "IT-Finanzmagazin",
        "title": "G+D Ventures investiert in europäischen Cloud-Anbieter Impossible Cloud",
        "link": "https://www.it-finanzmagazin.de/gd-ventures-investiert-in-europaeischen-cloudanbieter-impossible-cloud-252679/"
-      }
-     ]
-    },
-    {
-     "title": "Umweltbank setzt auf Sprach-KI: 40 Anliegen erkennen, Anrufe gezielt weiterleiten",
-     "link": "https://www.it-finanzmagazin.de/umweltbank-setzt-auf-sprach-ki-40-anliegen-erkennen-anrufe-gezielt-weiterleiten-252675/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-22T07:00:46+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Umweltbank setzt auf Sprach-KI: 40 Anliegen erkennen, Anrufe gezielt weiterleiten",
-       "link": "https://www.it-finanzmagazin.de/umweltbank-setzt-auf-sprach-ki-40-anliegen-erkennen-anrufe-gezielt-weiterleiten-252675/"
-      }
-     ]
-    },
-    {
-     "title": "Fintech Qivalis erhält Zulassung als E-Geld-Institut",
-     "link": "https://www.it-finanzmagazin.de/fintech-qivalis-erhaelt-zulassung-als-e-geld-institut-252485/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-22T06:00:57+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Fintech Qivalis erhält Zulassung als E-Geld-Institut",
-       "link": "https://www.it-finanzmagazin.de/fintech-qivalis-erhaelt-zulassung-als-e-geld-institut-252485/"
       }
      ]
     }
@@ -1154,148 +1192,64 @@
   "eu": {
    "24h": [
     {
-     "title": "Mind the gap: What’s missing from modern resilience?",
-     "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "title": "NextGen Nordics 2027: Who controls the future of payments?",
+     "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-26T11:00:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Mind the gap: What’s missing from modern resilience?",
-       "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "NextGen Nordics 2027: Who controls the future of payments?",
+       "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "How acquirers are commercialising fraud intelligence",
-     "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "title": "How Do US And UK Real-Time Payment Models Actually Compare?",
+     "link": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-26T11:00:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "How acquirers are commercialising fraud intelligence",
-       "link": "https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Cross-border payments: How banks can close the corporate service gap",
-     "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Cross-border payments: How banks can close the corporate service gap",
-       "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Is Europe ready to embrace stablecoins?",
-     "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Is Europe ready to embrace stablecoins?",
-       "link": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Beyond fraud detection: Why dispute management needs an overhaul",
-     "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Beyond fraud detection: Why dispute management needs an overhaul",
-       "link": "https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
-     "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
-       "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "What defines the issuer of tomorrow?",
-     "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "What defines the issuer of tomorrow?",
-       "link": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
-     "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
-       "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-     "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-       "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "An industry in motion: Why real-time becomes the foundation for everything in 2027",
-     "link": "https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "An industry in motion: Why real-time becomes the foundation for everything in 2027",
-       "link": "https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "How Do US And UK Real-Time Payment Models Actually Compare?",
+       "link": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     }
    ],
    "7d": [
     {
+     "title": "NextGen Nordics 2027: Who controls the future of payments?",
+     "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-26T11:00:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "NextGen Nordics 2027: Who controls the future of payments?",
+       "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
+      }
+     ]
+    },
+    {
+     "title": "How Do US And UK Real-Time Payment Models Actually Compare?",
+     "link": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-26T11:00:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "How Do US And UK Real-Time Payment Models Actually Compare?",
+       "link": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare?utm_medium=rssfinextra&utm_source=finextrafeed"
+      }
+     ]
+    },
+    {
      "title": "Cross-border payments: How banks can close the corporate service gap",
      "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1306,20 +1260,6 @@
        "name": "Finextra",
        "title": "Cross-border payments: How banks can close the corporate service gap",
        "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Who controls payment initiation? The battle for the future of payments",
-     "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Who controls payment initiation? The battle for the future of payments",
-       "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
@@ -1418,20 +1358,6 @@
        "name": "Finextra",
        "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
        "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-     "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-       "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     }
@@ -1452,16 +1378,30 @@
      ]
     },
     {
-     "title": "Who controls payment initiation? The battle for the future of payments",
-     "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "title": "NextGen Nordics 2027: Who controls the future of payments?",
+     "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-26T11:00:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Who controls payment initiation? The battle for the future of payments",
-       "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "NextGen Nordics 2027: Who controls the future of payments?",
+       "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
+      }
+     ]
+    },
+    {
+     "title": "How Do US And UK Real-Time Payment Models Actually Compare?",
+     "link": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-26T11:00:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "How Do US And UK Real-Time Payment Models Actually Compare?",
+       "link": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
@@ -1560,20 +1500,6 @@
        "name": "Finextra",
        "title": "Self-service, AI-enabled payments: Putting corporates in control of exceptions",
        "link": "https://www.finextra.com/event-info/644/self-service-ai-enabled-payments-putting-corporates-in-control-of-exceptions?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
-    },
-    {
-     "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-     "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Financial messaging at a tipping point: A blueprint for modern platforms",
-       "link": "https://www.finextra.com/event-info/647/financial-messaging-at-a-tipping-point-a-blueprint-for-modern-platforms?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     }
@@ -1582,142 +1508,142 @@
   "world": {
    "24h": [
     {
-     "title": "The B2B payment stack wasn’t built for how businesses pay now",
-     "link": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/",
+     "title": "Anthropic Files IPO Showing $16.3 Billion Six-Month Revenue and $80.7 Billion Net Loss",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-files-ipo-showing-16-3-billion-six-month-revenue-and-80-7-billion-net-loss/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/05/Anthropic.jpeg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-26T14:44:03+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Anthropic Files IPO Showing $16.3 Billion Six-Month Revenue and $80.7 Billion Net Loss",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-files-ipo-showing-16-3-billion-six-month-revenue-and-80-7-billion-net-loss/"
+      }
+     ]
+    },
+    {
+     "title": "Japan tells banks to review cyber policies following wave of attacks",
+     "link": "https://www.finextra.com/newsarticle/48646/japan-tells-banks-to-review-cyber-policies-following-wave-of-attacks?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T09:00:00+00:00",
+     "time": "2026-10-26T14:10:00+00:00",
      "sources": [
       {
-       "name": "Payments Dive",
-       "title": "The B2B payment stack wasn’t built for how businesses pay now",
-       "link": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/"
+       "name": "Finextra",
+       "title": "Japan tells banks to review cyber policies following wave of attacks",
+       "link": "https://www.finextra.com/newsarticle/48646/japan-tells-banks-to-review-cyber-policies-following-wave-of-attacks?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "1 ring, 500 accounts: Why fraud signals need to travel",
-     "link": "https://www.paymentsdive.com/spons/1-ring-500-accounts-why-fraud-signals-need-to-travel/833146/",
+     "title": "Revolut Expands UK Banking Business With Personal Loans",
+     "link": "https://www.pymnts.com/personal-loans/2026/revolut-expands-united-kingdom-banking-business-with-personal-loans/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/01/Revolut.png?w=457&quality=82",
+     "n_sources": 1,
+     "time": "2026-10-26T13:46:30+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Revolut Expands UK Banking Business With Personal Loans",
+       "link": "https://www.pymnts.com/personal-loans/2026/revolut-expands-united-kingdom-banking-business-with-personal-loans/"
+      }
+     ]
+    },
+    {
+     "title": "Barclays names Anita Tanna chief AI officer",
+     "link": "https://www.finextra.com/newsarticle/48645/barclays-names-anita-tanna-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T09:00:00+00:00",
+     "time": "2026-10-26T13:38:00+00:00",
      "sources": [
       {
-       "name": "Payments Dive",
-       "title": "1 ring, 500 accounts: Why fraud signals need to travel",
-       "link": "https://www.paymentsdive.com/spons/1-ring-500-accounts-why-fraud-signals-need-to-travel/833146/"
+       "name": "Finextra",
+       "title": "Barclays names Anita Tanna chief AI officer",
+       "link": "https://www.finextra.com/newsarticle/48645/barclays-names-anita-tanna-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "Who’s Responsible When AI Agents Go Rogue?",
-     "link": "https://www.pymnts.com/cybersecurity/2026/whos-responsible-when-ai-agents-go-rogue/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB1-Need-to-Know-.D.-Salbego-Founder-CEO-ClawSecure.png?w=457&quality=82",
+     "title": "Electrum Wallet Bug Tricks Users Into Signing Over Payments",
+     "link": "https://www.pymnts.com/cryptocurrency/2026/electrum-wallet-bug-tricks-users-into-signing-over-payments/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2020/05/fraud-cryptocurrency-dark-web-bitcoin.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-26T08:03:23+00:00",
+     "time": "2026-10-26T12:58:49+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Who’s Responsible When AI Agents Go Rogue?",
-       "link": "https://www.pymnts.com/cybersecurity/2026/whos-responsible-when-ai-agents-go-rogue/"
+       "title": "Electrum Wallet Bug Tricks Users Into Signing Over Payments",
+       "link": "https://www.pymnts.com/cryptocurrency/2026/electrum-wallet-bug-tricks-users-into-signing-over-payments/"
       }
      ]
     },
     {
-     "title": "AI Shoppers Emerge as Distinct UAE Customer Segment",
-     "link": "https://www.pymnts.com/commerce/ecommerce/2026/ai-shoppers-emerge-as-distinct-uae-customer-segment/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB3-UAE-AI-shoppers-1.jpg?w=457",
+     "title": "Tech Mahindra and Mastercard team on embedded B2B payments",
+     "link": "https://www.finextra.com/pressarticle/111438/tech-mahindra-and-mastercard-team-on-embedded-b2b-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T08:01:18+00:00",
+     "time": "2026-10-26T12:20:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "AI Shoppers Emerge as Distinct UAE Customer Segment",
-       "link": "https://www.pymnts.com/commerce/ecommerce/2026/ai-shoppers-emerge-as-distinct-uae-customer-segment/"
+       "name": "Finextra",
+       "title": "Tech Mahindra and Mastercard team on embedded B2B payments",
+       "link": "https://www.finextra.com/pressarticle/111438/tech-mahindra-and-mastercard-team-on-embedded-b2b-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "Retailers See Declined Payments but Miss the Second Chance to Save the Sale",
-     "link": "https://www.pymnts.com/news/payment-methods/2026/retailers-see-declined-payments-but-miss-the-second-chance-to-save-the-sale/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB4-failed-payment-second-chance-1.png?w=457&quality=82",
+     "title": "Broadridge appoints Ervin Zaljević director, regulatory solutions in Luxembourg",
+     "link": "https://www.finextra.com/pressarticle/111437/broadridge-appoints-ervin-zaljevi-director-regulatory-solutions-in-luxembourg?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T08:00:58+00:00",
+     "time": "2026-10-26T12:18:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "Retailers See Declined Payments but Miss the Second Chance to Save the Sale",
-       "link": "https://www.pymnts.com/news/payment-methods/2026/retailers-see-declined-payments-but-miss-the-second-chance-to-save-the-sale/"
+       "name": "Finextra",
+       "title": "Broadridge appoints Ervin Zaljević director, regulatory solutions in Luxembourg",
+       "link": "https://www.finextra.com/pressarticle/111437/broadridge-appoints-ervin-zaljevi-director-regulatory-solutions-in-luxembourg?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "Parents Split on What Makes Buy Now, Pay Later Options Attractive",
-     "link": "https://www.pymnts.com/bnpl/2026/parents-split-on-what-makes-buy-now-pay-later-options-attractive/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB6for10.26-pay-later-family-budgets.png?w=457&quality=82",
+     "title": "Canadian credit union Vancity selects Temenos SaaS",
+     "link": "https://www.finextra.com/pressarticle/111435/canadian-credit-union-vancity-selects-temenos-saas?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T08:00:01+00:00",
+     "time": "2026-10-26T12:11:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "Parents Split on What Makes Buy Now, Pay Later Options Attractive",
-       "link": "https://www.pymnts.com/bnpl/2026/parents-split-on-what-makes-buy-now-pay-later-options-attractive/"
+       "name": "Finextra",
+       "title": "Canadian credit union Vancity selects Temenos SaaS",
+       "link": "https://www.finextra.com/pressarticle/111435/canadian-credit-union-vancity-selects-temenos-saas?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "AI Agents Take On Healthcare’s Paperwork So Doctors Can Focus on Patients",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-on-healthcares-paperwork-so-doctors-can-focus-on-patients/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB5-Prompt-Econ-AI-healthcare-1.jpg?w=457",
+     "title": "Is it time up for humans when it comes to financial modelling in the age of AI?",
+     "link": "https://www.finextra.com/blogposting/33300/is-it-time-up-for-humans-when-it-comes-to-financial-modelling-in-the-age-of-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T08:00:00+00:00",
+     "time": "2026-10-26T11:41:06+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "AI Agents Take On Healthcare’s Paperwork So Doctors Can Focus on Patients",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-on-healthcares-paperwork-so-doctors-can-focus-on-patients/"
+       "name": "Finextra",
+       "title": "Is it time up for humans when it comes to financial modelling in the age of AI?",
+       "link": "https://www.finextra.com/blogposting/33300/is-it-time-up-for-humans-when-it-comes-to-financial-modelling-in-the-age-of-ai?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "Walmart Takes On Prime With $120 Subscription Bundle",
-     "link": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Walmart-Sams-Club-subscription-1.jpg?w=457",
+     "title": "Paymentology expands partnership with South African fintech Mukuru, moves into everyday banking",
+     "link": "https://www.finextra.com/pressarticle/111434/paymentology-expands-partnership-with-south-african-fintech-mukuru-moves-into-everyday-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T01:16:52+00:00",
+     "time": "2026-10-26T11:31:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "Walmart Takes On Prime With $120 Subscription Bundle",
-       "link": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/"
-      }
-     ]
-    },
-    {
-     "title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apollo-says-ai-has-shown-zero-payoff-outside-tech/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Apollo-AI-investment-1.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-26T00:48:38+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apollo-says-ai-has-shown-zero-payoff-outside-tech/"
-      }
-     ]
-    },
-    {
-     "title": "Wonder Plans IPO and Aims to Be Fully Autonomous by 2040",
-     "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Wonder-IPO-1.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-26T00:26:09+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Wonder Plans IPO and Aims to Be Fully Autonomous by 2040",
-       "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/"
+       "name": "Finextra",
+       "title": "Paymentology expands partnership with South African fintech Mukuru, moves into everyday banking",
+       "link": "https://www.finextra.com/pressarticle/111434/paymentology-expands-partnership-with-south-african-fintech-mukuru-moves-into-everyday-banking?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     }
@@ -1762,114 +1688,114 @@
      ]
     },
     {
-     "title": "The B2B payment stack wasn’t built for how businesses pay now",
-     "link": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/",
+     "title": "NextGen Nordics 2027: Who controls the future of payments?",
+     "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T09:00:00+00:00",
+     "time": "2026-10-26T11:00:00+00:00",
      "sources": [
       {
-       "name": "Payments Dive",
-       "title": "The B2B payment stack wasn’t built for how businesses pay now",
-       "link": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/"
+       "name": "Finextra",
+       "title": "NextGen Nordics 2027: Who controls the future of payments?",
+       "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "1 ring, 500 accounts: Why fraud signals need to travel",
-     "link": "https://www.paymentsdive.com/spons/1-ring-500-accounts-why-fraud-signals-need-to-travel/833146/",
+     "title": "Anthropic Files IPO Showing $16.3 Billion Six-Month Revenue and $80.7 Billion Net Loss",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-files-ipo-showing-16-3-billion-six-month-revenue-and-80-7-billion-net-loss/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/05/Anthropic.jpeg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-26T14:44:03+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Anthropic Files IPO Showing $16.3 Billion Six-Month Revenue and $80.7 Billion Net Loss",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-files-ipo-showing-16-3-billion-six-month-revenue-and-80-7-billion-net-loss/"
+      }
+     ]
+    },
+    {
+     "title": "Japan tells banks to review cyber policies following wave of attacks",
+     "link": "https://www.finextra.com/newsarticle/48646/japan-tells-banks-to-review-cyber-policies-following-wave-of-attacks?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T09:00:00+00:00",
+     "time": "2026-10-26T14:10:00+00:00",
      "sources": [
       {
-       "name": "Payments Dive",
-       "title": "1 ring, 500 accounts: Why fraud signals need to travel",
-       "link": "https://www.paymentsdive.com/spons/1-ring-500-accounts-why-fraud-signals-need-to-travel/833146/"
+       "name": "Finextra",
+       "title": "Japan tells banks to review cyber policies following wave of attacks",
+       "link": "https://www.finextra.com/newsarticle/48646/japan-tells-banks-to-review-cyber-policies-following-wave-of-attacks?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "Who’s Responsible When AI Agents Go Rogue?",
-     "link": "https://www.pymnts.com/cybersecurity/2026/whos-responsible-when-ai-agents-go-rogue/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB1-Need-to-Know-.D.-Salbego-Founder-CEO-ClawSecure.png?w=457&quality=82",
+     "title": "Revolut Expands UK Banking Business With Personal Loans",
+     "link": "https://www.pymnts.com/personal-loans/2026/revolut-expands-united-kingdom-banking-business-with-personal-loans/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/01/Revolut.png?w=457&quality=82",
      "n_sources": 1,
-     "time": "2026-10-26T08:03:23+00:00",
+     "time": "2026-10-26T13:46:30+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Who’s Responsible When AI Agents Go Rogue?",
-       "link": "https://www.pymnts.com/cybersecurity/2026/whos-responsible-when-ai-agents-go-rogue/"
+       "title": "Revolut Expands UK Banking Business With Personal Loans",
+       "link": "https://www.pymnts.com/personal-loans/2026/revolut-expands-united-kingdom-banking-business-with-personal-loans/"
       }
      ]
     },
     {
-     "title": "AI Shoppers Emerge as Distinct UAE Customer Segment",
-     "link": "https://www.pymnts.com/commerce/ecommerce/2026/ai-shoppers-emerge-as-distinct-uae-customer-segment/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB3-UAE-AI-shoppers-1.jpg?w=457",
+     "title": "Barclays names Anita Tanna chief AI officer",
+     "link": "https://www.finextra.com/newsarticle/48645/barclays-names-anita-tanna-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T08:01:18+00:00",
+     "time": "2026-10-26T13:38:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "AI Shoppers Emerge as Distinct UAE Customer Segment",
-       "link": "https://www.pymnts.com/commerce/ecommerce/2026/ai-shoppers-emerge-as-distinct-uae-customer-segment/"
+       "name": "Finextra",
+       "title": "Barclays names Anita Tanna chief AI officer",
+       "link": "https://www.finextra.com/newsarticle/48645/barclays-names-anita-tanna-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "Retailers See Declined Payments but Miss the Second Chance to Save the Sale",
-     "link": "https://www.pymnts.com/news/payment-methods/2026/retailers-see-declined-payments-but-miss-the-second-chance-to-save-the-sale/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB4-failed-payment-second-chance-1.png?w=457&quality=82",
+     "title": "Electrum Wallet Bug Tricks Users Into Signing Over Payments",
+     "link": "https://www.pymnts.com/cryptocurrency/2026/electrum-wallet-bug-tricks-users-into-signing-over-payments/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2020/05/fraud-cryptocurrency-dark-web-bitcoin.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-26T08:00:58+00:00",
+     "time": "2026-10-26T12:58:49+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Retailers See Declined Payments but Miss the Second Chance to Save the Sale",
-       "link": "https://www.pymnts.com/news/payment-methods/2026/retailers-see-declined-payments-but-miss-the-second-chance-to-save-the-sale/"
+       "title": "Electrum Wallet Bug Tricks Users Into Signing Over Payments",
+       "link": "https://www.pymnts.com/cryptocurrency/2026/electrum-wallet-bug-tricks-users-into-signing-over-payments/"
       }
      ]
     },
     {
-     "title": "Parents Split on What Makes Buy Now, Pay Later Options Attractive",
-     "link": "https://www.pymnts.com/bnpl/2026/parents-split-on-what-makes-buy-now-pay-later-options-attractive/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB6for10.26-pay-later-family-budgets.png?w=457&quality=82",
+     "title": "Tech Mahindra and Mastercard team on embedded B2B payments",
+     "link": "https://www.finextra.com/pressarticle/111438/tech-mahindra-and-mastercard-team-on-embedded-b2b-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T08:00:01+00:00",
+     "time": "2026-10-26T12:20:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "Parents Split on What Makes Buy Now, Pay Later Options Attractive",
-       "link": "https://www.pymnts.com/bnpl/2026/parents-split-on-what-makes-buy-now-pay-later-options-attractive/"
+       "name": "Finextra",
+       "title": "Tech Mahindra and Mastercard team on embedded B2B payments",
+       "link": "https://www.finextra.com/pressarticle/111438/tech-mahindra-and-mastercard-team-on-embedded-b2b-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "AI Agents Take On Healthcare’s Paperwork So Doctors Can Focus on Patients",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-on-healthcares-paperwork-so-doctors-can-focus-on-patients/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB5-Prompt-Econ-AI-healthcare-1.jpg?w=457",
+     "title": "Broadridge appoints Ervin Zaljević director, regulatory solutions in Luxembourg",
+     "link": "https://www.finextra.com/pressarticle/111437/broadridge-appoints-ervin-zaljevi-director-regulatory-solutions-in-luxembourg?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T08:00:00+00:00",
+     "time": "2026-10-26T12:18:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "AI Agents Take On Healthcare’s Paperwork So Doctors Can Focus on Patients",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-on-healthcares-paperwork-so-doctors-can-focus-on-patients/"
-      }
-     ]
-    },
-    {
-     "title": "Walmart Takes On Prime With $120 Subscription Bundle",
-     "link": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Walmart-Sams-Club-subscription-1.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-26T01:16:52+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Walmart Takes On Prime With $120 Subscription Bundle",
-       "link": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/"
+       "name": "Finextra",
+       "title": "Broadridge appoints Ervin Zaljević director, regulatory solutions in Luxembourg",
+       "link": "https://www.finextra.com/pressarticle/111437/broadridge-appoints-ervin-zaljevi-director-regulatory-solutions-in-luxembourg?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     }
@@ -1928,100 +1854,100 @@
      ]
     },
     {
-     "title": "Who controls payment initiation? The battle for the future of payments",
-     "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "title": "NextGen Nordics 2027: Who controls the future of payments?",
+     "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
+     "time": "2026-10-26T11:00:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Who controls payment initiation? The battle for the future of payments",
-       "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "NextGen Nordics 2027: Who controls the future of payments?",
+       "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "The B2B payment stack wasn’t built for how businesses pay now",
-     "link": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/",
+     "title": "Anthropic Files IPO Showing $16.3 Billion Six-Month Revenue and $80.7 Billion Net Loss",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-files-ipo-showing-16-3-billion-six-month-revenue-and-80-7-billion-net-loss/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/05/Anthropic.jpeg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-26T14:44:03+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Anthropic Files IPO Showing $16.3 Billion Six-Month Revenue and $80.7 Billion Net Loss",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-files-ipo-showing-16-3-billion-six-month-revenue-and-80-7-billion-net-loss/"
+      }
+     ]
+    },
+    {
+     "title": "Japan tells banks to review cyber policies following wave of attacks",
+     "link": "https://www.finextra.com/newsarticle/48646/japan-tells-banks-to-review-cyber-policies-following-wave-of-attacks?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T09:00:00+00:00",
+     "time": "2026-10-26T14:10:00+00:00",
      "sources": [
       {
-       "name": "Payments Dive",
-       "title": "The B2B payment stack wasn’t built for how businesses pay now",
-       "link": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/"
+       "name": "Finextra",
+       "title": "Japan tells banks to review cyber policies following wave of attacks",
+       "link": "https://www.finextra.com/newsarticle/48646/japan-tells-banks-to-review-cyber-policies-following-wave-of-attacks?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "1 ring, 500 accounts: Why fraud signals need to travel",
-     "link": "https://www.paymentsdive.com/spons/1-ring-500-accounts-why-fraud-signals-need-to-travel/833146/",
+     "title": "Revolut Expands UK Banking Business With Personal Loans",
+     "link": "https://www.pymnts.com/personal-loans/2026/revolut-expands-united-kingdom-banking-business-with-personal-loans/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/01/Revolut.png?w=457&quality=82",
+     "n_sources": 1,
+     "time": "2026-10-26T13:46:30+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Revolut Expands UK Banking Business With Personal Loans",
+       "link": "https://www.pymnts.com/personal-loans/2026/revolut-expands-united-kingdom-banking-business-with-personal-loans/"
+      }
+     ]
+    },
+    {
+     "title": "Barclays names Anita Tanna chief AI officer",
+     "link": "https://www.finextra.com/newsarticle/48645/barclays-names-anita-tanna-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T09:00:00+00:00",
+     "time": "2026-10-26T13:38:00+00:00",
      "sources": [
       {
-       "name": "Payments Dive",
-       "title": "1 ring, 500 accounts: Why fraud signals need to travel",
-       "link": "https://www.paymentsdive.com/spons/1-ring-500-accounts-why-fraud-signals-need-to-travel/833146/"
+       "name": "Finextra",
+       "title": "Barclays names Anita Tanna chief AI officer",
+       "link": "https://www.finextra.com/newsarticle/48645/barclays-names-anita-tanna-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     },
     {
-     "title": "Who’s Responsible When AI Agents Go Rogue?",
-     "link": "https://www.pymnts.com/cybersecurity/2026/whos-responsible-when-ai-agents-go-rogue/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB1-Need-to-Know-.D.-Salbego-Founder-CEO-ClawSecure.png?w=457&quality=82",
+     "title": "Electrum Wallet Bug Tricks Users Into Signing Over Payments",
+     "link": "https://www.pymnts.com/cryptocurrency/2026/electrum-wallet-bug-tricks-users-into-signing-over-payments/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2020/05/fraud-cryptocurrency-dark-web-bitcoin.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-26T08:03:23+00:00",
+     "time": "2026-10-26T12:58:49+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Who’s Responsible When AI Agents Go Rogue?",
-       "link": "https://www.pymnts.com/cybersecurity/2026/whos-responsible-when-ai-agents-go-rogue/"
+       "title": "Electrum Wallet Bug Tricks Users Into Signing Over Payments",
+       "link": "https://www.pymnts.com/cryptocurrency/2026/electrum-wallet-bug-tricks-users-into-signing-over-payments/"
       }
      ]
     },
     {
-     "title": "AI Shoppers Emerge as Distinct UAE Customer Segment",
-     "link": "https://www.pymnts.com/commerce/ecommerce/2026/ai-shoppers-emerge-as-distinct-uae-customer-segment/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB3-UAE-AI-shoppers-1.jpg?w=457",
+     "title": "Tech Mahindra and Mastercard team on embedded B2B payments",
+     "link": "https://www.finextra.com/pressarticle/111438/tech-mahindra-and-mastercard-team-on-embedded-b2b-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-26T08:01:18+00:00",
+     "time": "2026-10-26T12:20:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "AI Shoppers Emerge as Distinct UAE Customer Segment",
-       "link": "https://www.pymnts.com/commerce/ecommerce/2026/ai-shoppers-emerge-as-distinct-uae-customer-segment/"
-      }
-     ]
-    },
-    {
-     "title": "Retailers See Declined Payments but Miss the Second Chance to Save the Sale",
-     "link": "https://www.pymnts.com/news/payment-methods/2026/retailers-see-declined-payments-but-miss-the-second-chance-to-save-the-sale/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB4-failed-payment-second-chance-1.png?w=457&quality=82",
-     "n_sources": 1,
-     "time": "2026-10-26T08:00:58+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Retailers See Declined Payments but Miss the Second Chance to Save the Sale",
-       "link": "https://www.pymnts.com/news/payment-methods/2026/retailers-see-declined-payments-but-miss-the-second-chance-to-save-the-sale/"
-      }
-     ]
-    },
-    {
-     "title": "Parents Split on What Makes Buy Now, Pay Later Options Attractive",
-     "link": "https://www.pymnts.com/bnpl/2026/parents-split-on-what-makes-buy-now-pay-later-options-attractive/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB6for10.26-pay-later-family-budgets.png?w=457&quality=82",
-     "n_sources": 1,
-     "time": "2026-10-26T08:00:01+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Parents Split on What Makes Buy Now, Pay Later Options Attractive",
-       "link": "https://www.pymnts.com/bnpl/2026/parents-split-on-what-makes-buy-now-pay-later-options-attractive/"
+       "name": "Finextra",
+       "title": "Tech Mahindra and Mastercard team on embedded B2B payments",
+       "link": "https://www.finextra.com/pressarticle/111438/tech-mahindra-and-mastercard-team-on-embedded-b2b-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ]
     }
@@ -2033,53 +1959,53 @@
    "name": "Google Trends Deutschland",
    "items": [
     {
-     "title": "ozempic",
-     "link": "https://www.spiegel.de/wirtschaft/unternehmen/ozempic-krise-der-fast-food-industrie-was-verkauft-man-menschen-die-gar-nicht-essen-wollen-a-c9c7c517-21ea-4831-af87-09fb09136921",
+     "title": "schwertransport",
+     "link": "https://www1.wdr.de/nrw/rheinland/rhein-sieg-kreis/koenigswinter-bahn-bruecke-neubau-schwertransport-1-100.html",
      "meta": "200+ Suchanfragen"
     },
     {
-     "title": "eike immel",
-     "link": "https://www.promiflash.de/news/2026/10/26/n-wort-bei-promi-buessen-dieser-kandidat-fliegt-aus-dem-camp.html",
-     "meta": "200+ Suchanfragen"
+     "title": "gta vi",
+     "link": "https://www.gameswirtschaft.de/marketing-pr/logo-getraenkemaerkte-gta-6-gaming-snackbox-261026/",
+     "meta": "5000+ Suchanfragen"
     },
     {
-     "title": "bitcoin gold",
-     "link": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/sp-500-vor-der-us-zwischenwahl-folgt-jetzt-das-19-plusjahr-20424403.html",
-     "meta": "200+ Suchanfragen"
+     "title": "unfall a3 höchstadt",
+     "link": "https://www.br.de/nachrichten/bayern/geisterfahrerin-verursacht-schweren-unfall-auf-der-a3,VZ9igH1",
+     "meta": "10000+ Suchanfragen"
     },
     {
-     "title": "jonathan rea",
-     "link": "https://www.speedweek.com/en/a/superbike-wc/jonathan-rea-final-lap-fight-against-cancer-superbike",
-     "meta": "200+ Suchanfragen"
-    },
-    {
-     "title": "wohnwagen",
-     "link": "https://www.hessenschau.de/panorama/mensch-kommt-in-brennendem-wohnwagen-in-kassel-ums-leben-v1,wohnwagenbrand-kassel-100.html",
+     "title": "albstadt",
+     "link": "https://www.schwaebische.de/regional/zollernalb/albstadt/sek-rueckt-an-mann-steht-mit-selbstgebautem-speer-auf-dem-dach-4964228",
      "meta": "500+ Suchanfragen"
     },
     {
-     "title": "a72",
-     "link": "https://www.mdr.de/nachrichten/sachsen/chemnitz/zwickau/autobahn-hartenstein-zwickau-verletzte,sperrung-unfall-100.html",
-     "meta": "1000+ Suchanfragen"
-    },
-    {
-     "title": "dax aktuell",
-     "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-beginnt-grosse-zahlenwoche-leicht-im-plus/100264883.html",
+     "title": "daniel altmaier",
+     "link": "https://robinhood.com/us/en/prediction-markets/tennis/events/yastremska-vs-volynets-oct-27-2026/",
      "meta": "500+ Suchanfragen"
     },
     {
-     "title": "länderspiel",
-     "link": "https://www.welt.de/sport/fussball/article6ad9f1b396ccd2296a833503/nationalmannschaft-auch-deutsche-fans-ausgeschlossen-klopp-erwartet-ein-geisterspiel.html",
+     "title": "ennepetal",
+     "link": "https://mail.freenet.de/polizeimeldungen/nordrhein-westfalen/fw-en-mehrere-einsaetze-durch-den-sturm-in-ennepetal_6377228-40522050.html",
+     "meta": "500+ Suchanfragen"
+    },
+    {
+     "title": "carl zeiss meditec",
+     "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-neue-chefin-von-carl-zeiss-meditec-startet-noch-2026/100264962.html",
      "meta": "200+ Suchanfragen"
     },
     {
-     "title": "sottrum",
-     "link": "https://www.kreiszeitung.de/lokales/rotenburg/sottrum-ort58094/toedlicher-unfall-in-sottrum-autofahrerin-stirbt-nach-kollision-mit-baum-94558000.html",
-     "meta": "500+ Suchanfragen"
+     "title": "hart aber fair hart aber fair",
+     "link": "https://www.stern.de/kultur/ard-talkshow--hart-aber-fair--am-26--oktober--thema-und-gaeste-der-neuen-ausgabe-am-montag-38451896.html",
+     "meta": "200+ Suchanfragen"
     },
     {
-     "title": "partnerschaft",
-     "link": "https://www.welt.de/iconist/partnerschaft/plus68ff3e4943484db51ab15cf3/liebe-waehlen-sie-bitte-auf-augenhoehe-nicht-nur-altersmaessig.html",
+     "title": "max eberl",
+     "link": "https://www.kicker.de/kompany-kimmich-co-so-geht-es-bei-den-bayern-in-dieser-woche-weiter-1265421/artikel",
+     "meta": "5000+ Suchanfragen"
+    },
+    {
+     "title": "mario basler",
+     "link": "https://www.bild.de/sport/fussball/fc-bayern-ersatz-von-vincent-kompany-stellt-gegen-freiburg-fuenfmal-um-6ade1c74247c1fa2013066c4",
      "meta": "1000+ Suchanfragen"
     }
    ]
@@ -2090,52 +2016,52 @@
     {
      "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
      "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-     "meta": "The Guardian · 183 Personen teilen"
+     "meta": "The Guardian · 207 Personen teilen"
     },
     {
      "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live",
      "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-     "meta": "the Guardian · 398 Personen teilen"
+     "meta": "the Guardian · 411 Personen teilen"
     },
     {
      "title": "The Small-Town Cop Who Helped ICE Deport His Neighbors",
      "link": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
-     "meta": "ProPublica · 157 Personen teilen"
-    },
-    {
-     "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
-     "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
-     "meta": "The Guardian · 155 Personen teilen"
-    },
-    {
-     "title": "Serbia’s Aleksandar Vucic concedes defeat to student-led movement in seismic political shift",
-     "link": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775",
-     "meta": "AP News · 167 Personen teilen"
-    },
-    {
-     "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-     "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-     "meta": "The New York Times · 64 Personen teilen"
+     "meta": "ProPublica · 163 Personen teilen"
     },
     {
      "title": "Britain’s Be Ready campaign aims to encourage (frighten?) citizens into preparing for disaster",
      "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/26/be-ready-campaign-aims-to-encourage-frighten-citizens-into-preparing-for-disaster",
-     "meta": "The Guardian · 49 Personen teilen"
+     "meta": "The Guardian · 76 Personen teilen"
+    },
+    {
+     "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
+     "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+     "meta": "The Guardian · 165 Personen teilen"
+    },
+    {
+     "title": "Lula’s Upset Is a Win for the Rule of Law and a Blow to Trump",
+     "link": "https://newrepublic.com/article/217122/lula-upset-win-blow-trump",
+     "meta": "The New Republic · 54 Personen teilen"
+    },
+    {
+     "title": "Serbia’s Aleksandar Vucic concedes defeat to student-led movement in seismic political shift",
+     "link": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775",
+     "meta": "AP News · 172 Personen teilen"
+    },
+    {
+     "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+     "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+     "meta": "WIRED · 52 Personen teilen"
+    },
+    {
+     "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+     "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+     "meta": "The New York Times · 69 Personen teilen"
     },
     {
      "title": "Finns are seething after Google illegally toppled 250,000 trees for a data center",
      "link": "https://www.motherjones.com/politics/2026/10/finland-finns-angry-google-illegal-clear-cutting-trees-data-center/",
-     "meta": "Mother Jones · 241 Personen teilen"
-    },
-    {
-     "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
-     "link": "https://kyivindependent.com/sanctioned-russian-energy-giant-secretly-funded-us-gas-project-nyt-reports/",
-     "meta": "The Kyiv Independent · 74 Personen teilen"
-    },
-    {
-     "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
-     "link": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-     "meta": "The Guardian · 150 Personen teilen"
+     "meta": "Mother Jones · 246 Personen teilen"
     }
    ]
   }
@@ -2145,7 +2071,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 66,
+   "count": 64,
    "error": ""
   },
   {
@@ -2166,7 +2092,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 156,
+   "count": 157,
    "error": ""
   },
   {
@@ -2215,7 +2141,7 @@
    "source": "Finextra",
    "category": "pay_eu",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": ""
   },
   {
