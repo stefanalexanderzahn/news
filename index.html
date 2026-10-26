@@ -43,6 +43,8 @@
               padding: 3px 9px; border-radius: 999px; }
   .badges a:hover { text-decoration: underline; }
   .count { font-weight: 600; color: var(--accent); }
+  .orig { color: var(--muted); font-size: .76rem; font-style: italic; margin-top: 2px; font-weight: 400; }
+  .sub { color: var(--muted); font-size: .8rem; margin: -2px 0 8px; }
   .note { background: var(--warn-bg); color: var(--warn); border-radius: 10px; padding: 10px 12px;
           font-size: .85rem; margin: 6px 0 12px; }
   h2 { font-size: 1rem; margin: 22px 0 8px; }
@@ -64,7 +66,7 @@
   <div class="seg" id="regions"></div>
   <div id="note"></div>
   <div id="content"></div>
-  <p class="stand" style="margin-top:22px">Vorschaubilder gehören den jeweiligen Quellen und werden direkt von dort geladen.</p>
+  <p class="stand" style="margin-top:22px">Vorschaubilder gehören den jeweiligen Quellen und werden direkt von dort geladen. Fremdsprachige Überschriften sind maschinell übersetzt, das Original steht in kursiv darunter.</p>
   <details id="status"></details>
 </main>
 
@@ -73,7 +75,7 @@
 const WINDOW_LABEL = { "24h": "24 Stunden", "7d": "7 Tage", "30d": "Monat" };
 const WINDOW_HOURS = { "24h": 24, "7d": 168, "30d": 720 };
 const REGION_LABEL = { de: "Deutschland", eu: "Europa", world: "Welt" };
-const TABS = [["news", "Nachrichten"], ["payments", "Payments"], ["social", "Social"]];
+const TABS = [["news", "Nachrichten"], ["payments", "Payments"], ["social", "Trends"]];
 const state = { tab: "news", win: "24h", region: "de", data: null };
 
 function el(tag, attrs, ...kids) {
@@ -119,7 +121,8 @@ function storyList(stories) {
     }
     ol.append(el("li", { class: "story" },
       el("div", { class: "rank", text: String(i + 1) }),
-      el("div", {}, el("div", { class: "title" }, el("a", { href: s.link, text: s.title })), meta, badges),
+      el("div", {}, el("div", { class: "title" }, el("a", { href: s.link, text: s.title })),
+        s.title_orig ? el("div", { class: "orig", text: s.title_orig }) : null, meta, badges),
       thumb));
   });
   return ol;
@@ -127,13 +130,17 @@ function storyList(stories) {
 
 function socialList(blocks) {
   const wrap = el("div");
+  wrap.append(el("div", { class: "sub", text: "Was die Menschen suchen, lesen und teilen. Echte Klickzahlen von Instagram oder TikTok sind nicht abrufbar." }));
+  if (!blocks.length) { wrap.append(el("div", { class: "empty", text: "Für diese Region sind keine Quellen eingetragen." })); return wrap; }
   blocks.forEach(b => {
     wrap.append(el("h2", { text: b.name }));
     if (!b.items.length) { wrap.append(el("div", { class: "empty", text: "Gerade nicht abrufbar (siehe Quellenstatus unten)." })); return; }
     const ol = el("ol");
     b.items.forEach((it, i) => ol.append(el("li", { class: "story" },
       el("div", { class: "rank", text: String(i + 1) }),
-      el("div", {}, el("div", { class: "title" }, el("a", { href: it.link, text: it.title })), it.meta ? el("div", { class: "meta", text: it.meta }) : null))));
+      el("div", {}, el("div", { class: "title" }, el("a", { href: it.link, text: it.title })),
+        it.title_orig ? el("div", { class: "orig", text: it.title_orig }) : null,
+        it.meta ? el("div", { class: "meta", text: it.meta }) : null))));
     wrap.append(ol);
   });
   return wrap;
@@ -144,7 +151,7 @@ function render() {
   segment(document.getElementById("tabs"), TABS, state.tab, k => { state.tab = k; render(); });
   const showWin = state.tab !== "social";
   segment(document.getElementById("windows"), showWin ? Object.entries(WINDOW_LABEL) : [], state.win, k => { state.win = k; render(); });
-  segment(document.getElementById("regions"), state.tab === "payments" ? Object.entries(REGION_LABEL) : [], state.region, k => { state.region = k; render(); });
+  segment(document.getElementById("regions"), state.tab !== "news" ? Object.entries(REGION_LABEL) : [], state.region, k => { state.region = k; render(); });
 
   const note = document.getElementById("note"); note.replaceChildren();
   if (showWin && d.history_since) {
@@ -156,7 +163,7 @@ function render() {
   const content = document.getElementById("content");
   if (state.tab === "news") content.replaceChildren(storyList(d.news[state.win]));
   else if (state.tab === "payments") content.replaceChildren(storyList(d.payments[state.region][state.win]));
-  else content.replaceChildren(socialList(d.social));
+  else content.replaceChildren(socialList(Array.isArray(d.social) ? d.social : (d.social[state.region] || [])));
 }
 
 function renderStatus(d) {
@@ -165,7 +172,7 @@ function renderStatus(d) {
   host.replaceChildren(el("summary", { text: "Quellenstatus (" + (d.status.length - bad) + " von " + d.status.length + " erreichbar)" }));
   const t = el("table");
   d.status.forEach(s => t.append(el("tr", {}, el("td", { text: s.source }), el("td", { text: s.category }),
-    el("td", { class: s.ok ? "" : "bad", text: s.ok ? s.count + " Meldungen" : s.error }))));
+    el("td", { class: s.ok ? "" : "bad", text: s.ok ? (s.info || s.count + " Meldungen") : s.error }))));
   host.append(t);
 }
 

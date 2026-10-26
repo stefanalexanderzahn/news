@@ -1,5 +1,5 @@
 {
-  "_hinweis": "Hier pflegen Sie Ihre Quellen. Eintrag kopieren, Name und Adresse (url) ändern, speichern. Optional: \"weight\": 2 gibt einer Quelle mehr Gewicht im Ranking. \"keywords\": [...] übernimmt nur Meldungen, in deren Überschrift eines der Wörter vorkommt (für Allgemein-Feeds). Eintrag löschen = Quelle entfällt.",
+  "_hinweis": "Hier pflegen Sie Ihre Quellen. Eintrag kopieren, Name ändern, speichern. \"lang\": \"en\" markiert fremdsprachige Quellen, deren Überschriften ins Deutsche übersetzt werden. \"weight\": 2 gibt einer Quelle mehr Gewicht. \"keywords\": [...] übernimmt nur Meldungen mit einem dieser Wörter in der Überschrift. \"type\": \"googlenews\" + \"site\": \"domain.de\" holt Überschriften einer Seite über Google News (Ersatz, wenn die Seite keinen eigenen Feed liefert). Eintrag löschen = Quelle entfällt.",
 
   "news": [
     { "name": "Tagesschau",   "url": "https://www.tagesschau.de/index~rss2.xml" },
@@ -11,29 +11,48 @@
 
   "payments": {
     "de": [
-      { "name": "Finanz-Szene", "url": "https://finanz-szene.de/tag/payment-fintechs/feed/" },
-      { "name": "Finanz-Szene", "url": "https://finanz-szene.de/feed/",
-        "keywords": ["payment", "zahlung", "bezahl", "wero", "paypal", "girocard", "sepa", "visa", "mastercard", "kreditkarte", "karte", "klarna", "adyen", "stripe", "digitaler euro", "digitale euro", "epi"] },
-      { "name": "IT-Finanzmagazin", "url": "https://www.it-finanzmagazin.de/feed/" },
+      { "name": "Finanz-Szene",       "type": "googlenews", "site": "finanz-szene.de" },
+      { "name": "Payment & Banking",  "type": "googlenews", "site": "paymentandbanking.com" },
+      { "name": "IT-Finanzmagazin",   "url": "https://www.it-finanzmagazin.de/feed/" },
       { "name": "Handelsblatt", "url": "https://www.handelsblatt.com/contentexport/feed/top-themen",
         "keywords": ["payment", "zahlung", "bezahl", "wero", "paypal", "girocard", "sepa", "visa", "mastercard", "kreditkarte", "klarna", "adyen", "digitaler euro", "digitale euro", "bargeld", "fintech"] },
       { "name": "Heise", "url": "https://www.heise.de/rss/heise-atom.xml",
         "keywords": ["payment", "zahlung", "bezahl", "wero", "paypal", "girocard", "sepa", "visa", "mastercard", "kreditkarte", "klarna", "digitaler euro", "digitale euro", "bargeld", "fintech", "apple pay", "google pay"] }
     ],
     "eu": [
-      { "name": "Finextra", "url": "https://www.finextra.com/rss/headlines.aspx",
+      { "name": "Finextra", "url": "https://www.finextra.com/rss/headlines.aspx", "lang": "en",
         "keywords": ["europe", "eu ", "euro", "sepa", "ecb", "wero", "psd", "instant payment", "ideal", "germany", "german", "france", "french", "italy", "spain", "netherlands", "dutch", "nordic", "uk "] },
-      { "name": "The Paypers", "url": "https://thepaypers.com/rss" }
+      { "name": "The Paypers",       "type": "googlenews", "site": "thepaypers.com",       "lang": "en" },
+      { "name": "Fintech Futures",   "type": "googlenews", "site": "fintechfutures.com",   "lang": "en" }
     ],
     "world": [
-      { "name": "Finextra",      "url": "https://www.finextra.com/rss/headlines.aspx" },
-      { "name": "Payments Dive", "url": "https://www.paymentsdive.com/feeds/news/" },
-      { "name": "PYMNTS",        "url": "https://www.pymnts.com/feed/" }
+      { "name": "Finextra",      "url": "https://www.finextra.com/rss/headlines.aspx",   "lang": "en" },
+      { "name": "Payments Dive", "url": "https://www.paymentsdive.com/feeds/news/",       "lang": "en" },
+      { "name": "PYMNTS",        "url": "https://www.pymnts.com/feed/",                   "lang": "en" }
     ]
   },
 
-  "social": [
-    { "name": "Google Trends Deutschland", "type": "googletrends", "url": "https://trends.google.com/trending/rss?geo=DE" },
-    { "name": "Mastodon: meistgeteilte Links", "type": "mastodon", "instance": "mastodon.social" }
-  ]
+  "social": {
+    "de": [
+      { "name": "Google-Suchtrends Deutschland",        "type": "googletrends", "geo": "DE", "lang": "de", "limit": 10 },
+      { "name": "Wikipedia: meistgelesen (Deutsch)",    "type": "wikipedia", "project": "de.wikipedia", "lang": "de", "limit": 10 }
+    ],
+    "eu": [
+      { "name": "Google-Suchtrends Frankreich",         "type": "googletrends", "geo": "FR", "lang": "fr", "limit": 5 },
+      { "name": "Google-Suchtrends Italien",            "type": "googletrends", "geo": "IT", "lang": "it", "limit": 5 },
+      { "name": "Google-Suchtrends Spanien",            "type": "googletrends", "geo": "ES", "lang": "es", "limit": 5 },
+      { "name": "Google-Suchtrends Großbritannien",     "type": "googletrends", "geo": "GB", "lang": "en", "limit": 5 },
+      { "name": "Google-Suchtrends Polen",              "type": "googletrends", "geo": "PL", "lang": "pl", "limit": 5 },
+      { "name": "Wikipedia: meistgelesen (Französisch)", "type": "wikipedia", "project": "fr.wikipedia", "lang": "fr", "limit": 5 },
+      { "name": "Wikipedia: meistgelesen (Italienisch)", "type": "wikipedia", "project": "it.wikipedia", "lang": "it", "limit": 5 }
+    ],
+    "world": [
+      { "name": "Google-Suchtrends USA",                "type": "googletrends", "geo": "US", "lang": "en", "limit": 5 },
+      { "name": "Google-Suchtrends Indien",             "type": "googletrends", "geo": "IN", "lang": "en", "limit": 5 },
+      { "name": "Google-Suchtrends Brasilien",          "type": "googletrends", "geo": "BR", "lang": "pt", "limit": 5 },
+      { "name": "Google-Suchtrends Japan",              "type": "googletrends", "geo": "JP", "lang": "ja", "limit": 5 },
+      { "name": "Wikipedia: meistgelesen (Englisch)",   "type": "wikipedia", "project": "en.wikipedia", "lang": "en", "limit": 10 },
+      { "name": "Mastodon: meistgeteilte Links",        "type": "mastodon", "instance": "mastodon.social", "lang": "en", "limit": 5 }
+    ]
+  }
 }
