@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T03:46:26+00:00",
+ "generated": "2026-10-26T06:58:48+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
@@ -8,7 +8,7 @@
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
     "image": "https://images.tagesschau.de/image/ba76c763-2b5a-4960-9f74-e00636121b6b/AAABoXWmDPE/AAABnSSvrFg/16x9-big/lula-232.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-26T03:45:53+00:00",
+    "time": "2026-10-26T05:38:40+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -22,18 +22,52 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Gegen Rechtsruck in der Region: Brasilien bleibt links: Lula gewinnt Präsidentenwahl",
-      "link": "https://www.zeit.de/news/2026-10/26/kopf-an-kopf-rennen-bei-praesidentenwahl-in-brasilien"
+      "title": "Stichwahl in Brasilien: Lula triumphiert. Doch der Bolsonaro-Clan gibt nicht auf",
+      "link": "https://www.zeit.de/politik/2026-10/stichwahl-brasilien-praesidentschaft-lula-da-silva-flavio-bolsonaro"
      },
      {
       "name": "FAZ",
-      "title": "Brasilien: Lula gewinnt Brasiliens Präsidentenwahl",
-      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-accg-201620584.html"
+      "title": "Sieg in Stichwahl: Lula gewinnt Brasiliens Präsidentenwahl",
+      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-knapp-bolsonaro-fordert-annullierung-accg-201620584.html"
      },
      {
       "name": "Handelsblatt",
       "title": "Wahlen in Brasilien: Lula gewinnt zum vierten Mal die Präsidentschaftswahl",
       "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-zum-vierten-mal-die-praesidentschaftswahl/100264825.html"
+     }
+    ]
+   },
+   {
+    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
+    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-25T21:24:09+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Wahlen: Serbien: Vucic gesteht Niederlage ein",
+      "link": "https://www.zeit.de/news/2026-10/25/serbien-vucic-gesteht-niederlage-ein"
+     },
+     {
+      "name": "FAZ",
+      "title": "Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
      }
     ]
    },
@@ -116,54 +150,6 @@
       "name": "FAZ",
       "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
       "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
-     }
-    ]
-   },
-   {
-    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
-    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T21:24:09+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Wahlen: Serbien: Vucic gesteht Niederlage ein",
-      "link": "https://www.zeit.de/news/2026-10/25/serbien-vucic-gesteht-niederlage-ein"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
-     }
-    ]
-   },
-   {
-    "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-    "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c87b1e56-db7a-47cb-a110-4c2fd6ac03eb_w520_r2.08_fpx45.99_fpy44.99.jpg",
-    "n_sources": 3,
-    "time": "2026-10-25T20:57:18+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Parlamentswahl in Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-in-serbien-aleksandar-vu-i-gesteht-niederlage-ein"
-     },
-     {
-      "name": "FAZ",
-      "title": "Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html"
      }
     ]
    },
@@ -262,6 +248,30 @@
       "link": "https://www.zeit.de/news/2026-10/25/dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen"
      }
     ]
+   },
+   {
+    "title": "Amanal Petros wird Zweiter in Frankfurt",
+    "link": "https://www.tagesschau.de/inland/regional/hessen/hr-amanal-petros-verpasst-heimsieg-beim-frankfurt-marathon-2026-nur-knapp-100.html",
+    "image": "https://images.tagesschau.de/image/c16c2bb4-0de0-46b4-baee-9c95c06c735e/AAABoXMajBc/AAABnSSvrFg/16x9-big/hr-amanal-petros-beim-frankfurt-marathon-2026-102.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-25T12:17:23+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Amanal Petros wird Zweiter in Frankfurt",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-amanal-petros-verpasst-heimsieg-beim-frankfurt-marathon-2026-nur-knapp-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Leichtathletik: Marathon-Ass Petros Zweiter in Frankfurt",
+      "link": "https://www.zeit.de/news/2026-10/25/marathon-ass-petros-zweiter-in-frankfurt"
+     },
+     {
+      "name": "FAZ",
+      "title": "Ärger mit Fahrradboten: Petros verpasst Sieg beim Frankfurter Marathon",
+      "link": "https://www.faz.net/aktuell/sport/mehr-sport/frankfurt-marathon-amanal-petros-verpasst-knapp-den-sieg-accg-201619469.html"
+     }
+    ]
    }
   ],
   "7d": [
@@ -270,7 +280,7 @@
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
     "image": "https://images.tagesschau.de/image/ba76c763-2b5a-4960-9f74-e00636121b6b/AAABoXWmDPE/AAABnSSvrFg/16x9-big/lula-232.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-26T03:45:53+00:00",
+    "time": "2026-10-26T05:38:40+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -284,18 +294,52 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Gegen Rechtsruck in der Region: Brasilien bleibt links: Lula gewinnt Präsidentenwahl",
-      "link": "https://www.zeit.de/news/2026-10/26/kopf-an-kopf-rennen-bei-praesidentenwahl-in-brasilien"
+      "title": "Stichwahl in Brasilien: Lula triumphiert. Doch der Bolsonaro-Clan gibt nicht auf",
+      "link": "https://www.zeit.de/politik/2026-10/stichwahl-brasilien-praesidentschaft-lula-da-silva-flavio-bolsonaro"
      },
      {
       "name": "FAZ",
-      "title": "Brasilien: Lula gewinnt Brasiliens Präsidentenwahl",
-      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-accg-201620584.html"
+      "title": "Sieg in Stichwahl: Lula gewinnt Brasiliens Präsidentenwahl",
+      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-knapp-bolsonaro-fordert-annullierung-accg-201620584.html"
      },
      {
       "name": "Handelsblatt",
       "title": "Wahlen in Brasilien: Lula gewinnt zum vierten Mal die Präsidentschaftswahl",
       "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-zum-vierten-mal-die-praesidentschaftswahl/100264825.html"
+     }
+    ]
+   },
+   {
+    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
+    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-25T21:24:09+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Wahlen: Serbien: Vucic gesteht Niederlage ein",
+      "link": "https://www.zeit.de/news/2026-10/25/serbien-vucic-gesteht-niederlage-ein"
+     },
+     {
+      "name": "FAZ",
+      "title": "Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
      }
     ]
    },
@@ -358,6 +402,30 @@
     ]
    },
    {
+    "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html",
+    "image": "https://images.tagesschau.de/image/64bf57c9-7695-4eaa-8369-d62730bb5988/AAABoW_LNhk/AAABnSSvrFg/16x9-big/sendungsbild-1816732.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-25T23:29:26+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html"
+     },
+     {
+      "name": "FAZ",
+      "title": "Unruhen: Die gescheiterte Integration in Frankreich",
+      "link": "https://www.faz.net/aktuell/politik/ausland/die-unruhen-in-frankreich-sind-kein-zufall-die-integration-ist-gescheitert-201599861.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Gen-Z-Proteste: Politiker warnen vor „Gewaltexzessen“ in deutschen Städten wie in Frankreich",
+      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-proteste-politiker-warnen-vor-gewaltexzessen-wie-in-frankreich/100264821.html"
+     }
+    ]
+   },
+   {
     "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
     "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
     "image": "https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1920",
@@ -378,30 +446,6 @@
       "name": "Handelsblatt",
       "title": "+++ Ukraine-Krieg +++: Ukraine weist Vorwürfe von Musk zu Starlink-Nutzung für Offensivangriffe zurück",
       "link": "https://www.handelsblatt.com/politik/international/ukraine-ukraine-weist-vorwuerfe-von-musk-zu-starlink-nutzung-zurueck/27982126.html"
-     }
-    ]
-   },
-   {
-    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
-    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T22:38:18+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
-      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
-     },
-     {
-      "name": "FAZ",
-      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
      }
     ]
    },
@@ -454,50 +498,26 @@
     ]
    },
    {
-    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
-    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
+    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
+    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
     "n_sources": 3,
-    "time": "2026-10-25T21:24:09+00:00",
+    "time": "2026-10-25T22:38:18+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
+      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
      },
      {
       "name": "Zeit Online",
-      "title": "Wahlen: Serbien: Vucic gesteht Niederlage ein",
-      "link": "https://www.zeit.de/news/2026-10/25/serbien-vucic-gesteht-niederlage-ein"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
-     }
-    ]
-   },
-   {
-    "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-    "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c87b1e56-db7a-47cb-a110-4c2fd6ac03eb_w520_r2.08_fpx45.99_fpy44.99.jpg",
-    "n_sources": 3,
-    "time": "2026-10-25T20:57:18+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Parlamentswahl in Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-in-serbien-aleksandar-vu-i-gesteht-niederlage-ein"
+      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
+      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
      },
      {
       "name": "FAZ",
-      "title": "Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html"
+      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
+      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
      }
     ]
    },
@@ -532,7 +552,7 @@
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
     "image": "https://images.tagesschau.de/image/ba76c763-2b5a-4960-9f74-e00636121b6b/AAABoXWmDPE/AAABnSSvrFg/16x9-big/lula-232.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-26T03:45:53+00:00",
+    "time": "2026-10-26T05:38:40+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -546,18 +566,52 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Gegen Rechtsruck in der Region: Brasilien bleibt links: Lula gewinnt Präsidentenwahl",
-      "link": "https://www.zeit.de/news/2026-10/26/kopf-an-kopf-rennen-bei-praesidentenwahl-in-brasilien"
+      "title": "Stichwahl in Brasilien: Lula triumphiert. Doch der Bolsonaro-Clan gibt nicht auf",
+      "link": "https://www.zeit.de/politik/2026-10/stichwahl-brasilien-praesidentschaft-lula-da-silva-flavio-bolsonaro"
      },
      {
       "name": "FAZ",
-      "title": "Brasilien: Lula gewinnt Brasiliens Präsidentenwahl",
-      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-accg-201620584.html"
+      "title": "Sieg in Stichwahl: Lula gewinnt Brasiliens Präsidentenwahl",
+      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-knapp-bolsonaro-fordert-annullierung-accg-201620584.html"
      },
      {
       "name": "Handelsblatt",
       "title": "Wahlen in Brasilien: Lula gewinnt zum vierten Mal die Präsidentschaftswahl",
       "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-zum-vierten-mal-die-praesidentschaftswahl/100264825.html"
+     }
+    ]
+   },
+   {
+    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
+    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-25T21:24:09+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Wahlen: Serbien: Vucic gesteht Niederlage ein",
+      "link": "https://www.zeit.de/news/2026-10/25/serbien-vucic-gesteht-niederlage-ein"
+     },
+     {
+      "name": "FAZ",
+      "title": "Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
      }
     ]
    },
@@ -668,26 +722,26 @@
     ]
    },
    {
-    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
-    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
+    "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html",
+    "image": "https://images.tagesschau.de/image/64bf57c9-7695-4eaa-8369-d62730bb5988/AAABoW_LNhk/AAABnSSvrFg/16x9-big/sendungsbild-1816732.jpg?width=1920",
     "n_sources": 3,
-    "time": "2026-10-25T22:38:18+00:00",
+    "time": "2026-10-25T23:29:26+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
-      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
+      "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1672132.html"
      },
      {
       "name": "FAZ",
-      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
+      "title": "Unruhen: Die gescheiterte Integration in Frankreich",
+      "link": "https://www.faz.net/aktuell/politik/ausland/die-unruhen-in-frankreich-sind-kein-zufall-die-integration-ist-gescheitert-201599861.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Gen-Z-Proteste: Politiker warnen vor „Gewaltexzessen“ in deutschen Städten wie in Frankreich",
+      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-proteste-politiker-warnen-vor-gewaltexzessen-wie-in-frankreich/100264821.html"
      }
     ]
    },
@@ -716,50 +770,26 @@
     ]
    },
    {
-    "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-    "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
-    "image": "https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1920",
+    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
+    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
     "n_sources": 3,
-    "time": "2026-10-25T21:24:09+00:00",
+    "time": "2026-10-25T22:38:18+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-      "link": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"
+      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
      },
      {
       "name": "Zeit Online",
-      "title": "Wahlen: Serbien: Vucic gesteht Niederlage ein",
-      "link": "https://www.zeit.de/news/2026-10/25/serbien-vucic-gesteht-niederlage-ein"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
-     }
-    ]
-   },
-   {
-    "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-    "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c87b1e56-db7a-47cb-a110-4c2fd6ac03eb_w520_r2.08_fpx45.99_fpy44.99.jpg",
-    "n_sources": 3,
-    "time": "2026-10-25T20:57:18+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Parlamentswahl in Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-in-serbien-aleksandar-vu-i-gesteht-niederlage-ein"
+      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
+      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
      },
      {
       "name": "FAZ",
-      "title": "Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html"
+      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
+      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
      }
     ]
    },
@@ -1959,53 +1989,53 @@
    "name": "Google Trends Deutschland",
    "items": [
     {
-     "title": "lothar matthäus",
-     "link": "https://www.bild.de/sport/fussball/uefa-postete-es-selbst-verraet-eine-spiegelung-den-ballon-dor-sieger-6ade0b3a51fb647ba7e7c832",
+     "title": "freida pinto",
+     "link": "https://www.ndtv.com/entertainment/freida-pinto-praises-indian-cinema-for-portraying-imperfect-women-and-not-just-puritanical-roles-12232614",
+     "meta": "200+ Suchanfragen"
+    },
+    {
+     "title": "bolsonaro flavio",
+     "link": "https://oglobo.globo.com/politica/noticia/2026/10/26/imigrantes-italianos-e-reduto-de-vinicolas-conheca-a-cidade-no-rs-que-mais-votou-em-flavio-no-segundo-turno.ghtml",
+     "meta": "100+ Suchanfragen"
+    },
+    {
+     "title": "üstra",
+     "link": "https://www.hannover.de/Service/Mobil-in-Hannover/Aktuelle-Verkehrshinweise/Tunnelabschnitt-gesperrt-Stadt%C2%ADbah%C2%ADnen-fahren-eingeschr%C3%A4nkt",
+     "meta": "100+ Suchanfragen"
+    },
+    {
+     "title": "dem",
+     "link": "https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-26-Oktober-2026-id31457330.html",
+     "meta": "100+ Suchanfragen"
+    },
+    {
+     "title": "george russell",
+     "link": "https://www.speedweek.com/en/a/formula-1/f1-star-george-russell-qualifying-debacle-austin-explanation",
+     "meta": "500+ Suchanfragen"
+    },
+    {
+     "title": "cathie wood",
+     "link": "https://www.finanzen.net/nachricht/aktien/kaufwelle-meta-aktie-cathie-woods-ark-kauft-trotz-halbierter-marge-erneut-doch-was-folgt-daraus-00-16003559",
+     "meta": "500+ Suchanfragen"
+    },
+    {
+     "title": "bielefeld",
+     "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-hertha-bsc-bielefeld-brekalo-olympiastadion-doener.html",
      "meta": "1000+ Suchanfragen"
     },
     {
-     "title": "rentenalter",
-     "link": "https://www.gegen-hartz.de/news/rente-fr-jahrgnge-zwischen-1961-und-1981-so-hoch-ist-die-rente-dann-nach-der-reform",
-     "meta": "200+ Suchanfragen"
-    },
-    {
-     "title": "nicki minaj",
-     "link": "https://www.bbc.com/news/articles/cqrmyl1mljppo",
+     "title": "ernst tanner lindt",
+     "link": "https://www.t-online.de/leben/aktuelles/id_101496600/lindt-passt-die-schokoladen-preise-im-supermarkt-an-praesident-aeussert-sich.html",
      "meta": "100+ Suchanfragen"
     },
     {
-     "title": "thunder – clippers",
-     "link": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/25/shai-gilgeous-alexander-back-at-his-best-in-thunders-bittersweet-win-over-clippers/92438047007/",
+     "title": "die blauen reiterinnen",
+     "link": "https://www.arte.tv/de/videos/135907-000-A/wegbereiterinnen-der-moderne/",
      "meta": "100+ Suchanfragen"
     },
     {
-     "title": "versicherung",
-     "link": "https://www.spiegel.de/wirtschaft/service/kfz-versicherung-mit-diesen-schritten-senken-sie-ihre-beitraege-a-bdb3f4fa-5982-4748-918a-d48d7bb09814",
-     "meta": "2000+ Suchanfragen"
-    },
-    {
-     "title": "phantom blade zero",
-     "link": "https://gameinformer.com/review-in-progress/2026/10/25/phantom-blade-zero-review-in-progress-shaping-up-to-be-one-of-the",
-     "meta": "200+ Suchanfragen"
-    },
-    {
-     "title": "cnn",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
-     "meta": "100+ Suchanfragen"
-    },
-    {
-     "title": "76ers – pistons",
-     "link": "https://www.nba.com/watch/video/highlights-from-cade-cunningham-26-point-game-4?plsrc=nba&collection=must-watch-videos",
-     "meta": "200+ Suchanfragen"
-    },
-    {
-     "title": "seahawks – chiefs",
-     "link": "https://www.seahawks.com/news/how-to-watch-listen-and-follow-seahawks-vs-chiefs-in-week-7-on-sunday-october-25",
-     "meta": "2000+ Suchanfragen"
-    },
-    {
-     "title": "apuração eleição 2026",
-     "link": "https://www.congressoemfoco.com.br/noticia/124188/lula-vence-a-eleicao-presidencial-em-palmeiras-do-tocantins",
+     "title": "robin lenk",
+     "link": "https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy8wZDNjYWE0MC1iZjY3LTQ2ODgtYmZiZC00MzczNDhmZTZkODU",
      "meta": "100+ Suchanfragen"
     }
    ]
@@ -2016,37 +2046,37 @@
     {
      "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live",
      "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-     "meta": "the Guardian · 324 Personen teilen"
-    },
-    {
-     "title": "The Small-Town Cop Who Helped ICE Deport His Neighbors",
-     "link": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
-     "meta": "ProPublica · 151 Personen teilen"
+     "meta": "the Guardian · 375 Personen teilen"
     },
     {
      "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
      "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-     "meta": "The Guardian · 101 Personen teilen"
+     "meta": "The Guardian · 141 Personen teilen"
+    },
+    {
+     "title": "The Small-Town Cop Who Helped ICE Deport His Neighbors",
+     "link": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
+     "meta": "ProPublica · 155 Personen teilen"
     },
     {
      "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
      "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
-     "meta": "The Guardian · 118 Personen teilen"
+     "meta": "The Guardian · 133 Personen teilen"
     },
     {
      "title": "Serbia’s Aleksandar Vucic concedes defeat to student-led movement in seismic political shift",
      "link": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775",
-     "meta": "AP News · 148 Personen teilen"
+     "meta": "AP News · 161 Personen teilen"
     },
     {
      "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
      "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-     "meta": "The New York Times · 63 Personen teilen"
+     "meta": "The New York Times · 64 Personen teilen"
     },
     {
      "title": "Finns are seething after Google illegally toppled 250,000 trees for a data center",
      "link": "https://www.motherjones.com/politics/2026/10/finland-finns-angry-google-illegal-clear-cutting-trees-data-center/",
-     "meta": "Mother Jones · 234 Personen teilen"
+     "meta": "Mother Jones · 239 Personen teilen"
     },
     {
      "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
@@ -2056,12 +2086,12 @@
     {
      "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
      "link": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-     "meta": "The Guardian · 82 Personen teilen"
+     "meta": "The Guardian · 123 Personen teilen"
     },
     {
      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
-     "meta": "BBC News · 61 Personen teilen"
+     "meta": "BBC News · 63 Personen teilen"
     }
    ]
   }
@@ -2071,7 +2101,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 70,
+   "count": 63,
    "error": ""
   },
   {
@@ -2092,7 +2122,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 163,
+   "count": 165,
    "error": ""
   },
   {
