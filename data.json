@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T01:05:43+00:00",
+ "generated": "2026-10-26T03:46:26+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
@@ -8,7 +8,7 @@
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
     "image": "https://images.tagesschau.de/image/ba76c763-2b5a-4960-9f74-e00636121b6b/AAABoXWmDPE/AAABnSSvrFg/16x9-big/lula-232.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-26T01:01:55+00:00",
+    "time": "2026-10-26T03:45:53+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -32,8 +32,37 @@
      },
      {
       "name": "Handelsblatt",
-      "title": "Wahlen in Brasilien: Lula gewinnt Stichwahl in Brasilien",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-stichwahl-in-brasilien/100264825.html"
+      "title": "Wahlen in Brasilien: Lula gewinnt zum vierten Mal die Präsidentschaftswahl",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-zum-vierten-mal-die-praesidentschaftswahl/100264825.html"
+     }
+    ]
+   },
+   {
+    "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+    "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
+    "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-26T02:52:27+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Bremerhaven: Kreuzfahrtschiff kollidiert mit zwei Containerschiffen im Hafen",
+      "link": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Kreuzfahrtschiff »Mein Schiff 3«: Kreuzfahrtschiff stößt in Bremerhaven mit Containerschiffen zusammen",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/kreuzfahrtschiff-mein-schiff-3-kollision-bremerhaven-tui-cruises"
+     },
+     {
+      "name": "FAZ",
+      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
      }
     ]
    },
@@ -87,30 +116,6 @@
       "name": "FAZ",
       "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
       "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
-     }
-    ]
-   },
-   {
-    "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-    "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-    "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T21:25:26+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Bremerhaven: Kreuzfahrtschiff kollidiert mit zwei Containerschiffen im Hafen",
-      "link": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
      }
     ]
    },
@@ -265,7 +270,7 @@
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
     "image": "https://images.tagesschau.de/image/ba76c763-2b5a-4960-9f74-e00636121b6b/AAABoXWmDPE/AAABnSSvrFg/16x9-big/lula-232.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-26T01:01:55+00:00",
+    "time": "2026-10-26T03:45:53+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -289,8 +294,37 @@
      },
      {
       "name": "Handelsblatt",
-      "title": "Wahlen in Brasilien: Lula gewinnt Stichwahl in Brasilien",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-stichwahl-in-brasilien/100264825.html"
+      "title": "Wahlen in Brasilien: Lula gewinnt zum vierten Mal die Präsidentschaftswahl",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-zum-vierten-mal-die-praesidentschaftswahl/100264825.html"
+     }
+    ]
+   },
+   {
+    "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+    "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
+    "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-26T02:52:27+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Bremerhaven: Kreuzfahrtschiff kollidiert mit zwei Containerschiffen im Hafen",
+      "link": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Kreuzfahrtschiff »Mein Schiff 3«: Kreuzfahrtschiff stößt in Bremerhaven mit Containerschiffen zusammen",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/kreuzfahrtschiff-mein-schiff-3-kollision-bremerhaven-tui-cruises"
+     },
+     {
+      "name": "FAZ",
+      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
      }
     ]
    },
@@ -348,26 +382,26 @@
     ]
    },
    {
-    "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-    "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-    "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920",
+    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
+    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
     "n_sources": 3,
-    "time": "2026-10-25T21:25:26+00:00",
+    "time": "2026-10-25T22:38:18+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
+      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
      },
      {
-      "name": "Spiegel",
-      "title": "Bremerhaven: Kreuzfahrtschiff kollidiert mit zwei Containerschiffen im Hafen",
-      "link": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss"
+      "name": "Zeit Online",
+      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
+      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
      },
      {
       "name": "FAZ",
-      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
+      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
+      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
      }
     ]
    },
@@ -416,30 +450,6 @@
       "name": "FAZ",
       "title": "Midterms: Obama greift Trump im Wahlkampf scharf an",
       "link": "https://www.faz.net/aktuell/politik/ausland/obama-greift-trump-im-wahlkampf-scharf-an-accg-201618651.html"
-     }
-    ]
-   },
-   {
-    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
-    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T22:38:18+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
-      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
-     },
-     {
-      "name": "FAZ",
-      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
      }
     ]
    },
@@ -522,7 +532,7 @@
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
     "image": "https://images.tagesschau.de/image/ba76c763-2b5a-4960-9f74-e00636121b6b/AAABoXWmDPE/AAABnSSvrFg/16x9-big/lula-232.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-26T01:01:55+00:00",
+    "time": "2026-10-26T03:45:53+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -546,8 +556,37 @@
      },
      {
       "name": "Handelsblatt",
-      "title": "Wahlen in Brasilien: Lula gewinnt Stichwahl in Brasilien",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-stichwahl-in-brasilien/100264825.html"
+      "title": "Wahlen in Brasilien: Lula gewinnt zum vierten Mal die Präsidentschaftswahl",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-zum-vierten-mal-die-praesidentschaftswahl/100264825.html"
+     }
+    ]
+   },
+   {
+    "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+    "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
+    "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-26T02:52:27+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Bremerhaven: Kreuzfahrtschiff kollidiert mit zwei Containerschiffen im Hafen",
+      "link": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Kreuzfahrtschiff »Mein Schiff 3«: Kreuzfahrtschiff stößt in Bremerhaven mit Containerschiffen zusammen",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/kreuzfahrtschiff-mein-schiff-3-kollision-bremerhaven-tui-cruises"
+     },
+     {
+      "name": "FAZ",
+      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
      }
     ]
    },
@@ -629,26 +668,26 @@
     ]
    },
    {
-    "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-    "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-    "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1920",
+    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
+    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
     "n_sources": 3,
-    "time": "2026-10-25T21:25:26+00:00",
+    "time": "2026-10-25T22:38:18+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
+      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
      },
      {
-      "name": "Spiegel",
-      "title": "Bremerhaven: Kreuzfahrtschiff kollidiert mit zwei Containerschiffen im Hafen",
-      "link": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss"
+      "name": "Zeit Online",
+      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
+      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
      },
      {
       "name": "FAZ",
-      "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html"
+      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
+      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
      }
     ]
    },
@@ -673,30 +712,6 @@
       "name": "FAZ",
       "title": "Im alter von 88 Jahren: NDR-Fernsehansagerin Hanni Vanhaiden gestorben",
       "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/hanni-vanhaiden-ehemalige-fernsehansagerin-im-alter-von-88-jahren-gestorben-201620299.html"
-     }
-    ]
-   },
-   {
-    "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
-    "image": "https://images.tagesschau.de/image/2bf758c2-65d4-42e6-a043-000d40f7254a/AAABoXU2flo/AAABnSSvrFg/16x9-big/sendungsbild-1817156.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-25T22:38:18+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1672560.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Vor Regierungswechsel: Vucic: Studentenliste gewinnt Wahl in Serbien",
-      "link": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens"
-     },
-     {
-      "name": "FAZ",
-      "title": "Wahl in Serbien: Auslandsserben wollen mitbestimmen",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/serbien-wahl-auslandsserben-stimmen-so-zahlreich-ab-wie-nie-zuvor-accg-201619658.html"
      }
     ]
    },
@@ -1493,6 +1508,20 @@
   "world": {
    "24h": [
     {
+     "title": "Walmart Takes On Prime With $120 Subscription Bundle",
+     "link": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Walmart-Sams-Club-subscription-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-26T01:16:52+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Walmart Takes On Prime With $120 Subscription Bundle",
+       "link": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/"
+      }
+     ]
+    },
+    {
      "title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apollo-says-ai-has-shown-zero-payoff-outside-tech/",
      "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Apollo-AI-investment-1.jpg?w=457",
@@ -1617,20 +1646,6 @@
        "link": "https://www.pymnts.com/economy/markets/2026/kalshi-pitches-banks-on-inflation-related-futures-market/"
       }
      ]
-    },
-    {
-     "title": "Mind the gap: What’s missing from modern resilience?",
-     "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Mind the gap: What’s missing from modern resilience?",
-       "link": "https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ]
     }
    ],
    "7d": [
@@ -1669,6 +1684,20 @@
        "name": "PYMNTS",
        "title": "Sezzle Pursues National Bank Charter to Add FDIC-Insured Deposit Accounts",
        "link": "https://www.pymnts.com/legal/bank-regulation/2026/sezzle-pursues-national-bank-charter-to-add-fdic-insured-deposit-accounts/"
+      }
+     ]
+    },
+    {
+     "title": "Walmart Takes On Prime With $120 Subscription Bundle",
+     "link": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Walmart-Sams-Club-subscription-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-26T01:16:52+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Walmart Takes On Prime With $120 Subscription Bundle",
+       "link": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/"
       }
      ]
     },
@@ -1769,20 +1798,6 @@
        "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/"
       }
      ]
-    },
-    {
-     "title": "Affordability Drags Consumer Sentiment Down 10% in a Year",
-     "link": "https://www.pymnts.com/economy/2026/affordability-drags-consumer-sentiment-down-10-in-a-year/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/consumer-sentiment-affordability-1.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-25T22:29:24+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Affordability Drags Consumer Sentiment Down 10% in a Year",
-       "link": "https://www.pymnts.com/economy/2026/affordability-drags-consumer-sentiment-down-10-in-a-year/"
-      }
-     ]
     }
    ],
    "30d": [
@@ -1849,6 +1864,20 @@
        "name": "Finextra",
        "title": "Who controls payment initiation? The battle for the future of payments",
        "link": "https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
+      }
+     ]
+    },
+    {
+     "title": "Walmart Takes On Prime With $120 Subscription Bundle",
+     "link": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Walmart-Sams-Club-subscription-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-26T01:16:52+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Walmart Takes On Prime With $120 Subscription Bundle",
+       "link": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/"
       }
      ]
     },
@@ -1921,20 +1950,6 @@
        "link": "https://www.pymnts.com/news/delivery/2026/instacart-holds-sale-talks-with-rivals-uber-and-doordash/"
       }
      ]
-    },
-    {
-     "title": "OpenAI Training AI in Systems Shut Off From Web Access",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/07/OpenAI-safety-boss-1.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-25T23:13:28+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "OpenAI Training AI in Systems Shut Off From Web Access",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/"
-      }
-     ]
     }
    ]
   }
@@ -1944,54 +1959,54 @@
    "name": "Google Trends Deutschland",
    "items": [
     {
+     "title": "lothar matthäus",
+     "link": "https://www.bild.de/sport/fussball/uefa-postete-es-selbst-verraet-eine-spiegelung-den-ballon-dor-sieger-6ade0b3a51fb647ba7e7c832",
+     "meta": "1000+ Suchanfragen"
+    },
+    {
+     "title": "rentenalter",
+     "link": "https://www.gegen-hartz.de/news/rente-fr-jahrgnge-zwischen-1961-und-1981-so-hoch-ist-die-rente-dann-nach-der-reform",
+     "meta": "200+ Suchanfragen"
+    },
+    {
+     "title": "nicki minaj",
+     "link": "https://www.bbc.com/news/articles/cqrmyl1mljppo",
+     "meta": "100+ Suchanfragen"
+    },
+    {
+     "title": "thunder – clippers",
+     "link": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/25/shai-gilgeous-alexander-back-at-his-best-in-thunders-bittersweet-win-over-clippers/92438047007/",
+     "meta": "100+ Suchanfragen"
+    },
+    {
+     "title": "versicherung",
+     "link": "https://www.spiegel.de/wirtschaft/service/kfz-versicherung-mit-diesen-schritten-senken-sie-ihre-beitraege-a-bdb3f4fa-5982-4748-918a-d48d7bb09814",
+     "meta": "2000+ Suchanfragen"
+    },
+    {
+     "title": "phantom blade zero",
+     "link": "https://gameinformer.com/review-in-progress/2026/10/25/phantom-blade-zero-review-in-progress-shaping-up-to-be-one-of-the",
+     "meta": "200+ Suchanfragen"
+    },
+    {
      "title": "cnn",
-     "link": "https://www.politico.com/news/2026/10/25/blanche-alaska-lawsuit-could-be-crime-01134861",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
      "meta": "100+ Suchanfragen"
     },
     {
      "title": "76ers – pistons",
-     "link": "https://www.thebiglead.com/how-to-watch-pistons-vs-76ers-nba-live-stream-tv-channel/",
-     "meta": "100+ Suchanfragen"
+     "link": "https://www.nba.com/watch/video/highlights-from-cade-cunningham-26-point-game-4?plsrc=nba&collection=must-watch-videos",
+     "meta": "200+ Suchanfragen"
     },
     {
      "title": "seahawks – chiefs",
      "link": "https://www.seahawks.com/news/how-to-watch-listen-and-follow-seahawks-vs-chiefs-in-week-7-on-sunday-october-25",
-     "meta": "500+ Suchanfragen"
+     "meta": "2000+ Suchanfragen"
     },
     {
-     "title": "worlds 2026",
-     "link": "https://www.sheepesports.com/en/articles/worlds-2026-swiss-stage-round-3-draw/en",
+     "title": "apuração eleição 2026",
+     "link": "https://www.congressoemfoco.com.br/noticia/124188/lula-vence-a-eleicao-presidencial-em-palmeiras-do-tocantins",
      "meta": "100+ Suchanfragen"
-    },
-    {
-     "title": "brasil eleições 2026",
-     "link": "https://www1.folha.uol.com.br/poder/2026/10/eleicao-nos-estados-termina-com-13-governadores-reeleitos-e-6-derrotados.shtml",
-     "meta": "100+ Suchanfragen"
-    },
-    {
-     "title": "sharon stone",
-     "link": "https://faroutmagazine.co.uk/sharon-stone-made-terrible-movie-wont-even-say-its-name/",
-     "meta": "100+ Suchanfragen"
-    },
-    {
-     "title": "resultados das eleições",
-     "link": "https://oglobo.globo.com/blogs/bela-megale/post/2026/10/a-tensa-conversa-entre-zanin-em-nunes-marques-sobre-a-prorrogacao-da-votacao-na-eleicao.ghtml",
-     "meta": "500+ Suchanfragen"
-    },
-    {
-     "title": "osint",
-     "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059635/",
-     "meta": "100+ Suchanfragen"
-    },
-    {
-     "title": "kreuzfahrtschiff kanada",
-     "link": "https://www.bild.de/news/ausland/kreuzfahrt-geht-schief-tausende-wollten-in-die-karibik-und-landeten-in-kanada-6add871f247c1fa201305dd9",
-     "meta": "50000+ Suchanfragen"
-    },
-    {
-     "title": "sandra bullock",
-     "link": "https://www.imdb.com/news/ni66075987/?ref_=nmnw_art_perm",
-     "meta": "200+ Suchanfragen"
     }
    ]
   },
@@ -2001,52 +2016,52 @@
     {
      "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live",
      "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-     "meta": "the Guardian · 261 Personen teilen"
+     "meta": "the Guardian · 324 Personen teilen"
     },
     {
      "title": "The Small-Town Cop Who Helped ICE Deport His Neighbors",
      "link": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
-     "meta": "ProPublica · 148 Personen teilen"
-    },
-    {
-     "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
-     "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
-     "meta": "The Guardian · 112 Personen teilen"
-    },
-    {
-     "title": "Serbia’s Aleksandar Vucic concedes defeat to student-led movement in seismic political shift",
-     "link": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775",
-     "meta": "AP News · 125 Personen teilen"
-    },
-    {
-     "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-     "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-     "meta": "The New York Times · 62 Personen teilen"
-    },
-    {
-     "title": "Finns are seething after Google illegally toppled 250,000 trees for a data center",
-     "link": "https://www.motherjones.com/politics/2026/10/finland-finns-angry-google-illegal-clear-cutting-trees-data-center/",
-     "meta": "Mother Jones · 233 Personen teilen"
-    },
-    {
-     "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
-     "link": "https://kyivindependent.com/sanctioned-russian-energy-giant-secretly-funded-us-gas-project-nyt-reports/",
-     "meta": "The Kyiv Independent · 72 Personen teilen"
-    },
-    {
-     "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
-     "link": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-     "meta": "The Guardian · 64 Personen teilen"
+     "meta": "ProPublica · 151 Personen teilen"
     },
     {
      "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
      "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-     "meta": "The Guardian · 52 Personen teilen"
+     "meta": "The Guardian · 101 Personen teilen"
+    },
+    {
+     "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
+     "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+     "meta": "The Guardian · 118 Personen teilen"
+    },
+    {
+     "title": "Serbia’s Aleksandar Vucic concedes defeat to student-led movement in seismic political shift",
+     "link": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775",
+     "meta": "AP News · 148 Personen teilen"
+    },
+    {
+     "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+     "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+     "meta": "The New York Times · 63 Personen teilen"
+    },
+    {
+     "title": "Finns are seething after Google illegally toppled 250,000 trees for a data center",
+     "link": "https://www.motherjones.com/politics/2026/10/finland-finns-angry-google-illegal-clear-cutting-trees-data-center/",
+     "meta": "Mother Jones · 234 Personen teilen"
+    },
+    {
+     "title": "Sanctioned Russian energy giant secretly funded US gas project, NYT reports",
+     "link": "https://kyivindependent.com/sanctioned-russian-energy-giant-secretly-funded-us-gas-project-nyt-reports/",
+     "meta": "The Kyiv Independent · 73 Personen teilen"
+    },
+    {
+     "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+     "link": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+     "meta": "The Guardian · 82 Personen teilen"
     },
     {
      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
-     "meta": "BBC News · 56 Personen teilen"
+     "meta": "BBC News · 61 Personen teilen"
     }
    ]
   }
@@ -2056,7 +2071,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 68,
+   "count": 70,
    "error": ""
   },
   {
@@ -2077,7 +2092,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 162,
+   "count": 163,
    "error": ""
   },
   {
