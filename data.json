@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T18:53:52+00:00",
+ "generated": "2026-10-27T21:44:36+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
@@ -38,6 +38,35 @@
     ]
    },
    {
+    "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html",
+    "image": "https://images.tagesschau.de/image/62d4cc37-9f64-482c-b236-4ed3e8efa533/AAABoNKK1jQ/AAABnSSvrFg/16x9-big/karte-ukraine-frontverlaeufe-2228.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-27T21:19:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ukraine: Waffenruhe laut Melania Trump über Oleschky hinaus ausgeweitet",
+      "link": "https://www.spiegel.de/ausland/ukraine-waffenruhe-laut-melania-trump-ueber-oleschky-hinaus-ausgeweitet-a-c1483e83-6ddc-435f-9578-f2c7e0349f9f#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Krieg gegen die Ukraine: Waffenruhe in ukrainischer Frontstadt Oleschky tritt in Kraft",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Ukraine-Krieg +++: Melania Trump vermeldet: Waffenruhe über Oleschky hinaus ausgeweitet",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-waffenruhe-laut-melania-trump-ueber-oleschky-hinaus-ausgeweitet/27982126.html"
+     }
+    ]
+   },
+   {
     "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
     "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
     "image": "https://images.tagesschau.de/image/77afaa8a-f08f-4b05-82ca-60ff45e5088a/AAABoXxq0UI/AAABnSSvrFg/16x9-big/rbb-625257499-100.jpg?width=1920",
@@ -96,50 +125,21 @@
     ]
    },
    {
-    "title": "Wahl in Israel: Endet die Ära Netanjahu?",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1673136.html",
-    "image": "https://images.tagesschau.de/image/e1c17c68-c689-480d-8f92-f47cd8458a86/AAABoXzyMdg/AAABnSSvrFg/16x9-big/stimmabgabe-wahllokal-100.jpg?width=1920",
+    "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
+    "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html",
+    "image": "https://images.sportschau.de/image/a1a67031-0807-44aa-8235-3e034c38917b/AAABoXl6fDM/AAABnSSvrFg/16x9-big/putellas-122.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-10-27T13:19:48+00:00",
+    "time": "2026-10-27T12:24:52+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wahl in Israel: Endet die Ära Netanjahu?",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1673136.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Parlamentswahlen in Israel haben begonnen",
-      "link": "https://www.zeit.de/video/2026-10/parlamentswahlen-in-israel-haben-begonnen"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bleibt NetanjahU?: Beginn der Parlamentswahlen in Israel",
-      "link": "https://www.faz.net/video/beginn-der-parlamentswahlen-in-israel-201625905.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Parlamentswahl: Schafft es Netanjahu noch einmal? Israel hat die Wahl – die wichtigsten Fragen und Antworten",
-      "link": "https://www.handelsblatt.com/politik/international/parlamentswahl-israel-waehlt-parlament-die-wichtigsten-fragen-und-antworten/100265242.html"
-     }
-    ]
-   },
-   {
-    "title": "Harry Kane gewinnt Ballon d'Or",
-    "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
-    "image": "https://images.tagesschau.de/image/531a7ed5-383b-497f-8ee6-1f160619676a/AAABoXqD0lw/AAABnSSvrFg/16x9-big/harrykane-100.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-27T11:36:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Harry Kane gewinnt Ballon d'Or",
-      "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html"
+      "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
+      "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Harry Kane gewinnt den Ballon d'Or 2026: Der Anti-Star",
-      "link": "https://www.spiegel.de/sport/fussball/harry-kane-gewinnt-den-ballon-dor-2026-der-anti-star-a-784808a2-0c97-46bd-b791-eaff1b2c896d#ref=rss"
+      "title": "Ballon d’Or für Harry Kane: Reaktionen auf die Wahl des Bayernstars zum Weltfußballer",
+      "link": "https://www.spiegel.de/sport/ballon-d-or-fuer-harry-kane-reaktionen-auf-die-wahl-des-bayernstars-zum-weltfussballer-a-c309b0a7-41e0-4fca-9576-22f5a4bf0294#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -148,8 +148,8 @@
      },
      {
       "name": "FAZ",
-      "title": "Verleihung in London: Harry Kane und Alexia Putellas gewinnen den Ballon d’Or",
-      "link": "https://www.faz.net/aktuell/sport/fussball/harry-kane-gewinnt-den-ballon-d-or-201623664.html"
+      "title": "Weltfußballer-Wahl: „Wenn man Fußball mag, geht man zu Lamine, nicht zu Harry Kane“",
+      "link": "https://www.faz.net/aktuell/sport/fussball/ballon-d-or-lamine-yamals-onkel-kirtisiert-wahl-von-harry-kane-201625691.html"
      }
     ]
    },
@@ -183,6 +183,54 @@
     ]
    },
    {
+    "title": "Zweitligist Bochum schmeißt Favorit Mainz aus dem DFB-Pokal",
+    "link": "https://www.sportschau.de/fussball/dfbpokal/kampf-leidenschaft-pokalsieg-bochum-schlaegt-mainz,spielbericht-dfb-pokal-bochum-mainz-100.html",
+    "image": "https://images.sportschau.de/image/062d430a-cefc-487f-a940-bf1ba2f32c2d/AAABoX6WO5Y/AAABnSSvrFg/16x9-big/bochum-jubel-206.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-27T19:41:25+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Zweitligist Bochum schmeißt Favorit Mainz aus dem DFB-Pokal",
+      "link": "https://www.sportschau.de/fussball/dfbpokal/kampf-leidenschaft-pokalsieg-bochum-schlaegt-mainz,spielbericht-dfb-pokal-bochum-mainz-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "DFB-Pokal: Frankfurts Nationalstürmer Burkardt und Ebnoutalib werfen den HSV raus",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-frankfurts-nationalstuermer-burkardt-und-ebnoutalib-werfen-den-hsv-raus-a-0959fdeb-3489-4ccf-95fe-9806b545fd9a#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "DFB-Pokal, zweite Runde: HSV unterliegt gegen Frankfurt, Zweitligist Bochum wirft Mainz 05 raus",
+      "link": "https://www.zeit.de/sport/2026-10/dfb-pokal-auslosung-zweite-runde-spiele-rb-leipzig-hsv"
+     }
+    ]
+   },
+   {
+    "title": "Knesset-Wahl in Israel",
+    "link": "https://www.tagesschau.de/video/video-1673490.html",
+    "image": "https://images.tagesschau.de/image/238201b8-625b-416d-8dae-77013d882899/AAABoX3pOzo/AAABnSSvrFg/16x9-big/sendungsbild-1817998.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-27T17:01:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Knesset-Wahl in Israel",
+      "link": "https://www.tagesschau.de/video/video-1673490.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Knesset-Wahl in Israel: Likud-Partei von Benjamin Netanyahu beantragt längere Öffnungszeiten der Wahllokale",
+      "link": "https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-beantragt-laengere-oeffnungszeiten-der-wahllokale-a-df2c37b8-e8c1-4c16-9257-3f4c70c48ce0#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Parlamentswahl in Israel: Wahllokale in Israel haben geöffnet",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/wahl-israel-parlamentswahl-benjamin-netanjahu-opposition-gxe"
+     }
+    ]
+   },
+   {
     "title": "Parlamentswahl in Israel: Israel verzeichnet historisch hohe Wahlbeteiligung bei Parlamentswahl",
     "link": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-israel-wahlbeteiligung-hoechstwert-gxe",
     "image": "https://img.zeit.de/politik/ausland/2026-10/wahl-israel-beteiligung-rekord-soldaten-gazakrieg-gxe-foto-1/original__640x360",
@@ -196,8 +244,8 @@
      },
      {
       "name": "FAZ",
-      "title": "Liveblog Nahost: In Israel zeichnet sich eine hohe Wahlbeteiligung ab",
-      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-bei-israel-wahl-2026-zeichnet-sich-hohe-wahlbeteiligung-ab-faz-200583539.html"
+      "title": "Bleibt NetanjahU?: Beginn der Parlamentswahlen in Israel",
+      "link": "https://www.faz.net/video/beginn-der-parlamentswahlen-in-israel-201625905.html"
      },
      {
       "name": "Handelsblatt",
@@ -229,57 +277,43 @@
       "link": "https://www.zeit.de/news/2026-10/27/auto-faehrt-in-menschengruppe-mehrere-verletzte"
      }
     ]
-   },
-   {
-    "title": "Suche nach Atommüll-Endlager konzentriert sich auf fünf Prozent der Bundesfläche",
-    "link": "https://www.tagesschau.de/video/video-1673524.html",
-    "image": "https://images.tagesschau.de/image/55e0eea7-62be-421b-a8c2-627157d4891e/AAABoX4mLAY/AAABnSSvrFg/16x9-big/sendungsbild-1818034.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-27T16:16:38+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Suche nach Atommüll-Endlager konzentriert sich auf fünf Prozent der Bundesfläche",
-      "link": "https://www.tagesschau.de/video/video-1673524.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Atommüll-Endlagersuche: Weniger als fünf Prozent von Deutschlands Fläche für Atommüll geeignet",
-      "link": "https://www.zeit.de/wissenschaft/umwelt/2026-10/atommuell-endlager-suche-bge-bundeslaender-bundestag-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Suche nach Atommüll-Deponie: Kein Endlager in Hessen",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/kein-atommuell-endlager-in-hessen-und-rheinland-pfalz-201626005.html"
-     }
-    ]
-   },
-   {
-    "title": "Fall Jeffrey Epstein: Demokraten fordern Ermittler zu Trumps Epstein-Verbindungen",
-    "link": "https://www.spiegel.de/ausland/fall-jeffrey-epstein-demokraten-fordern-ermittler-zu-trumps-epstein-verbindungen-a-6c79abfa-88c7-42e4-b7cc-7e0c281ce197#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/ab004876-6341-4072-8642-70fd6570628f_w520_r2.08_fpx33.34_fpy50.jpg",
-    "n_sources": 3,
-    "time": "2026-10-27T15:53:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Fall Jeffrey Epstein: Demokraten fordern Ermittler zu Trumps Epstein-Verbindungen",
-      "link": "https://www.spiegel.de/ausland/fall-jeffrey-epstein-demokraten-fordern-ermittler-zu-trumps-epstein-verbindungen-a-6c79abfa-88c7-42e4-b7cc-7e0c281ce197#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Jeffrey Epstein: US-Demokraten fordern Sonderermittler zu Trump und Epstein",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-jeffrey-epstein-us-repraesentantenhaus-sondermittler-akten"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Demokraten fordern Sonderermittler zu Trumps Epstein-Verbindungen",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokraten-fordern-nach-neuem-epstein-bericht-sonderermittler-faz-19444916.html"
-     }
-    ]
    }
   ],
   "7d": [
+   {
+    "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html",
+    "image": "https://images.tagesschau.de/image/62d4cc37-9f64-482c-b236-4ed3e8efa533/AAABoNKK1jQ/AAABnSSvrFg/16x9-big/karte-ukraine-frontverlaeufe-2228.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-27T21:19:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ukraine: Waffenruhe laut Melania Trump über Oleschky hinaus ausgeweitet",
+      "link": "https://www.spiegel.de/ausland/ukraine-waffenruhe-laut-melania-trump-ueber-oleschky-hinaus-ausgeweitet-a-c1483e83-6ddc-435f-9578-f2c7e0349f9f#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Krieg gegen die Ukraine: Waffenruhe in ukrainischer Frontstadt Oleschky tritt in Kraft",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog"
+     },
+     {
+      "name": "FAZ",
+      "title": "Ukrainische Bahn im Krieg: Russlands Angriff auf die Lebensader der Ukraine",
+      "link": "https://www.faz.net/aktuell/ukrainische-bahn-im-krieg-russlands-angriff-auf-die-lebensader-der-ukraine-201614555.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Ukraine-Krieg +++: Melania Trump vermeldet: Waffenruhe über Oleschky hinaus ausgeweitet",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-waffenruhe-laut-melania-trump-ueber-oleschky-hinaus-ausgeweitet/27982126.html"
+     }
+    ]
+   },
    {
     "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
     "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
@@ -333,8 +367,8 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Autoindustrie: Audi kündigt auf Wahlkampfveranstaltung von Trump erstes US-Werk an",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/audi-werk-usa-donald-trump-georgia-gernot-doellner"
+      "title": "Audi-Werk in den USA: VW-Betriebsratschefin findet Auftritt von Döllner bei Trump beschämend",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/audi-gernot-doellner-donald-trump-wahlkampf-usa-gxe"
      },
      {
       "name": "FAZ",
@@ -345,6 +379,40 @@
       "name": "Handelsblatt",
       "title": "Gernot Döllner: „Verstörend und erbärmlich“: Politiker kritisieren Auftritt des Audi-Chefs bei Donald Trump",
       "link": "https://www.handelsblatt.com/politik/deutschland/audi-chef-politiker-kritisieren-wahlkampf-auftritt-bei-trump-als-verstoerend/100264950.html"
+     }
+    ]
+   },
+   {
+    "title": "Studentenliste gewinnt bei Wahl in Serbien",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1673130.html",
+    "image": "https://images.tagesschau.de/image/a0373b83-107d-46b4-9e93-40d5a93dffbc/AAABoXobgYs/AAABnSSvrFg/16x9-big/sendungsbild-1817594.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-27T12:16:56+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Studentenliste gewinnt bei Wahl in Serbien",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1673130.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Studentenliste in Serbien: Ab heute sind sie Politiker",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/studentenliste-serbien-wahl-regierung-berufe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Nach der Wahl: Serbien ist nicht zur Autokratie verdammt",
+      "link": "https://www.faz.net/aktuell/feuilleton/debatten/serbiens-studenten-deuten-nach-dem-wahlsieg-die-folklore-um-201624414.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
      }
     ]
    },
@@ -407,108 +475,50 @@
     ]
    },
    {
-    "title": "Vassili Golod, ARD Kiew, zur Waffenruhe in ukrainischer Frontstadt Oleschky",
-    "link": "https://www.tagesschau.de/video/video-1673414.html",
-    "image": "https://images.tagesschau.de/image/051ebfb8-28f5-4420-b467-73030bf37553/AAABoX2HHYw/AAABnSSvrFg/16x9-big/sendungsbild-1817942.jpg?width=1920",
+    "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
+    "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
+    "image": "https://images.tagesschau.de/image/f90a7f85-8cba-4a3b-80e8-3acfb9b8b09c/AAABoXPImHI/AAABnSSvrFg/16x9-big/serbien-wahl-112.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-10-27T13:22:55+00:00",
+    "time": "2026-10-27T12:48:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Vassili Golod, ARD Kiew, zur Waffenruhe in ukrainischer Frontstadt Oleschky",
-      "link": "https://www.tagesschau.de/video/video-1673414.html"
+      "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Russland-Ukraine-Krieg: Waffenruhe für besetzte ukrainische Frontstadt Oleschky läuft",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-waffenruhe-fuer-besetzte-ukrainische-frontstadt-oleschky-laeuft-a-e3b0a15b-20b4-4216-900d-32ce52bd3051#ref=rss"
+      "title": "Wahl in Israel: Wahlkommission vermeldet hohe Beteiligung",
+      "link": "https://www.spiegel.de/ausland/wahl-in-israel-wahlkommission-vermeldet-hohe-beteiligung-a-a133a8b8-9cd0-4e2d-bb12-d9e5e5fdb759#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Krieg gegen die Ukraine: Waffenruhe in ukrainischer Frontstadt Oleschky tritt in Kraft",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog"
+      "title": "Parlamentswahl in Israel: Historische Beteiligung bei Israel-Wahl zeichnet sich ab",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-israel-benjamin-netanjahu-gadi-eisenkot-live"
      },
      {
       "name": "FAZ",
-      "title": "Ukrainische Bahn im Krieg: Russlands Angriff auf die Lebensader der Ukraine",
-      "link": "https://www.faz.net/aktuell/ukrainische-bahn-im-krieg-russlands-angriff-auf-die-lebensader-der-ukraine-201614555.html"
+      "title": "Liveblog Nahost: In Israel zeichnet sich eine hohe Wahlbeteiligung ab",
+      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-bei-israel-wahl-2026-zeichnet-sich-hohe-wahlbeteiligung-ab-faz-200583539.html"
      }
     ]
    },
    {
-    "title": "Wahl in Israel: Endet die Ära Netanjahu?",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1673136.html",
-    "image": "https://images.tagesschau.de/image/e1c17c68-c689-480d-8f92-f47cd8458a86/AAABoXzyMdg/AAABnSSvrFg/16x9-big/stimmabgabe-wahllokal-100.jpg?width=1920",
+    "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
+    "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html",
+    "image": "https://images.sportschau.de/image/a1a67031-0807-44aa-8235-3e034c38917b/AAABoXl6fDM/AAABnSSvrFg/16x9-big/putellas-122.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-10-27T13:19:48+00:00",
+    "time": "2026-10-27T12:24:52+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wahl in Israel: Endet die Ära Netanjahu?",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1673136.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Parlamentswahlen in Israel haben begonnen",
-      "link": "https://www.zeit.de/video/2026-10/parlamentswahlen-in-israel-haben-begonnen"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bleibt NetanjahU?: Beginn der Parlamentswahlen in Israel",
-      "link": "https://www.faz.net/video/beginn-der-parlamentswahlen-in-israel-201625905.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Parlamentswahl: Schafft es Netanjahu noch einmal? Israel hat die Wahl – die wichtigsten Fragen und Antworten",
-      "link": "https://www.handelsblatt.com/politik/international/parlamentswahl-israel-waehlt-parlament-die-wichtigsten-fragen-und-antworten/100265242.html"
-     }
-    ]
-   },
-   {
-    "title": "Neuer US-Standort: Wie Audi-Mitarbeiter auf den Trump-Auftritt reagieren",
-    "link": "https://www.tagesschau.de/video/video-1672822.html",
-    "image": "https://images.tagesschau.de/image/59d61b7a-0257-4e05-a2ff-34f43b5208f0/AAABoXi1VyY/AAABnSSvrFg/16x9-big/doellner-trump-102.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-27T12:41:40+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Neuer US-Standort: Wie Audi-Mitarbeiter auf den Trump-Auftritt reagieren",
-      "link": "https://www.tagesschau.de/video/video-1672822.html"
+      "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
+      "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
-      "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Umfrage: Mehrheit findet Auftritt von Audi-Chef mit Trump falsch",
-      "link": "https://www.zeit.de/news/2026-10/27/mehrheit-sieht-auftritt-von-audi-chef-mit-trump-kritisch"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Audi in den USA: Cavallo: Auftritt von Audi-Chef bei Trump ist beschämend",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/audi-in-den-usa-auftritt-von-audi-chef-bei-trump-laut-cavallo-beschaemend/100264879.html"
-     }
-    ]
-   },
-   {
-    "title": "Harry Kane gewinnt Ballon d'Or",
-    "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
-    "image": "https://images.tagesschau.de/image/531a7ed5-383b-497f-8ee6-1f160619676a/AAABoXqD0lw/AAABnSSvrFg/16x9-big/harrykane-100.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-27T11:36:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Harry Kane gewinnt Ballon d'Or",
-      "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Harry Kane gewinnt den Ballon d'Or 2026: Der Anti-Star",
-      "link": "https://www.spiegel.de/sport/fussball/harry-kane-gewinnt-den-ballon-dor-2026-der-anti-star-a-784808a2-0c97-46bd-b791-eaff1b2c896d#ref=rss"
+      "title": "Ballon d’Or für Harry Kane: Reaktionen auf die Wahl des Bayernstars zum Weltfußballer",
+      "link": "https://www.spiegel.de/sport/ballon-d-or-fuer-harry-kane-reaktionen-auf-die-wahl-des-bayernstars-zum-weltfussballer-a-c309b0a7-41e0-4fca-9576-22f5a4bf0294#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -517,8 +527,37 @@
      },
      {
       "name": "FAZ",
-      "title": "Verleihung in London: Harry Kane und Alexia Putellas gewinnen den Ballon d’Or",
-      "link": "https://www.faz.net/aktuell/sport/fussball/harry-kane-gewinnt-den-ballon-d-or-201623664.html"
+      "title": "Weltfußballer-Wahl: „Wenn man Fußball mag, geht man zu Lamine, nicht zu Harry Kane“",
+      "link": "https://www.faz.net/aktuell/sport/fussball/ballon-d-or-lamine-yamals-onkel-kirtisiert-wahl-von-harry-kane-201625691.html"
+     }
+    ]
+   },
+   {
+    "title": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
+    "link": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html",
+    "image": "https://images.tagesschau.de/image/61cec6a4-a36c-4089-b13b-d207c422cdb0/AAABoXsViZQ/AAABnSSvrFg/16x9-big/brasilien-lula-wahl-100.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-27T03:45:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
+      "link": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Brasilien-Wahl: Bolsonaro-Partei erkennt Lula da Silvas Sieg an – unter Vorbehalt",
+      "link": "https://www.spiegel.de/ausland/brasilien-wahl-bolsonaro-partei-erkennt-lula-da-silvas-sieg-an-unter-vorbehalt-a-6fb50463-5e69-4f53-8c11-2b1142698d30#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Stichwahl in Brasilien: Lula triumphiert. Doch der Bolsonaro-Clan gibt nicht auf",
+      "link": "https://www.zeit.de/politik/2026-10/stichwahl-brasilien-praesidentschaft-lula-da-silva-flavio-bolsonaro"
+     },
+     {
+      "name": "FAZ",
+      "title": "HAndelsstopp: Brasiliens Börse bricht nach Lula-Sieg ein",
+      "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/lula-wiederwahl-brasiliens-boerse-stellt-sich-auf-unruhe-ein-accg-201621022.html"
      }
     ]
    },
@@ -550,38 +589,43 @@
       "link": "https://www.faz.net/aktuell/politik/inland/gericht-beate-zschaepe-muss-mindestens-bis-2035-im-gefaengnis-bleiben-accg-201624869.html"
      }
     ]
-   },
-   {
-    "title": "Microsoft: Techkonzern bietet 60.000 Mitarbeitern Abfindungen an",
-    "link": "https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-bietet-60-000-mitarbeitern-abfindungen-an-a-b0b9c84d-ab45-4b2f-a353-1f601334571d#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/8e7e4826-9cc1-4da2-b5b3-b7491dfb0f22_w520_r2.08_fpx49.33_fpy49.99.jpg",
-    "n_sources": 4,
-    "time": "2026-10-26T20:47:28+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Microsoft: Techkonzern bietet 60.000 Mitarbeitern Abfindungen an",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-bietet-60-000-mitarbeitern-abfindungen-an-a-b0b9c84d-ab45-4b2f-a353-1f601334571d#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Stellenabbau: Microsoft bietet mehr als einem Viertel der Mitarbeiter Abfindungen an",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/microsoft-abfindung-mitarbeiter-usa-kanada-indien"
-     },
-     {
-      "name": "FAZ",
-      "title": "Techriese im Umbruch: Microsoft bietet 60.000 Beschäftigten eine Abfindung an",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-bietet-60-000-beschaeftigten-eine-abfindung-an-201623636.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Software: Microsoft bietet rund 60.000 Mitarbeitern Abfindungen an",
-      "link": "https://www.handelsblatt.com/unternehmen/dienstleister/software-microsoft-bietet-rund-60.000-mitarbeitern-abfindungen-an/100265086.html"
-     }
-    ]
    }
   ],
   "30d": [
+   {
+    "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html",
+    "image": "https://images.tagesschau.de/image/62d4cc37-9f64-482c-b236-4ed3e8efa533/AAABoNKK1jQ/AAABnSSvrFg/16x9-big/karte-ukraine-frontverlaeufe-2228.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-27T21:19:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ukraine: Waffenruhe laut Melania Trump über Oleschky hinaus ausgeweitet",
+      "link": "https://www.spiegel.de/ausland/ukraine-waffenruhe-laut-melania-trump-ueber-oleschky-hinaus-ausgeweitet-a-c1483e83-6ddc-435f-9578-f2c7e0349f9f#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Krieg gegen die Ukraine: Waffenruhe in ukrainischer Frontstadt Oleschky tritt in Kraft",
+      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog"
+     },
+     {
+      "name": "FAZ",
+      "title": "Ukrainische Bahn im Krieg: Russlands Angriff auf die Lebensader der Ukraine",
+      "link": "https://www.faz.net/aktuell/ukrainische-bahn-im-krieg-russlands-angriff-auf-die-lebensader-der-ukraine-201614555.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Ukraine-Krieg +++: Melania Trump vermeldet: Waffenruhe über Oleschky hinaus ausgeweitet",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-waffenruhe-laut-melania-trump-ueber-oleschky-hinaus-ausgeweitet/27982126.html"
+     }
+    ]
+   },
    {
     "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
     "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
@@ -635,8 +679,8 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Autoindustrie: Audi kündigt auf Wahlkampfveranstaltung von Trump erstes US-Werk an",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/audi-werk-usa-donald-trump-georgia-gernot-doellner"
+      "title": "Audi-Werk in den USA: VW-Betriebsratschefin findet Auftritt von Döllner bei Trump beschämend",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/audi-gernot-doellner-donald-trump-wahlkampf-usa-gxe"
      },
      {
       "name": "FAZ",
@@ -647,6 +691,40 @@
       "name": "Handelsblatt",
       "title": "Gernot Döllner: „Verstörend und erbärmlich“: Politiker kritisieren Auftritt des Audi-Chefs bei Donald Trump",
       "link": "https://www.handelsblatt.com/politik/deutschland/audi-chef-politiker-kritisieren-wahlkampf-auftritt-bei-trump-als-verstoerend/100264950.html"
+     }
+    ]
+   },
+   {
+    "title": "Studentenliste gewinnt bei Wahl in Serbien",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1673130.html",
+    "image": "https://images.tagesschau.de/image/a0373b83-107d-46b4-9e93-40d5a93dffbc/AAABoXobgYs/AAABnSSvrFg/16x9-big/sendungsbild-1817594.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-27T12:16:56+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Studentenliste gewinnt bei Wahl in Serbien",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1673130.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Studentenliste in Serbien: Ab heute sind sie Politiker",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/studentenliste-serbien-wahl-regierung-berufe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Nach der Wahl: Serbien ist nicht zur Autokratie verdammt",
+      "link": "https://www.faz.net/aktuell/feuilleton/debatten/serbiens-studenten-deuten-nach-dem-wahlsieg-die-folklore-um-201624414.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
+      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
      }
     ]
    },
@@ -709,108 +787,50 @@
     ]
    },
    {
-    "title": "Vassili Golod, ARD Kiew, zur Waffenruhe in ukrainischer Frontstadt Oleschky",
-    "link": "https://www.tagesschau.de/video/video-1673414.html",
-    "image": "https://images.tagesschau.de/image/051ebfb8-28f5-4420-b467-73030bf37553/AAABoX2HHYw/AAABnSSvrFg/16x9-big/sendungsbild-1817942.jpg?width=1920",
+    "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
+    "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
+    "image": "https://images.tagesschau.de/image/f90a7f85-8cba-4a3b-80e8-3acfb9b8b09c/AAABoXPImHI/AAABnSSvrFg/16x9-big/serbien-wahl-112.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-10-27T13:22:55+00:00",
+    "time": "2026-10-27T12:48:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Vassili Golod, ARD Kiew, zur Waffenruhe in ukrainischer Frontstadt Oleschky",
-      "link": "https://www.tagesschau.de/video/video-1673414.html"
+      "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Russland-Ukraine-Krieg: Waffenruhe für besetzte ukrainische Frontstadt Oleschky läuft",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-krieg-waffenruhe-fuer-besetzte-ukrainische-frontstadt-oleschky-laeuft-a-e3b0a15b-20b4-4216-900d-32ce52bd3051#ref=rss"
+      "title": "Wahl in Israel: Wahlkommission vermeldet hohe Beteiligung",
+      "link": "https://www.spiegel.de/ausland/wahl-in-israel-wahlkommission-vermeldet-hohe-beteiligung-a-a133a8b8-9cd0-4e2d-bb12-d9e5e5fdb759#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Krieg gegen die Ukraine: Waffenruhe in ukrainischer Frontstadt Oleschky tritt in Kraft",
-      "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog"
+      "title": "Parlamentswahl in Israel: Historische Beteiligung bei Israel-Wahl zeichnet sich ab",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-israel-benjamin-netanjahu-gadi-eisenkot-live"
      },
      {
       "name": "FAZ",
-      "title": "Ukrainische Bahn im Krieg: Russlands Angriff auf die Lebensader der Ukraine",
-      "link": "https://www.faz.net/aktuell/ukrainische-bahn-im-krieg-russlands-angriff-auf-die-lebensader-der-ukraine-201614555.html"
+      "title": "Liveblog Nahost: In Israel zeichnet sich eine hohe Wahlbeteiligung ab",
+      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-bei-israel-wahl-2026-zeichnet-sich-hohe-wahlbeteiligung-ab-faz-200583539.html"
      }
     ]
    },
    {
-    "title": "Wahl in Israel: Endet die Ära Netanjahu?",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1673136.html",
-    "image": "https://images.tagesschau.de/image/e1c17c68-c689-480d-8f92-f47cd8458a86/AAABoXzyMdg/AAABnSSvrFg/16x9-big/stimmabgabe-wahllokal-100.jpg?width=1920",
+    "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
+    "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html",
+    "image": "https://images.sportschau.de/image/a1a67031-0807-44aa-8235-3e034c38917b/AAABoXl6fDM/AAABnSSvrFg/16x9-big/putellas-122.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-10-27T13:19:48+00:00",
+    "time": "2026-10-27T12:24:52+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wahl in Israel: Endet die Ära Netanjahu?",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1673136.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Parlamentswahlen in Israel haben begonnen",
-      "link": "https://www.zeit.de/video/2026-10/parlamentswahlen-in-israel-haben-begonnen"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bleibt NetanjahU?: Beginn der Parlamentswahlen in Israel",
-      "link": "https://www.faz.net/video/beginn-der-parlamentswahlen-in-israel-201625905.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Parlamentswahl: Schafft es Netanjahu noch einmal? Israel hat die Wahl – die wichtigsten Fragen und Antworten",
-      "link": "https://www.handelsblatt.com/politik/international/parlamentswahl-israel-waehlt-parlament-die-wichtigsten-fragen-und-antworten/100265242.html"
-     }
-    ]
-   },
-   {
-    "title": "Neuer US-Standort: Wie Audi-Mitarbeiter auf den Trump-Auftritt reagieren",
-    "link": "https://www.tagesschau.de/video/video-1672822.html",
-    "image": "https://images.tagesschau.de/image/59d61b7a-0257-4e05-a2ff-34f43b5208f0/AAABoXi1VyY/AAABnSSvrFg/16x9-big/doellner-trump-102.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-27T12:41:40+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Neuer US-Standort: Wie Audi-Mitarbeiter auf den Trump-Auftritt reagieren",
-      "link": "https://www.tagesschau.de/video/video-1672822.html"
+      "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
+      "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
-      "link": "https://www.spiegel.de/wirtschaft/vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Umfrage: Mehrheit findet Auftritt von Audi-Chef mit Trump falsch",
-      "link": "https://www.zeit.de/news/2026-10/27/mehrheit-sieht-auftritt-von-audi-chef-mit-trump-kritisch"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Audi in den USA: Cavallo: Auftritt von Audi-Chef bei Trump ist beschämend",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/audi-in-den-usa-auftritt-von-audi-chef-bei-trump-laut-cavallo-beschaemend/100264879.html"
-     }
-    ]
-   },
-   {
-    "title": "Harry Kane gewinnt Ballon d'Or",
-    "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
-    "image": "https://images.tagesschau.de/image/531a7ed5-383b-497f-8ee6-1f160619676a/AAABoXqD0lw/AAABnSSvrFg/16x9-big/harrykane-100.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-27T11:36:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Harry Kane gewinnt Ballon d'Or",
-      "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Harry Kane gewinnt den Ballon d'Or 2026: Der Anti-Star",
-      "link": "https://www.spiegel.de/sport/fussball/harry-kane-gewinnt-den-ballon-dor-2026-der-anti-star-a-784808a2-0c97-46bd-b791-eaff1b2c896d#ref=rss"
+      "title": "Ballon d’Or für Harry Kane: Reaktionen auf die Wahl des Bayernstars zum Weltfußballer",
+      "link": "https://www.spiegel.de/sport/ballon-d-or-fuer-harry-kane-reaktionen-auf-die-wahl-des-bayernstars-zum-weltfussballer-a-c309b0a7-41e0-4fca-9576-22f5a4bf0294#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -819,8 +839,37 @@
      },
      {
       "name": "FAZ",
-      "title": "Verleihung in London: Harry Kane und Alexia Putellas gewinnen den Ballon d’Or",
-      "link": "https://www.faz.net/aktuell/sport/fussball/harry-kane-gewinnt-den-ballon-d-or-201623664.html"
+      "title": "Weltfußballer-Wahl: „Wenn man Fußball mag, geht man zu Lamine, nicht zu Harry Kane“",
+      "link": "https://www.faz.net/aktuell/sport/fussball/ballon-d-or-lamine-yamals-onkel-kirtisiert-wahl-von-harry-kane-201625691.html"
+     }
+    ]
+   },
+   {
+    "title": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
+    "link": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html",
+    "image": "https://images.tagesschau.de/image/61cec6a4-a36c-4089-b13b-d207c422cdb0/AAABoXsViZQ/AAABnSSvrFg/16x9-big/brasilien-lula-wahl-100.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-27T03:45:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
+      "link": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Brasilien-Wahl: Bolsonaro-Partei erkennt Lula da Silvas Sieg an – unter Vorbehalt",
+      "link": "https://www.spiegel.de/ausland/brasilien-wahl-bolsonaro-partei-erkennt-lula-da-silvas-sieg-an-unter-vorbehalt-a-6fb50463-5e69-4f53-8c11-2b1142698d30#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Stichwahl in Brasilien: Lula triumphiert. Doch der Bolsonaro-Clan gibt nicht auf",
+      "link": "https://www.zeit.de/politik/2026-10/stichwahl-brasilien-praesidentschaft-lula-da-silva-flavio-bolsonaro"
+     },
+     {
+      "name": "FAZ",
+      "title": "HAndelsstopp: Brasiliens Börse bricht nach Lula-Sieg ein",
+      "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/lula-wiederwahl-brasiliens-boerse-stellt-sich-auf-unruhe-ein-accg-201621022.html"
      }
     ]
    },
@@ -850,35 +899,6 @@
       "name": "Handelsblatt",
       "title": "Software: Microsoft bietet rund 60.000 Mitarbeitern Abfindungen an",
       "link": "https://www.handelsblatt.com/unternehmen/dienstleister/software-microsoft-bietet-rund-60.000-mitarbeitern-abfindungen-an/100265086.html"
-     }
-    ]
-   },
-   {
-    "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
-    "image": "https://images.tagesschau.de/image/f28ef7d6-f75c-4bad-8385-a567b64dda1d/AAABoXSAUfY/AAABnSSvrFg/16x9-big/sendungsbild-1817092.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-26T19:03:52+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Star Trek: Walter Koenig im Alter von 90 Jahren gestorben",
-      "link": "https://www.spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben-a-f3fde724-d4df-4abf-b86c-186b2f1fb44c#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "»Star Trek«: US-Schauspieler Walter Koenig ist tot",
-      "link": "https://www.zeit.de/feuilleton/film/2026-10/walter-koenig-tod-raumschiff-enterprise-star-trek-los-angeles"
-     },
-     {
-      "name": "FAZ",
-      "title": "Im Alter von 90 Jahren: „Star Trek“-Schauspieler Walter Koenig ist tot",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/er-war-chekov-star-trek-schauspieler-walter-koenig-tot-201623539.html"
      }
     ]
    }
@@ -1321,6 +1341,21 @@
   "eu": {
    "24h": [
     {
+     "title": "Visa und Mastercard sehen sich potenzieller britischer Klage wegen Kartengebühren ausgesetzt",
+     "link": "https://www.finextra.com/newsarticle/48657/visa-and-mastercard-face-potential-uk-suit-over-card-fees?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-27T19:14:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Visa and Mastercard face potential UK suit over card fees",
+       "link": "https://www.finextra.com/newsarticle/48657/visa-and-mastercard-face-potential-uk-suit-over-card-fees?utm_medium=rssfinextra&utm_source=finextrafeed"
+      }
+     ],
+     "title_orig": "Visa and Mastercard face potential UK suit over card fees"
+    },
+    {
      "title": "ADVANCE.AI erhält PAD Level 3-Zertifizierung",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzJoRVprQnpSUU82ZDFWQnJoc0RrTTJwVHhzOXIxVTlfLUhmY1R4RzQ1dGNyZWpkVHhjMmk1WGowWTlvT1MyZ2RhVkRhYU5DdV81Nk90a2I4Z0trWmJLLXY3a2s1WHB1R1UyeUh6dC1NMHAtdVd2bS16N3NMZkN1TklqTVNtZWZlZnpxT0laa0NxeTRvSUQwaHZ5R0ZuX2NmZFpKTHM0RDZDaUJ6ZHpKU1RYUmc?oc=5",
      "image": "",
@@ -1349,6 +1384,21 @@
       }
      ],
      "title_orig": "Chargebacks911 launches indemnification for AI agent sales"
+    },
+    {
+     "title": "Revolut startet 2027 Revolut Ventures mit der Carne Group",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTN5LUFsTVFmNVhfYVFyQlhSa0JkWDJ4V1dwR0hobVYwNEJFRWRTektEQ2lfVF8wWGxVeXBwMGtFeXE4Y2FPdlJ1OElMZ2N3RUFvOHk3MmRDemZMRzRwOXU0UUtDWmtaalNfZjRxYlFvOEZjNVJjb1BlWndDSlRmSnktOEI3blVfOGRFS0RtX1NuMWotYXc3YjRwbw?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-27T17:11:36+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Revolut to launch Revolut Ventures with Carne Group in 2027",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTN5LUFsTVFmNVhfYVFyQlhSa0JkWDJ4V1dwR0hobVYwNEJFRWRTektEQ2lfVF8wWGxVeXBwMGtFeXE4Y2FPdlJ1OElMZ2N3RUFvOHk3MmRDemZMRzRwOXU0UUtDWmtaalNfZjRxYlFvOEZjNVJjb1BlWndDSlRmSnktOEI3blVfOGRFS0RtX1NuMWotYXc3YjRwbw?oc=5"
+      }
+     ],
+     "title_orig": "Revolut to launch Revolut Ventures with Carne Group in 2027"
     },
     {
      "title": "BOB sammelt USD 5,5 Mio. Seed-Runde für KI-Finanzassistent",
@@ -1381,6 +1431,21 @@
      "title_orig": "Mastercard launches Mastercard Gateway in Syria for banks"
     },
     {
+     "title": "Chainlink CustodySync verknüpft das Sorgerecht mit DeFi",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUDBka2xacUc4dGRTb29xcUFhd1RJQ0Q4T084aVU0QVdMcWhSY1hnSU81RmcwNEdSVXdjdVVUSXVJNnJRV2k4d3dJMzh4amFmd21zMVlDTDlKbnVKcE1YMUU0TDR4WXN6U2hTMHdHRkIwN0ZMejZuaS11WVhSS0pPRzNjbFdqN0xtRFVSZnl3YTM0Q1dCQU1jaUo3b2VCQ0RTOVRpOU5ORHFmZGJJSTJ1UlRn?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-27T16:56:31+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Chainlink CustodySync links custody to DeFi",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUDBka2xacUc4dGRTb29xcUFhd1RJQ0Q4T084aVU0QVdMcWhSY1hnSU81RmcwNEdSVXdjdVVUSXVJNnJRV2k4d3dJMzh4amFmd21zMVlDTDlKbnVKcE1YMUU0TDR4WXN6U2hTMHdHRkIwN0ZMejZuaS11WVhSS0pPRzNjbFdqN0xtRFVSZnl3YTM0Q1dCQU1jaUo3b2VCQ0RTOVRpOU5ORHFmZGJJSTJ1UlRn?oc=5"
+      }
+     ],
+     "title_orig": "Chainlink CustodySync links custody to DeFi"
+    },
+    {
      "title": "HSBC startet RedCoin Hong Kong Dollar Stablecoin auf PayMe",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1RqeHVXdW84ZmtiN2xNUHhlcGlnX0haR2VHNEpPYV85VzJ3bXFaNEtrRElycWZ2MS12REVkc2dQSnZxUTd3Y2tGREpVTHJSTUc2LWxvT3M0NUZUX00wZ2lVUGN0TzhvdDJqY1BhSnVZVzVqeDdGV2htcWtzY3RtbDBUNjRXQ21DZmJ0Nk9CYllWU1hoYlNRWEY4ZU9PVTVfbERYY3NabXFURTA?oc=5",
      "image": "",
@@ -1396,6 +1461,21 @@
      "title_orig": "HSBC launches RedCoin Hong Kong dollar stablecoin on PayMe"
     },
     {
+     "title": "OpenTable fügt Airwallex als Zahlungsanbieter hinzu",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1NzUW51dExEaHR2d0NZbWFHYmxocHdGRWV5ekF5Mk1SYWxDWkx3UlNDZG1NRnNsWmpGdDQ0STRKZnJ4Wk1pMUFHSlpvRDRsUGJKR29nNzNNNGNscXQtdzAxalZmVW91WjJYdmwxWUhjS2RtSjk1amZiZ3Z0NFhPMjVkakQ0VnJncEtVcUR3NHRVZE1JbkxVZ01MSEVnRUoxTVBPWU94blM2aUk?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-27T16:52:30+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "OpenTable adds Airwallex as payment provider",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1NzUW51dExEaHR2d0NZbWFHYmxocHdGRWV5ekF5Mk1SYWxDWkx3UlNDZG1NRnNsWmpGdDQ0STRKZnJ4Wk1pMUFHSlpvRDRsUGJKR29nNzNNNGNscXQtdzAxalZmVW91WjJYdmwxWUhjS2RtSjk1amZiZ3Z0NFhPMjVkakQ0VnJncEtVcUR3NHRVZE1JbkxVZ01MSEVnRUoxTVBPWU94blM2aUk?oc=5"
+      }
+     ],
+     "title_orig": "OpenTable adds Airwallex as payment provider"
+    },
+    {
      "title": "Payit by NatWest: Open Banking Vertrauenslücke",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa28tV2h2NnpiVjlXSjFFbFRFXzNrOUxTSUE4U1JWOC1kY29COXlTYWJLX3dwNWt3UzA0WlA5Qk5nTjhFRnh2d3FJc3NLYzZ5UkVjZmkxdVVDak1nMENKX2NrNXNfM2oxTUNqMGtoTmNZUXhGcEw3dE5PYnFHZHhPRXZYT2hOWEY2dFhBOE5mZHdyc0FSdXdQSW5yaW5YeGRH?oc=5",
      "image": "",
@@ -1409,66 +1489,6 @@
       }
      ],
      "title_orig": "Payit by NatWest: Open Banking trust gap"
-    },
-    {
-     "title": "Südkorea registriert Krypto-Transferfirmen",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGwzakl2UXhvYVBsUUV0TllQcXNWWlhGbm5mZzV0TlJyZlRMY1R3Mms3c3FVOENqQ1k5ZkpzZ0NJaHVRbWZicEZYMlZTc0FVZTREMmVabURUSDNrcXZWcVAwVzVKX0FYNEZiYndpNk41X1hNbTRNbU5uVDZHU2lhUTJ5X2M4dWt5dUNJS1AxSTMzQlpySnYzbkZ5QmNreFMtZEJRVzBnci01M21ERHZIbWRGSVZhTjRVYVE?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-27T15:41:42+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "South Korea to register crypto transfer firms",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGwzakl2UXhvYVBsUUV0TllQcXNWWlhGbm5mZzV0TlJyZlRMY1R3Mms3c3FVOENqQ1k5ZkpzZ0NJaHVRbWZicEZYMlZTc0FVZTREMmVabURUSDNrcXZWcVAwVzVKX0FYNEZiYndpNk41X1hNbTRNbU5uVDZHU2lhUTJ5X2M4dWt5dUNJS1AxSTMzQlpySnYzbkZ5QmNreFMtZEJRVzBnci01M21ERHZIbWRGSVZhTjRVYVE?oc=5"
-      }
-     ],
-     "title_orig": "South Korea to register crypto transfer firms"
-    },
-    {
-     "title": "Ripple erhält endgültige OCC-Genehmigung für die National Trust Bank",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV1d6S1Vjc2YzMnBrNDI1amp6QkxQQzI4RVZUajBBNXdNZHlyN3ZTYWFLelNaMXY4STZoendhdUE1WDFFWjhnYllrb3dXd1VON2lXNkhrd3oyVFBUbHRrT1cyVVZXamZwbHAxZ0ZfcDc1RmFxenRPcWpRU0lPQ2MyQTVKQVVjSDl2SHVrWWJzd3Q1Z2tEZ2F2clpwNUdCWlpOUHNCY0p4cjFWUQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-27T15:15:54+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Ripple gets final OCC approval for national trust bank",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV1d6S1Vjc2YzMnBrNDI1amp6QkxQQzI4RVZUajBBNXdNZHlyN3ZTYWFLelNaMXY4STZoendhdUE1WDFFWjhnYllrb3dXd1VON2lXNkhrd3oyVFBUbHRrT1cyVVZXamZwbHAxZ0ZfcDc1RmFxenRPcWpRU0lPQ2MyQTVKQVVjSDl2SHVrWWJzd3Q1Z2tEZ2F2clpwNUdCWlpOUHNCY0p4cjFWUQ?oc=5"
-      }
-     ],
-     "title_orig": "Ripple gets final OCC approval for national trust bank"
-    },
-    {
-     "title": "Euroclear befördert CRO Guillaume Eliet zur Führung der Euroclear Bank",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWlLb2hqYlFPRkZYTjNJVkNsZUVYRXRQWVl3WmZGNFNpNWtaUm9pUzRuZE54V01ZdUE2QjRNOG9nX2FfQVdVMXg0eWlGeXFiNmk5UGpUVGpPSTVMWFZoYUlwWkJFRGFia3plMHEzM0w2VV9aT05ET1daOFlnYUFFanJXZlE5aTkweUd0dWVsNExqMExmY2RrSkVuNkItSmRjYVJUTlVUeElHNTVHV1BaTA?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-27T14:57:27+00:00",
-     "sources": [
-      {
-       "name": "Fintech Futures",
-       "title": "Euroclear promotes CRO Guillaume Eliet to lead Euroclear Bank",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWlLb2hqYlFPRkZYTjNJVkNsZUVYRXRQWVl3WmZGNFNpNWtaUm9pUzRuZE54V01ZdUE2QjRNOG9nX2FfQVdVMXg0eWlGeXFiNmk5UGpUVGpPSTVMWFZoYUlwWkJFRGFia3plMHEzM0w2VV9aT05ET1daOFlnYUFFanJXZlE5aTkweUd0dWVsNExqMExmY2RrSkVuNkItSmRjYVJUTlVUeElHNTVHV1BaTA?oc=5"
-      }
-     ],
-     "title_orig": "Euroclear promotes CRO Guillaume Eliet to lead Euroclear Bank"
-    },
-    {
-     "title": "AmericanFortress, Sumsub bringt verifizierte ID zu Crypto",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTQ4b2RaMTVMZHdaNzJwOHBHdFk4dEE2bEhPRkpVQjZHWXFOTnhzNWVkV1hQUi1WTG5lU3c5U1ptOE44UFdEUXFCMUdwSF9lS2NyR0tWNHdHdXNRTUx5UjB0aElIOEVkc2gzaGhtSVBLTTR1T04zMDBrWVhsUVhhaC1INS1zUjk5RWgtQ1hPa01aTEtzQTUydW9jV19JRWgwdnFMTWdyZW1HbFhDZWhsZ2Fn?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-27T13:14:39+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "AmericanFortress, Sumsub bring verified ID to crypto",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTQ4b2RaMTVMZHdaNzJwOHBHdFk4dEE2bEhPRkpVQjZHWXFOTnhzNWVkV1hQUi1WTG5lU3c5U1ptOE44UFdEUXFCMUdwSF9lS2NyR0tWNHdHdXNRTUx5UjB0aElIOEVkc2gzaGhtSVBLTTR1T04zMDBrWVhsUVhhaC1INS1zUjk5RWgtQ1hPa01aTEtzQTUydW9jV19JRWgwdnFMTWdyZW1HbFhDZWhsZ2Fn?oc=5"
-      }
-     ],
-     "title_orig": "AmericanFortress, Sumsub bring verified ID to crypto"
     }
    ],
    "7d": [
@@ -1491,6 +1511,25 @@
       }
      ],
      "title_orig": "HSBC launches first stablecoin"
+    },
+    {
+     "title": "US Faster Payments Council release guide on navigating non-value messaging for instant payments",
+     "link": "https://www.finextra.com/pressarticle/111430/us-faster-payments-council-release-guide-on-navigating-non-value-messaging-for-instant-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-10-27T14:20:18+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "US Faster Payments Council release guide on navigating non-value messaging for instant payments",
+       "link": "https://www.finextra.com/pressarticle/111430/us-faster-payments-council-release-guide-on-navigating-non-value-messaging-for-instant-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "The Paypers",
+       "title": "FPC issues guide on non-value instant payment messages",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDFuVmwxNnMycHdXY1plWFRxR0REUWpCSzk0dUo3OXpYMThkbEFPNERlbGpfWldFQ2tzODN1TDVNTk9lMURiQmNpN0tYVThCSVk5Q3d0UUdfbE1VLVNIWXBQR3Q4a3NuejhSeU82cmNzR0xGTExISDZrQVdzY1lFMmVqN3prUkRJYmoydEJhOERIak5MdU0xdnduX2FYYUNUR3lJTg?oc=5"
+      }
+     ]
     },
     {
      "title": "TEN Credit Union wählt Bankjoy für seine Corelation KeyStone-Konvertierung aus",
@@ -1651,14 +1690,21 @@
       }
      ],
      "title_orig": "Tech Mahindra acquires Finastra's cash management division"
-    },
+    }
+   ],
+   "30d": [
     {
-     "title": "Klarna startet Consumer FX für grenzüberschreitende Zahlungen",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelBfcnE5dHhEWFVPdXgzck9vT0JyWm5wR3hCYlZldGNVcm5XQ3M4ZXJPaEdPUWdJN0V0ak8xbEJiMkpwM1kyVWwwXzdYcTJOdjAwcHNIZ0hBOVlJZENmOTBzRnpsaldTV25fZTJtUGNEWkVwYUw1Y256d3pkU3gzNXRJZjRXNTVoa1RPZjQtbHNVZC1yY3o0MlM0cUM4eUdQ?oc=5",
+     "title": "Konto-zu-Konto-Zahlungen in Großbritannien: Was kommt als nächstes?",
+     "link": "https://www.finextra.com/videoarticle/3617/account-to-account-payments-in-the-uk-what-comes-next?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
-     "n_sources": 2,
+     "n_sources": 3,
      "time": "2026-10-26T10:40:41+00:00",
      "sources": [
+      {
+       "name": "Finextra",
+       "title": "Account-to-Account Payments in the UK: What Comes Next?",
+       "link": "https://www.finextra.com/videoarticle/3617/account-to-account-payments-in-the-uk-what-comes-next?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
       {
        "name": "The Paypers",
        "title": "Klarna launches Consumer FX for cross-border payments",
@@ -1670,10 +1716,8 @@
        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ0JyR09ENmRUMndnOHZELUFuQmR0RF9OQzJoUm03QjFjNTdqUGpTSHV5SGlGem1xaGoteTV0TDlYY3ZTTjRQYUl6T1podjhwU0t2dUQ1eVN2SFRlVkx6dnBSNFNhRFNIWFBSVjZKSm9rRUViWDB5empFeElkcU55Z0UtRmJLYWk3eDlONUxnTkxrRmdZdG9md0JwbmxfTjJfRG1qMl9hRjllY3ZfMGZ2LWpfLU9udWhlMjJwcGpmSkZ2dw?oc=5"
       }
      ],
-     "title_orig": "Klarna launches Consumer FX for cross-border payments"
-    }
-   ],
-   "30d": [
+     "title_orig": "Account-to-Account Payments in the UK: What Comes Next?"
+    },
     {
      "title": "Modernisierung des Kernbankwesens ohne Kompromisse bei der Belastbarkeit",
      "link": "https://www.finextra.com/videoarticle/3622/modernising-core-banking-without-compromising-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -1698,26 +1742,6 @@
       }
      ],
      "title_orig": "Modernising Core Banking Without Compromising Resilience"
-    },
-    {
-     "title": "Klarna startet Consumer FX für grenzüberschreitende Zahlungen",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelBfcnE5dHhEWFVPdXgzck9vT0JyWm5wR3hCYlZldGNVcm5XQ3M4ZXJPaEdPUWdJN0V0ak8xbEJiMkpwM1kyVWwwXzdYcTJOdjAwcHNIZ0hBOVlJZENmOTBzRnpsaldTV25fZTJtUGNEWkVwYUw1Y256d3pkU3gzNXRJZjRXNTVoa1RPZjQtbHNVZC1yY3o0MlM0cUM4eUdQ?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-10-26T10:40:41+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Klarna launches Consumer FX for cross-border payments",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelBfcnE5dHhEWFVPdXgzck9vT0JyWm5wR3hCYlZldGNVcm5XQ3M4ZXJPaEdPUWdJN0V0ak8xbEJiMkpwM1kyVWwwXzdYcTJOdjAwcHNIZ0hBOVlJZENmOTBzRnpsaldTV25fZTJtUGNEWkVwYUw1Y256d3pkU3gzNXRJZjRXNTVoa1RPZjQtbHNVZC1yY3o0MlM0cUM4eUdQ?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Video: NatWest at Sibos 2026 – What’s next for cross-border payments and agentic commerce?",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ0JyR09ENmRUMndnOHZELUFuQmR0RF9OQzJoUm03QjFjNTdqUGpTSHV5SGlGem1xaGoteTV0TDlYY3ZTTjRQYUl6T1podjhwU0t2dUQ1eVN2SFRlVkx6dnBSNFNhRFNIWFBSVjZKSm9rRUViWDB5empFeElkcU55Z0UtRmJLYWk3eDlONUxnTkxrRmdZdG9md0JwbmxfTjJfRG1qMl9hRjllY3ZfMGZ2LWpfLU9udWhlMjJwcGpmSkZ2dw?oc=5"
-      }
-     ],
-     "title_orig": "Klarna launches Consumer FX for cross-border payments"
     },
     {
      "title": "Sezzle beantragt Nationalbankcharta beim Occ",
@@ -1778,6 +1802,25 @@
       }
      ],
      "title_orig": "HSBC launches first stablecoin"
+    },
+    {
+     "title": "US Faster Payments Council release guide on navigating non-value messaging for instant payments",
+     "link": "https://www.finextra.com/pressarticle/111430/us-faster-payments-council-release-guide-on-navigating-non-value-messaging-for-instant-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-10-27T14:20:18+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "US Faster Payments Council release guide on navigating non-value messaging for instant payments",
+       "link": "https://www.finextra.com/pressarticle/111430/us-faster-payments-council-release-guide-on-navigating-non-value-messaging-for-instant-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "The Paypers",
+       "title": "FPC issues guide on non-value instant payment messages",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDFuVmwxNnMycHdXY1plWFRxR0REUWpCSzk0dUo3OXpYMThkbEFPNERlbGpfWldFQ2tzODN1TDVNTk9lMURiQmNpN0tYVThCSVk5Q3d0UUdfbE1VLVNIWXBQR3Q4a3NuejhSeU82cmNzR0xGTExISDZrQVdzY1lFMmVqN3prUkRJYmoydEJhOERIak5MdU0xdnduX2FYYUNUR3lJTg?oc=5"
+      }
+     ]
     },
     {
      "title": "TEN Credit Union wählt Bankjoy für seine Corelation KeyStone-Konvertierung aus",
@@ -1858,31 +1901,31 @@
       }
      ],
      "title_orig": "NMB Bank moves its core to Oracle Flexcube"
-    },
-    {
-     "title": "Tech Mahindra erwirbt die Cash-Management-Sparte von Finastra",
-     "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-10-26T11:03:30+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Tech Mahindra acquires Finastra's cash management division",
-       "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Tech Mahindra buys Finastra's cash management product suite",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXZpU2NIbGtHWnJaU2U4c04yN2lwbTZES1VRQ2VfaWFQd1YwNTZoTU9lalhSbUxDV01raXAwUnNyTEVucmVSdEZMNHVqR1VmaTZmOXZGSFd5T0w4N2cyanF6RGtjWE40QmVsWU1ZWmVqY0tJa3MwR1hpVTBsTkRkXzBlSVdRN21RcUxrc3MwT2FkSzc1MHdEYw?oc=5"
-      }
-     ],
-     "title_orig": "Tech Mahindra acquires Finastra's cash management division"
     }
    ]
   },
   "world": {
    "24h": [
+    {
+     "title": "Silbentrennung bringt 45 Mio. $ für autonome Finanzagenten ein",
+     "link": "https://www.finextra.com/pressarticle/111474/hyphenate-raises-45m-for-autonomous-finance-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2023/11/artificial-intelligence-AI.jpg?w=457",
+     "n_sources": 2,
+     "time": "2026-10-27T19:46:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Hyphenate raises $45m for autonomous finance agents",
+       "link": "https://www.finextra.com/pressarticle/111474/hyphenate-raises-45m-for-autonomous-finance-agents?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Hyphenate Raises $45 Million for Finance-Focused AI Agents",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/hyphenate-raises-45-million-dollars-finance-focused-ai-agents/"
+      }
+     ],
+     "title_orig": "Hyphenate raises $45m for autonomous finance agents"
+    },
     {
      "title": "Bank of England bestellt Überprüfung der Revolut-Produktzulassungen - FT",
      "link": "https://www.finextra.com/newsarticle/48653/bank-of-england-orders-review-of-revolut-product-approvals---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -1904,139 +1947,124 @@
      "title_orig": "Bank of England orders review of Revolut product approvals - FT"
     },
     {
-     "title": "Coca-Cola Woos Preisbewusste Käufer als Erschwinglichkeit Druck steigt",
-     "link": "https://www.pymnts.com/earnings/2026/coca-cola-woos-price-conscious-buyers-as-affordability-pressure-mounts/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2021/04/Coca-Cola-earnings-revenue-recovery.jpg?w=457",
+     "title": "Oracle integriert Unternehmensdaten und -anwendungen mit OpenAI Frontier AI",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/oracle-integrates-enterprise-data-and-applications-with-openai-frontier-ai/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Oracle-OpenAI-1.png?w=457&quality=82",
      "n_sources": 1,
-     "time": "2026-10-27T18:42:57+00:00",
+     "time": "2026-10-27T21:00:06+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Coca-Cola Woos Price-Conscious Buyers as Affordability Pressure Mounts",
-       "link": "https://www.pymnts.com/earnings/2026/coca-cola-woos-price-conscious-buyers-as-affordability-pressure-mounts/"
+       "title": "Oracle Integrates Enterprise Data and Applications With OpenAI Frontier AI",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/oracle-integrates-enterprise-data-and-applications-with-openai-frontier-ai/"
       }
      ],
-     "title_orig": "Coca-Cola Woos Price-Conscious Buyers as Affordability Pressure Mounts"
+     "title_orig": "Oracle Integrates Enterprise Data and Applications With OpenAI Frontier AI"
     },
     {
-     "title": "Apple stellt KI-Funktionen im neuen 14-Zoll-MacBook Pro vor",
-     "link": "https://www.pymnts.com/technology/2026/apple-touts-ai-capabilities-in-new-14-inch-macbook-pro/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-M6.png?w=457&quality=82",
+     "title": "Gaspreisentlastung erhöht das Verbrauchervertrauen trotz anhaltender Inflationssorgen",
+     "link": "https://www.pymnts.com/economy/2026/gas-price-relief-lifts-consumer-confidence-despite-lingering-inflation-concerns/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Consumer-Confidence-gas-prices-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-27T18:22:47+00:00",
+     "time": "2026-10-27T20:18:55+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Apple Touts AI Capabilities in New 14-Inch MacBook Pro",
-       "link": "https://www.pymnts.com/technology/2026/apple-touts-ai-capabilities-in-new-14-inch-macbook-pro/"
+       "title": "Gas Price Relief Lifts Consumer Confidence Despite Lingering Inflation Concerns",
+       "link": "https://www.pymnts.com/economy/2026/gas-price-relief-lifts-consumer-confidence-despite-lingering-inflation-concerns/"
       }
      ],
-     "title_orig": "Apple Touts AI Capabilities in New 14-Inch MacBook Pro"
+     "title_orig": "Gas Price Relief Lifts Consumer Confidence Despite Lingering Inflation Concerns"
     },
     {
-     "title": "Das britische Innenministerium wurde für den KI-Einsatz in Asylfällen überprüft",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/uk-home-office-scrutinized-for-ai-use-in-asylum-cases/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/UK-Home-Office-AI.jpeg?w=457",
+     "title": "CarParts.com integriert Klarna, um die Checkout-Optionen zu erweitern",
+     "link": "https://www.pymnts.com/partnerships/2026/carparts-com-integrates-klarna-to-expand-checkout-options/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2025/03/CarParts.com-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-10-27T18:00:36+00:00",
+     "time": "2026-10-27T19:58:29+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "UK Home Office Scrutinized For AI Use in Asylum Cases",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/uk-home-office-scrutinized-for-ai-use-in-asylum-cases/"
+       "title": "CarParts.com Integrates Klarna to Expand Checkout Options",
+       "link": "https://www.pymnts.com/partnerships/2026/carparts-com-integrates-klarna-to-expand-checkout-options/"
       }
      ],
-     "title_orig": "UK Home Office Scrutinized For AI Use in Asylum Cases"
+     "title_orig": "CarParts.com Integrates Klarna to Expand Checkout Options"
     },
     {
-     "title": "Versicherer preisen Roboter pro Tag, Robotaxis pro Meile",
-     "link": "https://www.pymnts.com/insurance/2026/insurers-price-robots-by-the-day-robotaxis-by-the-mile/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/insurance-AI-transporation-robotics-automation.jpeg?w=457",
+     "title": "WEX arbeitet mit Euclid zusammen, um die Agenten-KI zum LKW zu bringen",
+     "link": "https://www.pymnts.com/partnerships/2026/wex-teams-with-euclid-bring-agentic-ai-trucking/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2025/07/WEX.png?w=457&quality=82",
      "n_sources": 1,
-     "time": "2026-10-27T17:27:13+00:00",
+     "time": "2026-10-27T19:37:31+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Insurers Price Robots by the Day, Robotaxis by the Mile",
-       "link": "https://www.pymnts.com/insurance/2026/insurers-price-robots-by-the-day-robotaxis-by-the-mile/"
+       "title": "WEX Teams With Euclid to Bring Agentic AI to Trucking",
+       "link": "https://www.pymnts.com/partnerships/2026/wex-teams-with-euclid-bring-agentic-ai-trucking/"
       }
      ],
-     "title_orig": "Insurers Price Robots by the Day, Robotaxis by the Mile"
+     "title_orig": "WEX Teams With Euclid to Bring Agentic AI to Trucking"
     },
     {
-     "title": "Anthropic erweitert Claude für Finanzberater um neue Integrationen",
-     "link": "https://www.finextra.com/pressarticle/111473/anthropic-expands-claude-for-financial-advisors-with-ne-integrations?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "title": "UPS vergibt Gutschriften an Kunden im Gesundheitswesen für eine Umsatzsteigerung von 6,7 %",
+     "link": "https://www.pymnts.com/earnings/2026/ups-credits-healthcare-customers-for-6-7percent-revenue-increase/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2021/06/UPS-earnings-SMB-healthcare.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-27T19:35:40+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "UPS Credits Healthcare Customers For 6.7% Revenue Increase",
+       "link": "https://www.pymnts.com/earnings/2026/ups-credits-healthcare-customers-for-6-7percent-revenue-increase/"
+      }
+     ],
+     "title_orig": "UPS Credits Healthcare Customers For 6.7% Revenue Increase"
+    },
+    {
+     "title": "Visa und Mastercard sehen sich potenzieller britischer Klage wegen Kartengebühren ausgesetzt",
+     "link": "https://www.finextra.com/newsarticle/48657/visa-and-mastercard-face-potential-uk-suit-over-card-fees?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-27T17:08:00+00:00",
+     "time": "2026-10-27T19:14:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Anthropic expands Claude for Financial Advisors with ne integrations",
-       "link": "https://www.finextra.com/pressarticle/111473/anthropic-expands-claude-for-financial-advisors-with-ne-integrations?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "Visa and Mastercard face potential UK suit over card fees",
+       "link": "https://www.finextra.com/newsarticle/48657/visa-and-mastercard-face-potential-uk-suit-over-card-fees?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "Anthropic expands Claude for Financial Advisors with ne integrations"
+     "title_orig": "Visa and Mastercard face potential UK suit over card fees"
     },
     {
-     "title": "NinjaTrader startet in Großbritannien",
-     "link": "https://www.finextra.com/pressarticle/111472/ninjatrader-launches-in-the-uk?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Socure führt Tools zur Bestimmung der Vertrauenswürdigkeit von KI-Agenten ein",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/socure-launches-tools-to-determine-ai-agents-trustworthiness/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/AI-Agents-trust-verification.jpeg?w=457",
      "n_sources": 1,
-     "time": "2026-10-27T17:06:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "NinjaTrader launches in the UK",
-       "link": "https://www.finextra.com/pressarticle/111472/ninjatrader-launches-in-the-uk?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ],
-     "title_orig": "NinjaTrader launches in the UK"
-    },
-    {
-     "title": "Amazon Business stellt neue Beschaffungstools vor",
-     "link": "https://www.pymnts.com/news/b2b-payments/2026/amazon-business-debuts-new-procurement-tools/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2025/08/Amazon-Business.png?w=457&quality=82",
-     "n_sources": 1,
-     "time": "2026-10-27T16:32:49+00:00",
+     "time": "2026-10-27T19:07:25+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Amazon Business Debuts New Procurement Tools",
-       "link": "https://www.pymnts.com/news/b2b-payments/2026/amazon-business-debuts-new-procurement-tools/"
+       "title": "Socure Launches Tools to Determine AI Agents’ Trustworthiness",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/socure-launches-tools-to-determine-ai-agents-trustworthiness/"
       }
      ],
-     "title_orig": "Amazon Business Debuts New Procurement Tools"
+     "title_orig": "Socure Launches Tools to Determine AI Agents’ Trustworthiness"
     },
     {
-     "title": "Ripple sichert die Charta der Nationalbank; Inks befasst sich mit BNY und Robinhood",
-     "link": "https://www.finextra.com/newsarticle/48655/ripple-secures-national-bank-charter-inks-deals-with-bny-and-robinhood?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "Kommerzielle Kreditvergabe bewegt sich in Richtung kontinuierliches Underwriting",
+     "link": "https://www.pymnts.com/loans/2026/commercial-lending-moves-toward-continuous-underwriting/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/commercial-lending-working-capital.jpeg?w=457",
      "n_sources": 1,
-     "time": "2026-10-27T15:16:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Ripple secures national bank charter; inks deals with BNY and Robinhood",
-       "link": "https://www.finextra.com/newsarticle/48655/ripple-secures-national-bank-charter-inks-deals-with-bny-and-robinhood?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ],
-     "title_orig": "Ripple secures national bank charter; inks deals with BNY and Robinhood"
-    },
-    {
-     "title": "KI-Infrastrukturausgaben verlängern das Wachstum von Kernkapitalgütern im September",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-infrastructure-spending-extends-core-capital-goods-growth-september/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2024/09/AI-infrastructure-data-center.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-27T16:24:34+00:00",
+     "time": "2026-10-27T18:58:16+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "AI Infrastructure Spending Extends Core Capital Goods Growth in September",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-infrastructure-spending-extends-core-capital-goods-growth-september/"
+       "title": "Commercial Lending Moves Toward Continuous Underwriting",
+       "link": "https://www.pymnts.com/loans/2026/commercial-lending-moves-toward-continuous-underwriting/"
       }
      ],
-     "title_orig": "AI Infrastructure Spending Extends Core Capital Goods Growth in September"
+     "title_orig": "Commercial Lending Moves Toward Continuous Underwriting"
     }
    ],
    "7d": [
@@ -2059,6 +2087,46 @@
       }
      ],
      "title_orig": "Ripple secures national bank charter; inks deals with BNY and Robinhood"
+    },
+    {
+     "title": "Silbentrennung bringt 45 Mio. $ für autonome Finanzagenten ein",
+     "link": "https://www.finextra.com/pressarticle/111474/hyphenate-raises-45m-for-autonomous-finance-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2023/11/artificial-intelligence-AI.jpg?w=457",
+     "n_sources": 2,
+     "time": "2026-10-27T19:46:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Hyphenate raises $45m for autonomous finance agents",
+       "link": "https://www.finextra.com/pressarticle/111474/hyphenate-raises-45m-for-autonomous-finance-agents?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Hyphenate Raises $45 Million for Finance-Focused AI Agents",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/hyphenate-raises-45-million-dollars-finance-focused-ai-agents/"
+      }
+     ],
+     "title_orig": "Hyphenate raises $45m for autonomous finance agents"
+    },
+    {
+     "title": "Visa und Mastercard sehen sich potenzieller britischer Klage wegen Kartengebühren ausgesetzt",
+     "link": "https://www.finextra.com/newsarticle/48657/visa-and-mastercard-face-potential-uk-suit-over-card-fees?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://imgproxy.divecdn.com/TRh2ib-w8z2HWrS0x6oJZ6tRIsC5WLuCShdMYXfwaw4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3NjUyMDc4LmpwZw==.webp",
+     "n_sources": 2,
+     "time": "2026-10-27T19:14:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Visa and Mastercard face potential UK suit over card fees",
+       "link": "https://www.finextra.com/newsarticle/48657/visa-and-mastercard-face-potential-uk-suit-over-card-fees?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "Payments Dive",
+       "title": "Visa changes fees in Canada",
+       "link": "https://www.paymentsdive.com/news/visa-mastercard-card-fee-changes-fees-canada/833599/"
+      }
+     ],
+     "title_orig": "Visa and Mastercard face potential UK suit over card fees"
     },
     {
      "title": "SoFi startet tokenisierte Einlagen",
@@ -2176,49 +2244,19 @@
      "title_orig": "PayQuicker names Tyron Bennion chief revenue officer"
     },
     {
-     "title": "Coca-Cola Woos Preisbewusste Käufer als Erschwinglichkeit Druck steigt",
-     "link": "https://www.pymnts.com/earnings/2026/coca-cola-woos-price-conscious-buyers-as-affordability-pressure-mounts/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2021/04/Coca-Cola-earnings-revenue-recovery.jpg?w=457",
+     "title": "Oracle integriert Unternehmensdaten und -anwendungen mit OpenAI Frontier AI",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/oracle-integrates-enterprise-data-and-applications-with-openai-frontier-ai/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Oracle-OpenAI-1.png?w=457&quality=82",
      "n_sources": 1,
-     "time": "2026-10-27T18:42:57+00:00",
+     "time": "2026-10-27T21:00:06+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Coca-Cola Woos Price-Conscious Buyers as Affordability Pressure Mounts",
-       "link": "https://www.pymnts.com/earnings/2026/coca-cola-woos-price-conscious-buyers-as-affordability-pressure-mounts/"
+       "title": "Oracle Integrates Enterprise Data and Applications With OpenAI Frontier AI",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/oracle-integrates-enterprise-data-and-applications-with-openai-frontier-ai/"
       }
      ],
-     "title_orig": "Coca-Cola Woos Price-Conscious Buyers as Affordability Pressure Mounts"
-    },
-    {
-     "title": "Apple stellt KI-Funktionen im neuen 14-Zoll-MacBook Pro vor",
-     "link": "https://www.pymnts.com/technology/2026/apple-touts-ai-capabilities-in-new-14-inch-macbook-pro/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-M6.png?w=457&quality=82",
-     "n_sources": 1,
-     "time": "2026-10-27T18:22:47+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Apple Touts AI Capabilities in New 14-Inch MacBook Pro",
-       "link": "https://www.pymnts.com/technology/2026/apple-touts-ai-capabilities-in-new-14-inch-macbook-pro/"
-      }
-     ],
-     "title_orig": "Apple Touts AI Capabilities in New 14-Inch MacBook Pro"
-    },
-    {
-     "title": "Das britische Innenministerium wurde für den KI-Einsatz in Asylfällen überprüft",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/uk-home-office-scrutinized-for-ai-use-in-asylum-cases/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/UK-Home-Office-AI.jpeg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-27T18:00:36+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "UK Home Office Scrutinized For AI Use in Asylum Cases",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/uk-home-office-scrutinized-for-ai-use-in-asylum-cases/"
-      }
-     ],
-     "title_orig": "UK Home Office Scrutinized For AI Use in Asylum Cases"
+     "title_orig": "Oracle Integrates Enterprise Data and Applications With OpenAI Frontier AI"
     }
    ],
    "30d": [
@@ -2241,6 +2279,46 @@
       }
      ],
      "title_orig": "Ripple secures national bank charter; inks deals with BNY and Robinhood"
+    },
+    {
+     "title": "Silbentrennung bringt 45 Mio. $ für autonome Finanzagenten ein",
+     "link": "https://www.finextra.com/pressarticle/111474/hyphenate-raises-45m-for-autonomous-finance-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2023/11/artificial-intelligence-AI.jpg?w=457",
+     "n_sources": 2,
+     "time": "2026-10-27T19:46:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Hyphenate raises $45m for autonomous finance agents",
+       "link": "https://www.finextra.com/pressarticle/111474/hyphenate-raises-45m-for-autonomous-finance-agents?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Hyphenate Raises $45 Million for Finance-Focused AI Agents",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/hyphenate-raises-45-million-dollars-finance-focused-ai-agents/"
+      }
+     ],
+     "title_orig": "Hyphenate raises $45m for autonomous finance agents"
+    },
+    {
+     "title": "Visa und Mastercard sehen sich potenzieller britischer Klage wegen Kartengebühren ausgesetzt",
+     "link": "https://www.finextra.com/newsarticle/48657/visa-and-mastercard-face-potential-uk-suit-over-card-fees?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://imgproxy.divecdn.com/TRh2ib-w8z2HWrS0x6oJZ6tRIsC5WLuCShdMYXfwaw4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3NjUyMDc4LmpwZw==.webp",
+     "n_sources": 2,
+     "time": "2026-10-27T19:14:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Visa and Mastercard face potential UK suit over card fees",
+       "link": "https://www.finextra.com/newsarticle/48657/visa-and-mastercard-face-potential-uk-suit-over-card-fees?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "Payments Dive",
+       "title": "Visa changes fees in Canada",
+       "link": "https://www.paymentsdive.com/news/visa-mastercard-card-fee-changes-fees-canada/833599/"
+      }
+     ],
+     "title_orig": "Visa and Mastercard face potential UK suit over card fees"
     },
     {
      "title": "SoFi startet tokenisierte Einlagen",
@@ -2371,36 +2449,6 @@
       }
      ],
      "title_orig": "NextGen Nordics 2027: Who controls the future of payments?"
-    },
-    {
-     "title": "PayQuicker ernennt Tyron Bennion zum Chief Revenue Officer",
-     "link": "https://www.finextra.com/pressarticle/111468/payquicker-names-tyron-bennion-chief-revenue-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-27T14:26:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "PayQuicker names Tyron Bennion chief revenue officer",
-       "link": "https://www.finextra.com/pressarticle/111468/payquicker-names-tyron-bennion-chief-revenue-officer?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ],
-     "title_orig": "PayQuicker names Tyron Bennion chief revenue officer"
-    },
-    {
-     "title": "Coca-Cola Woos Preisbewusste Käufer als Erschwinglichkeit Druck steigt",
-     "link": "https://www.pymnts.com/earnings/2026/coca-cola-woos-price-conscious-buyers-as-affordability-pressure-mounts/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2021/04/Coca-Cola-earnings-revenue-recovery.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-27T18:42:57+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Coca-Cola Woos Price-Conscious Buyers as Affordability Pressure Mounts",
-       "link": "https://www.pymnts.com/earnings/2026/coca-cola-woos-price-conscious-buyers-as-affordability-pressure-mounts/"
-      }
-     ],
-     "title_orig": "Coca-Cola Woos Price-Conscious Buyers as Affordability Pressure Mounts"
     }
    ]
   }
@@ -2412,53 +2460,53 @@
     "lang": "de",
     "items": [
      {
-      "title": "mary roos",
-      "link": "https://www.focus.de/kultur/stars/so-unfassbar-traurig-stefanie-hertel-trauert-um-engen-freund-andre-hoehl-59_277476c6-68a8-482f-8e8e-d3fdf5667e99.html",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "zdf programm heute",
-      "link": "https://www.rnd.de/medien/was-laeuft-heute-abend-im-fernsehen-tv-programm-um-20-15-uhr-sonntag-25-10-2026-B5HA775UTRCT3C2NQV5QMRWY5U.html",
-      "meta": "10000+ Suchanfragen"
-     },
-     {
-      "title": "robin koch",
-      "link": "https://www.ligainsider.de/robin-koch_12490/bdquo-ich-habe-robin-nicht-fallenlassen-ldquo-huetter-staerkt-koch-419745/",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "fahrgeschäft",
-      "link": "https://www.soester-anzeiger.de/lokales/soest/wer-erinnert-sich-noch-diese-fahrgeschaefte-praegten-die-allerheiligenkirmes-soest-vor-50-jahren-94560405.html",
+      "title": "intel",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "löhnberg",
-      "link": "https://www.mittelhessen.de/lokales/kreis-limburg-weilburg/loehnberg/baustelle-kanalsanierung-teurer-nachholbedarf-in-loehnberg-6576928",
+      "title": "julianne moore",
+      "link": "https://www.reuters.com/business/media-telecom/jesse-eisenberg-julianne-moore-bring-curtain-down-london-film-festival-with-the-2026-10-19/",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "fussball heute",
+      "link": "https://www.sportbuzzer.de/fussball/fussball-heute-live-mit-dfb-pokal-spielen-diese-spiele-laufen-im-tv-und-stream-am-27-10-26-YBTRL3FV5FCURCBONAXVBO4TAE.html",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "niklas füllkrug",
+      "link": "https://vodacomsoccer.com/video/play/matchday-1-fsv-mainz-05-vs-sv-werder-bremen",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "landaluce",
-      "link": "https://nuevecuatrouno.com/2026/10/27/una-mocion-de-censura-pondra-fin-este-miercoles-a-15-anos-de-gobierno-de-landaluce-en-algeciras/",
+      "title": "schlotterbeck",
+      "link": "https://www.fussballdaten.de/news/top-klub-unter-zug-zwang-bvb-star-nico-schlotterbeck-visier/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "pierce brosnan",
-      "link": "https://www.foxnews.com/entertainment/pierce-brosnan-warned-sons-about-hollywood-being-very-tough-business-youngest-follows-his-footsteps",
+      "title": "deforest buckner",
+      "link": "https://www.espn.com/nfl/story/_/id/50301125/colts-trade-de-deforest-buckner-49ers",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "haiti",
+      "link": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "lupin staffel 5",
+      "link": "https://www.bild.de/unterhaltung/stars-und-leute/lupin-netflix-nimmt-meisterdieb-seine-stimme-weg-6ae04104da481c7e84a3ed37",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "bamberg – varese",
-      "link": "https://www.varesenews.it/2026/10/bma-365-bamberg-itelyum-varese-la-partita-in-diretta/2719720/",
+      "title": "nine to five das amt",
+      "link": "https://web.de/magazine/unterhaltung/filme-serien-kino/nine-to-five-humorvolle-fremdscham-buergeramt-42875638",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "alles was zählt heute",
-      "link": "https://plus.rtl.de/alles-was-zahlt-p_11229/video/fluchtimpuls-c_2149213",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "hoyerswerda",
-      "link": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/nachbarn/landkreis-bautzen/hoyerswerda/330347/schwerer-unfall-auf-b96-bei-hoyerswerda-zwei-schwerverletzte.html",
+      "title": "lukas ullrich",
+      "link": "https://www.reutersconnect.com/item/borussia-dortmund-vs-werder-bremen/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjEwMjdYOTlYODM3NjU",
       "meta": "200+ Suchanfragen"
      }
     ]
@@ -2526,32 +2574,31 @@
     "lang": "fr",
     "items": [
      {
-      "title": "moses Kouamé",
-      "link": "https://www.lequipe.fr/Tennis/Actualites/Droguet-gea-halys-et-jacquet-invites-au-rolex-paris-masters-kouame-et-balshaw-en-qualifications/1739049",
+      "title": "Kindermotive",
+      "link": "https://www.bfmtv.com/police-justice/attentat-raciste-dans-les-yvelines-l-enfant-de-11-ans-grievement-blessee-s-est-battue-pour-survivre-selon-l-avocat-de-ses-parents_AN-202610270730.html",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "enfant"
+     },
+     {
+      "title": "loudéac",
+      "link": "https://actu.fr/bretagne/loudeac_22136/cotes-darmor-la-ville-fait-fermer-ces-deux-commerces-du-centre-ville-pourquoi_64982311.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "die Gräfin von Monte Christo",
+      "link": "https://www.tf1info.fr/culture/programme-tf1-la-comtesse-de-monte-cristo-sur-tf1-avec-audrey-fleurot-la-date-de-la-diffusion-de-la-serie-tv-2472325.html",
       "meta": "500+ Suchanfragen",
-      "title_orig": "moïse kouamé"
+      "title_orig": "la comtesse de monte-cristo"
      },
      {
-      "title": "auslosung Coupe de France Fußball",
-      "link": "https://www.fff.fr/article/17663-les-tirages-7e-8e-tours-des-clubs-d-outre-mer.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "tirage coupe de france football"
+      "title": "koh-lanta all stars",
+      "link": "https://www.tf1.fr/tf1/koh-lanta/videos/koh-lanta-all-stars-emission-10-partie-1-57485070.html",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "marathon",
-      "link": "https://www.lavoixdunord.fr/1749638/article/2026-10-26/marathon-de-lille-le-coureur-victime-d-un-malaise-sur-la-ligne-d-arrivee-est",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "jeans le cam",
-      "link": "https://figaronautisme.meteoconsult.fr/actus-nautisme-courses/route-du-rhum/2026-10-19/93309-route-du-rhumdestination-guadeloupe-2026-bulletin-meteo-du-mardi-27-octobre",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "jean le cam"
-     },
-     {
-      "title": "rokhaya diallo",
-      "link": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative",
-      "meta": "500+ Suchanfragen"
+      "title": "illan meslier",
+      "link": "https://www.lequipe.fr/Football/Actualites/Plus-apparu-sur-une-pelouse-depuis-mars-2025-illan-meslier-est-titulaire-dans-les-buts-d-arsenal-en-league-cup/1739160",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2560,31 +2607,31 @@
     "lang": "it",
     "items": [
      {
-      "title": "cesena - empoli",
-      "link": "https://www.virgilio.it/sport/dirette/live/serie-b/27-10-2026/cesena-empoli/2670752/",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "vojkov-Brücke",
-      "link": "https://www.3bmeteo.com/giornale-meteo/weekend-ognissanti-anticiclone-affanno-fronte-nord-europa-cosa-accadra-italia-1000008421",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "ponte di voejkov"
-     },
-     {
-      "title": "mantova - cremonese",
-      "link": "https://www.dazn.com/it-IT/news/calcio/mantova-cremonese-gratis-dazn-probabili-formazioni-ultime/f412fpo378c01wtare0xett5x",
+      "title": "rodrigo mora",
+      "link": "https://www.gazzetta.it/Calcio/Serie-A/Roma/27-10-2026/rodrigo-mora-titolare-cagliari-acquisto-record-roma-occasione.shtml",
       "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "ein Platz in der Sonne",
-      "link": "https://www.gazzetta.it/spettacolo-tv-gossip/storie/23-10-2026/un-posto-al-sole-le-anticipazioni-dal-26-al-30-ottobre/la-settimana.shtml",
+      "title": "wie 1907",
+      "link": "https://www.ilmessaggero.it/es/torino_y_como_buscan_romper_el_equilibrio_en_un_choque_clave-9851781.html",
       "meta": "500+ Suchanfragen",
-      "title_orig": "un posto al sole"
+      "title_orig": "como 1907"
      },
      {
-      "title": "xbox game pass",
-      "link": "https://videocardz.com/newz/droiddeck-0-6-0-adds-xbox-game-pass-support-to-android-including-local-pc-game-downloads",
+      "title": "jacobo ramón",
+      "link": "https://www.virgilio.it/sport/calcio/giocatori/jacobo-ramon/",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "dolly parton",
+      "link": "https://people.com/reba-mcentire-recalls-dolly-parton-sweet-valentines-day-surprise-on-set-12196790",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "ich bin keine Handlung",
+      "link": "https://tg24.sky.it/spettacolo/cinema/2026/10/27/io-sono-nessuno-film",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "io sono nessuno trama"
      }
     ]
    },
@@ -2593,31 +2640,33 @@
     "lang": "es",
     "items": [
      {
-      "title": "valencia - fenerbahçe",
-      "link": "https://elpais.com/deportes/baloncesto/2026-10-27/jornada-8-de-la-euroliga-horarios-resultados-de-los-partidos-y-resumen.html",
-      "meta": "200+ Suchanfragen"
+      "title": "Marie Curie.",
+      "link": "https://www.abc.es/espana/patrimonio-irene-montero-135000-euros-brutos-ano-20261027190908-nt.html",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "pablo iglesias"
      },
      {
-      "title": "erholungsgebiet von Sciova",
-      "link": "https://as.com/futbol/copa_del_rey/recreativo-rayo-vallecano-en-directo-primera-ronda-de-la-copa-del-rey-hoy-en-vivo-f202610-d/",
+      "title": "Adoleszenz",
+      "link": "https://www.laopiniondemurcia.es/pequeopi/2026/10/27/valencia-punto-encuentro-nacional-agentes-135776811.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "recreativo de huelva"
+      "title_orig": "adolescencia"
      },
      {
-      "title": "marc cucurella",
-      "link": "https://as.com/futbol/primera/cucurella-saco-del-clasico-a-lamine-f202610-n/",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "Stadt Brüssel",
-      "link": "https://elpais.com/espana/2026-10-27/bruselas-quiere-reforzar-frontex-tras-la-leccion-de-ceuta.html",
+      "title": "wissen und gewinnen",
+      "link": "https://www.elconfidencial.com/television/programas-tv/2026-10-27/saber-y-ganar-marc-mendoza-centenario-discurso-tve-publica_4454210/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "bruselas"
+      "title_orig": "saber y ganar"
      },
      {
-      "title": "landaluce",
-      "link": "https://www.elmundo.es/andalucia/2026/10/26/6adf8d3721efa09e048b45af.html",
-      "meta": "200+ Suchanfragen"
+      "title": "Sporthafen",
+      "link": "https://www.malagahoy.es/malaga/cataries-venta-puerto-san-andres-nadal_0_2008361065.html",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "puerto deportivo"
+     },
+     {
+      "title": "bonoloto",
+      "link": "https://www.lavanguardia.com/comprobar-loteria/bonoloto/bonoloto-20261027/",
+      "meta": "5000+ Suchanfragen"
      }
     ]
    },
@@ -2626,31 +2675,34 @@
     "lang": "en",
     "items": [
      {
-      "title": "Flugbegleiter*in",
-      "link": "https://www.local10.com/news/local/2026/10/27/american-airlines-flight-attendant-accused-of-scamming-elderly-florida-woman-out-of-25k-arrested-at-mia/",
+      "title": "Schnee",
+      "link": "https://kelownacapnews.com/2026/10/27/photos-big-white-covered-in-snow-a-month-before-opening-day/",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "snow"
+     },
+     {
+      "title": "alexander brüder",
+      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
       "meta": "200+ Suchanfragen",
-      "title_orig": "flight attendant"
+      "title_orig": "alexander brothers"
      },
      {
-      "title": "blackpool vs aston villa u-21",
-      "link": "https://www.bbc.co.uk/sport/football/live/cx4g15le2vdpt",
-      "meta": "200+ Suchanfragen"
+      "title": "Nationalliga",
+      "link": "https://www.bbc.co.uk/sport/football/live/cm5yn23l619xt",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "national league"
      },
      {
-      "title": "port vale vs man city u-21",
-      "link": "https://www.bbc.co.uk/sport/football/live/cqze485r1079t",
-      "meta": "200+ Suchanfragen"
+      "title": "uK Wärmepumpe Niedrigzinsdarlehen",
+      "link": "https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "uk heat pump low interest loans"
      },
      {
-      "title": "brytyjczycy",
-      "link": "https://businessinsider.com.pl/wiadomosci/wielka-brytania-apeluje-o-zapasy-na-trzy-dni-co-trzeba-miec-w-domu/e544lte",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "dottie cocker spaniel suche wrexham",
-      "link": "https://www.leaderlive.co.uk/news/26673544.missing-wrexham-puppy-dottie-found-safe-25-hours/",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "dottie cocker spaniel search wrexham"
+      "title": "shrewsbury town f.c. v everton u-21 tabellarisch",
+      "link": "https://www.bbc.co.uk/sport/football/live/cxr5yznrdly4t",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "shrewsbury town f.c. vs everton u-21 standings"
      }
     ]
    },
@@ -2659,32 +2711,32 @@
     "lang": "pl",
     "items": [
      {
-      "title": "gliwice Piasts – der Miner nimmt",
-      "link": "https://sport.tvp.pl/96086584/piast-gliwice-gornik-zabrze-sts-puchar-polski-116-finalu-transmisja-w-tvp-sport-i-tvpsportpl-27102026",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "piast gliwice – górnik zabrze"
-     },
-     {
-      "title": "slavia prague – zbrojovka brno",
-      "link": "https://www.sport.cz/clanek/fotbal-pohar-slavia-v-poharu-hosti-zbrojovku-do-liberce-prijedou-teplice-5564090",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "slavia praga – zbrojovka brno"
-     },
-     {
-      "title": "st. Anne's Hospital",
-      "link": "https://tvn.pl/seriale/szpital-sw-anny/szpital-sw-anny-co-wydarzy-sie-w-171-odcinku-wyraznie-poruszona-kaja-poprosi-wojtka-o-rozmowe-co-sie-stalo-st9307727",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "szpital św anny"
-     },
-     {
-      "title": "michał sopiński",
-      "link": "https://wiadomosci.wp.pl/egzotyczne-wyjazdy-bylego-rektora-aws-kontrolerzy-badaja-7344641146255456a",
+      "title": "bruce willis",
+      "link": "https://pagesix.com/2026/10/27/celebrity-news/matthew-perrys-ex-rene-ashton-makes-surprise-sex-confession-about-hooking-up-on-another-a-listers-plane/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "lazio",
-      "link": "https://www.gazzetta.it/Calcio/Serie-A/Sassuolo/27-10-2026/sassuolo-lazio-live-risultato-e-gol-in-diretta-serie-a.shtml",
-      "meta": "200+ Suchanfragen"
+      "title": "Google Play™:",
+      "link": "https://www.androidauthority.com/google-play-store-sidekick-playbacks-play-services-update-3728394/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "google play"
+     },
+     {
+      "title": "Regional",
+      "link": "https://www.pomponik.pl/plotki/news-zona-kuby-wojewodzkiego-nie-wytrzymala-rok-po-slubie-nagrala,nId,23563939",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "wojewódzki"
+     },
+     {
+      "title": "kuba wojewódzki",
+      "link": "https://jastrzabpost.pl/kuba-wojewodzki-obsmial-ksiazula-po-wizycie-w-jego-restauracji-jestem-dumny-ze-mu-nie-smakowalo,7344627597756512a",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "sportlich cp – marítimo",
+      "link": "https://www.abola.pt/noticias/rui-borges-sobre-brasas-muda-tudo-o-onze-do-sporting-para-o-maritimo-2026102719092929967",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "sporting cp – marítimo"
      }
     ]
    },
@@ -2762,30 +2814,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "keanu reeves",
-      "link": "https://deadline.com/2026/10/keanu-reeves-to-star-maelstrom-netflix-alan-ritchson-1237187931/",
-      "meta": "5000+ Suchanfragen"
-     },
-     {
-      "title": "al hilal",
-      "link": "https://www.goal.com/en/news/through-bezira-s-first-goals-shabab-al-ahli-seize-top-spot-in-asia-before-the-al-hilal-clash/blt106db026d4314fcc",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "rob reiner",
-      "link": "https://ew.com/noah-wyle-reveals-lesson-from-rob-reiner-a-few-good-men-12196416",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "muggsy bogues",
-      "link": "https://www.espn.com/nba/story/_/id/50299731/hornets-retire-muggsy-bogues-no-1-jersey",
+      "title": "danielle parton",
+      "link": "https://people.com/dolly-parton-estate-names-niece-danielle-parton-as-brand-ambassador-12189831",
       "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "dekan lowry",
-      "link": "https://www.bigblueview.com/new-york-giants-roster/177885/dean-lowry-signing-practice-squad-giants",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "dean lowry"
+      "title": "inundación",
+      "link": "https://www.univision.com/local/miami-wltv/marea-del-rey-mas-alta-del-ano-provocan-inundaciones-en-el-sur-de-florida-video",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "mein schiff 3 kanarische inseln abgesagt",
+      "link": "https://abcnews.com/video/137585119/",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "mein schiff 3 canary islands cancelled"
+     },
+     {
+      "title": "gta 6 Größe",
+      "link": "https://www.ign.com/articles/get-gta-6-ultimate-edition-on-ps5-for-just-85-using-this-trick-today-only",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "gta 6 size"
+     },
+     {
+      "title": "victor julian duque fbi meistgesucht",
+      "link": "https://www.nbcmiami.com/news/local/fbi-miami-searches-for-colombian-fugitive-in-54m-drug-money-laundering-operation/3878091/",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "victor julian duque fbi most wanted"
      }
     ]
    },
@@ -2794,31 +2848,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "goldpreisverfall 27. Oktober",
-      "link": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-october-26-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-14059747.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "gold price drop october 27"
-     },
-     {
-      "title": "visakhapatnam wetter",
-      "link": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/rain-disrupts-normal-life-in-tirupati-more-rains-predicted-1998869",
+      "title": "ford Trophäe",
+      "link": "https://www.cricinfo.com/story/new-zealand-cricket-nzc-revives-single-ball-rule-for-ford-trophy-trial-1560288",
       "meta": "100+ Suchanfragen",
-      "title_orig": "visakhapatnam weather"
+      "title_orig": "ford trophy"
      },
      {
-      "title": "lazio",
-      "link": "https://onefootball.com/it/notizie/sassuolo-lazio-le-ufficiali-la-scelta-su-taylor-berardi-e-seba-esposito-43681667",
+      "title": "thane news",
+      "link": "https://marathi.abplive.com/news/politics/thane-minakshi-shinde-questioned-for-7-hours-in-the-pradeep-purnekar-case-first-reaction-after-the-questioning-mapada-shivsena-1443752",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "al-shorta vs al hussein",
-      "link": "https://www.jordannews.jo/Section-71/Football/Torres-and-Al-Haj-confirm-Al-Hussein-s-readiness-for-Iraqi-Police-clash-58022",
-      "meta": "1000+ Suchanfragen"
+      "title": "Rom",
+      "link": "https://www.bbc.com/sport/football/live/ck3r57d482xqt",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "roma"
      },
      {
-      "title": "apple m6 macbook pro",
-      "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "meta": "2000+ Suchanfragen"
+      "title": "ad",
+      "link": "https://futurumgroup.com/insights/amazon-ads-unboxed-2026-amazon-positions-its-ad-business-around-agents/",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "Sommerzeit",
+      "link": "https://www.cleveland.com/news/2026/10/clocks-fall-back-for-daylight-saving-times-end-very-soon.html",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "daylight savings 2026"
      }
     ]
    },
@@ -2827,31 +2882,32 @@
     "lang": "pt",
     "items": [
      {
-      "title": "al hilal",
-      "link": "https://www.goal.com/br/not%C3%ADcias/salem-al-dawsari-titular-pela-primeira-vez-al-hilal-enfrenta-o-al-shamal-com-um-time-de-reservas/blte0baaacd99105f14",
-      "meta": "500+ Suchanfragen"
+      "title": "br-230",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/27/corpos-vitimas-acidente-br-230-na-pb-liberados-ipc.ghtml",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "benevento catanzaro 27.10.2026",
-      "link": "https://www.virgilio.it/sport/dirette/live/serie-b/27-10-2026/benevento-catanzaro/2670750/",
+      "title": "töchter von flavio bolsonaro",
+      "link": "https://www.gazetadopovo.com.br/republica/justica-proibe-jornalista-de-abordar-escola-da-filha-de-flavio-bolsonaro/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "benevento catanzaro 27/10/2026"
+      "title_orig": "filhas de flavio bolsonaro"
      },
      {
-      "title": "Wrack",
-      "link": "https://www.cnnbrasil.com.br/curiosidades/caca-aos-pinguins-e-naufragio-na-patagonia-cientistas-encontraram-embarcacao-de-1873-em-local-famoso-por-destruir-navios/",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "naufrágio"
+      "title": "abstrakte avenida brasil",
+      "link": "https://noticiasdatv.uol.com.br/noticia/novelas/resumo-de-avenida-brasil-proximo-capitulo-da-novela-quarta-28-de-outubro-158431",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "resumo avenida brasil"
      },
      {
-      "title": "flavio bolsonario",
-      "link": "https://www.cnn.com/2026/10/27/americas/flavio-bolsonaro-brazil-passports-latam-intl",
+      "title": "brkm5",
+      "link": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/27/dolar-fecha-em-queda-apos-disparada-eleitoral-bolsa-volta-a-cair.htm",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "michele bolsonaro",
-      "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/24/cade-a-michelle-bolsonaro-senadora-eleita-some-da-campanha-de-flavio-no-segundo-turno.ghtml",
-      "meta": "200+ Suchanfragen"
+      "title": "pedro sanchez spanien",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/27/imprensa-espanhola-cautela-aposta-sanchez-campanha-lula-janones.ghtml",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "pedro sanchez espanha"
      }
     ]
    },
@@ -2860,33 +2916,33 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Ehemaliger Polizeibeamter",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E5%85%83%20%E8%AD%A6%E5%AF%9F%20%E5%AE%98",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "元 警察 官"
-     },
-     {
-      "title": "Sadayuta Iwa",
-      "link": "https://news.yahoo.co.jp/articles/67b50164afe299e8fd8c489eebc4455631903476",
+      "title": "Fukawariyou",
+      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E3%81%B5%E3%81%8B%E3%82%8F%E3%82%8A%E3%82%87%E3%81%86",
       "meta": "100+ Suchanfragen",
-      "title_orig": "岩貞祐太"
+      "title_orig": "ふかわりょう"
      },
      {
-      "title": "hikakin",
-      "link": "https://news.yahoo.co.jp/articles/b0d283c712d08ee3cb051f795b998f7138eec456",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "Tiefsee",
-      "link": "https://news.ifeng.com/c/8xYwknJgwl9",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "深海"
-     },
-     {
-      "title": "Carlos Arcalas",
-      "link": "https://topics.smt.docomo.ne.jp/article/sdaa/sports/sdaa-sdaa.jp-article-83484",
+      "title": "Sanftes Tennis",
+      "link": "https://www.softtennis-mag.com/20261025-45870/",
       "meta": "100+ Suchanfragen",
-      "title_orig": "カルロス・アルカラス"
+      "title_orig": "ソフトテニス"
+     },
+     {
+      "title": "Catherine, Herzogin von Wales",
+      "link": "https://news.yahoo.co.jp/articles/3d5bdac3276d2dd9f423cab30c9f2870f0e954f3",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "ウェールズ 公 妃 キャサリン"
+     },
+     {
+      "title": "jin",
+      "link": "https://www.thefirsttimes.jp/news/0000906063/",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "Hideki Hashigami",
+      "link": "https://news.yahoo.co.jp/articles/a63cbd565dee93bb15ae81210352b5ce946bf2b9",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "橋上秀樹"
      }
     ]
    },
@@ -2958,31 +3014,31 @@
      {
       "title": "Superreiche erhalten \"doppelte Dividende\" von Ursachen und Kosten der Klimakrise, findet der Bericht",
       "link": "https://www.theguardian.com/environment/2026/oct/27/super-rich-double-dividend-climate-crisis-oxfam",
-      "meta": "The Guardian · 272 Personen teilen",
+      "meta": "The Guardian · 281 Personen teilen",
       "title_orig": "Super-rich get ‘double dividend’ from causes and costs of climate crisis, report finds"
      },
      {
       "title": "Die französische Regierung blockierte soziale Netzwerke und das mobile Internet inmitten von Protesten",
       "link": "https://www.politico.eu/article/french-government-mulled-blocking-social-network-amid-protests/",
-      "meta": "POLITICO · 178 Personen teilen",
+      "meta": "POLITICO · 224 Personen teilen",
       "title_orig": "French government mulled blocking social networks and mobile internet amid protests"
      },
      {
       "title": "Die Ultrareichen produzieren mehr Kohlenstoffverschmutzung als fast die Hälfte der Menschheit",
       "link": "https://time.com/article/2026/10/27/carbon-emissions-ultra-rich-oxfam-report/",
-      "meta": "Time · 141 Personen teilen",
+      "meta": "Time · 155 Personen teilen",
       "title_orig": "The Ultrawealthy Produce More Carbon Pollution Than Nearly Half of Humanity"
      },
      {
       "title": "Proton „reinterviewt“ Mitarbeiter über KI, um zu sehen, wer seinen Job behalten soll",
       "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-      "meta": "404 Media · 717 Personen teilen",
+      "meta": "404 Media · 748 Personen teilen",
       "title_orig": "Proton To ‘Re-Interview’ Staff About AI To See Who Gets To Keep Their Job"
      },
      {
       "title": "Eine führerlose Revolution hat Serbien erfasst. Die Welt sollte zuschauen",
       "link": "https://www.theguardian.com/commentisfree/2026/oct/27/a-leaderless-revolution-has-swept-serbia-the-world-should-be-watching",
-      "meta": "The Guardian · 104 Personen teilen",
+      "meta": "The Guardian · 122 Personen teilen",
       "title_orig": "A leaderless revolution has swept Serbia. The world should be watching"
      }
     ]
@@ -2994,7 +3050,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 74,
+   "count": 70,
    "error": ""
   },
   {
@@ -3015,7 +3071,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 158,
+   "count": 159,
    "error": ""
   },
   {
@@ -3078,7 +3134,7 @@
    "source": "Fintech Futures",
    "category": "pay_eu",
    "ok": true,
-   "count": 83,
+   "count": 100,
    "error": ""
   },
   {
@@ -3211,8 +3267,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 108,
-   "info": "108 von 108 Überschriften übersetzt (neu in diesem Lauf: MyMemory 60). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 109,
+   "info": "109 von 109 Überschriften übersetzt (neu in diesem Lauf: MyMemory 57). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
