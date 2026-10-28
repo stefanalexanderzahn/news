@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T18:58:22+00:00",
+ "generated": "2026-10-28T21:50:48+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
@@ -7,8 +7,8 @@
     "title": "Nach illegaler Ausreise aus Brasilien: Flávio Bolsonaro in Miami gelandet",
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-102.html",
     "image": "https://images.tagesschau.de/image/bdf6b18f-a575-42c6-9b14-68bbf39c5e83/AAABoYLEdW4/AAABnSSvrFg/16x9-big/bolsonaro-344.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-28T15:17:49+00:00",
+    "n_sources": 5,
+    "time": "2026-10-28T21:31:32+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -17,18 +17,86 @@
      },
      {
       "name": "Spiegel",
-      "title": "Brasilien: Flávio Bolsonaro nach Wahlniederlage in Miami gelandet",
-      "link": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet-a-10d12a85-c0d6-4652-9950-f0b887013e71#ref=rss"
+      "title": "Brasilien: Flávio Bolsonaro behauptet, Präsidentschaftswahl gewonnen zu haben",
+      "link": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-behauptet-praesidentschaftswahl-gewonnen-zu-haben-a-82aadc56-61e0-454f-a203-3884bed50173#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Wahl in Brasilien: Flávio Bolsonaro nach Flucht aus Brasilien in Miami eingetroffen",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/flavio-bolsonaro-miami-brasilien-lula-reisepass-gxe"
+      "title": "Flávio Bolsonaro: Bolsonaro erklärt sich zum Wahlsieger Brasiliens",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/flavio-bolsonaro-brasilien-miami-wahlbetrug-brief"
      },
      {
       "name": "FAZ",
-      "title": "In Miami gelandet: Bolsonaros Flucht nach vorn",
-      "link": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-ist-in-den-usa-gelandet-201629106.html"
+      "title": "Flucht nach Florida: Bolsonaro erklärt sich zum gewählten Präsidenten",
+      "link": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-erklaert-sich-zum-praesidenten-brasiliens-201630574.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Brasilien: Bolsonaro erklärt sich zum wahren Wahlsieger – wie er der brasilianischen Justiz entkam",
+      "link": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaro-erklaert-sich-zum-wahren-wahlsieger-wie-er-der-brasilianischen-justiz-entkam/100265385.html"
+     }
+    ]
+   },
+   {
+    "title": "Mindestens zehn Tote nach Zugunglück in Spanien",
+    "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
+    "image": "https://images.tagesschau.de/image/b1d54435-5638-4e31-b11a-8cd0c6be7a94/AAABoYHqDPA/AAABnSSvrFg/16x9-big/zugunglueck-spanien-122.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-28T12:56:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Mindestens zehn Tote nach Zugunglück in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Spanien: Mindestens zehn Menschen sterben bei Zugkollision",
+      "link": "https://www.spiegel.de/panorama/spanien-mindestens-zehn-menschen-sterben-bei-zugkollision-a-717d35f6-6a4e-4699-9d2a-a3bbd0b3b5d1#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Bahn: Mindestens zehn Tote bei Zugunglück in Spanien",
+      "link": "https://www.zeit.de/news/2026-10/28/mehrere-verletzte-bei-zugkollision-in-spanien"
+     },
+     {
+      "name": "FAZ",
+      "title": "Mehrere Verletzte: Zugkollision in Spanien – Dutzende Todesopfer befürchtet",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/zugkollision-in-spanien-mindestens-zehn-menschen-kommen-ums-leben-accg-201628346.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Spanien: Zwei Schnellzüge kollidieren nahe Toledo – mindestens 64 Tote",
+      "link": "https://www.handelsblatt.com/politik/international/spanien-zwei-hochgeschwindigkeitszuege-kollidieren-mindestens-64-tote/100265535.html"
+     }
+    ]
+   },
+   {
+    "title": "DFB-Pokal: Dynamo Dresden schießt furchtbar harmlose Schalker ab",
+    "link": "https://www.sportschau.de/fussball/dfbpokal/dresden-schafft-die-ueberraschung-gegen-schalke-04,spielbericht-dfb-pokal-dresden-schalke-100.html",
+    "image": "https://images.sportschau.de/image/641bc788-8dd9-4ea2-82fb-ce6043e49594/AAABoYP2V_w/AAABnSSvrFg/16x9-big/schalke-462.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-28T20:08:18+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "DFB-Pokal: Dynamo Dresden schießt furchtbar harmlose Schalker ab",
+      "link": "https://www.sportschau.de/fussball/dfbpokal/dresden-schafft-die-ueberraschung-gegen-schalke-04,spielbericht-dfb-pokal-dresden-schalke-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "DFB-Pokal: Schalke 04 scheitert an Dynamo Dresden, Freiburg schafft Comeback gegen Wolfsburg",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-schalke-04-scheitert-an-dynamo-dresden-freiburg-schafft-comeback-gegen-wolfsburg-a-1bccc71a-d76d-408f-b778-aa91a811156e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "DFB-Pokal, zweite Runde: Dresden schmeißt Schalke raus, Freiburg gewinnt gegen Wolfsburg",
+      "link": "https://www.zeit.de/sport/2026-10/dfb-pokal-2-runde-ssv-jeddeloh-ii-hertha-bsc-dynamo-dresden-fc-schalke-04"
+     },
+     {
+      "name": "FAZ",
+      "title": "DFB-Pokal: Schalke scheitert in Dresden",
+      "link": "https://www.faz.net/aktuell/sport/fussball/fc-schalke-04-scheitert-schon-in-der-zweiten-pokalrunde-201305770.html"
      }
     ]
    },
@@ -62,6 +130,30 @@
     ]
    },
    {
+    "title": "FC Bayern München: Vincent Kompany nach Hirnhautreizung aus Klinik entlassen",
+    "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-nach-hirnhautreizung-aus-klinik-entlassen-a-bd1fe1c2-b5d9-4651-9039-17cc1c8eeac3#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/6a38d86c-7b29-4165-80b6-c9936dd24a50_w520_r2.08_fpx60.65_fpy44.98.jpg",
+    "n_sources": 3,
+    "time": "2026-10-28T20:22:22+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "FC Bayern München: Vincent Kompany nach Hirnhautreizung aus Klinik entlassen",
+      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-nach-hirnhautreizung-aus-klinik-entlassen-a-bd1fe1c2-b5d9-4651-9039-17cc1c8eeac3#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Bayern München: Bayern-Trainer Kompany nach Hirnhautreizung aus Krankenhaus entlassen",
+      "link": "https://www.zeit.de/sport/2026-10/vincent-kompany-zusammenbruch-hirnhautreizung-fc-bayern-max-eberl"
+     },
+     {
+      "name": "FAZ",
+      "title": "Nach Hirnhautreizung: Kompany aus Klinik entlassen",
+      "link": "https://www.faz.net/aktuell/sport/fussball/bayern-muenchens-trainer-vincent-kompany-aus-klinik-entlassen-201630746.html"
+     }
+    ]
+   },
+   {
     "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
     "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
     "image": "https://images.tagesschau.de/image/ccb27d56-0f1f-423b-a8c4-a80c751d3e2f/AAABoYOG7Tk/AAABnSSvrFg/16x9-big/netanjahu-418.jpg?width=1920",
@@ -86,26 +178,26 @@
     ]
    },
    {
-    "title": "\"Laut Zivilschutz 46 Tote\", Kevin Poweska, ARD-aktuell, zum Zugunglück in Spanien",
-    "link": "https://www.tagesschau.de/video/video-1673906.html",
-    "image": "https://images.tagesschau.de/image/4ea30951-5d41-423c-bcdc-c3a69d18fff0/AAABoYIbu68/AAABnSSvrFg/16x9-big/sendungsbild-1818450.jpg?width=1920",
+    "title": "Parlamentswahl in Israel: Wofür die arabischen Parteien stehen",
+    "link": "https://www.tagesschau.de/ausland/asien/israel-arabische-parteien-wahl-100.html",
+    "image": "https://images.tagesschau.de/image/7e64f4b0-859c-4402-98df-2f671f0138b3/AAABoYMDTGU/AAABnSSvrFg/16x9-big/abbas-208.jpg?width=1920",
     "n_sources": 3,
-    "time": "2026-10-28T10:43:41+00:00",
+    "time": "2026-10-28T16:53:59+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "\"Laut Zivilschutz 46 Tote\", Kevin Poweska, ARD-aktuell, zum Zugunglück in Spanien",
-      "link": "https://www.tagesschau.de/video/video-1673906.html"
+      "title": "Parlamentswahl in Israel: Wofür die arabischen Parteien stehen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-arabische-parteien-wahl-100.html"
      },
      {
-      "name": "Spiegel",
-      "title": "Spanien: Mindestens zehn Menschen sterben bei Zugkollision",
-      "link": "https://www.spiegel.de/panorama/spanien-mindestens-zehn-menschen-sterben-bei-zugkollision-a-717d35f6-6a4e-4699-9d2a-a3bbd0b3b5d1#ref=rss"
+      "name": "FAZ",
+      "title": "Liveblog Israel-Wahl: Likud: „Arabische Parteien haben Wahlen gestohlen“",
+      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-likud-wirft-arabischen-parteien-wahlbetrug-vor-faz-200583539.html"
      },
      {
-      "name": "Zeit Online",
-      "title": "Bahn: Mindestens zehn Tote bei Zugunglück in Spanien",
-      "link": "https://www.zeit.de/news/2026-10/28/mehrere-verletzte-bei-zugkollision-in-spanien"
+      "name": "Handelsblatt",
+      "title": "Israel: Können arabische Parteien die Blockade in Israel auflösen?",
+      "link": "https://www.handelsblatt.com/politik/international/israel-koennen-arabische-parteien-die-blockade-in-israel-aufloesen/100265552.html"
      }
     ]
    },
@@ -158,83 +250,21 @@
     ]
    },
    {
-    "title": "Zweitligist Bochum schmeißt Favorit Mainz aus dem DFB-Pokal",
-    "link": "https://www.sportschau.de/fussball/dfbpokal/kampf-leidenschaft-pokalsieg-bochum-schlaegt-mainz,spielbericht-dfb-pokal-bochum-mainz-100.html",
-    "image": "https://images.sportschau.de/image/062d430a-cefc-487f-a940-bf1ba2f32c2d/AAABoX6WO5Y/AAABnSSvrFg/16x9-big/bochum-jubel-206.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-10-27T19:41:25+00:00",
+    "title": "Russischer Einfluss in Afrika: Präsident Putin lädt zu Gipfel nach Moskau",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674254.html",
+    "image": "https://images.tagesschau.de/image/aceb77fa-bc61-4930-b4a0-f440c43311c2/AAABoYPxWkg/AAABnSSvrFg/16x9-big/sendungsbild-1818718.jpg?width=1920",
+    "n_sources": 2,
+    "time": "2026-10-28T19:20:51+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Zweitligist Bochum schmeißt Favorit Mainz aus dem DFB-Pokal",
-      "link": "https://www.sportschau.de/fussball/dfbpokal/kampf-leidenschaft-pokalsieg-bochum-schlaegt-mainz,spielbericht-dfb-pokal-bochum-mainz-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "DFB-Pokal: Frankfurts Nationalstürmer Burkardt und Ebnoutalib werfen den HSV raus",
-      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-frankfurts-nationalstuermer-burkardt-und-ebnoutalib-werfen-den-hsv-raus-a-0959fdeb-3489-4ccf-95fe-9806b545fd9a#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "DFB-Pokal, zweite Runde: HSV unterliegt gegen Frankfurt, Zweitligist Bochum wirft Mainz 05 raus",
-      "link": "https://www.zeit.de/sport/2026-10/dfb-pokal-auslosung-zweite-runde-spiele-rb-leipzig-hsv"
-     }
-    ]
-   },
-   {
-    "title": "Deutschland schiebt 40 Straftäter nach Afghanistan ab",
-    "link": "https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab-a-c4772a3e-474c-4b50-bad6-a7f8f3459750#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/83037f74-2e02-4d01-a9c9-220c75cf85db_w520_r2.08_fpx57.78_fpy50.jpg",
-    "n_sources": 2,
-    "time": "2026-10-28T17:45:36+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Deutschland schiebt 40 Straftäter nach Afghanistan ab",
-      "link": "https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab-a-c4772a3e-474c-4b50-bad6-a7f8f3459750#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Abschiebung nach Afghanistan: Deutschland schiebt 40 weitere Männer nach Afghanistan ab",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/abschiebung-afghanistan-charterflug-leipzig-halle-maenner-straftaten"
-     }
-    ]
-   },
-   {
-    "title": "US-Wirtschaft: Notenbank Fed lässt den Leitzins vor US-Zwischenwahlen unverändert",
-    "link": "https://www.zeit.de/wirtschaft/2026-10/us-notenbank-leitzins-usa-federal-reserve",
-    "image": "https://img.zeit.de/wirtschaft/2026-10/us-notenbank-leitzins-usa-federal-reserve-foto-1/original__640x360",
-    "n_sources": 2,
-    "time": "2026-10-28T18:24:46+00:00",
-    "sources": [
-     {
-      "name": "Zeit Online",
-      "title": "US-Wirtschaft: Notenbank Fed lässt den Leitzins vor US-Zwischenwahlen unverändert",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/us-notenbank-leitzins-usa-federal-reserve"
+      "title": "Russischer Einfluss in Afrika: Präsident Putin lädt zu Gipfel nach Moskau",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674254.html"
      },
      {
       "name": "FAZ",
-      "title": "US-Notenbank: Fed lässt Leitzins unverändert",
-      "link": "https://www.faz.net/aktuell/finanzen/us-notenbank-fed-laesst-leitzins-unveraendert-201630363.html"
-     }
-    ]
-   },
-   {
-    "title": "MacBook: Apple bringt seinen ersten Laptop mit Touchscreen heraus",
-    "link": "https://www.spiegel.de/netzwelt/gadgets/macbook-apple-bringt-seinen-ersten-laptop-mit-touchscreen-heraus-a-1ec3b0eb-77ff-4ca5-8ae1-1e96e6c99bba#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/af31f398-dd1b-443d-b485-cf251e33dfc3_w520_r2.08_fpx27.42_fpy48.98.jpg",
-    "n_sources": 2,
-    "time": "2026-10-28T18:57:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "MacBook: Apple bringt seinen ersten Laptop mit Touchscreen heraus",
-      "link": "https://www.spiegel.de/netzwelt/gadgets/macbook-apple-bringt-seinen-ersten-laptop-mit-touchscreen-heraus-a-1ec3b0eb-77ff-4ca5-8ae1-1e96e6c99bba#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Kehrtwende: Apple bringt erstes Macbook mit Touch-Display heraus",
-      "link": "https://www.zeit.de/news/2026-10/28/apple-bringt-erstes-macbook-mit-touch-display-heraus"
+      "title": "Gipfel in Moskau: Auch Afrikaner fallen für Putin",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/putin-umwirbt-afrika-gipfel-in-moskau-accg-201624926.html"
      }
     ]
    }
@@ -245,7 +275,7 @@
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-102.html",
     "image": "https://images.tagesschau.de/image/bdf6b18f-a575-42c6-9b14-68bbf39c5e83/AAABoYLEdW4/AAABnSSvrFg/16x9-big/bolsonaro-344.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-28T15:17:49+00:00",
+    "time": "2026-10-28T21:31:32+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -254,23 +284,57 @@
      },
      {
       "name": "Spiegel",
-      "title": "Brasilien: Flávio Bolsonaro nach Wahlniederlage in Miami gelandet",
-      "link": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet-a-10d12a85-c0d6-4652-9950-f0b887013e71#ref=rss"
+      "title": "Brasilien: Flávio Bolsonaro behauptet, Präsidentschaftswahl gewonnen zu haben",
+      "link": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-behauptet-praesidentschaftswahl-gewonnen-zu-haben-a-82aadc56-61e0-454f-a203-3884bed50173#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Wahl in Brasilien: Flávio Bolsonaro nach Flucht aus Brasilien in Miami eingetroffen",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/flavio-bolsonaro-miami-brasilien-lula-reisepass-gxe"
+      "title": "Flávio Bolsonaro: Bolsonaro erklärt sich zum Wahlsieger Brasiliens",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/flavio-bolsonaro-brasilien-miami-wahlbetrug-brief"
      },
      {
       "name": "FAZ",
-      "title": "In Miami gelandet: Bolsonaros Flucht nach vorn",
-      "link": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-ist-in-den-usa-gelandet-201629106.html"
+      "title": "Flucht nach Florida: Bolsonaro erklärt sich zum gewählten Präsidenten",
+      "link": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-erklaert-sich-zum-praesidenten-brasiliens-201630574.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Brasilien: Bolsonaro nach Wahlniederlage offenbar auf dem Weg in die USA",
-      "link": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaro-nach-wahlniederlage-offenbar-auf-dem-weg-in-die-usa/100265385.html"
+      "title": "Brasilien: Bolsonaro erklärt sich zum wahren Wahlsieger – wie er der brasilianischen Justiz entkam",
+      "link": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaro-erklaert-sich-zum-wahren-wahlsieger-wie-er-der-brasilianischen-justiz-entkam/100265385.html"
+     }
+    ]
+   },
+   {
+    "title": "Mindestens zehn Tote nach Zugunglück in Spanien",
+    "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
+    "image": "https://images.tagesschau.de/image/b1d54435-5638-4e31-b11a-8cd0c6be7a94/AAABoYHqDPA/AAABnSSvrFg/16x9-big/zugunglueck-spanien-122.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-28T12:56:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Mindestens zehn Tote nach Zugunglück in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Spanien: Mindestens zehn Menschen sterben bei Zugkollision",
+      "link": "https://www.spiegel.de/panorama/spanien-mindestens-zehn-menschen-sterben-bei-zugkollision-a-717d35f6-6a4e-4699-9d2a-a3bbd0b3b5d1#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Bahn: Mindestens zehn Tote bei Zugunglück in Spanien",
+      "link": "https://www.zeit.de/news/2026-10/28/mehrere-verletzte-bei-zugkollision-in-spanien"
+     },
+     {
+      "name": "FAZ",
+      "title": "Mehrere Verletzte: Zugkollision in Spanien – Dutzende Todesopfer befürchtet",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/zugkollision-in-spanien-mindestens-zehn-menschen-kommen-ums-leben-accg-201628346.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Spanien: Zwei Schnellzüge kollidieren nahe Toledo – mindestens 64 Tote",
+      "link": "https://www.handelsblatt.com/politik/international/spanien-zwei-hochgeschwindigkeitszuege-kollidieren-mindestens-64-tote/100265535.html"
      }
     ]
    },
@@ -305,132 +369,6 @@
       "name": "Handelsblatt",
       "title": "Gernot Döllner: „Verstörend und erbärmlich“: Politiker kritisieren Auftritt des Audi-Chefs bei Donald Trump",
       "link": "https://www.handelsblatt.com/politik/deutschland/audi-chef-politiker-kritisieren-wahlkampf-auftritt-bei-trump-als-verstoerend/100264950.html"
-     }
-    ]
-   },
-   {
-    "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
-    "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html",
-    "image": "https://images.sportschau.de/image/a1a67031-0807-44aa-8235-3e034c38917b/AAABoXl6fDM/AAABnSSvrFg/16x9-big/putellas-122.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-27T12:24:52+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
-      "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Ballon d’Or für Harry Kane: Reaktionen auf die Wahl des Bayernstars zum Weltfußballer",
-      "link": "https://www.spiegel.de/sport/ballon-d-or-fuer-harry-kane-reaktionen-auf-die-wahl-des-bayernstars-zum-weltfussballer-a-c309b0a7-41e0-4fca-9576-22f5a4bf0294#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Prestigeträchtige Auszeichnung: «Wow!»: Bayerns Harry Kane gewinnt den Ballon d'Or",
-      "link": "https://www.zeit.de/news/2026-10/26/bayerns-harry-kane-gewinnt-den-ballon-d-or"
-     },
-     {
-      "name": "FAZ",
-      "title": "Weltfußballer-Wahl: „Wenn man Fußball mag, geht man zu Lamine, nicht zu Harry Kane“",
-      "link": "https://www.faz.net/aktuell/sport/fussball/ballon-d-or-lamine-yamals-onkel-kirtisiert-wahl-von-harry-kane-201625691.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
-     }
-    ]
-   },
-   {
-    "title": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
-    "link": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html",
-    "image": "https://images.tagesschau.de/image/61cec6a4-a36c-4089-b13b-d207c422cdb0/AAABoXsViZQ/AAABnSSvrFg/16x9-big/brasilien-lula-wahl-100.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-27T03:45:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
-      "link": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Brasilien-Wahl: Bolsonaro-Partei erkennt Lula da Silvas Sieg an – unter Vorbehalt",
-      "link": "https://www.spiegel.de/ausland/brasilien-wahl-bolsonaro-partei-erkennt-lula-da-silvas-sieg-an-unter-vorbehalt-a-6fb50463-5e69-4f53-8c11-2b1142698d30#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Stichwahl in Brasilien: Lula triumphiert. Doch der Bolsonaro-Clan gibt nicht auf",
-      "link": "https://www.zeit.de/politik/2026-10/stichwahl-brasilien-praesidentschaft-lula-da-silva-flavio-bolsonaro"
-     },
-     {
-      "name": "FAZ",
-      "title": "HAndelsstopp: Brasiliens Börse bricht nach Lula-Sieg ein",
-      "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/lula-wiederwahl-brasiliens-boerse-stellt-sich-auf-unruhe-ein-accg-201621022.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Wahlen in Brasilien: Lula gewinnt zum vierten Mal die Präsidentschaftswahl",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-zum-vierten-mal-die-praesidentschaftswahl/100264825.html"
-     }
-    ]
-   },
-   {
-    "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
-    "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
-    "image": "https://images.tagesschau.de/image/ccb27d56-0f1f-423b-a8c4-a80c751d3e2f/AAABoYOG7Tk/AAABnSSvrFg/16x9-big/netanjahu-418.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-28T17:22:57+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Nach Wahl in Israel: Mehr als 70 Prozent der Stimmen ausgezählt – Netanjahu vorne",
-      "link": "https://www.zeit.de/news/2026-10/28/netanjahu-bei-wahl-vorn-aber-ohne-mehrheit"
-     },
-     {
-      "name": "FAZ",
-      "title": "Wahl zur Knesset: Israel hat Netanjahu noch lange nicht abgeschrieben",
-      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-israel-netanjahu-und-likud-ueberraschend-stark-201628927.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Israel: Netanjahu könnte die Wahl verlieren – und dennoch regieren",
-      "link": "https://www.handelsblatt.com/politik/international/israel-netanjahu-koennte-die-wahl-verlieren-und-dennoch-regieren/100260417.html"
-     }
-    ]
-   },
-   {
-    "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
-    "image": "https://images.tagesschau.de/image/f28ef7d6-f75c-4bad-8385-a567b64dda1d/AAABoXSAUfY/AAABnSSvrFg/16x9-big/sendungsbild-1817092.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-28T17:08:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Dolores Huerta: Prominente US-Gewerkschafterin im Alter von 96 Jahren gestorben",
-      "link": "https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben-a-7dfafe8b-e617-425d-a9a4-d5f8aaea6ed3#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Joachim Lottmann: Schriftsteller Joachim Lottmann ist tot",
-      "link": "https://www.zeit.de/feuilleton/2026-10/joachim-lottmann-schriftsteller-popliteratur-tot-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Im Alter von 84 Jahren: Produzentin Gisela Marx ist gestorben",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/produzentin-gisela-marx-mit-84-jahren-gestorben-201622815.html"
      }
     ]
    },
@@ -493,6 +431,35 @@
     ]
    },
    {
+    "title": "DFB-Pokal: Dynamo Dresden schießt furchtbar harmlose Schalker ab",
+    "link": "https://www.sportschau.de/fussball/dfbpokal/dresden-schafft-die-ueberraschung-gegen-schalke-04,spielbericht-dfb-pokal-dresden-schalke-100.html",
+    "image": "https://images.sportschau.de/image/641bc788-8dd9-4ea2-82fb-ce6043e49594/AAABoYP2V_w/AAABnSSvrFg/16x9-big/schalke-462.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-28T20:08:18+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "DFB-Pokal: Dynamo Dresden schießt furchtbar harmlose Schalker ab",
+      "link": "https://www.sportschau.de/fussball/dfbpokal/dresden-schafft-die-ueberraschung-gegen-schalke-04,spielbericht-dfb-pokal-dresden-schalke-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "DFB-Pokal: Schalke 04 scheitert an Dynamo Dresden, Freiburg schafft Comeback gegen Wolfsburg",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-schalke-04-scheitert-an-dynamo-dresden-freiburg-schafft-comeback-gegen-wolfsburg-a-1bccc71a-d76d-408f-b778-aa91a811156e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "DFB-Pokal, zweite Runde: Dresden schmeißt Schalke raus, Freiburg gewinnt gegen Wolfsburg",
+      "link": "https://www.zeit.de/sport/2026-10/dfb-pokal-2-runde-ssv-jeddeloh-ii-hertha-bsc-dynamo-dresden-fc-schalke-04"
+     },
+     {
+      "name": "FAZ",
+      "title": "DFB-Pokal: Schalke scheitert in Dresden",
+      "link": "https://www.faz.net/aktuell/sport/fussball/fc-schalke-04-scheitert-schon-in-der-zweiten-pokalrunde-201305770.html"
+     }
+    ]
+   },
+   {
     "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
     "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
     "image": "https://images.tagesschau.de/image/77afaa8a-f08f-4b05-82ca-60ff45e5088a/AAABoXxq0UI/AAABnSSvrFg/16x9-big/rbb-625257499-100.jpg?width=1920",
@@ -522,6 +489,35 @@
     ]
    },
    {
+    "title": "Knesset-Wahl in Israel",
+    "link": "https://www.tagesschau.de/video/video-1673490.html",
+    "image": "https://images.tagesschau.de/image/238201b8-625b-416d-8dae-77013d882899/AAABoX3pOzo/AAABnSSvrFg/16x9-big/sendungsbild-1817998.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-27T15:52:31+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Knesset-Wahl in Israel",
+      "link": "https://www.tagesschau.de/video/video-1673490.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Israel – Knesset-Wahl: Die Szenarien für den Wahlausgang",
+      "link": "https://www.spiegel.de/ausland/israel-knesset-wahl-die-szenarien-fuer-den-wahlausgang-a-53f946a4-a464-47fd-98f1-fe8f8163bf66#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Richtungsweisende Abstimmung: Knesset-Wahl: Kopf-an-Kopf-Rennen in Israel erwartet",
+      "link": "https://www.zeit.de/news/2026-10/27/millionen-israelis-waehlen-neues-parlament"
+     },
+     {
+      "name": "FAZ",
+      "title": "Knesset-Wahl: Worum geht es bei der Wahl in Israel?",
+      "link": "https://www.faz.net/aktuell/politik/ausland/israel-wahl-2026-worum-geht-bei-der-wahl-accg-201621495.html"
+     }
+    ]
+   },
+   {
     "title": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo bestätigt",
     "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html",
     "image": "https://images.tagesschau.de/image/d0d13c3d-b2bf-4d11-af98-8cb20a19c757/AAABoXygYJA/AAABnSSvrFg/16x9-big/desinfektion-strasse-ituri-100.jpg?width=1920",
@@ -547,6 +543,35 @@
       "name": "FAZ",
       "title": "In Kongo: Zahl der Ebola-Fälle steigt auf mehr als 10.000",
       "link": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mehr-als-10-000-ebola-faelle-in-der-demokratischen-republik-kongo-accg-201625097.html"
+     }
+    ]
+   },
+   {
+    "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
+    "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html",
+    "image": "https://images.sportschau.de/image/a1a67031-0807-44aa-8235-3e034c38917b/AAABoXl6fDM/AAABnSSvrFg/16x9-big/putellas-122.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-27T12:24:52+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
+      "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ballon d’Or für Harry Kane: Reaktionen auf die Wahl des Bayernstars zum Weltfußballer",
+      "link": "https://www.spiegel.de/sport/ballon-d-or-fuer-harry-kane-reaktionen-auf-die-wahl-des-bayernstars-zum-weltfussballer-a-c309b0a7-41e0-4fca-9576-22f5a4bf0294#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Prestigeträchtige Auszeichnung: «Wow!»: Bayerns Harry Kane gewinnt den Ballon d'Or",
+      "link": "https://www.zeit.de/news/2026-10/26/bayerns-harry-kane-gewinnt-den-ballon-d-or"
+     },
+     {
+      "name": "FAZ",
+      "title": "Weltfußballer-Wahl: „Wenn man Fußball mag, geht man zu Lamine, nicht zu Harry Kane“",
+      "link": "https://www.faz.net/aktuell/sport/fussball/ballon-d-or-lamine-yamals-onkel-kirtisiert-wahl-von-harry-kane-201625691.html"
      }
     ]
    }
@@ -557,7 +582,7 @@
     "link": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-102.html",
     "image": "https://images.tagesschau.de/image/bdf6b18f-a575-42c6-9b14-68bbf39c5e83/AAABoYLEdW4/AAABnSSvrFg/16x9-big/bolsonaro-344.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-28T15:17:49+00:00",
+    "time": "2026-10-28T21:31:32+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -566,23 +591,57 @@
      },
      {
       "name": "Spiegel",
-      "title": "Brasilien: Flávio Bolsonaro nach Wahlniederlage in Miami gelandet",
-      "link": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet-a-10d12a85-c0d6-4652-9950-f0b887013e71#ref=rss"
+      "title": "Brasilien: Flávio Bolsonaro behauptet, Präsidentschaftswahl gewonnen zu haben",
+      "link": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-behauptet-praesidentschaftswahl-gewonnen-zu-haben-a-82aadc56-61e0-454f-a203-3884bed50173#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Wahl in Brasilien: Flávio Bolsonaro nach Flucht aus Brasilien in Miami eingetroffen",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/flavio-bolsonaro-miami-brasilien-lula-reisepass-gxe"
+      "title": "Flávio Bolsonaro: Bolsonaro erklärt sich zum Wahlsieger Brasiliens",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/flavio-bolsonaro-brasilien-miami-wahlbetrug-brief"
      },
      {
       "name": "FAZ",
-      "title": "In Miami gelandet: Bolsonaros Flucht nach vorn",
-      "link": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-ist-in-den-usa-gelandet-201629106.html"
+      "title": "Flucht nach Florida: Bolsonaro erklärt sich zum gewählten Präsidenten",
+      "link": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-erklaert-sich-zum-praesidenten-brasiliens-201630574.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Brasilien: Bolsonaro nach Wahlniederlage offenbar auf dem Weg in die USA",
-      "link": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaro-nach-wahlniederlage-offenbar-auf-dem-weg-in-die-usa/100265385.html"
+      "title": "Brasilien: Bolsonaro erklärt sich zum wahren Wahlsieger – wie er der brasilianischen Justiz entkam",
+      "link": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaro-erklaert-sich-zum-wahren-wahlsieger-wie-er-der-brasilianischen-justiz-entkam/100265385.html"
+     }
+    ]
+   },
+   {
+    "title": "Mindestens zehn Tote nach Zugunglück in Spanien",
+    "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
+    "image": "https://images.tagesschau.de/image/b1d54435-5638-4e31-b11a-8cd0c6be7a94/AAABoYHqDPA/AAABnSSvrFg/16x9-big/zugunglueck-spanien-122.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-28T12:56:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Mindestens zehn Tote nach Zugunglück in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Spanien: Mindestens zehn Menschen sterben bei Zugkollision",
+      "link": "https://www.spiegel.de/panorama/spanien-mindestens-zehn-menschen-sterben-bei-zugkollision-a-717d35f6-6a4e-4699-9d2a-a3bbd0b3b5d1#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Bahn: Mindestens zehn Tote bei Zugunglück in Spanien",
+      "link": "https://www.zeit.de/news/2026-10/28/mehrere-verletzte-bei-zugkollision-in-spanien"
+     },
+     {
+      "name": "FAZ",
+      "title": "Mehrere Verletzte: Zugkollision in Spanien – Dutzende Todesopfer befürchtet",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/zugkollision-in-spanien-mindestens-zehn-menschen-kommen-ums-leben-accg-201628346.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Spanien: Zwei Schnellzüge kollidieren nahe Toledo – mindestens 64 Tote",
+      "link": "https://www.handelsblatt.com/politik/international/spanien-zwei-hochgeschwindigkeitszuege-kollidieren-mindestens-64-tote/100265535.html"
      }
     ]
    },
@@ -617,132 +676,6 @@
       "name": "Handelsblatt",
       "title": "Gernot Döllner: „Verstörend und erbärmlich“: Politiker kritisieren Auftritt des Audi-Chefs bei Donald Trump",
       "link": "https://www.handelsblatt.com/politik/deutschland/audi-chef-politiker-kritisieren-wahlkampf-auftritt-bei-trump-als-verstoerend/100264950.html"
-     }
-    ]
-   },
-   {
-    "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
-    "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html",
-    "image": "https://images.sportschau.de/image/a1a67031-0807-44aa-8235-3e034c38917b/AAABoXl6fDM/AAABnSSvrFg/16x9-big/putellas-122.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-27T12:24:52+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
-      "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Ballon d’Or für Harry Kane: Reaktionen auf die Wahl des Bayernstars zum Weltfußballer",
-      "link": "https://www.spiegel.de/sport/ballon-d-or-fuer-harry-kane-reaktionen-auf-die-wahl-des-bayernstars-zum-weltfussballer-a-c309b0a7-41e0-4fca-9576-22f5a4bf0294#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Prestigeträchtige Auszeichnung: «Wow!»: Bayerns Harry Kane gewinnt den Ballon d'Or",
-      "link": "https://www.zeit.de/news/2026-10/26/bayerns-harry-kane-gewinnt-den-ballon-d-or"
-     },
-     {
-      "name": "FAZ",
-      "title": "Weltfußballer-Wahl: „Wenn man Fußball mag, geht man zu Lamine, nicht zu Harry Kane“",
-      "link": "https://www.faz.net/aktuell/sport/fussball/ballon-d-or-lamine-yamals-onkel-kirtisiert-wahl-von-harry-kane-201625691.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
-     }
-    ]
-   },
-   {
-    "title": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
-    "link": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html",
-    "image": "https://images.tagesschau.de/image/61cec6a4-a36c-4089-b13b-d207c422cdb0/AAABoXsViZQ/AAABnSSvrFg/16x9-big/brasilien-lula-wahl-100.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-27T03:45:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
-      "link": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Brasilien-Wahl: Bolsonaro-Partei erkennt Lula da Silvas Sieg an – unter Vorbehalt",
-      "link": "https://www.spiegel.de/ausland/brasilien-wahl-bolsonaro-partei-erkennt-lula-da-silvas-sieg-an-unter-vorbehalt-a-6fb50463-5e69-4f53-8c11-2b1142698d30#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Stichwahl in Brasilien: Lula triumphiert. Doch der Bolsonaro-Clan gibt nicht auf",
-      "link": "https://www.zeit.de/politik/2026-10/stichwahl-brasilien-praesidentschaft-lula-da-silva-flavio-bolsonaro"
-     },
-     {
-      "name": "FAZ",
-      "title": "HAndelsstopp: Brasiliens Börse bricht nach Lula-Sieg ein",
-      "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/lula-wiederwahl-brasiliens-boerse-stellt-sich-auf-unruhe-ein-accg-201621022.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Wahlen in Brasilien: Lula gewinnt zum vierten Mal die Präsidentschaftswahl",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-brasilien-lula-gewinnt-zum-vierten-mal-die-praesidentschaftswahl/100264825.html"
-     }
-    ]
-   },
-   {
-    "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
-    "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
-    "image": "https://images.tagesschau.de/image/ccb27d56-0f1f-423b-a8c4-a80c751d3e2f/AAABoYOG7Tk/AAABnSSvrFg/16x9-big/netanjahu-418.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-28T17:22:57+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Nach Wahl in Israel: Mehr als 70 Prozent der Stimmen ausgezählt – Netanjahu vorne",
-      "link": "https://www.zeit.de/news/2026-10/28/netanjahu-bei-wahl-vorn-aber-ohne-mehrheit"
-     },
-     {
-      "name": "FAZ",
-      "title": "Wahl zur Knesset: Israel hat Netanjahu noch lange nicht abgeschrieben",
-      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-israel-netanjahu-und-likud-ueberraschend-stark-201628927.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Israel: Netanjahu könnte die Wahl verlieren – und dennoch regieren",
-      "link": "https://www.handelsblatt.com/politik/international/israel-netanjahu-koennte-die-wahl-verlieren-und-dennoch-regieren/100260417.html"
-     }
-    ]
-   },
-   {
-    "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
-    "image": "https://images.tagesschau.de/image/f28ef7d6-f75c-4bad-8385-a567b64dda1d/AAABoXSAUfY/AAABnSSvrFg/16x9-big/sendungsbild-1817092.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-28T17:08:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Dolores Huerta: Prominente US-Gewerkschafterin im Alter von 96 Jahren gestorben",
-      "link": "https://www.spiegel.de/ausland/dolores-huerta-prominente-us-gewerkschafterin-im-alter-von-96-jahren-gestorben-a-7dfafe8b-e617-425d-a9a4-d5f8aaea6ed3#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Joachim Lottmann: Schriftsteller Joachim Lottmann ist tot",
-      "link": "https://www.zeit.de/feuilleton/2026-10/joachim-lottmann-schriftsteller-popliteratur-tot-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Im Alter von 84 Jahren: Produzentin Gisela Marx ist gestorben",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/produzentin-gisela-marx-mit-84-jahren-gestorben-201622815.html"
      }
     ]
    },
@@ -834,6 +767,35 @@
     ]
    },
    {
+    "title": "Knesset-Wahl in Israel",
+    "link": "https://www.tagesschau.de/video/video-1673490.html",
+    "image": "https://images.tagesschau.de/image/238201b8-625b-416d-8dae-77013d882899/AAABoX3pOzo/AAABnSSvrFg/16x9-big/sendungsbild-1817998.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-27T15:52:31+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Knesset-Wahl in Israel",
+      "link": "https://www.tagesschau.de/video/video-1673490.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Israel – Knesset-Wahl: Die Szenarien für den Wahlausgang",
+      "link": "https://www.spiegel.de/ausland/israel-knesset-wahl-die-szenarien-fuer-den-wahlausgang-a-53f946a4-a464-47fd-98f1-fe8f8163bf66#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Richtungsweisende Abstimmung: Knesset-Wahl: Kopf-an-Kopf-Rennen in Israel erwartet",
+      "link": "https://www.zeit.de/news/2026-10/27/millionen-israelis-waehlen-neues-parlament"
+     },
+     {
+      "name": "FAZ",
+      "title": "Knesset-Wahl: Worum geht es bei der Wahl in Israel?",
+      "link": "https://www.faz.net/aktuell/politik/ausland/israel-wahl-2026-worum-geht-bei-der-wahl-accg-201621495.html"
+     }
+    ]
+   },
+   {
     "title": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo bestätigt",
     "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html",
     "image": "https://images.tagesschau.de/image/d0d13c3d-b2bf-4d11-af98-8cb20a19c757/AAABoXygYJA/AAABnSSvrFg/16x9-big/desinfektion-strasse-ituri-100.jpg?width=1920",
@@ -859,6 +821,64 @@
       "name": "FAZ",
       "title": "In Kongo: Zahl der Ebola-Fälle steigt auf mehr als 10.000",
       "link": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mehr-als-10-000-ebola-faelle-in-der-demokratischen-republik-kongo-accg-201625097.html"
+     }
+    ]
+   },
+   {
+    "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
+    "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html",
+    "image": "https://images.sportschau.de/image/a1a67031-0807-44aa-8235-3e034c38917b/AAABoXl6fDM/AAABnSSvrFg/16x9-big/putellas-122.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-27T12:24:52+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
+      "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ballon d’Or für Harry Kane: Reaktionen auf die Wahl des Bayernstars zum Weltfußballer",
+      "link": "https://www.spiegel.de/sport/ballon-d-or-fuer-harry-kane-reaktionen-auf-die-wahl-des-bayernstars-zum-weltfussballer-a-c309b0a7-41e0-4fca-9576-22f5a4bf0294#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Prestigeträchtige Auszeichnung: «Wow!»: Bayerns Harry Kane gewinnt den Ballon d'Or",
+      "link": "https://www.zeit.de/news/2026-10/26/bayerns-harry-kane-gewinnt-den-ballon-d-or"
+     },
+     {
+      "name": "FAZ",
+      "title": "Weltfußballer-Wahl: „Wenn man Fußball mag, geht man zu Lamine, nicht zu Harry Kane“",
+      "link": "https://www.faz.net/aktuell/sport/fussball/ballon-d-or-lamine-yamals-onkel-kirtisiert-wahl-von-harry-kane-201625691.html"
+     }
+    ]
+   },
+   {
+    "title": "DFB-Pokal: Dynamo Dresden schießt furchtbar harmlose Schalker ab",
+    "link": "https://www.sportschau.de/fussball/dfbpokal/dresden-schafft-die-ueberraschung-gegen-schalke-04,spielbericht-dfb-pokal-dresden-schalke-100.html",
+    "image": "https://images.sportschau.de/image/641bc788-8dd9-4ea2-82fb-ce6043e49594/AAABoYP2V_w/AAABnSSvrFg/16x9-big/schalke-462.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-28T20:08:18+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "DFB-Pokal: Dynamo Dresden schießt furchtbar harmlose Schalker ab",
+      "link": "https://www.sportschau.de/fussball/dfbpokal/dresden-schafft-die-ueberraschung-gegen-schalke-04,spielbericht-dfb-pokal-dresden-schalke-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "DFB-Pokal: Schalke 04 scheitert an Dynamo Dresden, Freiburg schafft Comeback gegen Wolfsburg",
+      "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-schalke-04-scheitert-an-dynamo-dresden-freiburg-schafft-comeback-gegen-wolfsburg-a-1bccc71a-d76d-408f-b778-aa91a811156e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "DFB-Pokal, zweite Runde: Dresden schmeißt Schalke raus, Freiburg gewinnt gegen Wolfsburg",
+      "link": "https://www.zeit.de/sport/2026-10/dfb-pokal-2-runde-ssv-jeddeloh-ii-hertha-bsc-dynamo-dresden-fc-schalke-04"
+     },
+     {
+      "name": "FAZ",
+      "title": "DFB-Pokal: Schalke scheitert in Dresden",
+      "link": "https://www.faz.net/aktuell/sport/fussball/fc-schalke-04-scheitert-schon-in-der-zweiten-pokalrunde-201305770.html"
      }
     ]
    }
@@ -1336,127 +1356,152 @@
      "title_orig": "UK Government takes on till fraud with POS software standards"
     },
     {
-     "title": "Lovey landet mit einer vorrangig besicherten Kreditfazilität in Höhe von £ 250 Mio.",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3B6WS1lUTNFaktPSVI5UkR5c2QzbnYwajgxUWo0TUNzYW04SkFGQkI5NTgxUGxadFhNblNEd2QwU09penVra2lHYzJEUXRiWDJSblBaMmhfN0k1aE82aDFOdGRrU3R4aG1JUEFCdjdhWEFIb0dxT1k0WHNDTzBUM3hsOENSSWUtZHBDQXF6cElhQ3YwSGxaXzYyLXNvVk9lNHJYcA?oc=5",
+     "title": "Südkorea verhängt Geldbußen gegen Google und Apple in Höhe von 47,6 Mio. USD wegen In-App-Zahlungen",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWtrRjJmWGhaeVdCY243ZkFpRmJXZTA2dWY2bkp3cHZQTDlvUjZSQUdsTlQ1d2pqakpLRlJ5cFh2ZDQ0VEJRbTd3LW04c1dKZVVuTVBjdHJJSW9FbDVzeUJIb2RBWVp1X0FTaUYwd1dRclp4dDc5QkVkbEtVY1NlMTRWcXlUQlV4aTJ5MjIzVWFZVzhlSl9hN0JaR0ZUX0trNzRtdmpYMGtJYlk?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-28T14:54:25+00:00",
-     "sources": [
-      {
-       "name": "Fintech Futures",
-       "title": "Lovey lands £250m senior secured credit facility",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3B6WS1lUTNFaktPSVI5UkR5c2QzbnYwajgxUWo0TUNzYW04SkFGQkI5NTgxUGxadFhNblNEd2QwU09penVra2lHYzJEUXRiWDJSblBaMmhfN0k1aE82aDFOdGRrU3R4aG1JUEFCdjdhWEFIb0dxT1k0WHNDTzBUM3hsOENSSWUtZHBDQXF6cElhQ3YwSGxaXzYyLXNvVk9lNHJYcA?oc=5"
-      }
-     ],
-     "title_orig": "Lovey lands £250m senior secured credit facility"
-    },
-    {
-     "title": "Nominierungen für die PayTech Awards 2027 offen",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtQelItWlRiQnY0ZHBDVHk0WENBUi1kV2lJU19zU2w1TmxGUlduY0VBQWZZVXpocXlzUWFVSHA0Tzh1bXhKXzJHOHRUb1NRaXJIZncyMGZiWWktcFlqTWY1bUloLVRyaUhTTXljNVFXRlNyVlpGVnI1dFVKUlpBWmVlX3Znck5yNlBN?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-28T14:50:09+00:00",
-     "sources": [
-      {
-       "name": "Fintech Futures",
-       "title": "Nominations open for the 2027 PayTech Awards",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtQelItWlRiQnY0ZHBDVHk0WENBUi1kV2lJU19zU2w1TmxGUlduY0VBQWZZVXpocXlzUWFVSHA0Tzh1bXhKXzJHOHRUb1NRaXJIZncyMGZiWWktcFlqTWY1bUloLVRyaUhTTXljNVFXRlNyVlpGVnI1dFVKUlpBWmVlX3Znck5yNlBN?oc=5"
-      }
-     ],
-     "title_orig": "Nominations open for the 2027 PayTech Awards"
-    },
-    {
-     "title": "BLIK fügt wiederkehrende Zahlungen für Netflix in Polen hinzu",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVENEQy1hSFI5QVBJTy1ZSm9pNW1jOVFiM0RLWWItQ0Y1V1BRSFE5T21VZEF4MEpkOTFCMFhJUWpVYnBWTG5aUUM2Ym1jV0ZsTlNUQ3IxajQyRHVCWnVHQXBQaHktMmVRZ2lFU0xJUVhQQTRJMlk0RkZLWmpxYXZJSGNwMHNKRzkyN3YxWHFuRWV0ZlpaM25yZmVZaXA0QQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-28T14:41:32+00:00",
+     "time": "2026-10-28T17:13:05+00:00",
      "sources": [
       {
        "name": "The Paypers",
-       "title": "BLIK adds recurring payments for Netflix in Poland",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVENEQy1hSFI5QVBJTy1ZSm9pNW1jOVFiM0RLWWItQ0Y1V1BRSFE5T21VZEF4MEpkOTFCMFhJUWpVYnBWTG5aUUM2Ym1jV0ZsTlNUQ3IxajQyRHVCWnVHQXBQaHktMmVRZ2lFU0xJUVhQQTRJMlk0RkZLWmpxYXZJSGNwMHNKRzkyN3YxWHFuRWV0ZlpaM25yZmVZaXA0QQ?oc=5"
+       "title": "South Korea fines Google and Apple USD 47.6 mln over in-app payments",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWtrRjJmWGhaeVdCY243ZkFpRmJXZTA2dWY2bkp3cHZQTDlvUjZSQUdsTlQ1d2pqakpLRlJ5cFh2ZDQ0VEJRbTd3LW04c1dKZVVuTVBjdHJJSW9FbDVzeUJIb2RBWVp1X0FTaUYwd1dRclp4dDc5QkVkbEtVY1NlMTRWcXlUQlV4aTJ5MjIzVWFZVzhlSl9hN0JaR0ZUX0trNzRtdmpYMGtJYlk?oc=5"
       }
      ],
-     "title_orig": "BLIK adds recurring payments for Netflix in Poland"
+     "title_orig": "South Korea fines Google and Apple USD 47.6 mln over in-app payments"
     },
     {
-     "title": "Visa und Symphopay arbeiten beim Merchant Acquiring für Banken in CEE zusammen",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN1hsNnNMN0RIMmVQV3llVnJfdUQwYnd5SEpCc1FMTGVpWXFSOGswbHo4QWFhOG42TVNpdGg4SmdXUE5TMXl0eExmNkZVUjlEaFh6eTJsUmFTVUNmM2RpWmZBTzQ1N0tXX1VGOF92blVIMTBLUXEyR1NncFhrUXpoWG9rODN5RkFXa185TnV1LWFWU1hNNGZ0cWxrQnNvN1ozZklPYw?oc=5",
+     "title": "Tech Mahindra kauft Finastra Cash Management",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVklLV2IyVnJMSktvQXZSSWEzdWtqSXVQYWF3amxwY2tpaEswWllhVDg0YWxCLTRTVGRMM2FBeklqek5uRkdDeXJDTTk4b3RUTVFKdXlqa2J1MHl3V3FJdC1kRzA1TzJQZlUzb1pQZl81ZjhQd2lNS1VTcFgxbDRVY0NkMUxzTWp4bFZlSzB2T0lvTXo3b0M2RFBxSDB3cE1vTUVjVE91eUpZd0l0WXF2ZzZLRFBtTFRDQ19RSzlTTEJwR2s?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-28T14:05:56+00:00",
+     "time": "2026-10-28T17:13:05+00:00",
      "sources": [
       {
        "name": "The Paypers",
-       "title": "Visa and Symphopay partner on merchant acquiring for banks in CEE",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN1hsNnNMN0RIMmVQV3llVnJfdUQwYnd5SEpCc1FMTGVpWXFSOGswbHo4QWFhOG42TVNpdGg4SmdXUE5TMXl0eExmNkZVUjlEaFh6eTJsUmFTVUNmM2RpWmZBTzQ1N0tXX1VGOF92blVIMTBLUXEyR1NncFhrUXpoWG9rODN5RkFXa185TnV1LWFWU1hNNGZ0cWxrQnNvN1ozZklPYw?oc=5"
+       "title": "Tech Mahindra buys Finastra cash management",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVklLV2IyVnJMSktvQXZSSWEzdWtqSXVQYWF3amxwY2tpaEswWllhVDg0YWxCLTRTVGRMM2FBeklqek5uRkdDeXJDTTk4b3RUTVFKdXlqa2J1MHl3V3FJdC1kRzA1TzJQZlUzb1pQZl81ZjhQd2lNS1VTcFgxbDRVY0NkMUxzTWp4bFZlSzB2T0lvTXo3b0M2RFBxSDB3cE1vTUVjVE91eUpZd0l0WXF2ZzZLRFBtTFRDQ19RSzlTTEJwR2s?oc=5"
       }
      ],
-     "title_orig": "Visa and Symphopay partner on merchant acquiring for banks in CEE"
+     "title_orig": "Tech Mahindra buys Finastra cash management"
     },
     {
-     "title": "Archax bringt dauerhaft tokenisiertes Regierungsrechnungsprodukt in die Eurozone",
-     "link": "https://www.finextra.com/pressarticle/111481/archax-brings-perpetual-tokenised-government-bill-product-to-eurozone?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "title": "Zumo, Quantum Chain Partner für Quantensicherheit",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjJVbVB3R2MzYk9hdVl1OEpkOFVLV2ZFZUNQSmpOWUxDZ0xQLUQ3b1NPc24xUHcwZVMweDJlZlA3bUNDX3AwaWJSWF9BWDBjWmtvNmp3Y3REejQ1ZGRiMUh2NGNhOG8zVERLS0VELXJBWko0NEJOWWkyOVNaTnY0cEZxaHdWU256Z2x3R3UwenotV3VTZDRRUmhFOEFCcWhVWFBPeVFoSjEwcUVrSnZXU25JZW0?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-28T13:20:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Archax brings perpetual tokenised government bill product to Eurozone",
-       "link": "https://www.finextra.com/pressarticle/111481/archax-brings-perpetual-tokenised-government-bill-product-to-eurozone?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ],
-     "title_orig": "Archax brings perpetual tokenised government bill product to Eurozone"
-    },
-    {
-     "title": "PayTabs Group unterzeichnet Absichtserklärung zur Übernahme von SeaPay in Saudi-Arabien",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWoxd1NxR2s1Vl9kSkVsTWdzY2wwT1E1M3p1dk8tSHpIaWRLclh1UEVWc2tENzBJY2xvcGlDVDMxaXZwQnVUbkhlYjdIdEx4WnNKSkNtQWU1OWp1QzNKTGRwNTNwOUZtSGl4ZmlCdEYzclBwRUwyWWF3Vk5ua0V5MUltbzdZMmJqNW0yODRpREVqUFhlOXJPbEVqeTNfM0c5V0FZVlo1N0dPbVdWeW81LTBVdEs2QQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-28T13:04:21+00:00",
+     "time": "2026-10-28T17:13:05+00:00",
      "sources": [
       {
        "name": "The Paypers",
-       "title": "PayTabs Group signs MoU to acquire Saudi Arabia's SeaPay",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWoxd1NxR2s1Vl9kSkVsTWdzY2wwT1E1M3p1dk8tSHpIaWRLclh1UEVWc2tENzBJY2xvcGlDVDMxaXZwQnVUbkhlYjdIdEx4WnNKSkNtQWU1OWp1QzNKTGRwNTNwOUZtSGl4ZmlCdEYzclBwRUwyWWF3Vk5ua0V5MUltbzdZMmJqNW0yODRpREVqUFhlOXJPbEVqeTNfM0c5V0FZVlo1N0dPbVdWeW81LTBVdEs2QQ?oc=5"
+       "title": "Zumo, Quantum Chain partner on quantum safety",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjJVbVB3R2MzYk9hdVl1OEpkOFVLV2ZFZUNQSmpOWUxDZ0xQLUQ3b1NPc24xUHcwZVMweDJlZlA3bUNDX3AwaWJSWF9BWDBjWmtvNmp3Y3REejQ1ZGRiMUh2NGNhOG8zVERLS0VELXJBWko0NEJOWWkyOVNaTnY0cEZxaHdWU256Z2x3R3UwenotV3VTZDRRUmhFOEFCcWhVWFBPeVFoSjEwcUVrSnZXU25JZW0?oc=5"
       }
      ],
-     "title_orig": "PayTabs Group signs MoU to acquire Saudi Arabia's SeaPay"
+     "title_orig": "Zumo, Quantum Chain partner on quantum safety"
     },
     {
-     "title": "Kanadas Zafin kauft Angebotsmanagement-Fintech Naehas",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHVUWXBIbUNHRXlVV3RaQkZjY1RoZXZ6dlkwVVBhLU1PRVVsN01rMlNGVmM2RUZlWU1hZEpMeW1ObmpidU05dy1oVTNjbmtEMFpzSy1XdzcycEJQdmQ3WElra3ZKYk1xaVlBSmRoX3dhcFRLaEctS0ctendmU0pIeHlvNEZaVjdsRFlkb1NacjdjUQ?oc=5",
+     "title": "Paribu-Umfrage: Die Hälfte der türkischen Kryptohändler nutzt KI-Tools",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDJva0M0QmppMFNPTlRrc3RwaFJXY1VkdFpPVGdEUFNfdXRHRlBHbGxTNFYtNXllT2g4bENtRVJYSFo1ajBsTTdtNUNpZUhmcVpoRkZOMERHZzBYSGh2RTlnRDRDZXRaTjJsQVNMY3Rvc1luT3FORzlNT0g1WjFXYUdLS2hZbjNPcDRpVHJrbnd3aXlwX29aQ0c4U2FhRXk0VWx3ajV2VmxJZDVO?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-28T12:38:11+00:00",
-     "sources": [
-      {
-       "name": "Fintech Futures",
-       "title": "Canada's Zafin to buy offer management fintech Naehas",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHVUWXBIbUNHRXlVV3RaQkZjY1RoZXZ6dlkwVVBhLU1PRVVsN01rMlNGVmM2RUZlWU1hZEpMeW1ObmpidU05dy1oVTNjbmtEMFpzSy1XdzcycEJQdmQ3WElra3ZKYk1xaVlBSmRoX3dhcFRLaEctS0ctendmU0pIeHlvNEZaVjdsRFlkb1NacjdjUQ?oc=5"
-      }
-     ],
-     "title_orig": "Canada's Zafin to buy offer management fintech Naehas"
-    },
-    {
-     "title": "zerohash rollt Open USD Stablecoin aus",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE5jaU5qQWktbmhaZHZPRm9ON2RpSzRxX09mVTJGOHlvRU9hQTlSYWx5Y1dObGlOLU9aSnkwR0g4NmM2NzVyTkh3NHpzc3dETGxYbU9Kb1VqOGFpdWE0WWl5eDJQMGp6czVxYXBjNDZORmxPeVkyNkU1XzRLQ3pYYzZTSWVVMnFTd3ExTWJZSXRwc3d0OWh6TFQ0QlNrN3FlUUJ5WjVVVURFQVNUTGFacjBn?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-28T12:29:11+00:00",
+     "time": "2026-10-28T17:13:05+00:00",
      "sources": [
       {
        "name": "The Paypers",
-       "title": "zerohash rolls out Open USD stablecoin",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE5jaU5qQWktbmhaZHZPRm9ON2RpSzRxX09mVTJGOHlvRU9hQTlSYWx5Y1dObGlOLU9aSnkwR0g4NmM2NzVyTkh3NHpzc3dETGxYbU9Kb1VqOGFpdWE0WWl5eDJQMGp6czVxYXBjNDZORmxPeVkyNkU1XzRLQ3pYYzZTSWVVMnFTd3ExTWJZSXRwc3d0OWh6TFQ0QlNrN3FlUUJ5WjVVVURFQVNUTGFacjBn?oc=5"
+       "title": "Paribu survey: half of Türkiye crypto traders use AI tools",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDJva0M0QmppMFNPTlRrc3RwaFJXY1VkdFpPVGdEUFNfdXRHRlBHbGxTNFYtNXllT2g4bENtRVJYSFo1ajBsTTdtNUNpZUhmcVpoRkZOMERHZzBYSGh2RTlnRDRDZXRaTjJsQVNMY3Rvc1luT3FORzlNT0g1WjFXYUdLS2hZbjNPcDRpVHJrbnd3aXlwX29aQ0c4U2FhRXk0VWx3ajV2VmxJZDVO?oc=5"
       }
      ],
-     "title_orig": "zerohash rolls out Open USD stablecoin"
+     "title_orig": "Paribu survey: half of Türkiye crypto traders use AI tools"
+    },
+    {
+     "title": "Brim Financial modernisiert die Kartenplattform der Manulife Bank",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONlJCNFlNU0VMV0xpMDRBUU1VUFBvZkVpMmZpS19RN20yVEtmM2lQVkFUS1ZLUzJlWlljcFY2Ri1FQ1hDZjk2RS1BSDJRVXltcmltZFFfNkdZY05fZ1RtSk1WVWZndWdlZFRBVnRXeGFKZ3NnRmdmMjVYUVlkUFUybUJTYV9VZG9uajUxVFBEMnBXZXVfSG9QV1pn?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-28T17:13:05+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Brim Financial modernises Manulife Bank's card platform",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONlJCNFlNU0VMV0xpMDRBUU1VUFBvZkVpMmZpS19RN20yVEtmM2lQVkFUS1ZLUzJlWlljcFY2Ri1FQ1hDZjk2RS1BSDJRVXltcmltZFFfNkdZY05fZ1RtSk1WVWZndWdlZFRBVnRXeGFKZ3NnRmdmMjVYUVlkUFUybUJTYV9VZG9uajUxVFBEMnBXZXVfSG9QV1pn?oc=5"
+      }
+     ],
+     "title_orig": "Brim Financial modernises Manulife Bank's card platform"
+    },
+    {
+     "title": "J.P. Morgan BRINGT Mony- und JLTXX-Token-Fonds nach Solana",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFBZWnl5aTJWUHZxbm9TRmpMVl9IMUlWQkZHcVd5Mm1ocXo0d3hMZEZBelRLcnlPdmVXQ0VOVlZJNmdPTmpQc3Z0bTFPUTRMYll3eVJYUXoyMm9WMkJrYnY5Rm5mNlpDQWh5R05oUVZmWGkzYUZMLWNETGttdUFEdTBBbjR0M0FVYVc1OHdVQUZRbWpfREdQQWZockxBaDFFSnBfdkVzNERxVndm?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-28T17:07:57+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "J.P. Morgan brings MONY and JLTXX tokenised funds to Solana",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFBZWnl5aTJWUHZxbm9TRmpMVl9IMUlWQkZHcVd5Mm1ocXo0d3hMZEZBelRLcnlPdmVXQ0VOVlZJNmdPTmpQc3Z0bTFPUTRMYll3eVJYUXoyMm9WMkJrYnY5Rm5mNlpDQWh5R05oUVZmWGkzYUZMLWNETGttdUFEdTBBbjR0M0FVYVc1OHdVQUZRbWpfREdQQWZockxBaDFFSnBfdkVzNERxVndm?oc=5"
+      }
+     ],
+     "title_orig": "J.P. Morgan brings MONY and JLTXX tokenised funds to Solana"
+    },
+    {
+     "title": "Klarna fügt TaxDome flexible Zahlungen hinzu",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSENiOThRV1Z6RndkQS1HaGJUaVVDVWk0X2ZkVjJHM1NYWVBoS2l1cVZZX3pVZExBUks0MmZKbkdmMHREZHJJMzk2S1VqWV9CNDByeW16YlpyN1UzVXdlcWtrT3lEeE02dVozaWhMNGdMNjlNZEw5OEdfM2R4cEdkajFsWUVIOVRvOWtNTU9EQk5fSGJvTUk4MEE3WW9hN3R3?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-28T16:42:27+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Klarna adds flexible payments to TaxDome",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSENiOThRV1Z6RndkQS1HaGJUaVVDVWk0X2ZkVjJHM1NYWVBoS2l1cVZZX3pVZExBUks0MmZKbkdmMHREZHJJMzk2S1VqWV9CNDByeW16YlpyN1UzVXdlcWtrT3lEeE02dVozaWhMNGdMNjlNZEw5OEdfM2R4cEdkajFsWUVIOVRvOWtNTU9EQk5fSGJvTUk4MEE3WW9hN3R3?oc=5"
+      }
+     ],
+     "title_orig": "Klarna adds flexible payments to TaxDome"
+    },
+    {
+     "title": "Acceleron und First Federal Partner auf internationalen Drähten",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQnNHRDZjMVNTWVhoVFI3TFRLZDhaYks4cm90MTZXaGdrblpzZE80OXRjVVZVS3VhOVYyamlRSC0xQ1FtTEFNX0FzNFNJSU84NE1pOTV2NldTSEZHU0VOLTZQRVZTQWtxcklTcElqVUloYTZ1U1pCQzNwV0dmYWdZbl90eFMwYXZKX01EeG9PU3dQVnVHdVF6LVJIcXh0QQ?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-28T16:42:27+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Acceleron and First Federal partner on international wires",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQnNHRDZjMVNTWVhoVFI3TFRLZDhaYks4cm90MTZXaGdrblpzZE80OXRjVVZVS3VhOVYyamlRSC0xQ1FtTEFNX0FzNFNJSU84NE1pOTV2NldTSEZHU0VOLTZQRVZTQWtxcklTcElqVUloYTZ1U1pCQzNwV0dmYWdZbl90eFMwYXZKX01EeG9PU3dQVnVHdVF6LVJIcXh0QQ?oc=5"
+      }
+     ],
+     "title_orig": "Acceleron and First Federal partner on international wires"
     }
    ],
    "7d": [
+    {
+     "title": "Tech Mahindra erwirbt die Cash-Management-Sparte von Finastra",
+     "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 3,
+     "time": "2026-10-28T17:13:05+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Tech Mahindra acquires Finastra's cash management division",
+       "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "The Paypers",
+       "title": "Tech Mahindra buys Finastra cash management",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVklLV2IyVnJMSktvQXZSSWEzdWtqSXVQYWF3amxwY2tpaEswWllhVDg0YWxCLTRTVGRMM2FBeklqek5uRkdDeXJDTTk4b3RUTVFKdXlqa2J1MHl3V3FJdC1kRzA1TzJQZlUzb1pQZl81ZjhQd2lNS1VTcFgxbDRVY0NkMUxzTWp4bFZlSzB2T0lvTXo3b0M2RFBxSDB3cE1vTUVjVE91eUpZd0l0WXF2ZzZLRFBtTFRDQ19RSzlTTEJwR2s?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Tech Mahindra buys Finastra's cash management product suite",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXZpU2NIbGtHWnJaU2U4c04yN2lwbTZES1VRQ2VfaWFQd1YwNTZoTU9lalhSbUxDV01raXAwUnNyTEVucmVSdEZMNHVqR1VmaTZmOXZGSFd5T0w4N2cyanF6RGtjWE40QmVsWU1ZWmVqY0tJa3MwR1hpVTBsTkRkXzBlSVdRN21RcUxrc3MwT2FkSzc1MHdEYw?oc=5"
+      }
+     ],
+     "title_orig": "Tech Mahindra acquires Finastra's cash management division"
+    },
     {
      "title": "TEN Credit Union wählt Bankjoy für seine Corelation KeyStone-Konvertierung aus",
      "link": "https://www.finextra.com/pressarticle/111431/ten-credit-union-selects-bankjoy-for-its-corelation-keystone-conversion?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -1640,26 +1685,6 @@
       }
      ],
      "title_orig": "How Do US And UK Real-Time Payment Models Actually Compare?"
-    },
-    {
-     "title": "Die NMB Bank verlagert ihren Kern auf Oracle Flexcube",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVFRrNnotV3owV1VpVHdOVFhreGE1Uzd6aGU1QjhySmM3ZWZuX0lVSlZrWDR1REdhYXJWQklMWG1ZU1ZlZnZiSVRuc19Ubzg2ZTlscFdoNTBtb3FZYjAwQzQxQXZPZGFybzFjNHRVdVdGSW1VYVAxcE1WcDM2WDRJaGVpUGZQQ1d5Tjd5ZE1DTzlIWUN4WDRrSkN4MA?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-10-26T17:32:04+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "NMB Bank moves its core to Oracle Flexcube",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVFRrNnotV3owV1VpVHdOVFhreGE1Uzd6aGU1QjhySmM3ZWZuX0lVSlZrWDR1REdhYXJWQklMWG1ZU1ZlZnZiSVRuc19Ubzg2ZTlscFdoNTBtb3FZYjAwQzQxQXZPZGFybzFjNHRVdVdGSW1VYVAxcE1WcDM2WDRJaGVpUGZQQ1d5Tjd5ZE1DTzlIWUN4WDRrSkN4MA?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "NMB Bank live with Oracle Flexcube core banking system",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHJJdjdyem5Sd0poSUlCNWRwRWNfd2h3dHpCNVp6LVB5Zm54MjQxaWhUU0lybzliQ1Q5SVpyYk5uZWY5Y3RGS3ZuX05QTko1YmtfSVFLMGE5RDJSamdTcmhGWS04VVNPY3Z0ZGRZSUhpeWFzRlcwQ1VTTGFQdjBhYUdaRmV4U05BaEc1NFdDVU04SnFSdF9jR2ZEUU5mbUhveGktY1RaTHY1TEo5NUE?oc=5"
-      }
-     ],
-     "title_orig": "NMB Bank moves its core to Oracle Flexcube"
     }
    ],
    "30d": [
@@ -1689,6 +1714,31 @@
      "title_orig": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion"
     },
     {
+     "title": "Tech Mahindra erwirbt die Cash-Management-Sparte von Finastra",
+     "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 3,
+     "time": "2026-10-28T17:13:05+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Tech Mahindra acquires Finastra's cash management division",
+       "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "The Paypers",
+       "title": "Tech Mahindra buys Finastra cash management",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVklLV2IyVnJMSktvQXZSSWEzdWtqSXVQYWF3amxwY2tpaEswWllhVDg0YWxCLTRTVGRMM2FBeklqek5uRkdDeXJDTTk4b3RUTVFKdXlqa2J1MHl3V3FJdC1kRzA1TzJQZlUzb1pQZl81ZjhQd2lNS1VTcFgxbDRVY0NkMUxzTWp4bFZlSzB2T0lvTXo3b0M2RFBxSDB3cE1vTUVjVE91eUpZd0l0WXF2ZzZLRFBtTFRDQ19RSzlTTEJwR2s?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Tech Mahindra buys Finastra's cash management product suite",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXZpU2NIbGtHWnJaU2U4c04yN2lwbTZES1VRQ2VfaWFQd1YwNTZoTU9lalhSbUxDV01raXAwUnNyTEVucmVSdEZMNHVqR1VmaTZmOXZGSFd5T0w4N2cyanF6RGtjWE40QmVsWU1ZWmVqY0tJa3MwR1hpVTBsTkRkXzBlSVdRN21RcUxrc3MwT2FkSzc1MHdEYw?oc=5"
+      }
+     ],
+     "title_orig": "Tech Mahindra acquires Finastra's cash management division"
+    },
+    {
      "title": "Modernisierung des Kernbankwesens ohne Kompromisse bei der Belastbarkeit",
      "link": "https://www.finextra.com/videoarticle/3622/modernising-core-banking-without-compromising-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1714,6 +1764,26 @@
      "title_orig": "Modernising Core Banking Without Compromising Resilience"
     },
     {
+     "title": "Klarna startet Consumer FX für grenzüberschreitende Zahlungen",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelBfcnE5dHhEWFVPdXgzck9vT0JyWm5wR3hCYlZldGNVcm5XQ3M4ZXJPaEdPUWdJN0V0ak8xbEJiMkpwM1kyVWwwXzdYcTJOdjAwcHNIZ0hBOVlJZENmOTBzRnpsaldTV25fZTJtUGNEWkVwYUw1Y256d3pkU3gzNXRJZjRXNTVoa1RPZjQtbHNVZC1yY3o0MlM0cUM4eUdQ?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-10-26T10:40:41+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Klarna launches Consumer FX for cross-border payments",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelBfcnE5dHhEWFVPdXgzck9vT0JyWm5wR3hCYlZldGNVcm5XQ3M4ZXJPaEdPUWdJN0V0ak8xbEJiMkpwM1kyVWwwXzdYcTJOdjAwcHNIZ0hBOVlJZENmOTBzRnpsaldTV25fZTJtUGNEWkVwYUw1Y256d3pkU3gzNXRJZjRXNTVoa1RPZjQtbHNVZC1yY3o0MlM0cUM4eUdQ?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Video: NatWest at Sibos 2026 – What’s next for cross-border payments and agentic commerce?",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ0JyR09ENmRUMndnOHZELUFuQmR0RF9OQzJoUm03QjFjNTdqUGpTSHV5SGlGem1xaGoteTV0TDlYY3ZTTjRQYUl6T1podjhwU0t2dUQ1eVN2SFRlVkx6dnBSNFNhRFNIWFBSVjZKSm9rRUViWDB5empFeElkcU55Z0UtRmJLYWk3eDlONUxnTkxrRmdZdG9md0JwbmxfTjJfRG1qMl9hRjllY3ZfMGZ2LWpfLU9udWhlMjJwcGpmSkZ2dw?oc=5"
+      }
+     ],
+     "title_orig": "Klarna launches Consumer FX for cross-border payments"
+    },
+    {
      "title": "Sezzle beantragt Nationalbankcharta beim Occ",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMEVGRUZYRUpoVWJESDd1NEJDQXE2aGZWRFR0X3VOSzNmM3h0ZExEYWhHQ2gwSnd0RkJuMWxldTRUTmpYanE2dXZIZ0g4UEZaQ19RVjc1aWRVWHFjU1JSOVRHeGMtQl9wRG82Mm9POHNTVEdPM1NLQVFUZlBhZzV1UkRDV1RSdlBwUDAtV1YtWThkLXc?oc=5",
      "image": "",
@@ -1732,26 +1802,6 @@
       }
      ],
      "title_orig": "Sezzle applies for national bank charter with the OCC"
-    },
-    {
-     "title": "Grenzüberschreitende Zahlungen: Wie Banken die Lücke im Corporate Service schließen können",
-     "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Cross-border payments: How banks can close the corporate service gap",
-       "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "Klarna launches Consumer FX for cross-border payments",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelBfcnE5dHhEWFVPdXgzck9vT0JyWm5wR3hCYlZldGNVcm5XQ3M4ZXJPaEdPUWdJN0V0ak8xbEJiMkpwM1kyVWwwXzdYcTJOdjAwcHNIZ0hBOVlJZENmOTBzRnpsaldTV25fZTJtUGNEWkVwYUw1Y256d3pkU3gzNXRJZjRXNTVoa1RPZjQtbHNVZC1yY3o0MlM0cUM4eUdQ?oc=5"
-      }
-     ],
-     "title_orig": "Cross-border payments: How banks can close the corporate service gap"
     },
     {
      "title": "Vancity wählt Temenos SaaS für die Kernbanküberholung",
@@ -1852,26 +1902,6 @@
       }
      ],
      "title_orig": "Zen.com and Mastercard expand Pay By Bank for merchants and consumers across Europe"
-    },
-    {
-     "title": "Wie vergleichen sich US-amerikanische und britische Echtzeit-Zahlungsmodelle eigentlich?",
-     "link": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-10-26T12:45:21+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "How Do US And UK Real-Time Payment Models Actually Compare?",
-       "link": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "How Canada’s Real-Time Rail will transform A2A payments",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmkzQjV3SV9qYmYxUk1iQ1pfdENXb3lSMlpHSlBwT0JyNFg0MVBHdnN5ZEhjcnpjbndjNWFyTzhZTkVOcm9md0oxNGhTU1dtWVBkcWprR3pTVUJQOW5iazh3dHRmd1VIOURnNUpicjhpMWpyc2FrSFJQeDRFWHJwVEpWTC1jUFRFVTJFZ01KMXVMUDA2X211Y0hPUUpoNERi?oc=5"
-      }
-     ],
-     "title_orig": "How Do US And UK Real-Time Payment Models Actually Compare?"
     }
    ]
   },
@@ -1896,6 +1926,111 @@
       }
      ],
      "title_orig": "Coinbase says customer contact data exposed in third-party breach"
+    },
+    {
+     "title": "PNC Bank erweitert Small Business-Angebote mit integrierter ADP-Gehaltsabrechnung",
+     "link": "https://www.pymnts.com/back-office/payroll/2026/pnc-bank-to-expand-small-business-offerings-with-embedded-adp-payroll/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/PNC-Bank-ADP.png?w=457&quality=82",
+     "n_sources": 1,
+     "time": "2026-10-28T21:28:33+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "PNC Bank to Expand Small Business Offerings With Embedded ADP Payroll",
+       "link": "https://www.pymnts.com/back-office/payroll/2026/pnc-bank-to-expand-small-business-offerings-with-embedded-adp-payroll/"
+      }
+     ],
+     "title_orig": "PNC Bank to Expand Small Business Offerings With Embedded ADP Payroll"
+    },
+    {
+     "title": "Amazon erweitert den Shop-Direktkatalog, um Käufer von KI-Shopping-Agenten fernzuhalten",
+     "link": "https://www.pymnts.com/commerce/ecommerce/2026/amazon-expands-shop-direct-catalog-keep-shoppers-off-ai-shopping-agents/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/05/Amazon.jpeg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-28T20:09:31+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Amazon Expands Shop Direct Catalog to Keep Shoppers Off AI Shopping Agents",
+       "link": "https://www.pymnts.com/commerce/ecommerce/2026/amazon-expands-shop-direct-catalog-keep-shoppers-off-ai-shopping-agents/"
+      }
+     ],
+     "title_orig": "Amazon Expands Shop Direct Catalog to Keep Shoppers Off AI Shopping Agents"
+    },
+    {
+     "title": "US Foods zählt KI-Gewinne in Verkäuferstunden und -fällen pro Meile",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/us-foods-counts-ai-gains-in-seller-hours-and-cases-per-mile/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/US-Foods-AI-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-28T20:00:12+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "US Foods Counts AI Gains in Seller Hours and Cases per Mile",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/us-foods-counts-ai-gains-in-seller-hours-and-cases-per-mile/"
+      }
+     ],
+     "title_orig": "US Foods Counts AI Gains in Seller Hours and Cases per Mile"
+    },
+    {
+     "title": "KMU-Kreditgeber Lovey sichert sich vorrangig besicherte Kreditfazilität in Höhe von 250 Mio. £",
+     "link": "https://www.finextra.com/pressarticle/111497/sme-lender-lovey-secures-250m-senior-secured-credit-facility?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-28T19:56:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "SME lender Lovey secures £250m senior secured credit facility",
+       "link": "https://www.finextra.com/pressarticle/111497/sme-lender-lovey-secures-250m-senior-secured-credit-facility?utm_medium=rssfinextra&utm_source=finextrafeed"
+      }
+     ],
+     "title_orig": "SME lender Lovey secures £250m senior secured credit facility"
+    },
+    {
+     "title": "Equilend 1Source DLT-Plattform fügt Goldman Sachs hinzu",
+     "link": "https://www.finextra.com/pressarticle/111496/equilend-1source-dlt-platform-adds-goldman-sachs?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-28T19:44:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Equilend 1Source DLT platform adds Goldman Sachs",
+       "link": "https://www.finextra.com/pressarticle/111496/equilend-1source-dlt-platform-adds-goldman-sachs?utm_medium=rssfinextra&utm_source=finextrafeed"
+      }
+     ],
+     "title_orig": "Equilend 1Source DLT platform adds Goldman Sachs"
+    },
+    {
+     "title": "RBC blockiert persönliche KI-Agenten von Drittanbietern wegen Betrugsrisiken",
+     "link": "https://www.pymnts.com/news/banking/2026/rbc-blocks-third-party-personal-ai-agents-over-fraud-risks/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/03/RBC-AI-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-28T19:08:38+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "RBC Blocks Third-Party Personal AI Agents Over Fraud Risks",
+       "link": "https://www.pymnts.com/news/banking/2026/rbc-blocks-third-party-personal-ai-agents-over-fraud-risks/"
+      }
+     ],
+     "title_orig": "RBC Blocks Third-Party Personal AI Agents Over Fraud Risks"
+    },
+    {
+     "title": "Etsy zielt darauf ab, menschliche Kreationen mit KI-Innovationen in Einklang zu bringen",
+     "link": "https://www.pymnts.com/earnings/2026/etsy-aims-to-balance-human-creations-with-ai-innovations/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2025/02/Etsy-earnings.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-10-28T19:04:30+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Etsy Aims to Balance Human Creations With AI Innovations",
+       "link": "https://www.pymnts.com/earnings/2026/etsy-aims-to-balance-human-creations-with-ai-innovations/"
+      }
+     ],
+     "title_orig": "Etsy Aims to Balance Human Creations With AI Innovations"
     },
     {
      "title": "OppFi-Umsatz sinkt um 3,8 % bei gedämpfter Kreditnehmerstimmung",
@@ -1926,111 +2061,6 @@
       }
      ],
      "title_orig": "Foundry Raises $100 Million to Boost Manufacturing Footprint"
-    },
-    {
-     "title": "Temenos hebt die Jahresprognose an",
-     "link": "https://www.finextra.com/pressarticle/111495/temenos-raises-full-year-guidance?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-28T18:06:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Temenos raises full year guidance",
-       "link": "https://www.finextra.com/pressarticle/111495/temenos-raises-full-year-guidance?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ],
-     "title_orig": "Temenos raises full year guidance"
-    },
-    {
-     "title": "Wealthsimple sammelt 302 Millionen $ für die Finanzplattform",
-     "link": "https://www.pymnts.com/news/investment-tracker/2026/wealthsimple-raises-302-million-for-financial-platform/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Wealthsimple.jpeg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-28T18:03:09+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Wealthsimple Raises $302 Million For Financial Platform",
-       "link": "https://www.pymnts.com/news/investment-tracker/2026/wealthsimple-raises-302-million-for-financial-platform/"
-      }
-     ],
-     "title_orig": "Wealthsimple Raises $302 Million For Financial Platform"
-    },
-    {
-     "title": "Goldman Exec sagt, dass Investoren in Bezug auf KI umsichtiger werden",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-exec-says-investors-growing-more-judicious-on-ai/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/01/Big-Tech-AI-spending.png?w=457&quality=82",
-     "n_sources": 1,
-     "time": "2026-10-28T18:01:59+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Goldman Exec Says Investors Growing More Judicious on AI",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-exec-says-investors-growing-more-judicious-on-ai/"
-      }
-     ],
-     "title_orig": "Goldman Exec Says Investors Growing More Judicious on AI"
-    },
-    {
-     "title": "DTCC-Tokenisierungsdienst geht live",
-     "link": "https://www.finextra.com/pressarticle/111494/dtcc-tokenisation-service-goes-live?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-28T18:01:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "DTCC tokenisation service goes live",
-       "link": "https://www.finextra.com/pressarticle/111494/dtcc-tokenisation-service-goes-live?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ],
-     "title_orig": "DTCC tokenisation service goes live"
-    },
-    {
-     "title": "Ripple bringt seine Stablecoin auf die Handelsplattformen von Coinbase",
-     "link": "https://www.pymnts.com/cryptocurrency/2026/ripple-brings-its-stablecoin-to-coinbases-trading-platforms/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2025/11/Ripple-Labs.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-28T17:47:26+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Ripple Brings Its Stablecoin to Coinbase’s Trading Platforms",
-       "link": "https://www.pymnts.com/cryptocurrency/2026/ripple-brings-its-stablecoin-to-coinbases-trading-platforms/"
-      }
-     ],
-     "title_orig": "Ripple Brings Its Stablecoin to Coinbase’s Trading Platforms"
-    },
-    {
-     "title": "Die britische Regierung übernimmt Kassenbetrug mit POS-Software-Standards",
-     "link": "https://www.finextra.com/newsarticle/48664/uk-government-takes-on-till-fraud-with-pos-software-standards?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-28T17:41:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "UK Government takes on till fraud with POS software standards",
-       "link": "https://www.finextra.com/newsarticle/48664/uk-government-takes-on-till-fraud-with-pos-software-standards?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ],
-     "title_orig": "UK Government takes on till fraud with POS software standards"
-    },
-    {
-     "title": "Uni Financial Cooperation führt Infosys Finacle Universal Banker ein",
-     "link": "https://www.finextra.com/pressarticle/111493/uni-financial-cooperation-rolls-out--infosys-finacle-universal-banker?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-28T17:34:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "UNI Financial Cooperation rolls out Infosys Finacle Universal Banker",
-       "link": "https://www.finextra.com/pressarticle/111493/uni-financial-cooperation-rolls-out--infosys-finacle-universal-banker?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ],
-     "title_orig": "UNI Financial Cooperation rolls out Infosys Finacle Universal Banker"
     }
    ],
    "7d": [
@@ -2446,54 +2476,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "man city – brighton",
-      "link": "https://www.mancity.com/news/mens/enzo-maresca-manchester-city-v-brighton-team-news-63928692",
-      "meta": "10000+ Suchanfragen"
+      "title": "ziehung lottozahlen",
+      "link": "https://web.de/magazine/panorama/lotto/lotto-mittwoch-aktuellen-lotto-zahlen-28-oktober-2026-42880346",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "thierry henry",
-      "link": "https://www.bbc.com/sport/football/articles/cm369r0n0zk5o",
+      "title": "philipp treu",
+      "link": "https://www.bild.de/sport/fussball/dfb-pokal-verletzungs-schreck-um-neuen-klopp-star-6ae24cee8f0a4dd417a5f5fe",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "bürger & geld",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/rentenreform-dgb-niveau-betriebsrente-abschlagsfreie-rente-gxe",
+      "title": "bayern dortmund",
+      "link": "https://www.bild.de/sport/fussball/bvb-schwur-fuer-den-bayern-kracher-6ae1aada654ee81fd1f1e855",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "man city",
+      "link": "https://www.nytimes.com/athletic/7692364/2026/10/28/manchester-city-premier-league-brand/",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "bet365",
-      "link": "https://www.rotowire.com/news/bet365-bonus-code-bet-10-get-200-win-or-lose-1027-144128",
+      "title": "atom-u-boot",
+      "link": "https://www.merkur.de/politik/grossbritanniens-atom-u-boote-drei-von-vier-gleichzeitig-im-einsatz-zr-94563384.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "team visma | lease a bike",
+      "link": "https://www.eurosport.de/radsport/primoz-roglic-maximilian-schachmann-jasha-suetterlin-und-co.-diese-radprofis-sind-fuer-die-saison-2027-noch-ohne-team_sto23350080/story.shtml",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "mbangula",
+      "link": "https://onefootball.com/en/news/serie-a-official-line-ups-milan-vs-bologna-43686894",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "weil gotshal",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/fuehrungskrise-bei-weil-ramona-nee-verzichtet-auf-barry-wolfs-nachfolge-201625207.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "olise",
+      "link": "https://www.goal.com/en/news/we-can-afford-any-player-bayern-munich-boss-sends-clear-message/blt2ca8f7296277df4c",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "wayne carpendale",
+      "link": "https://www.sueddeutsche.de/medien/wayne-annemarie-carpendale-trennung-instagram-werbung-singapur-li.3570377",
       "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "moers",
-      "link": "https://rp-online.de/nrw/staedte/moers/moers-homberger-strasse-polizei-ermittelt-nach-messerangriff_aid-157397669",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "feige",
-      "link": "https://www.murphysmultiverse.com/marvel-delays-avengers-secret-wars/",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "policja",
-      "link": "https://tylkomalopolska.pl/trzy-medale-tarnowskich-policjantow-na-mistrzostwach-polski-w-bjj",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "rettungshund",
-      "link": "https://www.freiepresse.de/mittelsachsen/rochlitz/24-stunden-banges-warten-rettungshund-findet-vermissten-peniger-artikel14462136",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "температура",
-      "link": "https://www.pravda.com.ua/rus/news/2026/10/28/8060080/",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "paderborner brauerei",
-      "link": "https://www.sueddeutsche.de/wirtschaft/hoffen-und-bangen-verkauf-oder-aus-versammlung-in-paderborner-brauerei-dpa.urn-newsml-dpa-com-20090101-261028-930-908634",
-      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2560,32 +2590,30 @@
     "lang": "fr",
     "items": [
      {
-      "title": "manchester city – brighton",
-      "link": "https://www.mancity.com/news/mens/enzo-maresca-manchester-city-v-brighton-team-news-63928692",
-      "meta": "5000+ Suchanfragen"
+      "title": "michael olise",
+      "link": "https://www.eurosport.fr/football/transferts/2026-2027/michael-olise-ol-om-sergio-camello-federico-di-marco-ivan-fresneda-les-5-infos-mercato-du-26-ottobre-2026_sto23349271/story.shtml",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "super Ballon d 'Or",
-      "link": "https://www.footmercato.net/a7976010724410306017-cristiano-ronaldo-2008-elu-plus-grand-ballon-dor-de-lhistoire",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "super ballon d'or"
-     },
-     {
-      "title": "grégory birnbaum",
-      "link": "https://rmcsport.bfmtv.com/football/ligue-2/saint-etienne-apres-le-feu-d-artifice-des-magic-fans-en-tribune-le-club-lance-une-enquete-interne_AN-202610270757.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "grégory poirier"
-     },
-     {
-      "title": "clea",
-      "link": "https://actu.fr/nouvelle-aquitaine/marmande_47157/je-suis-fier-detre-ton-papa-clea-a-marmande-une-foule-immense-reunie-pour-dire-adieu-a-la-jeune-rugbywoman_64987465.html",
+      "title": "manon aubry",
+      "link": "https://www.sudouest.fr/landes/peyrehorade/landes-manon-aubry-et-manuel-bompard-ont-lance-la-campagne-rurale-de-la-france-insoumise-a-peyrehorade-devant-1-500-militants-31268054.php",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "dh Sport+",
-      "link": "https://www.dhnet.be/regions/liege/2026/10/28/a-flemalle-il-se-trompe-de-remorque-en-pensant-voler-celle-dune-personne-qui-lui-doit-de-largent-RRL6ND5NQBESNPJLNCW5EH3L7Q/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "dh les sports+"
+      "title": "weil gotshal",
+      "link": "https://www.zonebourse.com/actualite-bourse/l-ia-reprend-le-controle-de-la-narration-boursiere-avant-le-retour-de-la-fed-ce785cd2d88cf327",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "Elektrofahrzeug",
+      "link": "https://www.lesnumeriques.com/voiture-electrique/6-000-une-autonomie-genereuse-et-un-habitacle-bien-equipe-avec-4-places-la-chine-lance-un-nouveau-vehicule-electrique-qui-tire-encore-plus-les-prix-vers-le-bas-n263911.html",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "véhicule électrique"
+     },
+     {
+      "title": "dua lipa",
+      "link": "https://www.wmagazine.com/fashion/dua-lipa-schiaparelli-chanel-prada-london-literature-festival",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2594,30 +2622,30 @@
     "lang": "it",
     "items": [
      {
-      "title": "manchester city - brighton & hove albion",
-      "link": "https://www.gazzetta.it/en/football/numbers/27-10-2026/manchester-city-vs-brighton-analysis-maresca-favourite-but-visitors-aim-for-upset.shtml",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "carrarese - arezzo",
-      "link": "https://www.arezzonotizie.it/sport/calcio/presentazione-carrarese-arezzo-ottobre-2026.html",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "bernardeschi",
-      "link": "https://www.corrieredellosport.it/news/calcio/serie-a/bologna/2026/10/27-152185936/bernardeschi_idea_2029_il_bologna_studia_un_nuovo_contratto",
+      "title": "kevin de bruyne",
+      "link": "https://sport.sky.it/calcio/serie-a/2026/10/27/sky-sport-tech-show-juventus-frosinone-como-napoli-video-analisi",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "taylor fritz",
-      "link": "https://sports.yahoo.com/articles/atp-tour-trial-rule-upcoming-170000410.html",
+      "title": "woltemade",
+      "link": "https://sport.sky.it/calcio/serie-a/2026/10/26/juventus-video-confronto-difesa-attacco-kolo-muani-woltemade",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "PlayStation",
-      "link": "https://blog.playstation.com/2026/10/28/playstation-plus-monthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2/",
+      "title": "China",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/la-cina-incassa-le-scuse-ma-il-caso-mbappe-non-e-chiuso_6ecc1caa-c45a-4a71-ac0c-e08f15107bf8.html",
       "meta": "500+ Suchanfragen",
-      "title_orig": "playstation plus"
+      "title_orig": "cina"
+     },
+     {
+      "title": "san severo",
+      "link": "https://www.lagazzettadisansevero.it/san-severo-domani-la-presentazione-del-libro-la-criminalita-organizzata-di-stefano-tota/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "siani",
+      "link": "https://www.idealista.it/news/vacanze/mete-turistiche/2026/10/27/490769-dove-e-stato-girato-il-film-si-accettano-miracoli-di-alessandro-siani",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2626,30 +2654,32 @@
     "lang": "es",
     "items": [
      {
-      "title": "bet365",
-      "link": "https://www.squawka.com/en/betting-offers/carabao-cup-betting-offers-free-bets-tonight-28-10-2026/",
-      "meta": "1000+ Suchanfragen"
+      "title": "city",
+      "link": "https://as.com/futbol/internacional/manchester-city-brighton-en-directo-league-cup-hoy-en-vivo-f202610-d/",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "manchester city - brighton",
-      "link": "https://www.mancity.com/news/mens/enzo-maresca-manchester-city-v-brighton-team-news-63928692",
+      "title": "staatliche Eisenbahnsicherheitsbehörde",
+      "link": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae22636fdddffcd688b45c5.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "agencia estatal de seguridad ferroviaria"
+     },
+     {
+      "title": "bonoloto",
+      "link": "https://www.lavanguardia.com/comprobar-loteria/bonoloto/bonoloto-20261028/",
       "meta": "5000+ Suchanfragen"
      },
      {
-      "title": "freizeitgestaltung huelva - Rayo Vallecano",
-      "link": "https://as.com/futbol/copa_del_rey/recreativo-rayo-vallecano-en-directo-primera-ronda-de-la-copa-del-rey-hoy-en-vivo-f202610-d/",
-      "meta": "10000+ Suchanfragen",
-      "title_orig": "recreativo huelva - rayo vallecano"
+      "title": "club Atlètic Madrid",
+      "link": "https://trends.google.com/trends/explore?geo=ES&q=club%20atl%C3%A8tic%20de%20madrid",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "club atlètic de madrid"
      },
      {
-      "title": "taylor fritz",
-      "link": "https://sports.yahoo.com/articles/atp-tour-trial-rule-upcoming-170000410.html",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "jorge de juan",
-      "link": "https://www.marca.com/tiramillas/cine/2026/10/28/jorge-juan-anuncia-padece-cancer-pancreas-estadio-iv-operar.html",
-      "meta": "200+ Suchanfragen"
+      "title": "hirtenana",
+      "link": "https://www.lasexta.com/noticias/sociedad/ana-pastor-oscar-puente-impresentable-que-ministro-68-muertos-mas-adamuz-administracion-permita-lujo-atacar-prensa_202610286ae24bd4a5f83c2fb8e6e630.html",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "ana pastor"
      }
     ]
    },
@@ -2658,30 +2688,30 @@
     "lang": "en",
     "items": [
      {
-      "title": "prince harry news",
-      "link": "https://www.foxnews.com/entertainment/prince-harry-making-big-mistake-destroy-chance-royal-reconciliation-expert",
-      "meta": "2000+ Suchanfragen"
+      "title": "fußball ergebnisse",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "football results"
      },
      {
-      "title": "sam altman",
-      "link": "https://www.counterpunch.org/2026/10/26/defective-products-openai-dangerous-chatbots-and-deception/",
+      "title": "rulli",
+      "link": "https://www.cleveland19.com/2026/10/28/us-house-district-6-up-grabs-ohio/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "ich bin helen",
-      "link": "https://deadline.com/2026/10/nicola-coughlan-i-am-helen-channel-4-trailer-joe-cole-1237173061/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "i am helen"
+      "title": "robert mccartney",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/oct/28/tv-tonight-five-sisters-fight-for-justice-after-a-shocking-in-belfast",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "bournemouth vs aston villa",
-      "link": "https://www.skysports.com/football/live-blog/13604078/bournemouth-vs-aston-villa-live-carabao-cup-updates-news-prediction-and-line-ups-and-how-to-watch-or-stream",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "xrp ledger",
-      "link": "https://www.reuters.com/legal/transactional/coinbase-adds-ripples-stablecoin-its-exchange-2026-10-28/",
+      "title": "lewis dunk",
+      "link": "https://www.theargus.co.uk/sport/26677040.panel-unanimously-backs-dunks-role-albions-5-0-win/",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "spfl",
+      "link": "https://www.ross-shirejournal.co.uk/sport/winger-backs-ross-county-to-regroup-and-go-again-448714/",
+      "meta": "500+ Suchanfragen"
      }
     ]
    },
@@ -2690,31 +2720,31 @@
     "lang": "pl",
     "items": [
      {
-      "title": "man city – brighton",
-      "link": "https://www.mancity.com/news/mens/enzo-maresca-manchester-city-v-brighton-team-news-63928692",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "lechia – jagiellonia białystok",
-      "link": "https://www.trojmiasto.pl/sport/Lechia-Gdansk-Jagiellonia-Bialystok-Wladyslaw-Lupaszko-W-Anglii-jest-tak-samo-n228022.html",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "schwarzes Selfie",
-      "link": "https://wydarzenia.interia.pl/kraj/news-polski-rambo-wiceszef-mon-reaguje-na-zaskakujace-slowa-ambas,nId,23565495",
+      "title": "marken von papszun",
+      "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/papszun-wprost-trudniej-przygotowac-sie-na-mecz-z-gornikiem-niz-z-lechem/rbtcmtz",
       "meta": "200+ Suchanfragen",
-      "title_orig": "sobkowiak czarnecka"
+      "title_orig": "marek papszun"
      },
      {
-      "title": "magdalena stysiak",
-      "link": "https://sport.interia.pl/siatkowka/news-gwiazda-lavariniego-wyprowadzila-sie-daleko-od-polski-to-cze,nId,23565590",
+      "title": "cardi b",
+      "link": "https://www.billboard.com/music/music-news/cardi-b-jealousy-people-inner-circle-1236369644/",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "somalia",
+      "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Feuerwehrmann",
-      "link": "https://rzeszow.tvp.pl/96134160/blisko-45-mln-zl-dofinansowania-dla-ochotniczych-strazy-pozarnych-na-podkarpaciu",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "strażak"
+      "title": "matthew perry",
+      "link": "https://people.com/matthew-perry-sister-reveals-heartbreaking-truth-friends-wedding-episode-new-doc-exclusive-12184859",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Premiere",
+      "link": "https://wiadomosci.onet.pl/swiat/wulgaryzmy-wiara-w-spisek-i-ataki-na-ue-co-sie-dzieje-z-premierem-czech/dytrd8b",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "premiera"
      }
     ]
    },
@@ -2790,31 +2820,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "man city vs brighton",
-      "link": "https://www.mancity.com/news/mens/city-v-brighton-carabao-cup-team-news-63928805",
-      "meta": "10000+ Suchanfragen"
-     },
-     {
-      "title": "cristiano ronaldo",
-      "link": "https://en.as.com/soccer/boat-live-updates-winner-rankings-and-nominees-messi-and-ronaldo-battle-for-the-ballon-dor-of-all-time-f202610-d/",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "taylor fritz",
-      "link": "https://www.essentiallysports.com/tennis-news-renting-a-car-in-the-middle-of-nowhere-taylor-fritz-reveals-wild-side-of-atp-tour-ahead-of-swiss-indoors/",
+      "title": "jaydon blue",
+      "link": "https://www.philadelphiaeagles.com/news/eagles-sign-rb-jaydon-blue-to-the-active-roster-add-three-to-the-practice-squad-dameon-pierce",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "Bohranlage",
-      "link": "https://www.offshore-mag.com/special-reports/news/55414243/borr-drillings-prospector-5-drilling-rig-sinks-offshore-gabon",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "drilling rig"
+      "title": "lawson lovering",
+      "link": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-28/scotto-lakers-sign-lawson-lovering-to-two-way",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "orakelstock",
-      "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "oracle stock"
+      "title": "S&P 500.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "s&p 500"
+     },
+     {
+      "title": "Zwergplanet",
+      "link": "https://www.cnn.com/2026/10/28/science/ed138-dwarf-planet-candidate-beyond-pluto",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "new dwarf planet"
+     },
+     {
+      "title": "abstimmung in meiner Nähe",
+      "link": "https://www.azfamily.com/2026/10/27/turnout-tracker-630k-ballots-already-returned-maricopa-county/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "voting near me"
      }
     ]
    },
@@ -2823,33 +2854,33 @@
     "lang": "en",
     "items": [
      {
-      "title": "Investor, Anleger",
-      "link": "https://www.ndtv.com/business-news/ndtv-profit-ignite-sebi-chief-tuhin-kanta-pandey-caution-investors-mutual-funds-12249761",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "investor"
+      "title": "Sommerzeit",
+      "link": "https://www.pbs.org/newshour/nation/daylight-saving-time-is-coming-to-an-end-again-heres-how-the-time-change-may-impact-you",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "daylight savings 2026"
      },
      {
-      "title": "orakelaktienkurs",
-      "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "oracle share price"
+      "title": "Juventus",
+      "link": "https://onefootball.com/it/scommesse/pronostici/genoa-vs-juventus-28-10-2026",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "juventus fc"
      },
      {
-      "title": "man city vs brighton",
-      "link": "https://www.mancity.com/news/mens/enzo-maresca-manchester-city-v-brighton-team-news-63928692",
-      "meta": "10000+ Suchanfragen"
+      "title": "juventus",
+      "link": "https://www.sportmediaset.mediaset.it/foto/calcio/napoli/le-foto-di-monza-napoli_118278486-202602k.shtml",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "ballon d'Or aller Zeiten",
-      "link": "https://en.as.com/soccer/boat-live-updates-winner-rankings-and-nominees-messi-and-ronaldo-battle-for-the-ballon-dor-of-all-time-f202610-d/",
+      "title": "Bayern München",
+      "link": "https://www.espn.in/football/story/_/id/50236983/harry-kane-2026-ballon-dor-kylian-mbappe-lamine-yamal",
       "meta": "200+ Suchanfragen",
-      "title_orig": "ballon d'or of all time"
+      "title_orig": "bayern munich"
      },
      {
-      "title": "1: 1",
-      "link": "https://www.indiatv.in/sports/cricket/haris-rauf-has-been-reprimanded-for-breaching-level-1-of-the-icc-code-of-conduct-2026-10-28-1251437",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "हारिस रऊफ"
+      "title": "fed-Sitzungszinssätze",
+      "link": "https://finance.yahoo.com/economy/policy/live/fed-meeting-live-updates-interest-rates-held-steady-in-split-vote-warsh-says-politics-played-no-role-ahead-of-midterm-elections-191946928.html",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "fed meeting interest rates"
      }
     ]
    },
@@ -2858,31 +2889,32 @@
     "lang": "pt",
     "items": [
      {
-      "title": "city x brighton",
-      "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/copa-da-liga-inglesa/jogo/28-10-2026/Manchestercity-brighton.ghtml",
-      "meta": "10000+ Suchanfragen"
+      "title": "chelsea",
+      "link": "https://www.skysports.com/football/live-blog/13604148/wcl-chelsea-vs-roma-arsenal-vs-benfica-live-uefa-womens-champions-league-updates-news-prediction-and-line-ups",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "Bezahlung",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-libera-r-52-bilhoes-para-reforcar-assistencia-social-e-saude",
-      "meta": "10000+ Suchanfragen",
-      "title_orig": "pagamento"
+      "title": "bragantino x chapecoense",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-pode-ter-primeiro-rebaixado-confirmado-nesta-quarta-28-veja/",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "futsal",
-      "link": "https://pt.uefa.com/uefafutsalchampionsleague/news/02a7-21341b1003b6-8ca19c925c53-1000--guia-da-fase-principal-da-uefa-futsal-champions-league/",
-      "meta": "200+ Suchanfragen"
+      "title": "heutigen Spiele der brasilianischen",
+      "link": "https://ge.globo.com/gato-mestre/noticia/2026/10/28/palpite-ge-2026-veja-as-apostas-de-apresentadores-e-comentaristas-para-a-33a-rodada-do-brasileirao.ghtml",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "jogos de hoje do brasileirão"
      },
      {
-      "title": "eva mendes",
-      "link": "https://www.imdb.com/it/news/ni66083115/?ref_=nm_nwr_2",
-      "meta": "200+ Suchanfragen"
+      "title": "heilige gegen Palmen",
+      "link": "https://ge.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-a/jogo/28-10-2026/santos-palmeiras.ghtml",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "santos vs palmeiras"
      },
      {
-      "title": "regierungsabonnement",
-      "link": "https://www.migalhas.com.br/quentes/467426/cnj-autoriza-assinatura-de-procuracao-judicial-pela-plataforma-gov-br",
-      "meta": "20000+ Suchanfragen",
-      "title_orig": "assinatura gov"
+      "title": "new byd king",
+      "link": "https://motor1.uol.com.br/news/813584/byd-seda-maior-king-barato/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "novo byd king"
      }
     ]
    },
@@ -2891,33 +2923,32 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Ministerium für Wirtschaft, Handel",
-      "link": "https://www.reuters.com/jp/markets/japan/N3QCKQ4EWVNG5BHSPZNYN5GUME-2026-10-28/",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "経済産業省"
-     },
-     {
-      "title": "Pocar",
-      "link": "https://sports.yahoo.co.jp/video/player/28457670",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "ポカール"
-     },
-     {
-      "title": "mac studio",
-      "link": "https://9to5mac.com/2026/10/28/apple-reveals-pricing-for-mac-studio-with-512gb-of-ram/",
+      "title": "bournemouth vs aston villa",
+      "link": "https://www.bbc.com/sport/football/live/cre3xze08k73t",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Eiskunstlauf",
-      "link": "https://news.yahoo.co.jp/articles/091aae83f649aa7911fad0ac06ee8170196cfbce",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "フィギュアスケート"
+      "title": "Leitung wird unbrauchbar",
+      "link": "https://news.yahoo.co.jp/articles/e7f370166b6a551e9d46a3a34a287edfe612539c",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "ライン使えなくなる"
      },
      {
-      "title": "Michihiro Ogasawara",
-      "link": "https://news.yahoo.co.jp/articles/f516098ae24e818f77a088a98093133a4087fe8c",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "小笠原道大"
+      "title": "Holstein-Kiel gegen Hoffenheim",
+      "link": "https://sports.yahoo.com/articles/confirmed-dfb-pokal-lineups-holstein-185600044.html",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "ホルシュタイン・キール 対 ホッフェンハイム"
+     },
+     {
+      "title": "aktualisiert",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151840.html",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "アップデート"
+     },
+     {
+      "title": "frb",
+      "link": "https://www.nikkei.com/article/DGXZQOGN28C5T0Y6A021C2000000/",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2987,32 +3018,32 @@
      {
       "title": "ICE betreibt eine der größten linksfeindlichen Überwachungsoperationen in der Geschichte der USA",
       "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-      "meta": "WIRED · 206 Personen teilen",
+      "meta": "WIRED · 384 Personen teilen",
       "title_orig": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History"
      },
      {
       "title": "Superreiche erhalten \"doppelte Dividende\" von Ursachen und Kosten der Klimakrise, findet der Bericht",
       "link": "https://www.theguardian.com/environment/2026/oct/27/super-rich-double-dividend-climate-crisis-oxfam",
-      "meta": "The Guardian · 310 Personen teilen",
+      "meta": "The Guardian · 313 Personen teilen",
       "title_orig": "Super-rich get ‘double dividend’ from causes and costs of climate crisis, report finds"
+     },
+     {
+      "title": "Tommy Robinson der Belästigung von Daily Mail-Journalisten schuldig",
+      "link": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o",
+      "meta": "BBC News · 102 Personen teilen",
+      "title_orig": "Tommy Robinson guilty of harassing Daily Mail journalists"
      },
      {
       "title": "Die französische Regierung blockierte soziale Netzwerke und das mobile Internet inmitten von Protesten",
       "link": "https://www.politico.eu/article/french-government-mulled-blocking-social-network-amid-protests/",
-      "meta": "POLITICO · 274 Personen teilen",
+      "meta": "POLITICO · 284 Personen teilen",
       "title_orig": "French government mulled blocking social networks and mobile internet amid protests"
      },
      {
-      "title": "Die Ultrareichen produzieren mehr Kohlenstoffverschmutzung als fast die Hälfte der Menschheit",
-      "link": "https://time.com/article/2026/10/27/carbon-emissions-ultra-rich-oxfam-report/",
-      "meta": "Time · 200 Personen teilen",
-      "title_orig": "The Ultrawealthy Produce More Carbon Pollution Than Nearly Half of Humanity"
-     },
-     {
-      "title": "Flávio Bolsonaro flieht nach der Niederlage bei den Präsidentschaftswahlen aus Brasilien, heißt es in Berichten",
-      "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-      "meta": "The Guardian · 181 Personen teilen",
-      "title_orig": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say"
+      "title": "Brasilianischer Richter ordnet Untersuchung des Spendernetzwerks von JD Vance an",
+      "link": "https://www.washingtonpost.com/world/2026/10/27/brazilian-judge-orders-investigation-into-jd-vance-donor-network/",
+      "meta": "The Washington Post · 89 Personen teilen",
+      "title_orig": "Brazilian judge orders investigation into JD Vance donor network"
      }
     ]
    }
@@ -3023,7 +3054,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 58,
+   "count": 55,
    "error": ""
   },
   {
@@ -3044,7 +3075,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 157,
+   "count": 155,
    "error": ""
   },
   {
@@ -3057,16 +3088,16 @@
   {
    "source": "Finanz-Szene",
    "category": "pay_de",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 503 Service Unavailable – Sorry... body { font-family: verdana, arial, sans-serif; background-co"
+   "ok": true,
+   "count": 27,
+   "error": ""
   },
   {
    "source": "Payment & Banking",
    "category": "pay_de",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 503 Service Unavailable – Sorry... body { font-family: verdana, arial, sans-serif; background-co"
+   "ok": true,
+   "count": 11,
+   "error": ""
   },
   {
    "source": "IT-Finanzmagazin",
@@ -3079,7 +3110,7 @@
    "source": "Handelsblatt",
    "category": "pay_de",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": ""
   },
   {
@@ -3099,16 +3130,16 @@
   {
    "source": "The Paypers",
    "category": "pay_eu",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 503 Service Unavailable – Sorry... body { font-family: verdana, arial, sans-serif; background-co"
+   "ok": true,
+   "count": 100,
+   "error": ""
   },
   {
    "source": "Fintech Futures",
    "category": "pay_eu",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 503 Service Unavailable – Sorry... body { font-family: verdana, arial, sans-serif; background-co"
+   "ok": true,
+   "count": 79,
+   "error": ""
   },
   {
    "source": "Finextra",
@@ -3240,8 +3271,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 110,
-   "info": "110 von 110 Überschriften übersetzt (neu in diesem Lauf: MyMemory 54). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 113,
+   "info": "113 von 113 Überschriften übersetzt (neu in diesem Lauf: MyMemory 59). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
