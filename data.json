@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T09:58:24+00:00",
+ "generated": "2026-10-29T13:07:05+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
@@ -8,7 +8,7 @@
     "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
     "image": "https://images.tagesschau.de/image/4fa122f3-e6c0-4210-a3ea-9a24fb193a7f/AAABoYSCpNQ/AAABnSSvrFg/16x9-big/bolsonaro-348.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-28T21:56:25+00:00",
+    "time": "2026-10-29T12:09:36+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -27,13 +27,42 @@
      },
      {
       "name": "FAZ",
-      "title": "Flucht nach Florida: Bolsonaro erklärt sich zum gewählten Präsidenten",
-      "link": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-erklaert-sich-zum-praesidenten-brasiliens-201630574.html"
+      "title": "Nach Flucht in die USA: Bolsonaro beansprucht Wahlsieg für sich",
+      "link": "https://www.faz.net/video/bolsonaro-beansprucht-wahlsieg-fuer-sich-201632742.html"
      },
      {
       "name": "Handelsblatt",
       "title": "Brasilien: Bolsonaro erklärt sich zum wahren Wahlsieger – wie er der brasilianischen Justiz entkam",
       "link": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaro-erklaert-sich-zum-wahren-wahlsieger-wie-er-der-brasilianischen-justiz-entkam/100265385.html"
+     }
+    ]
+   },
+   {
+    "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
+    "image": "https://images.tagesschau.de/image/814030d4-6f76-4e55-8922-3ae689b93c11/AAABoYcn_rw/AAABnSSvrFg/16x9-big/lagarde-328.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-29T12:51:29+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "EZB-Chefin Christine Lagarde tritt vorzeitig zurück",
+      "link": "https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck-a-a66e7d48-d3d5-44cb-819d-1ef9f3ae427c#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Wer wird die nachfolge?: EZB-Präsidentin Lagarde tritt vorzeitig zurück",
+      "link": "https://www.faz.net/video/ezb-praesidentin-lagarde-tritt-vorzeitig-zurueck-201633034.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Geldpolitik: EZB-Präsidentin Christine Lagarde tritt im Februar vorzeitig ab",
+      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/christine-lagarde-ezb-praesidentin-tritt-im-februar-2027-vorzeitig-ab/100265875.html"
      }
     ]
    },
@@ -121,6 +150,78 @@
       "name": "FAZ",
       "title": "DFB-Pokal: Schalke scheitert in Dresden",
       "link": "https://www.faz.net/aktuell/sport/fussball/fc-schalke-04-scheitert-schon-in-der-zweiten-pokalrunde-201305770.html"
+     }
+    ]
+   },
+   {
+    "title": "FC Bayern München und Vincent Kompany: Als sei alles wie immer, auch wenn nichts ist wie sonst",
+    "link": "https://www.spiegel.de/sport/fc-bayern-muenchen-und-vincent-kompany-als-sei-alles-wie-immer-auch-wenn-nichts-ist-wie-sonst-a-faa8c241-794f-4ebd-93aa-b786f3a1d7f1#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/2d7fe14d-557e-4056-848d-06619c880635_w520_r2.08_fpx50_fpy32.jpg",
+    "n_sources": 3,
+    "time": "2026-10-29T12:58:00+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "FC Bayern München und Vincent Kompany: Als sei alles wie immer, auch wenn nichts ist wie sonst",
+      "link": "https://www.spiegel.de/sport/fc-bayern-muenchen-und-vincent-kompany-als-sei-alles-wie-immer-auch-wenn-nichts-ist-wie-sonst-a-faa8c241-794f-4ebd-93aa-b786f3a1d7f1#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Vincent Kompany: Was ist eine Hirnhautreizung?",
+      "link": "https://www.zeit.de/news/2026-10/28/was-ist-eine-hirnhautreizung"
+     },
+     {
+      "name": "FAZ",
+      "title": "Nach Hirnhautreizung: Kompany aus Klinik entlassen",
+      "link": "https://www.faz.net/aktuell/sport/fussball/bayern-muenchens-trainer-vincent-kompany-aus-klinik-entlassen-201630746.html"
+     }
+    ]
+   },
+   {
+    "title": "Parlamentswahl in Israel: Wofür die arabischen Parteien stehen",
+    "link": "https://www.tagesschau.de/ausland/asien/israel-arabische-parteien-wahl-100.html",
+    "image": "https://images.tagesschau.de/image/7e64f4b0-859c-4402-98df-2f671f0138b3/AAABoYMDTGU/AAABnSSvrFg/16x9-big/abbas-208.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-29T09:15:36+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Parlamentswahl in Israel: Wofür die arabischen Parteien stehen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-arabische-parteien-wahl-100.html"
+     },
+     {
+      "name": "FAZ",
+      "title": "Liveblog Israel-Wahl: Demokrat Golan schließt Koalition mit Likud aus",
+      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-demokrat-golan-schliesst-koalition-mit-likud-aus-faz-200583539.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Israel: Können arabische Parteien die Blockade in Israel auflösen?",
+      "link": "https://www.handelsblatt.com/politik/international/israel-koennen-arabische-parteien-die-blockade-in-israel-aufloesen/100265552.html"
+     }
+    ]
+   },
+   {
+    "title": "Für drittes Quartal meldet VW Verlust von rund 5,8 Milliarden Euro",
+    "link": "https://www.tagesschau.de/video/video-1674470.html",
+    "image": "https://images.tagesschau.de/image/929194b1-48ec-49b8-8d6f-b29e59898151/AAABoYdcX54/AAABnSSvrFg/16x9-big/sendungsbild-1819020.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-10-29T11:12:35+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Für drittes Quartal meldet VW Verlust von rund 5,8 Milliarden Euro",
+      "link": "https://www.tagesschau.de/video/video-1674470.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Im dritten Quartal: Volkswagen meldet 5,82 Milliarden Euro Verlust",
+      "link": "https://www.zeit.de/news/2026-10/29/vw-meldet-milliardenverlust-im-dritten-quartal"
+     },
+     {
+      "name": "FAZ",
+      "title": "Autohersteller: Volkswagen macht 5,8 Milliarden Euro Verlust",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-meldet-milliardenverlust-im-dritten-quartal-accg-201631461.html"
      }
     ]
    },
@@ -149,30 +250,6 @@
     ]
    },
    {
-    "title": "Volkswagen: Umsatz und Absatz brechen ein – Milliardenverlust im dritten Quartal",
-    "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/0c4aaf47-c212-4d63-853a-8807df5635cb_w520_r2.08_fpx54.66_fpy49.99.jpg",
-    "n_sources": 3,
-    "time": "2026-10-29T06:53:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Volkswagen: Umsatz und Absatz brechen ein – Milliardenverlust im dritten Quartal",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "VW: Volkswagen macht im dritten Quartal Milliardenverlust",
-      "link": "https://www.zeit.de/mobilitaet/2026-10/volkswagen-macht-im-dritten-quartal-milliardenverlust"
-     },
-     {
-      "name": "FAZ",
-      "title": "Autohersteller: Volkswagen macht 5,8 Milliarden Euro Verlust",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-meldet-milliardenverlust-im-dritten-quartal-accg-201631461.html"
-     }
-    ]
-   },
-   {
     "title": "Hayden Panettiere: Polizei stuft Tod offiziell als Unfall ein",
     "link": "https://www.spiegel.de/panorama/hayden-panettiere-polizei-stuft-tod-offiziell-als-unfall-ein-a-cb351a86-7e0e-4a38-b7b1-4bd7b3c4b25a#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/e80b5b9b-d6da-47b7-b359-0de37ed5736a_w520_r2.08_fpx41_fpy54.jpg",
@@ -195,68 +272,6 @@
       "link": "https://www.faz.net/aktuell/gesellschaft/menschen/hayden-panettiere-polizei-stuft-tod-als-unfall-ein-accg-201631428.html"
      }
     ]
-   },
-   {
-    "title": "FC Bayern München: Vincent Kompany nach Hirnhautreizung aus Klinik entlassen",
-    "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-nach-hirnhautreizung-aus-klinik-entlassen-a-bd1fe1c2-b5d9-4651-9039-17cc1c8eeac3#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/6a38d86c-7b29-4165-80b6-c9936dd24a50_w520_r2.08_fpx60.65_fpy44.98.jpg",
-    "n_sources": 3,
-    "time": "2026-10-28T20:22:22+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "FC Bayern München: Vincent Kompany nach Hirnhautreizung aus Klinik entlassen",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-nach-hirnhautreizung-aus-klinik-entlassen-a-bd1fe1c2-b5d9-4651-9039-17cc1c8eeac3#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Bayern München: Bayern-Trainer Kompany nach Hirnhautreizung aus Krankenhaus entlassen",
-      "link": "https://www.zeit.de/sport/2026-10/vincent-kompany-zusammenbruch-hirnhautreizung-fc-bayern-max-eberl"
-     },
-     {
-      "name": "FAZ",
-      "title": "Nach Hirnhautreizung: Kompany aus Klinik entlassen",
-      "link": "https://www.faz.net/aktuell/sport/fussball/bayern-muenchens-trainer-vincent-kompany-aus-klinik-entlassen-201630746.html"
-     }
-    ]
-   },
-   {
-    "title": "Parlamentswahl in Israel: Wofür die arabischen Parteien stehen",
-    "link": "https://www.tagesschau.de/ausland/asien/israel-arabische-parteien-wahl-100.html",
-    "image": "https://images.tagesschau.de/image/7e64f4b0-859c-4402-98df-2f671f0138b3/AAABoYMDTGU/AAABnSSvrFg/16x9-big/abbas-208.jpg?width=1920",
-    "n_sources": 2,
-    "time": "2026-10-29T09:15:36+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Parlamentswahl in Israel: Wofür die arabischen Parteien stehen",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-arabische-parteien-wahl-100.html"
-     },
-     {
-      "name": "FAZ",
-      "title": "Liveblog Israel-Wahl: Demokrat Golan schließt Koalition mit Likud aus",
-      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-demokrat-golan-schliesst-koalition-mit-likud-aus-faz-200583539.html"
-     }
-    ]
-   },
-   {
-    "title": "VW-Konzern meldet Milliardenverlust im dritten Quartal",
-    "link": "https://www.tagesschau.de/video/video-1674414.html",
-    "image": "https://images.tagesschau.de/image/1d52fb97-9fc4-4090-b395-b27d84c83fd6/AAABoYbNEGw/AAABnSSvrFg/16x9-big/sendungsbild-1818940.jpg?width=1920",
-    "n_sources": 2,
-    "time": "2026-10-29T09:47:22+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "VW-Konzern meldet Milliardenverlust im dritten Quartal",
-      "link": "https://www.tagesschau.de/video/video-1674414.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Autobauer: „Wir müssen schnell und entschlossen handeln“ – VW meldet Milliardenverlust im dritten Quartal",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-volkswagen-rutscht-wegen-porsche-und-china-in-die-roten-zahlen/100265266.html"
-     }
-    ]
    }
   ],
   "7d": [
@@ -265,7 +280,7 @@
     "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
     "image": "https://images.tagesschau.de/image/4fa122f3-e6c0-4210-a3ea-9a24fb193a7f/AAABoYSCpNQ/AAABnSSvrFg/16x9-big/bolsonaro-348.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-28T21:56:25+00:00",
+    "time": "2026-10-29T12:09:36+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -284,8 +299,8 @@
      },
      {
       "name": "FAZ",
-      "title": "Flucht nach Florida: Bolsonaro erklärt sich zum gewählten Präsidenten",
-      "link": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-erklaert-sich-zum-praesidenten-brasiliens-201630574.html"
+      "title": "Nach Flucht in die USA: Bolsonaro beansprucht Wahlsieg für sich",
+      "link": "https://www.faz.net/video/bolsonaro-beansprucht-wahlsieg-fuer-sich-201632742.html"
      },
      {
       "name": "Handelsblatt",
@@ -329,65 +344,60 @@
     ]
    },
    {
-    "title": "Studentenliste gewinnt bei Wahl in Serbien",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1673130.html",
-    "image": "https://images.tagesschau.de/image/a0373b83-107d-46b4-9e93-40d5a93dffbc/AAABoXobgYs/AAABnSSvrFg/16x9-big/sendungsbild-1817594.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-27T12:16:56+00:00",
+    "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
+    "image": "https://images.tagesschau.de/image/814030d4-6f76-4e55-8922-3ae689b93c11/AAABoYcn_rw/AAABnSSvrFg/16x9-big/lagarde-328.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-29T12:51:29+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Studentenliste gewinnt bei Wahl in Serbien",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1673130.html"
+      "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Studentenliste in Serbien: Ab heute sind sie Politiker",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/studentenliste-serbien-wahl-regierung-berufe"
+      "title": "EZB-Chefin Christine Lagarde tritt vorzeitig zurück",
+      "link": "https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck-a-a66e7d48-d3d5-44cb-819d-1ef9f3ae427c#ref=rss"
      },
      {
       "name": "FAZ",
-      "title": "Nach der Wahl: Serbien ist nicht zur Autokratie verdammt",
-      "link": "https://www.faz.net/aktuell/feuilleton/debatten/serbiens-studenten-deuten-nach-dem-wahlsieg-die-folklore-um-201624414.html"
+      "title": "Wer wird die nachfolge?: EZB-Präsidentin Lagarde tritt vorzeitig zurück",
+      "link": "https://www.faz.net/video/ezb-praesidentin-lagarde-tritt-vorzeitig-zurueck-201633034.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Parlamentswahl: Studentenbewegung siegt bei Wahlen in Serbien – Vucic räumt Niederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/serbien-vucic-raeumt-wahlniederlage-ein-studentenbewegung-triumphiert/100264823.html"
+      "title": "Geldpolitik: EZB-Präsidentin Christine Lagarde tritt im Februar vorzeitig ab",
+      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/christine-lagarde-ezb-praesidentin-tritt-im-februar-2027-vorzeitig-ab/100265875.html"
      }
     ]
    },
    {
-    "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
-    "link": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
-    "image": "https://images.tagesschau.de/image/93996ff9-bc64-447b-b6af-4a96aca5bca9/AAABoK2g_CE/AAABnSSvrFg/16x9-big/carney-von-der-leyen-100.jpg?width=1920",
+    "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
+    "image": "https://images.tagesschau.de/image/f28ef7d6-f75c-4bad-8385-a567b64dda1d/AAABoXSAUfY/AAABnSSvrFg/16x9-big/sendungsbild-1817092.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-10-29T06:20:37+00:00",
+    "time": "2026-10-29T10:16:59+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html"
+      "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Schriftsteller Joachim Lottmann ist tot",
+      "link": "https://www.spiegel.de/kultur/literatur/schriftsteller-joachim-lottmann-ist-tot-a-f43f4961-22b2-483a-8569-c4e34e2285e4#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Kanada und die Europäische Union: Kanada wird vorerst wohl kein »assoziiertes« EU-Mitglied",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/kanada-eu-assoziierte-mitgliedschaft-gipfel-ursula-von-der-leyen-friedrich-merz"
+      "title": "Joachim Lottmann: Schriftsteller Joachim Lottmann ist tot",
+      "link": "https://www.zeit.de/feuilleton/2026-10/joachim-lottmann-schriftsteller-popliteratur-tot-gxe"
      },
      {
       "name": "FAZ",
-      "title": "Vor Gipfeltreffen: Kanada wird vorerst doch kein assoziiertes EU-Mitglied",
-      "link": "https://www.faz.net/aktuell/politik/ausland/eu-kanada-gipfel-assoziierte-mitgliedschaft-vorerst-gescheitert-accg-201631084.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein assoziiertes EU-Mitglied",
-      "link": "https://www.handelsblatt.com/politik/international/eu-kanada-gipfel-kanada-wird-vorerst-kein-assoziiertes-eu-mitglied/100265737.html"
+      "title": "Im Alter von 85 Jahren: Elke Sommer ist gestorben",
+      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/schauspielerin-elke-sommer-ist-tot-accg-201632091.html"
      }
     ]
    },
@@ -421,6 +431,35 @@
     ]
    },
    {
+    "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
+    "link": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
+    "image": "https://images.tagesschau.de/image/93996ff9-bc64-447b-b6af-4a96aca5bca9/AAABoK2g_CE/AAABnSSvrFg/16x9-big/carney-von-der-leyen-100.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-29T06:20:37+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Kanada und die Europäische Union: Kanada wird vorerst wohl kein »assoziiertes« EU-Mitglied",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/kanada-eu-assoziierte-mitgliedschaft-gipfel-ursula-von-der-leyen-friedrich-merz"
+     },
+     {
+      "name": "FAZ",
+      "title": "Vor Gipfeltreffen: Kanada wird vorerst doch kein assoziiertes EU-Mitglied",
+      "link": "https://www.faz.net/aktuell/politik/ausland/eu-kanada-gipfel-assoziierte-mitgliedschaft-vorerst-gescheitert-accg-201631084.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein assoziiertes EU-Mitglied",
+      "link": "https://www.handelsblatt.com/politik/international/eu-kanada-gipfel-kanada-wird-vorerst-kein-assoziiertes-eu-mitglied/100265737.html"
+     }
+    ]
+   },
+   {
     "title": "DFB-Pokal: Dynamo Dresden schießt furchtbar harmlose Schalker ab",
     "link": "https://www.sportschau.de/fussball/dfbpokal/dresden-schafft-die-ueberraschung-gegen-schalke-04,spielbericht-dfb-pokal-dresden-schalke-100.html",
     "image": "https://images.sportschau.de/image/641bc788-8dd9-4ea2-82fb-ce6043e49594/AAABoYP2V_w/AAABnSSvrFg/16x9-big/schalke-462.jpg?width=1920",
@@ -446,6 +485,35 @@
       "name": "FAZ",
       "title": "DFB-Pokal: Schalke scheitert in Dresden",
       "link": "https://www.faz.net/aktuell/sport/fussball/fc-schalke-04-scheitert-schon-in-der-zweiten-pokalrunde-201305770.html"
+     }
+    ]
+   },
+   {
+    "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
+    "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
+    "image": "https://images.tagesschau.de/image/ccb27d56-0f1f-423b-a8c4-a80c751d3e2f/AAABoYOG7Tk/AAABnSSvrFg/16x9-big/netanjahu-418.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-28T17:22:57+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Nach Wahl in Israel: Mehr als 70 Prozent der Stimmen ausgezählt – Netanjahu vorne",
+      "link": "https://www.zeit.de/news/2026-10/28/netanjahu-bei-wahl-vorn-aber-ohne-mehrheit"
+     },
+     {
+      "name": "FAZ",
+      "title": "Wahl zur Knesset: Israel hat Netanjahu noch lange nicht abgeschrieben",
+      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-israel-netanjahu-und-likud-ueberraschend-stark-201628927.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Israel: Netanjahu könnte die Wahl verlieren – und dennoch regieren",
+      "link": "https://www.handelsblatt.com/politik/international/israel-netanjahu-koennte-die-wahl-verlieren-und-dennoch-regieren/100260417.html"
      }
     ]
    },
@@ -504,64 +572,6 @@
       "name": "Handelsblatt",
       "title": "Bundespräsidentenwahl: „Ziemlich desaströs“ – in der CDU wächst der Ärger über Merz’ Vorgehen bei Steinmeier-Nachfolge",
       "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-in-der-cdu-waechst-der-aerger-ueber-merz-wegen-steinmeier-nachfolge/100265472.html"
-     }
-    ]
-   },
-   {
-    "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
-    "image": "https://images.tagesschau.de/image/77afaa8a-f08f-4b05-82ca-60ff45e5088a/AAABoXxq0UI/AAABnSSvrFg/16x9-big/rbb-625257499-100.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-27T18:44:56+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Vanessa Emde: Berliner Linke vertagt Entscheidung über umstrittene Abgeordnete weiter",
-      "link": "https://www.spiegel.de/politik/deutschland/vanessa-emde-berliner-linke-vertagt-entscheidung-ueber-umstrittene-abgeordnete-weiter-a-a4b3b910-4fd3-468c-a5c8-c4953ae131a1#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Vanessa Emde: Linke vertagt Entscheidung über Abgeordnete Vanessa Emde",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/vanessa-emde-linke-berlin-abgeordnete-israel-kritik"
-     },
-     {
-      "name": "FAZ",
-      "title": "Berliner Linke: Was wäre für einen Ausschluss von Vanessa Emde nötig?",
-      "link": "https://www.faz.net/aktuell/politik/inland/berliner-linke-was-waere-fuer-einen-ausschluss-von-vanessa-emde-noetig-201625395.html"
-     }
-    ]
-   },
-   {
-    "title": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo bestätigt",
-    "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html",
-    "image": "https://images.tagesschau.de/image/d0d13c3d-b2bf-4d11-af98-8cb20a19c757/AAABoXygYJA/AAABnSSvrFg/16x9-big/desinfektion-strasse-ituri-100.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-27T14:40:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo bestätigt",
-      "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Demokratische Republik Kongo: Zahl der Ebolafälle steigt auf mehr als 10.000",
-      "link": "https://www.spiegel.de/wissenschaft/medizin/dr-kongo-zahl-der-ebolafaelle-steigt-auf-mehr-als-10-000-a-c37483a2-b347-45e1-b76d-7271b3f00ba8#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Ebola in Zentralafrika: Mehr als 10.000 Ebola-Fälle in der DR Kongo registriert",
-      "link": "https://www.zeit.de/gesundheit/2026-10/ebola-kongo-demokratische-republik-epidemie-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "In Kongo: Zahl der Ebola-Fälle steigt auf mehr als 10.000",
-      "link": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mehr-als-10-000-ebola-faelle-in-der-demokratischen-republik-kongo-accg-201625097.html"
      }
     ]
    }
@@ -572,7 +582,7 @@
     "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
     "image": "https://images.tagesschau.de/image/4fa122f3-e6c0-4210-a3ea-9a24fb193a7f/AAABoYSCpNQ/AAABnSSvrFg/16x9-big/bolsonaro-348.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-28T21:56:25+00:00",
+    "time": "2026-10-29T12:09:36+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -591,8 +601,8 @@
      },
      {
       "name": "FAZ",
-      "title": "Flucht nach Florida: Bolsonaro erklärt sich zum gewählten Präsidenten",
-      "link": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-erklaert-sich-zum-praesidenten-brasiliens-201630574.html"
+      "title": "Nach Flucht in die USA: Bolsonaro beansprucht Wahlsieg für sich",
+      "link": "https://www.faz.net/video/bolsonaro-beansprucht-wahlsieg-fuer-sich-201632742.html"
      },
      {
       "name": "Handelsblatt",
@@ -636,36 +646,89 @@
     ]
    },
    {
-    "title": "Studentenliste gewinnt bei Wahl in Serbien",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1673130.html",
-    "image": "https://images.tagesschau.de/image/a0373b83-107d-46b4-9e93-40d5a93dffbc/AAABoXobgYs/AAABnSSvrFg/16x9-big/sendungsbild-1817594.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-27T12:16:56+00:00",
+    "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
+    "image": "https://images.tagesschau.de/image/814030d4-6f76-4e55-8922-3ae689b93c11/AAABoYcn_rw/AAABnSSvrFg/16x9-big/lagarde-328.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-29T12:51:29+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Studentenliste gewinnt bei Wahl in Serbien",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1673130.html"
+      "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-      "link": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Studentenliste in Serbien: Ab heute sind sie Politiker",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/studentenliste-serbien-wahl-regierung-berufe"
+      "title": "EZB-Chefin Christine Lagarde tritt vorzeitig zurück",
+      "link": "https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck-a-a66e7d48-d3d5-44cb-819d-1ef9f3ae427c#ref=rss"
      },
      {
       "name": "FAZ",
-      "title": "Nach der Wahl: Serbien ist nicht zur Autokratie verdammt",
-      "link": "https://www.faz.net/aktuell/feuilleton/debatten/serbiens-studenten-deuten-nach-dem-wahlsieg-die-folklore-um-201624414.html"
+      "title": "Wer wird die nachfolge?: EZB-Präsidentin Lagarde tritt vorzeitig zurück",
+      "link": "https://www.faz.net/video/ezb-praesidentin-lagarde-tritt-vorzeitig-zurueck-201633034.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Parlamentswahl: Studentenbewegung siegt bei Wahlen in Serbien – Vucic räumt Niederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/serbien-vucic-raeumt-wahlniederlage-ein-studentenbewegung-triumphiert/100264823.html"
+      "title": "Geldpolitik: EZB-Präsidentin Christine Lagarde tritt im Februar vorzeitig ab",
+      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/christine-lagarde-ezb-praesidentin-tritt-im-februar-2027-vorzeitig-ab/100265875.html"
+     }
+    ]
+   },
+   {
+    "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
+    "image": "https://images.tagesschau.de/image/f28ef7d6-f75c-4bad-8385-a567b64dda1d/AAABoXSAUfY/AAABnSSvrFg/16x9-big/sendungsbild-1817092.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-29T10:16:59+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Schriftsteller Joachim Lottmann ist tot",
+      "link": "https://www.spiegel.de/kultur/literatur/schriftsteller-joachim-lottmann-ist-tot-a-f43f4961-22b2-483a-8569-c4e34e2285e4#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Joachim Lottmann: Schriftsteller Joachim Lottmann ist tot",
+      "link": "https://www.zeit.de/feuilleton/2026-10/joachim-lottmann-schriftsteller-popliteratur-tot-gxe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Im Alter von 85 Jahren: Elke Sommer ist gestorben",
+      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/schauspielerin-elke-sommer-ist-tot-accg-201632091.html"
+     }
+    ]
+   },
+   {
+    "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
+    "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
+    "image": "https://images.tagesschau.de/image/da2c0804-858b-4676-96bd-d51ddbd10635/AAABoYaeqFo/AAABnSSvrFg/16x9-big/spanien-zug-bergung-100.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-29T08:20:43+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Zugunglück in Spanien: Helfer auch nachts in Toledo im Einsatz – Ausschreitungen in Madrid",
+      "link": "https://www.spiegel.de/panorama/zugunglueck-in-spanien-helfer-auch-nachts-in-toledo-im-einsatz-ausschreitungen-in-madrid-a-dbd76707-648e-47dd-a0ec-1f8bc6fba842#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Bahnkatastrophe: Zugunglück in Spanien - Suche nach Opfern geht nachts weiter",
+      "link": "https://www.zeit.de/news/2026-10/29/zugunglueck-in-spanien-suche-nach-opfern-geht-nachts-weiter"
+     },
+     {
+      "name": "FAZ",
+      "title": "Zugunglück in Spanien: Suche nach Opfern dauert an – Ausschreitungen in Madrid",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/zugunglueck-in-spanien-suche-nach-opfern-und-proteste-in-madrid-accg-201631377.html"
      }
     ]
    },
@@ -728,6 +791,35 @@
     ]
    },
    {
+    "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
+    "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
+    "image": "https://images.tagesschau.de/image/ccb27d56-0f1f-423b-a8c4-a80c751d3e2f/AAABoYOG7Tk/AAABnSSvrFg/16x9-big/netanjahu-418.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-28T17:22:57+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Nach Wahl in Israel: Mehr als 70 Prozent der Stimmen ausgezählt – Netanjahu vorne",
+      "link": "https://www.zeit.de/news/2026-10/28/netanjahu-bei-wahl-vorn-aber-ohne-mehrheit"
+     },
+     {
+      "name": "FAZ",
+      "title": "Wahl zur Knesset: Israel hat Netanjahu noch lange nicht abgeschrieben",
+      "link": "https://www.faz.net/aktuell/politik/ausland/wahl-in-israel-netanjahu-und-likud-ueberraschend-stark-201628927.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Israel: Netanjahu könnte die Wahl verlieren – und dennoch regieren",
+      "link": "https://www.handelsblatt.com/politik/international/israel-netanjahu-koennte-die-wahl-verlieren-und-dennoch-regieren/100260417.html"
+     }
+    ]
+   },
+   {
     "title": "Rückkehr von Friedensnobelpreisträgerin Machado nach Venezuela",
     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672516.html",
     "image": "https://images.tagesschau.de/image/4152bc75-d647-4eec-96be-d0666d66c819/AAABoXSAx6I/AAABnSSvrFg/16x9-big/sendungsbild-1817096.jpg?width=1920",
@@ -784,99 +876,68 @@
       "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-in-der-cdu-waechst-der-aerger-ueber-merz-wegen-steinmeier-nachfolge/100265472.html"
      }
     ]
-   },
-   {
-    "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
-    "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
-    "image": "https://images.tagesschau.de/image/da2c0804-858b-4676-96bd-d51ddbd10635/AAABoYaeqFo/AAABnSSvrFg/16x9-big/spanien-zug-bergung-100.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-29T08:20:43+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Zugunglück in Spanien: Helfer auch nachts in Toledo im Einsatz – Ausschreitungen in Madrid",
-      "link": "https://www.spiegel.de/panorama/zugunglueck-in-spanien-helfer-auch-nachts-in-toledo-im-einsatz-ausschreitungen-in-madrid-a-dbd76707-648e-47dd-a0ec-1f8bc6fba842#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Bahnkatastrophe: Zugunglück in Spanien - Suche nach Opfern geht nachts weiter",
-      "link": "https://www.zeit.de/news/2026-10/29/zugunglueck-in-spanien-suche-nach-opfern-geht-nachts-weiter"
-     },
-     {
-      "name": "FAZ",
-      "title": "Zugunglück in Spanien: Suche nach Opfern dauert an – Ausschreitungen in Madrid",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/zugunglueck-in-spanien-suche-nach-opfern-und-proteste-in-madrid-accg-201631377.html"
-     }
-    ]
-   },
-   {
-    "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
-    "image": "https://images.tagesschau.de/image/77afaa8a-f08f-4b05-82ca-60ff45e5088a/AAABoXxq0UI/AAABnSSvrFg/16x9-big/rbb-625257499-100.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-27T18:44:56+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Vanessa Emde: Berliner Linke vertagt Entscheidung über umstrittene Abgeordnete weiter",
-      "link": "https://www.spiegel.de/politik/deutschland/vanessa-emde-berliner-linke-vertagt-entscheidung-ueber-umstrittene-abgeordnete-weiter-a-a4b3b910-4fd3-468c-a5c8-c4953ae131a1#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Vanessa Emde: Linke vertagt Entscheidung über Abgeordnete Vanessa Emde",
-      "link": "https://www.zeit.de/politik/deutschland/2026-10/vanessa-emde-linke-berlin-abgeordnete-israel-kritik"
-     },
-     {
-      "name": "FAZ",
-      "title": "Berliner Linke: Was wäre für einen Ausschluss von Vanessa Emde nötig?",
-      "link": "https://www.faz.net/aktuell/politik/inland/berliner-linke-was-waere-fuer-einen-ausschluss-von-vanessa-emde-noetig-201625395.html"
-     }
-    ]
-   },
-   {
-    "title": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo bestätigt",
-    "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html",
-    "image": "https://images.tagesschau.de/image/d0d13c3d-b2bf-4d11-af98-8cb20a19c757/AAABoXygYJA/AAABnSSvrFg/16x9-big/desinfektion-strasse-ituri-100.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-27T14:40:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo bestätigt",
-      "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Demokratische Republik Kongo: Zahl der Ebolafälle steigt auf mehr als 10.000",
-      "link": "https://www.spiegel.de/wissenschaft/medizin/dr-kongo-zahl-der-ebolafaelle-steigt-auf-mehr-als-10-000-a-c37483a2-b347-45e1-b76d-7271b3f00ba8#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Ebola in Zentralafrika: Mehr als 10.000 Ebola-Fälle in der DR Kongo registriert",
-      "link": "https://www.zeit.de/gesundheit/2026-10/ebola-kongo-demokratische-republik-epidemie-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "In Kongo: Zahl der Ebola-Fälle steigt auf mehr als 10.000",
-      "link": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mehr-als-10-000-ebola-faelle-in-der-demokratischen-republik-kongo-accg-201625097.html"
-     }
-    ]
    }
   ]
  },
  "payments": {
   "de": {
    "24h": [
+    {
+     "title": "Bequemlichkeit bremst digitale Souveränität der Banken",
+     "link": "https://www.it-finanzmagazin.de/bequemlichkeit-bremst-digitale-souveraenitaet-der-banken-253032/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T11:36:09+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Bequemlichkeit bremst digitale Souveränität der Banken",
+       "link": "https://www.it-finanzmagazin.de/bequemlichkeit-bremst-digitale-souveraenitaet-der-banken-253032/"
+      }
+     ]
+    },
+    {
+     "title": "Kreditkartenaffäre: Wende in „Operation Chargeback“: Gericht zerpflückt Anklage",
+     "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kreditkartenaffaere-wende-in-operation-chargeback-gericht-zerpflueckt-anklage/100265824.html",
+     "image": "https://images.handelsblatt.com/Ti4fEFohfN-o/cover/900/506/0/0/142/384/0.5/0.5/video-screen-reads-quotoperation-chargebackquot-during-a-news-conference-at-germanyaposs-feder.jpg",
+     "n_sources": 1,
+     "time": "2026-10-29T11:28:03+00:00",
+     "sources": [
+      {
+       "name": "Handelsblatt",
+       "title": "Kreditkartenaffäre: Wende in „Operation Chargeback“: Gericht zerpflückt Anklage",
+       "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kreditkartenaffaere-wende-in-operation-chargeback-gericht-zerpflueckt-anklage/100265824.html"
+      }
+     ]
+    },
+    {
+     "title": "Revolut plant Ventures, Vivid bekämpft Abos, Wero bei Euronics",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmdqZkdaUldteUJwSU01X2RINFlYSVJKTi1BLTBlUDBYMDJFZE9hWUc0UjV5OUpLUWx1dmUzTWV2UEdkWFNXWWdmUXozV1h1TVRxUFNfZHlfbFVDemxvaVNvbDZ0TC1Gbk92WVgzMjBkZGNmQTBLT2xHUjBfSzU1Z3FKaDhSTS1CMkJSeTVBakVpV2k1NWc?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T11:02:13+00:00",
+     "sources": [
+      {
+       "name": "Payment & Banking",
+       "title": "Revolut plant Ventures, Vivid bekämpft Abos, Wero bei Euronics",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmdqZkdaUldteUJwSU01X2RINFlYSVJKTi1BLTBlUDBYMDJFZE9hWUc0UjV5OUpLUWx1dmUzTWV2UEdkWFNXWWdmUXozV1h1TVRxUFNfZHlfbFVDemxvaVNvbDZ0TC1Gbk92WVgzMjBkZGNmQTBLT2xHUjBfSzU1Z3FKaDhSTS1CMkJSeTVBakVpV2k1NWc?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Mediamarkt und Saturn implementieren Pay-on-Shopfloor-Lösung mit Computop",
+     "link": "https://www.it-finanzmagazin.de/mediamarkt-und-saturn-implementieren-pay-on-shopfloor-loesung-mit-computop-253037/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T10:18:16+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Mediamarkt und Saturn implementieren Pay-on-Shopfloor-Lösung mit Computop",
+       "link": "https://www.it-finanzmagazin.de/mediamarkt-und-saturn-implementieren-pay-on-shopfloor-loesung-mit-computop-253037/"
+      }
+     ]
+    },
     {
      "title": "AI Act: Warum die KI-Compliance an der IT hängen bleibt",
      "link": "https://www.it-finanzmagazin.de/ai-act-warum-die-ki-compliance-an-der-it-haengen-bleibt-252228/",
@@ -958,62 +1019,6 @@
        "name": "Finanz-Szene",
        "title": "\"Operation Chargeback\" – deutsche Nexi wird von Concardis-Historie eingeholt",
        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVlqZEhtbHg3Q0xVM2xzbjV2SnEzMWlST2h0WEZWNXpqbG5FMVZhTnhibllaaWFtT2M5Vk5vVFh5WE1zWHlUaUtaUXhoVDdZb0lLREZNYl9CXzVqSVdha0xCSmlzaVlvMVk5TVc1U01EM0ZEdllXa2JtUzF1LVBRWE5SUTNhX09NWUhmbV9VanZ5QkFCUXV2UGM5d3ZPUDlxNUx0cjVhaUdDQQ?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Von mBank bis Umweltbank – die News-Updates vom 28. Oktober",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeTZydUM1MXQxMThZaEFfYjV1aWY4eFpvdU45OTZWSWtHUU0wNVRtU2w5c3hXajEwa0xzMi1vbnNMaVpjMzM4SGt3cjVRbTh2TmNPRktwYWZYWVdLWGhyYWE0WkZFNGRaWXh0MGQxM2ZkM2t5eXQwSjR1eTRHU0pjaUY5OXQzc3BsRHVhaDlvU3lVUUU?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T05:01:07+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Von mBank bis Umweltbank – die News-Updates vom 28. Oktober",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeTZydUM1MXQxMThZaEFfYjV1aWY4eFpvdU45OTZWSWtHUU0wNVRtU2w5c3hXajEwa0xzMi1vbnNMaVpjMzM4SGt3cjVRbTh2TmNPRktwYWZYWVdLWGhyYWE0WkZFNGRaWXh0MGQxM2ZkM2t5eXQwSjR1eTRHU0pjaUY5OXQzc3BsRHVhaDlvU3lVUUU?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Helaba kappt abermals die Prognose – und dampft das Immobilien-Portfolio ein",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmRqak9nZjkzOTBDRVVGN2tiUDZJTXczMlZPdFQ3SkNWQ1h5NGpNSGhtQnJ3M2hENDNwWkxFWUFOeHNhQXRBeGZORzlkYjFjUkpELUpOSzVHNVF6NmpqOWV5c3FIa1U5N0VPQUp1OFFWZmctRGJsNzJhb0lTbVJpVFF6UDhxV2dhQ0lFY3ZWbmlJdGhBSHF2d0RtMXAwWkliME1MNGNsY2RTSTg?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T05:00:25+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Helaba kappt abermals die Prognose – und dampft das Immobilien-Portfolio ein",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmRqak9nZjkzOTBDRVVGN2tiUDZJTXczMlZPdFQ3SkNWQ1h5NGpNSGhtQnJ3M2hENDNwWkxFWUFOeHNhQXRBeGZORzlkYjFjUkpELUpOSzVHNVF6NmpqOWV5c3FIa1U5N0VPQUp1OFFWZmctRGJsNzJhb0lTbVJpVFF6UDhxV2dhQ0lFY3ZWbmlJdGhBSHF2d0RtMXAwWkliME1MNGNsY2RTSTg?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Tatsächlich – gegenüber der SEC meldet die Deutsche Bank einen Q3-Verlust",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3ktLVE2dUNSTzB3eHlmRC1JczN0ZWRzN2FITTFrbk9iTmRocW0yNm44S2pzaDBKWHR6SldoRkt3bWU1bDNYa3ptZk1vd3dCNl9nQmVIZHBISTJHSUVzTlZXU2s5WTh1YjBNUXpEbkJMYWdOWXl5RlFWd2ZtMVROem9YMTYzTW9ob0FLNDFYSm1LOFQ3V28wSUY5bGJZbUY0aXJOVmhwSC0yZw?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T04:40:34+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Tatsächlich – gegenüber der SEC meldet die Deutsche Bank einen Q3-Verlust",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3ktLVE2dUNSTzB3eHlmRC1JczN0ZWRzN2FITTFrbk9iTmRocW0yNm44S2pzaDBKWHR6SldoRkt3bWU1bDNYa3ptZk1vd3dCNl9nQmVIZHBISTJHSUVzTlZXU2s5WTh1YjBNUXpEbkJMYWdOWXl5RlFWd2ZtMVROem9YMTYzTW9ob0FLNDFYSm1LOFQ3V28wSUY5bGJZbUY0aXJOVmhwSC0yZw?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "94 Prozent wollen Banktransaktionen von KI-Agenten selbst freigeben",
-     "link": "https://www.it-finanzmagazin.de/94-prozent-wollen-banktransaktionen-von-ki-agenten-selbst-freigeben-253015/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-28T16:02:36+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "94 Prozent wollen Banktransaktionen von KI-Agenten selbst freigeben",
-       "link": "https://www.it-finanzmagazin.de/94-prozent-wollen-banktransaktionen-von-ki-agenten-selbst-freigeben-253015/"
       }
      ]
     }
@@ -1048,6 +1053,62 @@
      ]
     },
     {
+     "title": "Bequemlichkeit bremst digitale Souveränität der Banken",
+     "link": "https://www.it-finanzmagazin.de/bequemlichkeit-bremst-digitale-souveraenitaet-der-banken-253032/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T11:36:09+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Bequemlichkeit bremst digitale Souveränität der Banken",
+       "link": "https://www.it-finanzmagazin.de/bequemlichkeit-bremst-digitale-souveraenitaet-der-banken-253032/"
+      }
+     ]
+    },
+    {
+     "title": "Kreditkartenaffäre: Wende in „Operation Chargeback“: Gericht zerpflückt Anklage",
+     "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kreditkartenaffaere-wende-in-operation-chargeback-gericht-zerpflueckt-anklage/100265824.html",
+     "image": "https://images.handelsblatt.com/Ti4fEFohfN-o/cover/900/506/0/0/142/384/0.5/0.5/video-screen-reads-quotoperation-chargebackquot-during-a-news-conference-at-germanyaposs-feder.jpg",
+     "n_sources": 1,
+     "time": "2026-10-29T11:28:03+00:00",
+     "sources": [
+      {
+       "name": "Handelsblatt",
+       "title": "Kreditkartenaffäre: Wende in „Operation Chargeback“: Gericht zerpflückt Anklage",
+       "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kreditkartenaffaere-wende-in-operation-chargeback-gericht-zerpflueckt-anklage/100265824.html"
+      }
+     ]
+    },
+    {
+     "title": "Revolut plant Ventures, Vivid bekämpft Abos, Wero bei Euronics",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmdqZkdaUldteUJwSU01X2RINFlYSVJKTi1BLTBlUDBYMDJFZE9hWUc0UjV5OUpLUWx1dmUzTWV2UEdkWFNXWWdmUXozV1h1TVRxUFNfZHlfbFVDemxvaVNvbDZ0TC1Gbk92WVgzMjBkZGNmQTBLT2xHUjBfSzU1Z3FKaDhSTS1CMkJSeTVBakVpV2k1NWc?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T11:02:13+00:00",
+     "sources": [
+      {
+       "name": "Payment & Banking",
+       "title": "Revolut plant Ventures, Vivid bekämpft Abos, Wero bei Euronics",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmdqZkdaUldteUJwSU01X2RINFlYSVJKTi1BLTBlUDBYMDJFZE9hWUc0UjV5OUpLUWx1dmUzTWV2UEdkWFNXWWdmUXozV1h1TVRxUFNfZHlfbFVDemxvaVNvbDZ0TC1Gbk92WVgzMjBkZGNmQTBLT2xHUjBfSzU1Z3FKaDhSTS1CMkJSeTVBakVpV2k1NWc?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Mediamarkt und Saturn implementieren Pay-on-Shopfloor-Lösung mit Computop",
+     "link": "https://www.it-finanzmagazin.de/mediamarkt-und-saturn-implementieren-pay-on-shopfloor-loesung-mit-computop-253037/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T10:18:16+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Mediamarkt und Saturn implementieren Pay-on-Shopfloor-Lösung mit Computop",
+       "link": "https://www.it-finanzmagazin.de/mediamarkt-und-saturn-implementieren-pay-on-shopfloor-loesung-mit-computop-253037/"
+      }
+     ]
+    },
+    {
      "title": "AI Act: Warum die KI-Compliance an der IT hängen bleibt",
      "link": "https://www.it-finanzmagazin.de/ai-act-warum-die-ki-compliance-an-der-it-haengen-bleibt-252228/",
      "image": "",
@@ -1100,62 +1161,6 @@
        "name": "Payment & Banking",
        "title": "Die Neobanking-Welle: Angriff aufs Depot",
        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IS0FkbUZJSnViMU50enlHUGg3WmZhS2VoN2QtaU9ncVFKbEdib3dFX3lWVjA1OXRLTXdoOVN1cFlPc1QtQ2Vkd0ZwV0lUU0JFM3JfbVJ0M2RKaEh0S2ZXQTV4QzJ5dUtsQlM5cndBa1p6ZVVTdERyeFR3?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "\"Operation Chargeback\" – deutsche Nexi wird von Concardis-Historie eingeholt",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVlqZEhtbHg3Q0xVM2xzbjV2SnEzMWlST2h0WEZWNXpqbG5FMVZhTnhibllaaWFtT2M5Vk5vVFh5WE1zWHlUaUtaUXhoVDdZb0lLREZNYl9CXzVqSVdha0xCSmlzaVlvMVk5TVc1U01EM0ZEdllXa2JtUzF1LVBRWE5SUTNhX09NWUhmbV9VanZ5QkFCUXV2UGM5d3ZPUDlxNUx0cjVhaUdDQQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T05:01:10+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "\"Operation Chargeback\" – deutsche Nexi wird von Concardis-Historie eingeholt",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVlqZEhtbHg3Q0xVM2xzbjV2SnEzMWlST2h0WEZWNXpqbG5FMVZhTnhibllaaWFtT2M5Vk5vVFh5WE1zWHlUaUtaUXhoVDdZb0lLREZNYl9CXzVqSVdha0xCSmlzaVlvMVk5TVc1U01EM0ZEdllXa2JtUzF1LVBRWE5SUTNhX09NWUhmbV9VanZ5QkFCUXV2UGM5d3ZPUDlxNUx0cjVhaUdDQQ?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Helaba kappt abermals die Prognose – und dampft das Immobilien-Portfolio ein",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmRqak9nZjkzOTBDRVVGN2tiUDZJTXczMlZPdFQ3SkNWQ1h5NGpNSGhtQnJ3M2hENDNwWkxFWUFOeHNhQXRBeGZORzlkYjFjUkpELUpOSzVHNVF6NmpqOWV5c3FIa1U5N0VPQUp1OFFWZmctRGJsNzJhb0lTbVJpVFF6UDhxV2dhQ0lFY3ZWbmlJdGhBSHF2d0RtMXAwWkliME1MNGNsY2RTSTg?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T05:00:25+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Helaba kappt abermals die Prognose – und dampft das Immobilien-Portfolio ein",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmRqak9nZjkzOTBDRVVGN2tiUDZJTXczMlZPdFQ3SkNWQ1h5NGpNSGhtQnJ3M2hENDNwWkxFWUFOeHNhQXRBeGZORzlkYjFjUkpELUpOSzVHNVF6NmpqOWV5c3FIa1U5N0VPQUp1OFFWZmctRGJsNzJhb0lTbVJpVFF6UDhxV2dhQ0lFY3ZWbmlJdGhBSHF2d0RtMXAwWkliME1MNGNsY2RTSTg?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Tatsächlich – gegenüber der SEC meldet die Deutsche Bank einen Q3-Verlust",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3ktLVE2dUNSTzB3eHlmRC1JczN0ZWRzN2FITTFrbk9iTmRocW0yNm44S2pzaDBKWHR6SldoRkt3bWU1bDNYa3ptZk1vd3dCNl9nQmVIZHBISTJHSUVzTlZXU2s5WTh1YjBNUXpEbkJMYWdOWXl5RlFWd2ZtMVROem9YMTYzTW9ob0FLNDFYSm1LOFQ3V28wSUY5bGJZbUY0aXJOVmhwSC0yZw?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T04:40:34+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Tatsächlich – gegenüber der SEC meldet die Deutsche Bank einen Q3-Verlust",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3ktLVE2dUNSTzB3eHlmRC1JczN0ZWRzN2FITTFrbk9iTmRocW0yNm44S2pzaDBKWHR6SldoRkt3bWU1bDNYa3ptZk1vd3dCNl9nQmVIZHBISTJHSUVzTlZXU2s5WTh1YjBNUXpEbkJMYWdOWXl5RlFWd2ZtMVROem9YMTYzTW9ob0FLNDFYSm1LOFQ3V28wSUY5bGJZbUY0aXJOVmhwSC0yZw?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "94 Prozent wollen Banktransaktionen von KI-Agenten selbst freigeben",
-     "link": "https://www.it-finanzmagazin.de/94-prozent-wollen-banktransaktionen-von-ki-agenten-selbst-freigeben-253015/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-28T16:02:36+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "94 Prozent wollen Banktransaktionen von KI-Agenten selbst freigeben",
-       "link": "https://www.it-finanzmagazin.de/94-prozent-wollen-banktransaktionen-von-ki-agenten-selbst-freigeben-253015/"
       }
      ]
     }
@@ -1209,6 +1214,62 @@
      ]
     },
     {
+     "title": "Bequemlichkeit bremst digitale Souveränität der Banken",
+     "link": "https://www.it-finanzmagazin.de/bequemlichkeit-bremst-digitale-souveraenitaet-der-banken-253032/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T11:36:09+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Bequemlichkeit bremst digitale Souveränität der Banken",
+       "link": "https://www.it-finanzmagazin.de/bequemlichkeit-bremst-digitale-souveraenitaet-der-banken-253032/"
+      }
+     ]
+    },
+    {
+     "title": "Kreditkartenaffäre: Wende in „Operation Chargeback“: Gericht zerpflückt Anklage",
+     "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kreditkartenaffaere-wende-in-operation-chargeback-gericht-zerpflueckt-anklage/100265824.html",
+     "image": "https://images.handelsblatt.com/Ti4fEFohfN-o/cover/900/506/0/0/142/384/0.5/0.5/video-screen-reads-quotoperation-chargebackquot-during-a-news-conference-at-germanyaposs-feder.jpg",
+     "n_sources": 1,
+     "time": "2026-10-29T11:28:03+00:00",
+     "sources": [
+      {
+       "name": "Handelsblatt",
+       "title": "Kreditkartenaffäre: Wende in „Operation Chargeback“: Gericht zerpflückt Anklage",
+       "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kreditkartenaffaere-wende-in-operation-chargeback-gericht-zerpflueckt-anklage/100265824.html"
+      }
+     ]
+    },
+    {
+     "title": "Revolut plant Ventures, Vivid bekämpft Abos, Wero bei Euronics",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmdqZkdaUldteUJwSU01X2RINFlYSVJKTi1BLTBlUDBYMDJFZE9hWUc0UjV5OUpLUWx1dmUzTWV2UEdkWFNXWWdmUXozV1h1TVRxUFNfZHlfbFVDemxvaVNvbDZ0TC1Gbk92WVgzMjBkZGNmQTBLT2xHUjBfSzU1Z3FKaDhSTS1CMkJSeTVBakVpV2k1NWc?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T11:02:13+00:00",
+     "sources": [
+      {
+       "name": "Payment & Banking",
+       "title": "Revolut plant Ventures, Vivid bekämpft Abos, Wero bei Euronics",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmdqZkdaUldteUJwSU01X2RINFlYSVJKTi1BLTBlUDBYMDJFZE9hWUc0UjV5OUpLUWx1dmUzTWV2UEdkWFNXWWdmUXozV1h1TVRxUFNfZHlfbFVDemxvaVNvbDZ0TC1Gbk92WVgzMjBkZGNmQTBLT2xHUjBfSzU1Z3FKaDhSTS1CMkJSeTVBakVpV2k1NWc?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Mediamarkt und Saturn implementieren Pay-on-Shopfloor-Lösung mit Computop",
+     "link": "https://www.it-finanzmagazin.de/mediamarkt-und-saturn-implementieren-pay-on-shopfloor-loesung-mit-computop-253037/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T10:18:16+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Mediamarkt und Saturn implementieren Pay-on-Shopfloor-Lösung mit Computop",
+       "link": "https://www.it-finanzmagazin.de/mediamarkt-und-saturn-implementieren-pay-on-shopfloor-loesung-mit-computop-253037/"
+      }
+     ]
+    },
+    {
      "title": "AI Act: Warum die KI-Compliance an der IT hängen bleibt",
      "link": "https://www.it-finanzmagazin.de/ai-act-warum-die-ki-compliance-an-der-it-haengen-bleibt-252228/",
      "image": "",
@@ -1249,216 +1310,160 @@
        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zVnN6TGxiRnoxX3RqS1AxOEZNV0lzYk5hTzhaYWZsWkhBOHo4X190NmdoSU9KQ3hIek1aUzlQMGU2OW40Nm5nLVlTVjZsclhVQ3A5b0t4d0xoVjJCZWdQWWJzUEpISFRRTEFFNmVTWEVJR0RwSmJRSHhybXJ1Zmc?oc=5"
       }
      ]
-    },
-    {
-     "title": "Die Neobanking-Welle: Angriff aufs Depot",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IS0FkbUZJSnViMU50enlHUGg3WmZhS2VoN2QtaU9ncVFKbEdib3dFX3lWVjA1OXRLTXdoOVN1cFlPc1QtQ2Vkd0ZwV0lUU0JFM3JfbVJ0M2RKaEh0S2ZXQTV4QzJ5dUtsQlM5cndBa1p6ZVVTdERyeFR3?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T06:02:13+00:00",
-     "sources": [
-      {
-       "name": "Payment & Banking",
-       "title": "Die Neobanking-Welle: Angriff aufs Depot",
-       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IS0FkbUZJSnViMU50enlHUGg3WmZhS2VoN2QtaU9ncVFKbEdib3dFX3lWVjA1OXRLTXdoOVN1cFlPc1QtQ2Vkd0ZwV0lUU0JFM3JfbVJ0M2RKaEh0S2ZXQTV4QzJ5dUtsQlM5cndBa1p6ZVVTdERyeFR3?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "\"Operation Chargeback\" – deutsche Nexi wird von Concardis-Historie eingeholt",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVlqZEhtbHg3Q0xVM2xzbjV2SnEzMWlST2h0WEZWNXpqbG5FMVZhTnhibllaaWFtT2M5Vk5vVFh5WE1zWHlUaUtaUXhoVDdZb0lLREZNYl9CXzVqSVdha0xCSmlzaVlvMVk5TVc1U01EM0ZEdllXa2JtUzF1LVBRWE5SUTNhX09NWUhmbV9VanZ5QkFCUXV2UGM5d3ZPUDlxNUx0cjVhaUdDQQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T05:01:10+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "\"Operation Chargeback\" – deutsche Nexi wird von Concardis-Historie eingeholt",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVlqZEhtbHg3Q0xVM2xzbjV2SnEzMWlST2h0WEZWNXpqbG5FMVZhTnhibllaaWFtT2M5Vk5vVFh5WE1zWHlUaUtaUXhoVDdZb0lLREZNYl9CXzVqSVdha0xCSmlzaVlvMVk5TVc1U01EM0ZEdllXa2JtUzF1LVBRWE5SUTNhX09NWUhmbV9VanZ5QkFCUXV2UGM5d3ZPUDlxNUx0cjVhaUdDQQ?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Helaba kappt abermals die Prognose – und dampft das Immobilien-Portfolio ein",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmRqak9nZjkzOTBDRVVGN2tiUDZJTXczMlZPdFQ3SkNWQ1h5NGpNSGhtQnJ3M2hENDNwWkxFWUFOeHNhQXRBeGZORzlkYjFjUkpELUpOSzVHNVF6NmpqOWV5c3FIa1U5N0VPQUp1OFFWZmctRGJsNzJhb0lTbVJpVFF6UDhxV2dhQ0lFY3ZWbmlJdGhBSHF2d0RtMXAwWkliME1MNGNsY2RTSTg?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T05:00:25+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Helaba kappt abermals die Prognose – und dampft das Immobilien-Portfolio ein",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmRqak9nZjkzOTBDRVVGN2tiUDZJTXczMlZPdFQ3SkNWQ1h5NGpNSGhtQnJ3M2hENDNwWkxFWUFOeHNhQXRBeGZORzlkYjFjUkpELUpOSzVHNVF6NmpqOWV5c3FIa1U5N0VPQUp1OFFWZmctRGJsNzJhb0lTbVJpVFF6UDhxV2dhQ0lFY3ZWbmlJdGhBSHF2d0RtMXAwWkliME1MNGNsY2RTSTg?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Tatsächlich – gegenüber der SEC meldet die Deutsche Bank einen Q3-Verlust",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3ktLVE2dUNSTzB3eHlmRC1JczN0ZWRzN2FITTFrbk9iTmRocW0yNm44S2pzaDBKWHR6SldoRkt3bWU1bDNYa3ptZk1vd3dCNl9nQmVIZHBISTJHSUVzTlZXU2s5WTh1YjBNUXpEbkJMYWdOWXl5RlFWd2ZtMVROem9YMTYzTW9ob0FLNDFYSm1LOFQ3V28wSUY5bGJZbUY0aXJOVmhwSC0yZw?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T04:40:34+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Tatsächlich – gegenüber der SEC meldet die Deutsche Bank einen Q3-Verlust",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3ktLVE2dUNSTzB3eHlmRC1JczN0ZWRzN2FITTFrbk9iTmRocW0yNm44S2pzaDBKWHR6SldoRkt3bWU1bDNYa3ptZk1vd3dCNl9nQmVIZHBISTJHSUVzTlZXU2s5WTh1YjBNUXpEbkJMYWdOWXl5RlFWd2ZtMVROem9YMTYzTW9ob0FLNDFYSm1LOFQ3V28wSUY5bGJZbUY0aXJOVmhwSC0yZw?oc=5"
-      }
-     ]
     }
    ]
   },
   "eu": {
    "24h": [
     {
-     "title": "Nuvei arbeitet mit Fexco payUnite bei Kreuzfahrtkartenzahlungen zusammen",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQkZFRm5ocFBCeUtXdkJ0QnNqSDdnNVpYMGxTZXZ0V2s0eVluOVI2QV9McFNpYnJrMW5yOVVrOXNCVGZ2WWpEWTF5Z3AxUGkxWDBuNGNHTkZkRjZGQUw0VmdIUHZKVjV5eEVnRG01THR3aEhsQS1XQzVzTzk5M3dtT2E3aTg1MllEY3pFMHRNSkFzdllhT0lkUTNBUUdZbzdpcUE?oc=5",
+     "title": "Oktober 2026: Top fünf Movers and Shakers Geschichten des Monats",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTDVMcm1sRWtQeGF4amdxTDgtYTBsRDJkMGhrVElWMndkZW9KcUxCTlYyRkNnMXJQTmtET19kNXRXTHpfQVY0YVFMQW0xNnV5Q1R6UnZ1T1dpYTZSS2I4clp4c3lva3daaVI3MjNhUWZFZGt3Y1hzXy1fOTBNTzdxMWlYWXB0Ykc5QzFiM3E4YXpzOEcwbU1aLUlrYWdzNktDVlFuLU03bkY3bTJ3ekQ1dg?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-29T09:40:03+00:00",
+     "time": "2026-10-29T12:11:44+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "October 2026: Top five movers and shakers stories of the month",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTDVMcm1sRWtQeGF4amdxTDgtYTBsRDJkMGhrVElWMndkZW9KcUxCTlYyRkNnMXJQTmtET19kNXRXTHpfQVY0YVFMQW0xNnV5Q1R6UnZ1T1dpYTZSS2I4clp4c3lva3daaVI3MjNhUWZFZGt3Y1hzXy1fOTBNTzdxMWlYWXB0Ykc5QzFiM3E4YXpzOEcwbU1aLUlrYWdzNktDVlFuLU03bkY3bTJ3ekQ1dg?oc=5"
+      }
+     ],
+     "title_orig": "October 2026: Top five movers and shakers stories of the month"
+    },
+    {
+     "title": "MoneyGram wählt AiPrise für Compliance- und Betrugsprüfungen aus",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmhSNWdfeElodjdpUHE3WmFlVWpJdUwxU1EzYXViamt4UjIwblpqS1NhMDBtLUVScWg1akQyQnZiUWxBelJmQV84dGg4UjgxNFJKamdXd2hISkE5Q0F0OS1RVkd5T0RHX1dyN0hwbDA4T2d5WUFRQVNrTWZ2cGdJb0s1alN5WGs2dGVabnFfSTBXNlhSak1QaGo1dFR6bmMxYXhISHhxbGZNRl9V?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T13:05:04+00:00",
      "sources": [
       {
        "name": "The Paypers",
-       "title": "Nuvei partners with Fexco payUnite on cruise line card payments",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQkZFRm5ocFBCeUtXdkJ0QnNqSDdnNVpYMGxTZXZ0V2s0eVluOVI2QV9McFNpYnJrMW5yOVVrOXNCVGZ2WWpEWTF5Z3AxUGkxWDBuNGNHTkZkRjZGQUw0VmdIUHZKVjV5eEVnRG01THR3aEhsQS1XQzVzTzk5M3dtT2E3aTg1MllEY3pFMHRNSkFzdllhT0lkUTNBUUdZbzdpcUE?oc=5"
+       "title": "MoneyGram picks AiPrise for compliance and fraud checks",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmhSNWdfeElodjdpUHE3WmFlVWpJdUwxU1EzYXViamt4UjIwblpqS1NhMDBtLUVScWg1akQyQnZiUWxBelJmQV84dGg4UjgxNFJKamdXd2hISkE5Q0F0OS1RVkd5T0RHX1dyN0hwbDA4T2d5WUFRQVNrTWZ2cGdJb0s1alN5WGs2dGVabnFfSTBXNlhSak1QaGo1dFR6bmMxYXhISHhxbGZNRl9V?oc=5"
       }
      ],
-     "title_orig": "Nuvei partners with Fexco payUnite on cruise line card payments"
+     "title_orig": "MoneyGram picks AiPrise for compliance and fraud checks"
     },
     {
-     "title": "BitGo bietet WisdomTree tokenisierten Fonds an",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZS1ZUjJrVnM0ZV9FeXlmZXotWktBakFfZ1lFTlF3Q1lLUXplWTRIX2laZkoxMU0tTXNfNjlWRHZSQVVVVDkzdm5kcmRmQV9rNkRxUTNLY0Jkc0NEcUQwSXFfMUJxUDZaVDd4bWx1UlNMZ0NJSnp4TjJLZzA0TDljMjEyWk5lWW9VTUg1WWk4TUhRd3I0MmxZOElHTlh0ekU0WGtPU2l4c05vdw?oc=5",
+     "title": "Diebold Nixdorf und Euronet planen globale ATM-Outsourcing-Kooperation",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1VDQ0ZTbWNKcFNsdHpMR1JmVkJBbk9heU1EVWVQYV8xRklLYjFRbDJBX0xzM0VDRE4zaW1GSFo2Smdwb2t6dE1PYjZJdC02OEpSNjhWb1doWjN4MVhlMXRhVmpjSkJ4dk10WTE2NnE4Q1FjY2U4LXA1OW5pLXZKOFlYRnY4ZnhJdEpJSUpOOGdkM0N3T01kclZ3MWRUQzhPTHo0eGk1VF8?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-29T08:19:36+00:00",
+     "time": "2026-10-29T12:54:35+00:00",
      "sources": [
       {
        "name": "The Paypers",
-       "title": "BitGo to offer WisdomTree tokenised fund",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZS1ZUjJrVnM0ZV9FeXlmZXotWktBakFfZ1lFTlF3Q1lLUXplWTRIX2laZkoxMU0tTXNfNjlWRHZSQVVVVDkzdm5kcmRmQV9rNkRxUTNLY0Jkc0NEcUQwSXFfMUJxUDZaVDd4bWx1UlNMZ0NJSnp4TjJLZzA0TDljMjEyWk5lWW9VTUg1WWk4TUhRd3I0MmxZOElHTlh0ekU0WGtPU2l4c05vdw?oc=5"
+       "title": "Diebold Nixdorf and Euronet plan global ATM outsourcing collaboration",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1VDQ0ZTbWNKcFNsdHpMR1JmVkJBbk9heU1EVWVQYV8xRklLYjFRbDJBX0xzM0VDRE4zaW1GSFo2Smdwb2t6dE1PYjZJdC02OEpSNjhWb1doWjN4MVhlMXRhVmpjSkJ4dk10WTE2NnE4Q1FjY2U4LXA1OW5pLXZKOFlYRnY4ZnhJdEpJSUpOOGdkM0N3T01kclZ3MWRUQzhPTHo0eGk1VF8?oc=5"
       }
      ],
-     "title_orig": "BitGo to offer WisdomTree tokenised fund"
+     "title_orig": "Diebold Nixdorf and Euronet plan global ATM outsourcing collaboration"
     },
     {
-     "title": "Neu umbenanntes Bindestrich landet 45 Mio. $ Serie A",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGxiVU9QNHRjUGRBYU54RzVGNzZUN0c1Z08yWWpQYkJfVzYzZU16OEhUWTF5REx6bGttb29OS0F4OWN5WTZVLVRiZXhwQndIQmg4bkgtbzJyVmlEejgtQnBNOEFrRnVjalM4UURYVTNfcFg5SlFBaDRfRlZMbE9LeEVTeEVYdF9HQ2R0bHl3VWk1N3lvVFJvUTI2VHFzTVQ0?oc=5",
+     "title": "Mastercard und Beast Industries kooperieren bei Co-Branding-Karten für Kreative",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1FQYXZVWHhvMXdDUEk1MzZPbU1EQnlDYTVGZWtmV0FZMTkwVkFrWDZOQzJ1OTZTbnJQMmxGbXdlSVFwZ1R6MnpQTVRmVjA2a1ZTd2xGLUhCXzNJQmVnLTdDblVhLXZCc1FWNjNxXzRCbmY3QXhEcDVUMmNBLVU2aFl4QXBFOHVQX3R1dzFiNS1jZnRfZjgtQ0tBZG9TZk9nOUVVNm8tNlFIYmM?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-29T08:00:50+00:00",
+     "time": "2026-10-29T12:54:35+00:00",
      "sources": [
       {
-       "name": "Fintech Futures",
-       "title": "Newly rebranded Hyphenate lands $45m Series A",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGxiVU9QNHRjUGRBYU54RzVGNzZUN0c1Z08yWWpQYkJfVzYzZU16OEhUWTF5REx6bGttb29OS0F4OWN5WTZVLVRiZXhwQndIQmg4bkgtbzJyVmlEejgtQnBNOEFrRnVjalM4UURYVTNfcFg5SlFBaDRfRlZMbE9LeEVTeEVYdF9HQ2R0bHl3VWk1N3lvVFJvUTI2VHFzTVQ0?oc=5"
+       "name": "The Paypers",
+       "title": "Mastercard and Beast Industries partner on co-brand cards for creators",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1FQYXZVWHhvMXdDUEk1MzZPbU1EQnlDYTVGZWtmV0FZMTkwVkFrWDZOQzJ1OTZTbnJQMmxGbXdlSVFwZ1R6MnpQTVRmVjA2a1ZTd2xGLUhCXzNJQmVnLTdDblVhLXZCc1FWNjNxXzRCbmY3QXhEcDVUMmNBLVU2aFl4QXBFOHVQX3R1dzFiNS1jZnRfZjgtQ0tBZG9TZk9nOUVVNm8tNlFIYmM?oc=5"
       }
      ],
-     "title_orig": "Newly rebranded Hyphenate lands $45m Series A"
+     "title_orig": "Mastercard and Beast Industries partner on co-brand cards for creators"
     },
     {
-     "title": "Oktober 2026: Top fünf KI-Geschichten des Monats",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFlKMHpzdGs5SXF3RkZWZWJLdzd6WEhOV3owcGl1dElacTdLRkg1alVuQzFiR01pcmx3aGtIMXRWVExYWVI5N1FxOHRuTlhZSVBrakNQd3Rad0tIZVgxd0RnZVJmcVR4XzZqcnpObEhCdGJEcEpHU0RPdTFsYkhPUVNjcVBMcy03TEN3STZOeFlJRDVM?oc=5",
+     "title": "TradeStation Europe erweitert die Betriebskapazitäten",
+     "link": "https://www.finextra.com/pressarticle/111508/tradestation-europe-expands-operations-capability?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-29T07:01:48+00:00",
-     "sources": [
-      {
-       "name": "Fintech Futures",
-       "title": "October 2026: Top five AI stories of the month",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFlKMHpzdGs5SXF3RkZWZWJLdzd6WEhOV3owcGl1dElacTdLRkg1alVuQzFiR01pcmx3aGtIMXRWVExYWVI5N1FxOHRuTlhZSVBrakNQd3Rad0tIZVgxd0RnZVJmcVR4XzZqcnpObEhCdGJEcEpHU0RPdTFsYkhPUVNjcVBMcy03TEN3STZOeFlJRDVM?oc=5"
-      }
-     ],
-     "title_orig": "October 2026: Top five AI stories of the month"
-    },
-    {
-     "title": "Bizcap erhält eine Kreditfazilität in Höhe von 175 Mio. $ für nordamerikanischen Push",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOem5lUUtQU0lmM3ctR1I0Tkh3RVBQOFlVeTNxeEM2bHk3bFo2THFxWkFYbXR4ZDZTR29uRGxlNENHT0RaXzBOSmpKOVhzUnVDMzVmdDRCWVpTQzdELTRhRzdvZGV6d0o4YXFqLUNJX1ViX28xNk1XMTZkbXRlaU5zeW45NWtGVmJ0M3NPckhzRk9Ub0JGOU9XczdWZVl2dGNCUmY0LXpzOHNYd3Q4dXhfelhR?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T06:01:44+00:00",
-     "sources": [
-      {
-       "name": "Fintech Futures",
-       "title": "Bizcap lands $175m credit facility for North American push",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOem5lUUtQU0lmM3ctR1I0Tkh3RVBQOFlVeTNxeEM2bHk3bFo2THFxWkFYbXR4ZDZTR29uRGxlNENHT0RaXzBOSmpKOVhzUnVDMzVmdDRCWVpTQzdELTRhRzdvZGV6d0o4YXFqLUNJX1ViX28xNk1XMTZkbXRlaU5zeW45NWtGVmJ0M3NPckhzRk9Ub0JGOU9XczdWZVl2dGNCUmY0LXpzOHNYd3Q4dXhfelhR?oc=5"
-      }
-     ],
-     "title_orig": "Bizcap lands $175m credit facility for North American push"
-    },
-    {
-     "title": "In dem Raum, in dem es passiert",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XZWpRdWpTRXpkN0xWbExTUkVWMHRYTW1sT2NGTjhqMTFxTUVzdWZHbkNZN1p2OHp6OWw3dHF1NFpJTFN5OWpWbkdMQlBFbDA0OUpvUGYzM25RVXh1dUFWMGE1a3IzSGhyaFVDekkzWHJPNEVvMm9NVGhMVQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T05:31:26+00:00",
-     "sources": [
-      {
-       "name": "Fintech Futures",
-       "title": "In the room where it happens",
-       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XZWpRdWpTRXpkN0xWbExTUkVWMHRYTW1sT2NGTjhqMTFxTUVzdWZHbkNZN1p2OHp6OWw3dHF1NFpJTFN5OWpWbkdMQlBFbDA0OUpvUGYzM25RVXh1dUFWMGE1a3IzSGhyaFVDekkzWHJPNEVvMm9NVGhMVQ?oc=5"
-      }
-     ],
-     "title_orig": "In the room where it happens"
-    },
-    {
-     "title": "Monzo startet in Spanien",
-     "link": "https://www.finextra.com/newsarticle/48665/monzo-launches-in-spain?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-29T00:01:00+00:00",
+     "time": "2026-10-29T12:29:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Monzo launches in Spain",
-       "link": "https://www.finextra.com/newsarticle/48665/monzo-launches-in-spain?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "TradeStation Europe expands operations capability",
+       "link": "https://www.finextra.com/pressarticle/111508/tradestation-europe-expands-operations-capability?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "Monzo launches in Spain"
+     "title_orig": "TradeStation Europe expands operations capability"
     },
     {
-     "title": "Die britische Regierung übernimmt Kassenbetrug mit POS-Software-Standards",
-     "link": "https://www.finextra.com/newsarticle/48664/uk-government-takes-on-till-fraud-with-pos-software-standards?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "title": "Noda startet BIN-to-Bank für Open Banking an der Kasse",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEM3ZtV0VTV1lvd0JIcF84T0Q2dmFuY3FySXc2d1RzaHY2MWVZcDB4Y1RNZlZTNjhOUUZaOGhXRXVvSmd1OWJWSlpFdWZ5YXJyTFhEZ003aXpzOHRUemJGZTZGUVM1ekdRLS1kYXlxaw?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-28T17:41:00+00:00",
+     "time": "2026-10-29T12:23:57+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Noda launches BIN-to-Bank for Open Banking at checkout",
+       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEM3ZtV0VTV1lvd0JIcF84T0Q2dmFuY3FySXc2d1RzaHY2MWVZcDB4Y1RNZlZTNjhOUUZaOGhXRXVvSmd1OWJWSlpFdWZ5YXJyTFhEZ003aXpzOHRUemJGZTZGUVM1ekdRLS1kYXlxaw?oc=5"
+      }
+     ],
+     "title_orig": "Noda launches BIN-to-Bank for Open Banking at checkout"
+    },
+    {
+     "title": "Paymentology unterstützt Mukurus Konto und Karte in Südafrika",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNURvU05TM0k0em5fbEt6ZUdpYXJ1a0dxYm83ZXdlU0ZFclgtaFA5YXNSVGFBYnlKTFd0bG9KNV9CbGdmbTJrOU5vMVdNaF80dzdkUkc5bmRXVUhRRFR1UWlSa244bzBkeXk4UFZPWjBLU0FWSGYwbE9ENWpHaktfVkQ2WndMSEpzRDNZMnFYdVZFc2RqLVNFdWo5c2I1UQ?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T12:23:57+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Paymentology powers Mukuru’s account and card in South Africa",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNURvU05TM0k0em5fbEt6ZUdpYXJ1a0dxYm83ZXdlU0ZFclgtaFA5YXNSVGFBYnlKTFd0bG9KNV9CbGdmbTJrOU5vMVdNaF80dzdkUkc5bmRXVUhRRFR1UWlSa244bzBkeXk4UFZPWjBLU0FWSGYwbE9ENWpHaktfVkQ2WndMSEpzRDNZMnFYdVZFc2RqLVNFdWo5c2I1UQ?oc=5"
+      }
+     ],
+     "title_orig": "Paymentology powers Mukuru’s account and card in South Africa"
+    },
+    {
+     "title": "Icon Solutions ernennt Raquel Guillot zum Vertriebsleiter Südeuropa",
+     "link": "https://www.finextra.com/pressarticle/111503/icon-solutions-appoints-raquel-guillot-as-southern-europe-sales-director?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T12:16:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "UK Government takes on till fraud with POS software standards",
-       "link": "https://www.finextra.com/newsarticle/48664/uk-government-takes-on-till-fraud-with-pos-software-standards?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "Icon Solutions appoints Raquel Guillot as Southern Europe sales director",
+       "link": "https://www.finextra.com/pressarticle/111503/icon-solutions-appoints-raquel-guillot-as-southern-europe-sales-director?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "UK Government takes on till fraud with POS software standards"
+     "title_orig": "Icon Solutions appoints Raquel Guillot as Southern Europe sales director"
     },
     {
-     "title": "Südkorea verhängt Geldbußen gegen Google und Apple in Höhe von 47,6 Mio. USD wegen In-App-Zahlungen",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWtrRjJmWGhaeVdCY243ZkFpRmJXZTA2dWY2bkp3cHZQTDlvUjZSQUdsTlQ1d2pqakpLRlJ5cFh2ZDQ0VEJRbTd3LW04c1dKZVVuTVBjdHJJSW9FbDVzeUJIb2RBWVp1X0FTaUYwd1dRclp4dDc5QkVkbEtVY1NlMTRWcXlUQlV4aTJ5MjIzVWFZVzhlSl9hN0JaR0ZUX0trNzRtdmpYMGtJYlk?oc=5",
+     "title": "Aspire führt AspireBooks KI-Buchhaltungsplattform für KMU ein",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVp2SGpFemJHRlJ0QUNqN3QyelBJN0Z0Zy03bGJuY0J6UnBIdXFlRE1laEIwUW1XTVdWeUdIUG44NEFTblNqTmM1ZEQxSnJKQ3l5a3FSUGdOTzZjSUpWS3N4djF0SlBMblR3RFVXbmppcXk0cjdyeElaOEFab1RNTlg5aG9CcnBGQm1kdjMxcnFUTTJZekh0RmFfZWRMdEh0?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-28T17:13:05+00:00",
+     "time": "2026-10-29T12:14:11+00:00",
      "sources": [
       {
        "name": "The Paypers",
-       "title": "South Korea fines Google and Apple USD 47.6 mln over in-app payments",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWtrRjJmWGhaeVdCY243ZkFpRmJXZTA2dWY2bkp3cHZQTDlvUjZSQUdsTlQ1d2pqakpLRlJ5cFh2ZDQ0VEJRbTd3LW04c1dKZVVuTVBjdHJJSW9FbDVzeUJIb2RBWVp1X0FTaUYwd1dRclp4dDc5QkVkbEtVY1NlMTRWcXlUQlV4aTJ5MjIzVWFZVzhlSl9hN0JaR0ZUX0trNzRtdmpYMGtJYlk?oc=5"
+       "title": "Aspire launches AspireBooks AI accounting platform for SMEs",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVp2SGpFemJHRlJ0QUNqN3QyelBJN0Z0Zy03bGJuY0J6UnBIdXFlRE1laEIwUW1XTVdWeUdIUG44NEFTblNqTmM1ZEQxSnJKQ3l5a3FSUGdOTzZjSUpWS3N4djF0SlBMblR3RFVXbmppcXk0cjdyeElaOEFab1RNTlg5aG9CcnBGQm1kdjMxcnFUTTJZekh0RmFfZWRMdEh0?oc=5"
       }
      ],
-     "title_orig": "South Korea fines Google and Apple USD 47.6 mln over in-app payments"
+     "title_orig": "Aspire launches AspireBooks AI accounting platform for SMEs"
     },
     {
-     "title": "Tech Mahindra kauft Finastra Cash Management",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVklLV2IyVnJMSktvQXZSSWEzdWtqSXVQYWF3amxwY2tpaEswWllhVDg0YWxCLTRTVGRMM2FBeklqek5uRkdDeXJDTTk4b3RUTVFKdXlqa2J1MHl3V3FJdC1kRzA1TzJQZlUzb1pQZl81ZjhQd2lNS1VTcFgxbDRVY0NkMUxzTWp4bFZlSzB2T0lvTXo3b0M2RFBxSDB3cE1vTUVjVE91eUpZd0l0WXF2ZzZLRFBtTFRDQ19RSzlTTEJwR2s?oc=5",
+     "title": "Bank of Italy drängt Banken auf Tokenisierung",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTE1neWNYckNMVXlNaHFpZGZOMXZZVlhlN1EzblA0Z18tZ1hJaHFXLXBPbWlmVWEzMGxvZmFQejVoc3V6d3ZpRVdYcFY5dDA4YktxSmlHQnZyZVBaWWZ0bGstN2xsTHZvTzNJWXl0dDBnZF9ieHRRemtCSjYxM2tuSUFFSXg5R0ZScVNwTXItdDdCcVpPNkp1eFhCY0pmVmFKbGdfcVprRG1SUQ?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-10-28T17:13:05+00:00",
+     "time": "2026-10-29T12:08:41+00:00",
      "sources": [
       {
        "name": "The Paypers",
-       "title": "Tech Mahindra buys Finastra cash management",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVklLV2IyVnJMSktvQXZSSWEzdWtqSXVQYWF3amxwY2tpaEswWllhVDg0YWxCLTRTVGRMM2FBeklqek5uRkdDeXJDTTk4b3RUTVFKdXlqa2J1MHl3V3FJdC1kRzA1TzJQZlUzb1pQZl81ZjhQd2lNS1VTcFgxbDRVY0NkMUxzTWp4bFZlSzB2T0lvTXo3b0M2RFBxSDB3cE1vTUVjVE91eUpZd0l0WXF2ZzZLRFBtTFRDQ19RSzlTTEJwR2s?oc=5"
+       "title": "Bank of Italy urges banks on tokenisation",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTE1neWNYckNMVXlNaHFpZGZOMXZZVlhlN1EzblA0Z18tZ1hJaHFXLXBPbWlmVWEzMGxvZmFQejVoc3V6d3ZpRVdYcFY5dDA4YktxSmlHQnZyZVBaWWZ0bGstN2xsTHZvTzNJWXl0dDBnZF9ieHRRemtCSjYxM2tuSUFFSXg5R0ZScVNwTXItdDdCcVpPNkp1eFhCY0pmVmFKbGdfcVprRG1SUQ?oc=5"
       }
      ],
-     "title_orig": "Tech Mahindra buys Finastra cash management"
+     "title_orig": "Bank of Italy urges banks on tokenisation"
     }
    ],
    "7d": [
@@ -1511,6 +1516,26 @@
       }
      ],
      "title_orig": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion"
+    },
+    {
+     "title": "Diebold Nixdorf und Euronet Worldwide bilden globale ATM-Partnerschaft",
+     "link": "https://www.finextra.com/pressarticle/111449/diebold-nixdorf-and-euronet-worldwide-form-global-atm-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-10-29T12:54:35+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Diebold Nixdorf and Euronet Worldwide form global ATM partnership",
+       "link": "https://www.finextra.com/pressarticle/111449/diebold-nixdorf-and-euronet-worldwide-form-global-atm-partnership?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "The Paypers",
+       "title": "Diebold Nixdorf and Euronet plan global ATM outsourcing collaboration",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1VDQ0ZTbWNKcFNsdHpMR1JmVkJBbk9heU1EVWVQYV8xRklLYjFRbDJBX0xzM0VDRE4zaW1GSFo2Smdwb2t6dE1PYjZJdC02OEpSNjhWb1doWjN4MVhlMXRhVmpjSkJ4dk10WTE2NnE4Q1FjY2U4LXA1OW5pLXZKOFlYRnY4ZnhJdEpJSUpOOGdkM0N3T01kclZ3MWRUQzhPTHo0eGk1VF8?oc=5"
+      }
+     ],
+     "title_orig": "Diebold Nixdorf and Euronet Worldwide form global ATM partnership"
     },
     {
      "title": "Vancity wählt Temenos SaaS für die Kernbanküberholung",
@@ -1650,26 +1675,6 @@
       }
      ],
      "title_orig": "Sezzle applies for national bank charter with the OCC"
-    },
-    {
-     "title": "Wie vergleichen sich US-amerikanische und britische Echtzeit-Zahlungsmodelle eigentlich?",
-     "link": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-10-26T12:45:21+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "How Do US And UK Real-Time Payment Models Actually Compare?",
-       "link": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "How Canada’s Real-Time Rail will transform A2A payments",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmkzQjV3SV9qYmYxUk1iQ1pfdENXb3lSMlpHSlBwT0JyNFg0MVBHdnN5ZEhjcnpjbndjNWFyTzhZTkVOcm9md0oxNGhTU1dtWVBkcWprR3pTVUJQOW5iazh3dHRmd1VIOURnNUpicjhpMWpyc2FrSFJQeDRFWHJwVEpWTC1jUFRFVTJFZ01KMXVMUDA2X211Y0hPUUpoNERi?oc=5"
-      }
-     ],
-     "title_orig": "How Do US And UK Real-Time Payment Models Actually Compare?"
     }
    ],
    "30d": [
@@ -1814,6 +1819,26 @@
      "title_orig": "Vancity selects Temenos SaaS for core banking overhaul"
     },
     {
+     "title": "Diebold Nixdorf und Euronet Worldwide bilden globale ATM-Partnerschaft",
+     "link": "https://www.finextra.com/pressarticle/111449/diebold-nixdorf-and-euronet-worldwide-form-global-atm-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-10-29T12:54:35+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Diebold Nixdorf and Euronet Worldwide form global ATM partnership",
+       "link": "https://www.finextra.com/pressarticle/111449/diebold-nixdorf-and-euronet-worldwide-form-global-atm-partnership?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "The Paypers",
+       "title": "Diebold Nixdorf and Euronet plan global ATM outsourcing collaboration",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1VDQ0ZTbWNKcFNsdHpMR1JmVkJBbk9heU1EVWVQYV8xRklLYjFRbDJBX0xzM0VDRE4zaW1GSFo2Smdwb2t6dE1PYjZJdC02OEpSNjhWb1doWjN4MVhlMXRhVmpjSkJ4dk10WTE2NnE4Q1FjY2U4LXA1OW5pLXZKOFlYRnY4ZnhJdEpJSUpOOGdkM0N3T01kclZ3MWRUQzhPTHo0eGk1VF8?oc=5"
+      }
+     ],
+     "title_orig": "Diebold Nixdorf and Euronet Worldwide form global ATM partnership"
+    },
+    {
      "title": "PayTabs Group unterzeichnet Absichtserklärung zur Übernahme von SeaPay in Saudi-Arabien",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWoxd1NxR2s1Vl9kSkVsTWdzY2wwT1E1M3p1dk8tSHpIaWRLclh1UEVWc2tENzBJY2xvcGlDVDMxaXZwQnVUbkhlYjdIdEx4WnNKSkNtQWU1OWp1QzNKTGRwNTNwOUZtSGl4ZmlCdEYzclBwRUwyWWF3Vk5ua0V5MUltbzdZMmJqNW0yODRpREVqUFhlOXJPbEVqeTNfM0c5V0FZVlo1N0dPbVdWeW81LTBVdEs2QQ?oc=5",
      "image": "",
@@ -1872,185 +1897,160 @@
       }
      ],
      "title_orig": "Ripple gets final OCC approval for national trust bank"
-    },
-    {
-     "title": "Zen.com und Mastercard erweitern Pay By Bank für Händler und Verbraucher in ganz Europa",
-     "link": "https://www.finextra.com/newsarticle/48659/zencom-and-mastercard-expand-pay-by-bank-for-merchants-and-consumers-across-europe?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-10-28T11:09:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Zen.com and Mastercard expand Pay By Bank for merchants and consumers across Europe",
-       "link": "https://www.finextra.com/newsarticle/48659/zencom-and-mastercard-expand-pay-by-bank-for-merchants-and-consumers-across-europe?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "Checkout.com and Samsung partner to expand Samsung Pay",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1Y5TGVabWEzWjB3eERjaUlwa0otenlUek5BdzlVMk1scVVPZWRWc3NZbl9nQTVuNEE5MjVlSmtEcGN1SVVKMjFTc0RWWGdPNUQyNTJtcVMyOWRyb2VRYzFPRVI4V3pyMzQyMnVSY2RRcHZ5LUNjZDJOX0J4R1MxazVjamNCTDQ2eV80Y3Z3cjN5c0pwVGs2aGtUSHNZbHNsRWU5WHNibw?oc=5"
-      }
-     ],
-     "title_orig": "Zen.com and Mastercard expand Pay By Bank for merchants and consumers across Europe"
     }
    ]
   },
   "world": {
    "24h": [
     {
-     "title": "Coinbase sagt, dass Kundenkontaktdaten bei Verstößen Dritter offengelegt wurden",
-     "link": "https://www.finextra.com/newsarticle/48662/coinbase-says-customer-contact-data-exposed-in-third-party-breach?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2024/10/Coinbase.png?w=457&quality=82",
-     "n_sources": 2,
-     "time": "2026-10-28T14:18:00+00:00",
+     "title": "Das KI-Backoffice von Collective gibt Solo-Geschäftsinhabern Zeit zurück",
+     "link": "https://www.pymnts.com/back-office/2026/collectives-ai-back-office-gives-solo-business-owners-time-back/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Need-to-Know-Main-Feature-Hooman-Radfar-Collective.png?w=457&quality=82",
+     "n_sources": 1,
+     "time": "2026-10-29T13:00:27+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Collective’s AI Back Office Gives Solo Business Owners Time Back",
+       "link": "https://www.pymnts.com/back-office/2026/collectives-ai-back-office-gives-solo-business-owners-time-back/"
+      }
+     ],
+     "title_orig": "Collective’s AI Back Office Gives Solo Business Owners Time Back"
+    },
+    {
+     "title": "SettleMint integriert die Digital Asset Lifecycle-Plattform mit IBM Digital Asset Haven",
+     "link": "https://www.finextra.com/pressarticle/111509/settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-10-29T12:31:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Coinbase says customer contact data exposed in third-party breach",
-       "link": "https://www.finextra.com/newsarticle/48662/coinbase-says-customer-contact-data-exposed-in-third-party-breach?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Coinbase Customer Data Exposed in Vendor’s Breach",
-       "link": "https://www.pymnts.com/cybersecurity/2026/coinbase-customer-data-exposed-in-vendors-breach/"
+       "title": "SettleMint integrates digital asset lifecycle platform with IBM Digital Asset Haven",
+       "link": "https://www.finextra.com/pressarticle/111509/settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "Coinbase says customer contact data exposed in third-party breach"
+     "title_orig": "SettleMint integrates digital asset lifecycle platform with IBM Digital Asset Haven"
     },
     {
-     "title": "Bessere Technologie allein gibt Software nicht das letzte Wort",
-     "link": "https://www.pymnts.com/news/payments-innovation/2026/better-technology-alone-wont-give-software-the-final-say/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB1-Maverick-with-overlay.png?w=457&quality=82",
+     "title": "TradeStation Europe erweitert die Betriebskapazitäten",
+     "link": "https://www.finextra.com/pressarticle/111508/tradestation-europe-expands-operations-capability?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-29T08:03:21+00:00",
+     "time": "2026-10-29T12:29:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "TradeStation Europe expands operations capability",
+       "link": "https://www.finextra.com/pressarticle/111508/tradestation-europe-expands-operations-capability?utm_medium=rssfinextra&utm_source=finextrafeed"
+      }
+     ],
+     "title_orig": "TradeStation Europe expands operations capability"
+    },
+    {
+     "title": "DoorDash zahlt $ 17 Milliarden für die Übernahme von Instacart",
+     "link": "https://www.pymnts.com/news/delivery/2026/doordash-will-pay-17-billion-to-acquire-instacart/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/DoorDash-Instacart.png?w=457&quality=82",
+     "n_sources": 1,
+     "time": "2026-10-29T12:25:00+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Better Technology Alone Won’t Give Software the Final Say",
-       "link": "https://www.pymnts.com/news/payments-innovation/2026/better-technology-alone-wont-give-software-the-final-say/"
+       "title": "DoorDash Will Pay $17 Billion to Acquire Instacart",
+       "link": "https://www.pymnts.com/news/delivery/2026/doordash-will-pay-17-billion-to-acquire-instacart/"
       }
      ],
-     "title_orig": "Better Technology Alone Won’t Give Software the Final Say"
+     "title_orig": "DoorDash Will Pay $17 Billion to Acquire Instacart"
     },
     {
-     "title": "i2c: Banken können Entscheidungen delegieren, aber keine Rechenschaftspflicht auslagern",
-     "link": "https://www.pymnts.com/news/banking/2026/i2c-banks-can-delegate-decisions-cannot-outsource-accountability/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB3-i2C-with-overlay.png?w=457&quality=82",
+     "title": "Mollie stellt ChatGPT- und Claude-Integrationen vor",
+     "link": "https://www.finextra.com/pressarticle/111506/mollie-introduces-chatgpt-and-claude-integrations?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-29T08:01:21+00:00",
+     "time": "2026-10-29T12:24:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "i2c: Banks Can Delegate Decisions but Can’t Outsource Accountability",
-       "link": "https://www.pymnts.com/news/banking/2026/i2c-banks-can-delegate-decisions-cannot-outsource-accountability/"
+       "name": "Finextra",
+       "title": "Mollie introduces ChatGPT and Claude integrations",
+       "link": "https://www.finextra.com/pressarticle/111506/mollie-introduces-chatgpt-and-claude-integrations?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "i2c: Banks Can Delegate Decisions but Can’t Outsource Accountability"
+     "title_orig": "Mollie introduces ChatGPT and Claude integrations"
     },
     {
-     "title": "KI und eingebettete Finanzen legen die Messlatte für Zahlungskontrollen höher",
-     "link": "https://www.pymnts.com/news/payments-innovation/2026/ai-and-embedded-finance-raise-the-bar-for-payment-controls/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Main-Feature-Fireside-Chat-PYMNTS-On-Air-Taranjit-Singh.png?w=457&quality=82",
+     "title": "Airtm und BVNK arbeiten gemeinsam an direkten Wallet-Zahlungen in Schwellenländern",
+     "link": "https://www.finextra.com/pressarticle/111505/airtm-and-bvnk-team-on-direct-wallet-payments-in-emerging-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-29T08:00:58+00:00",
+     "time": "2026-10-29T12:22:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "AI and Embedded Finance Raise the Bar for Payment Controls",
-       "link": "https://www.pymnts.com/news/payments-innovation/2026/ai-and-embedded-finance-raise-the-bar-for-payment-controls/"
+       "name": "Finextra",
+       "title": "Airtm and BVNK team on direct wallet payments in emerging markets",
+       "link": "https://www.finextra.com/pressarticle/111505/airtm-and-bvnk-team-on-direct-wallet-payments-in-emerging-markets?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "AI and Embedded Finance Raise the Bar for Payment Controls"
+     "title_orig": "Airtm and BVNK team on direct wallet payments in emerging markets"
     },
     {
-     "title": "Das Alter gibt den Finanzdienstleistern Hinweise auf den finanziellen Druck der Kunden",
-     "link": "https://www.pymnts.com/consumer-finance/2026/age-gives-financial-providers-clues-to-customers-financial-pressures/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/boomers-costs-data-brief-10-29-26.png?w=457&quality=82",
+     "title": "DNA Payments Partner Zeal to Pilot Treueprogramm",
+     "link": "https://www.finextra.com/pressarticle/111504/dna-payments-partners-zeal-to-pilot-loyalty-programme?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-29T08:00:10+00:00",
+     "time": "2026-10-29T12:19:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "Age Gives Financial Providers Clues to Customers’ Financial Pressures",
-       "link": "https://www.pymnts.com/consumer-finance/2026/age-gives-financial-providers-clues-to-customers-financial-pressures/"
+       "name": "Finextra",
+       "title": "DNA Payments partners Zeal to pilot loyalty programme",
+       "link": "https://www.finextra.com/pressarticle/111504/dna-payments-partners-zeal-to-pilot-loyalty-programme?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "Age Gives Financial Providers Clues to Customers’ Financial Pressures"
+     "title_orig": "DNA Payments partners Zeal to pilot loyalty programme"
     },
     {
-     "title": "FedEx wandelt digitale Erkenntnisse in neue Marktexpansion um",
-     "link": "https://www.pymnts.com/earnings/2026/fedex-converts-digital-insights-into-new-market-expansion/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/02/FedEx-AI1.jpg?w=457",
+     "title": "Icon Solutions ernennt Raquel Guillot zum Vertriebsleiter Südeuropa",
+     "link": "https://www.finextra.com/pressarticle/111503/icon-solutions-appoints-raquel-guillot-as-southern-europe-sales-director?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-29T02:25:33+00:00",
+     "time": "2026-10-29T12:16:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "FedEx Converts Digital Insights Into New Market Expansion",
-       "link": "https://www.pymnts.com/earnings/2026/fedex-converts-digital-insights-into-new-market-expansion/"
+       "name": "Finextra",
+       "title": "Icon Solutions appoints Raquel Guillot as Southern Europe sales director",
+       "link": "https://www.finextra.com/pressarticle/111503/icon-solutions-appoints-raquel-guillot-as-southern-europe-sales-director?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "FedEx Converts Digital Insights Into New Market Expansion"
+     "title_orig": "Icon Solutions appoints Raquel Guillot as Southern Europe sales director"
     },
     {
-     "title": "DOJ prüft Nvidias umarmenden Gesichtsdeal über KI-Wettbewerbsbedenken",
-     "link": "https://www.pymnts.com/legal/2026/doj-probes-nvidias-hugging-face-deal-over-ai-competition-concerns/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Nvidia-Hugging-Face-1.jpg?w=457",
+     "title": "JCB-Partner HAnoi Metro für kontaktlose Bahnzahlungen",
+     "link": "https://www.finextra.com/pressarticle/111502/jcb-partners-hanoi-metro-for-contactless-railway-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-29T01:44:07+00:00",
+     "time": "2026-10-29T12:14:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "DOJ Probes Nvidia’s Hugging Face Deal Over AI Competition Concerns",
-       "link": "https://www.pymnts.com/legal/2026/doj-probes-nvidias-hugging-face-deal-over-ai-competition-concerns/"
+       "name": "Finextra",
+       "title": "JCB partners HAnoi Metro for contactless railway payments",
+       "link": "https://www.finextra.com/pressarticle/111502/jcb-partners-hanoi-metro-for-contactless-railway-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "DOJ Probes Nvidia’s Hugging Face Deal Over AI Competition Concerns"
+     "title_orig": "JCB partners HAnoi Metro for contactless railway payments"
     },
     {
-     "title": "Microsoft sieht die Einführung von KI in Unternehmen beschleunigt, da die Nutzung von Copiloten zunimmt",
-     "link": "https://www.pymnts.com/earnings/2026/microsoft-sees-enterprise-ai-adoption-accelerate-as-copilot-usage-grows/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/06/Microsoft-lawsuit-1.jpg?w=457",
+     "title": "Neonomics und Movitz Payments stärken die Sicherheit von Pay by Bank",
+     "link": "https://www.finextra.com/pressarticle/111501/neonomics-and-movitz-payments-strengthen-pay-by-bank-security?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-10-29T01:25:37+00:00",
+     "time": "2026-10-29T12:12:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "Microsoft Sees Enterprise AI Adoption Accelerate as Copilot Usage Grows",
-       "link": "https://www.pymnts.com/earnings/2026/microsoft-sees-enterprise-ai-adoption-accelerate-as-copilot-usage-grows/"
+       "name": "Finextra",
+       "title": "Neonomics and Movitz Payments strengthen Pay by Bank security",
+       "link": "https://www.finextra.com/pressarticle/111501/neonomics-and-movitz-payments-strengthen-pay-by-bank-security?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "Microsoft Sees Enterprise AI Adoption Accelerate as Copilot Usage Grows"
-    },
-    {
-     "title": "FTC fordert 9 Unternehmen auf, Preis- und Vergütungsmethoden zu erläutern",
-     "link": "https://www.pymnts.com/legal/2026/ftc-orders-9-companies-to-explain-pricing-and-compensation-methodologies/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2025/08/FTC-Big-Tech.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-29T01:00:32+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "FTC Orders 9 Companies to Explain Pricing and Compensation Methodologies",
-       "link": "https://www.pymnts.com/legal/2026/ftc-orders-9-companies-to-explain-pricing-and-compensation-methodologies/"
-      }
-     ],
-     "title_orig": "FTC Orders 9 Companies to Explain Pricing and Compensation Methodologies"
-    },
-    {
-     "title": "Google drängt KI-Agenten in den Handel, da die Ausgaben den Cashflow unter Druck setzen",
-     "link": "https://www.pymnts.com/earnings/2026/google-pushes-ai-agents-into-commerce-as-spending-pressures-cash-flow/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/Alphabet-google-earnings-1.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-10-29T00:42:39+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Google Pushes AI Agents Into Commerce as Spending Pressures Cash Flow",
-       "link": "https://www.pymnts.com/earnings/2026/google-pushes-ai-agents-into-commerce-as-spending-pressures-cash-flow/"
-      }
-     ],
-     "title_orig": "Google Pushes AI Agents Into Commerce as Spending Pressures Cash Flow"
+     "title_orig": "Neonomics and Movitz Payments strengthen Pay by Bank security"
     }
    ],
    "7d": [
@@ -2466,54 +2466,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "michael stoschek",
-      "link": "https://www.manager-magazin.de/unternehmen/mobilitaet/michael-stoschek-brose-patriarch-schockt-wuerzburg-erneut-a-fdaacd82-8257-4e4d-b56c-d695b8f0eb97",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "tesla semi",
-      "link": "https://abc7news.com/post/tesla-semi-truck-bursts-flames-shuts-down-880-hayward/19988258/",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "tallon griekspoor",
-      "link": "https://www.sportbuzzer.de/tennis/alexander-zverev-uebersteht-unglaublichen-tennis-krimi-jetzt-fehlt-ihm-nur-noch-ein-sieg-zur-nummer-5TRNSL6VI5GQ7M5RD36GEXDFEE.html",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "tonline",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kuerzungen-pflegeleistungen-100.html",
+      "title": "sat.1",
+      "link": "https://www.t-online.de/unterhaltung/tv/id_101503458/jenke-von-wilmsdorff-wechselt-tv-sender-aenderung-bei-prosiebensat-1.html",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "tuttlingen",
-      "link": "https://www.suedkurier.de/baden-wuerttemberg/bahn-seehas-verlaengerung-nach-tuttlingen-scheitert-wie-es-jetzt-fuer-die-pendler-weitergeht-4-115545116",
-      "meta": "1000+ Suchanfragen"
+      "title": "arbeitsmarktservice",
+      "link": "https://orf.at/stories/3446387/",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "bushido",
-      "link": "https://www.t-online.de/unterhaltung/stars/id_101502804/rapper-bushido-spricht-ueber-seine-rente-laeuft-bei-mir-.html",
+      "title": "south park gta 6",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/oct/29/south-park-turns-to-americas-beef-shortage-and-explodes-in-diarrhea",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "zwickauer straße",
-      "link": "https://www.freiepresse.de/chemnitz/grossbrand-in-chemnitz-dachstuhl-der-wanderer-werke-steht-in-flammen-artikel14463102",
+      "title": "rebecca mir",
+      "link": "https://aachen.t-online.de/region/aachen/id_101372430/rebecca-mir-das-ist-der-beruehmte-ex-von-dem-model-aus-aachen-.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "finn jeltsch",
+      "link": "https://www.eurosport.de/fussball/bundesliga/2026-2027/fc-barcelona-streckt-fuehler-nach-finn-jeltsch-aus-top-klubs-um-real-madrid-atletico-und-liverpool-als-konkurrenz_sto23349873/story.shtml",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "t-online.de",
-      "link": "https://www.netzwelt.de/ist-down/260111-t-online-stoerung-donnerstag-nutzer-melden-massive-probleme-bekannt.html",
+      "title": "august hanning",
+      "link": "https://www.bild.de/news/august-hanning-ex-bnd-chef-in-u-haft-soll-an-krebs-erkrankt-sein-6ae320ac063ab7e38a99fd61",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "gta 6",
-      "link": "https://www.heise.de/news/GTA-6-Download-auf-der-Playstation-5-ist-offenbar-210-GByte-gross-11503967.html",
-      "meta": "5000+ Suchanfragen"
+      "title": "shell plc",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/shell-und-totalenergies-quartalsgewinne-dank-hohem-rohoelpreis-verdoppelt-a-49b46075-92d8-4518-b727-406d3c690bac",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "vitamin c + zink",
-      "link": "https://www.n-tv.de/ratgeber/Fuenf-Zinkpraeparate-mit-Vitamin-C-sind-ungenuegend-id31459498.html",
-      "meta": "100+ Suchanfragen"
+      "title": "microsoft update",
+      "link": "https://www.heise.de/news/Windows-Update-Vorschau-Tilde-fuer-alle-und-kleine-Verbesserungen-11504321.html",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "bernie ecclestone",
+      "link": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-quiet-courage-behind-juan-manuel-fangios-greatness/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "ölpreis",
+      "link": "https://www.heizoel24.de/news/artikel/005381-heizoel-wird-zur-wochenmitte-guenstiger-28-10-2026",
+      "meta": "2000+ Suchanfragen"
      }
     ]
    },
@@ -2580,32 +2580,30 @@
     "lang": "fr",
     "items": [
      {
-      "title": "Betrug",
-      "link": "https://www.lemonde.fr/international/article/2026/10/28/dans-la-presse-israelienne-le-reveil-douloureux-de-l-opposition-et-le-jeu-des-hypotheses-souvent-contradictoires-pour-sortir-de-l-impasse-politique_6801635_3210.html",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "fraude"
-     },
-     {
-      "title": "iran",
-      "link": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "Gymnastik",
-      "link": "https://www.ouest-france.fr/sport/gymnastique-artistique/gymnastique-rose-marchand-14-ans-quitte-officiellement-la-france-pour-representer-le-qatar-44530614-d35f-11f1-af78-2d36ec019942",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "gymnastique"
-     },
-     {
-      "title": "fermín lópez",
-      "link": "https://www.sport.es/es/noticias/barca/fermin-lopez-23-anos-13-135861997",
+      "title": "ticketmaster",
+      "link": "https://www.yahoo.com/entertainment/music/articles/legal-bought-four-olivia-rodrigo-154500296.html",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "Zeuge",
-      "link": "https://www.sudouest.fr/charente-maritime/puy-du-lac/quand-vous-etes-temoin-d-un-accident-arretez-vous-ne-partez-pas-apres-un-drame-de-la-route-le-cri-du-coeur-d-une-jeune-veuve-avant-le-proces-31252064.php",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "témoin"
+      "title": "john wayne",
+      "link": "https://www.cbr.com/el-dorado-john-wayne-hardest-quote-western-movie-history/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "veyrier-du-lac",
+      "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/28/maison-au-toit-de-chaume-ravagee-par-les-flammes-la-trentaine-de-pompiers-mobilises-ont-lutte-et-sauve-les-habitations-voisines",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Wildschwein",
+      "link": "https://www.centrepresseaveyron.fr/2026/10/28/drame-lors-dune-partie-de-chasse-un-chasseur-tue-par-balle-ce-mercredi-au-cours-dune-battue-aux-sangliers-13624953.php",
+      "meta": "20000+ Suchanfragen",
+      "title_orig": "sanglier"
+     },
+     {
+      "title": "u2",
+      "link": "https://www.u2.com/blogs/news/uk-europe-dates-for-the-greatest-show-on-earth-world-tour",
+      "meta": "500+ Suchanfragen"
      }
     ]
    },
@@ -2614,30 +2612,33 @@
     "lang": "it",
     "items": [
      {
-      "title": "altalex",
-      "link": "https://www.altalex.com/documents/news/2026/10/28/silenzio-imputato-interrogatorio-non-preclude-riparazione-per-errore-giudiziario",
-      "meta": "200+ Suchanfragen"
+      "title": "luciano darderi",
+      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-highlights-darderi-arnaldi-atp-vienna-l-italo-argentino-vince-il-derby/3cc2d20f-e2d7-4ec0-bf2a-c3b0d7280xlk",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "cuop",
-      "link": "https://baokhanhhoa.vn/phap-luat/an-ninh-trat-tu/202610/cuop-tai-san-mot-doi-tuong-bi-bat-7b50536/",
-      "meta": "200+ Suchanfragen"
+      "title": "Computer-Hacker",
+      "link": "https://www.rainews.it/tgr/trento/articoli/2026/10/nuovo-attacco-hacker-a-una-rsa-colpita-una-struttura-di-rovereto-d2c5730e-da3c-4d6b-9f93-eeeb287a60a3.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "hacker"
      },
      {
-      "title": "horoskop 29. Oktober",
-      "link": "https://www.gazzetta.it/oroscopo/storie/28-10-2026/oroscopo-di-giovedi-29-ottobre-2026-le-previsioni-dei-12-segni/ariete.shtml",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "oroscopo 29 ottobre"
+      "title": "percassi-Licht",
+      "link": "https://www.ecodibergamo.it/stories/premium/bergamo-citta/camminata-nerazzurra-rubato-lincasso-latalanta-lo-rifonde-o_3983164_11/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "luca percassi"
      },
      {
-      "title": "ticketmaster",
-      "link": "https://forbes.it/2026/10/29/ticketmaster-intelligenza-artificiale-ricerca-conversazionale-rivendita-resale",
-      "meta": "200+ Suchanfragen"
+      "title": "Reiseflug",
+      "link": "https://www.ilfattoquotidiano.it/2026/10/29/vendono-casa-per-vivere-in-crociera-per-sempre-dopo-8-ore-di-preavviso-li-sbarcano-tutti-in-cambogia-i-passeggeri-hanno-speso-fino-a-440mila-dollari/8553726/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "crociera"
      },
      {
-      "title": "gf vip",
-      "link": "https://mediasetinfinity.mediaset.it/video/grandefratellovip/alex-belli-vs-roncaccia-il-faccia-a-faccia_F314747501013C02",
-      "meta": "500+ Suchanfragen"
+      "title": "news-Woche",
+      "link": "https://www.settimananews.it/reportage-interviste/irc-a-quando-il-cambiamento/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "settimana news"
      }
     ]
    },
@@ -2646,32 +2647,32 @@
     "lang": "es",
     "items": [
      {
-      "title": "ruhestand in Spanien",
-      "link": "https://okdiario.com/economia/gonzalo-bernardos-lanza-advertencia-sobre-jubilacion-espana-debemos-estar-preparados-lo-que-viene-porque-vamos-camino-dinamarca-20650468",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "jubilación en españa"
+      "title": "juli Kirchen",
+      "link": "https://www.vanitatis.elconfidencial.com/famosos/2026-10-29/comunicado-julio-iglesias-rompe-silencio-todos-podriamos-haber-subido_4455232/",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "julio iglesias"
      },
      {
-      "title": "Ägypten",
-      "link": "https://www.reuters.com/world/africa/putin-woos-african-leaders-showcase-summit-says-russia-is-better-partner-than-2026-10-28/",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "egipto"
+      "title": "pumpenwarnung heute",
+      "link": "https://www.canarias7.es/sucesos/aeropuerto-gran-canaria-activa-operativo-espacial-ante-20261026210609-nt.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "aviso de bomba hoy"
      },
      {
-      "title": "england vs sri lanka",
-      "link": "https://www.bbc.com/sport/cricket/live/cx3057vzg6q4t",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "2028",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/2028-democrats.html",
+      "title": "karra elejalde",
+      "link": "https://www.noticiasdealava.eus/gente/2026/10/29/karra-elejalde-recuerda-vivia-euskadi-franquismo-11701206.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Talweg",
-      "link": "https://www.lecturas.com/diario/cabanuelas-jorge-rey-se-adelantan-aemet-una-vaguada-va-cambiar-por-completo-tiempo-espana-entre-16-18-diciembre-llegan-lluvias-tormentas-heladas-importantes-hacia-20-22_200488",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "vaguada"
+      "title": "jaime lannister",
+      "link": "https://elpais.com/gente/2026-10-29/nikolaj-coster-waldau-jamie-lannister-en-juego-de-tronos-se-refugia-en-una-estacion-de-metro-de-kiev-de-los-bombardeos-rusos.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Marokko",
+      "link": "https://www.newtral.es/espana-financia-trenes-marruecos-regalo-gobierno/20261029/",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "marruecos"
      }
     ]
    },
@@ -2680,30 +2681,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "michael douglas",
-      "link": "https://www.standard.co.uk/showbiz/jack-nicholson-retired-acting-michael-douglas-b1302618.html",
-      "meta": "500+ Suchanfragen"
+      "title": "myleene klass",
+      "link": "https://www.thesun.co.uk/tvandshowbiz/40840781/myleene-klass-honours-george-michael/",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "tottenham hotspur crystal palace team news",
-      "link": "https://www.football.london/tottenham-hotspur-fc/fixtures-results/remarkable-quirk-tottenhams-victories-season-34821302",
+      "title": "PGA-TOUR",
+      "link": "https://www.yahoo.com/lifestyle/articles/models-pga-tours-best-putters-060000283.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "pga tour"
+     },
+     {
+      "title": "u2",
+      "link": "https://www.u2.com/blogs/news/uk-europe-dates-for-the-greatest-show-on-earth-world-tour",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "reorganisation der Kommunalverwaltung",
+      "link": "https://www.gov.uk/government/news/local-government-reorganisation-moves-forward-in-five-counties",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "local government reorganisation"
+     },
+     {
+      "title": "red dwarf",
+      "link": "https://www.edp24.co.uk/news/national/uk-today/26679767.red-dwarf-series-1-8-now-streaming-netflix-uk/",
       "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "Wetter Nebel",
-      "link": "https://www.bbc.com/weather/articles/c6x2wr0dwzx1o",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "weather fog"
-     },
-     {
-      "title": "john cleese",
-      "link": "https://www.cleveland.com/entertainment/2026/10/todays-famous-birthdays-list-for-october-27-2026-includes-celebrities-john-cleese-lee-greenwood.html",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "robert jenrick",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly0x8q8nngo",
-      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2712,32 +2714,31 @@
     "lang": "pl",
     "items": [
      {
-      "title": "unser neues Zuhause",
-      "link": "https://kobieta.wp.pl/sprzedaz-domu-po-programie-wtedy-uczestnicy-nnd-moga-to-zrobic-7345169870776800a",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "nasz nowy dom"
-     },
-     {
-      "title": "faule Tomaten",
-      "link": "https://www.yahoo.com/entertainment/movies/articles/kristen-wiig-comedy-featuring-one-132400651.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "rotten tomatoes"
-     },
-     {
-      "title": "alphabet",
-      "link": "https://finance.yahoo.com/markets/stocks/article/google-stock-gets-shredded-after-earningsheres-2-reasons-why-investors-hated-the-quarter-090019155.html",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "aufgabenbereich",
-      "link": "https://film.dziennik.pl/news/artykuly/11336020,line-of-duty-wydzial-wewnetrzny-najlepszy-serial-kryminalny-sezon-5-odcinek-1-i-2.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "line of duty"
-     },
-     {
-      "title": "beata tyszkiewicz",
-      "link": "https://kultura.gazeta.pl/kultura/7,114628,33103627,cytat-dnia-beata-tyszkiewicz-macierzynstwo-to-generalnie-udreka.html",
+      "title": "lilli tagger",
+      "link": "https://przegladsportowy.onet.pl/tenis/lilli-tagger-magda-linette-relacja-na-zywo-wta-kanton-live/em5pd2g",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "volkswagen",
+      "link": "https://www.nytimes.com/2026/10/29/business/volkswagen-loss-china.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Grenzschutzbeamter",
+      "link": "https://wydarzenia.interia.pl/podkarpackie/news-krotko-po-wybuchu-wojny-rozwinal-sie-podstepny-proceder-grup,nId,23565831",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "straż graniczna"
+     },
+     {
+      "title": "weil, gotshal & manges",
+      "link": "https://www.juve.de/markt-und-management/ende-einer-institution-weil-gotshal-manges-wird-abgewickelt/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "wohnperlen",
+      "link": "https://przegladsportowy.onet.pl/pilka-nozna/nie-zyje-jan-bys-mial-72-lata/qd3kw52",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "szombierki bytom"
      }
     ]
    },
@@ -2812,34 +2813,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "Zwischensemester",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "midterms"
+      "title": "zazie beetz",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/oct/29/nocturne-review-stephen-graham-rory-culkin-apple-tv",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "Pfändung",
-      "link": "https://www.realtor.com/news/trends/vacancy-zombie-foreclosure-rates-decline-attom-q3-2026/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "foreclosure"
+      "title": "gdp",
+      "link": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "Peptide",
-      "link": "https://www.bbc.com/news/articles/cmq8nwd748v3o",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "peptides"
-     },
-     {
-      "title": "auf Sicherheit.",
-      "link": "https://www.reuters.com/world/india/gold-slips-markets-assess-fed-signals-await-us-inflation-data-2026-10-29/",
+      "title": "St",
+      "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
       "meta": "500+ Suchanfragen",
-      "title_orig": "price of gold"
+      "title_orig": "pce"
      },
      {
-      "title": "kambodscha",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-fuel-costs",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "cambodia"
+      "title": "tot bei Tageslicht",
+      "link": "https://www.ign.com/videos/dead-by-daylight-official-terrifier-teaser-trailer",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "dead by daylight"
+     },
+     {
+      "title": "stimmzettel",
+      "link": "https://ballotpedia.org/Daily_Brew:_October_28,_2026",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "ballotpedia"
      }
     ]
    },
@@ -2848,33 +2847,34 @@
     "lang": "en",
     "items": [
      {
-      "title": "laurus labs aktienkurs",
-      "link": "https://www.siam.in/aticles-market/Laurus-Labs-LAURUSLABSNS-Declines-231-to-195620-Amid-Pharma-Sector-Consolidation-62-7315",
+      "title": "2/3",
+      "link": "https://www.bbc.com/tamil/articles/c65ynwgqekj0o",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "வானிலை முன்னறிவிப்பு"
+     },
+     {
+      "title": "2:1",
+      "link": "https://www.aajtak.in/india/news/video/heavy-snowfall-in-kedarnath-and-badrinath-while-cyclone-arnab-brings-heavy-rain-in-south-india-vdot-ytvd-2683404-2026-10-29",
       "meta": "200+ Suchanfragen",
-      "title_orig": "laurus labs share price"
+      "title_orig": "केदारनाथ"
      },
      {
-      "title": "Ehre",
-      "link": "https://www.gsmarena.com/honor_x8e_4g_quietly_launches_with_a_108mp_camera_and_a_7700mah_battery-news-75251.php",
+      "title": "flavio bolsonaro brasilien",
+      "link": "https://timesofindia.indiatimes.com/world/us/decoys-secret-jet-and-trumps-help-how-bolsonaro-pulled-off-his-escape-from-brazil-to-us/articleshow/135297514.cms",
       "meta": "200+ Suchanfragen",
-      "title_orig": "honor"
+      "title_orig": "flavio bolsonaro brazil"
      },
      {
-      "title": "fnp",
-      "link": "https://www.zeit.de/news/2026-10/28/sechs-fahrzeuge-bei-unfaellen-auf-der-b456-beteiligt",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "Ätzend",
-      "link": "https://www.eenadu.net/telugu-news/districts/vizianagaram-news/12/126196425",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "శ్రీకాకుళం"
-     },
-     {
-      "title": "2: 1",
-      "link": "https://www.kannadaprabha.com/cricket/2026/Oct/29/first-time-in-21st-century-sarfaraz-khan-brother-musheer-khan-achieves-rare-feat-in-ranji-trophy",
+      "title": "jaipur-Wetter",
+      "link": "https://www.bhaskar.com/local/rajasthan/sawai-madhopur/news/the-weather-will-change-in-the-district-from-today-there-is-a-possibility-of-hailstorm-along-with-rain-dbp-139521034.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "ಸರ್ಫರಾಜ್ ಖಾನ್"
+      "title_orig": "jaipur weather"
+     },
+     {
+      "title": "5x5x5x5x5x5x",
+      "link": "https://www.bhaskar.com/g/national/news/supreme-court-digital-arrest-cyber-fraud-statement-sc-news-139521747.html",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "सूर्यकांत"
      }
     ]
    },
@@ -2883,33 +2883,32 @@
     "lang": "pt",
     "items": [
      {
-      "title": "militärbrigade von Rio Grande do Sul",
-      "link": "https://correiobrigadiano.com.br/acao-conjunta-realiza-limpeza-e-restauracao-no-historico-cemiterio-da-brigada-militar/",
+      "title": "datum",
+      "link": "https://www.gov.br/inss/pt-br/noticias/13o-salario-pagamento-da-segunda-parcela-do-adiantamento-comeca-nesta-quinta-feira-24",
       "meta": "200+ Suchanfragen",
-      "title_orig": "brigada militar do rio grande do sul"
+      "title_orig": "data"
      },
      {
-      "title": "mayanhonig",
-      "link": "https://radioglobo.globo.com/o-que-ta-bombando/noticia/2026/10/28/mel-maia-revela-que-perdeu-dentes-durante-gravacao-de-avenida-brasil.ghtml",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "mel maia"
+      "title": "tati-Axt",
+      "link": "https://gshow.globo.com/gnt/saia-justa/noticia/tati-machado-se-emociona-com-homenagem-e-recorda-filho-rael-senti-a-maternidade-mesmo-sem-te-la.ghtml",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "tati machado"
      },
      {
-      "title": "aojesp - Vereinigung der Justizbeamten des Bundesstaates São Paulo",
-      "link": "https://aojesp.org.br/justica-condena-reus-no-caso-de-oficial-de-justica-agredido-em-hortolandia/",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "aojesp - associação dos oficiais de justiça do estado de são paulo"
+      "title": "matheuzinho",
+      "link": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/28/clima-em-elenco-do-corinthians-tem-choro-de-matheuzinho-e-preocupacao-com-rebaixamento.ghtml",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "pierpaolo Bottini Rechtsanwalt",
-      "link": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/criminalista-pierpaolo-bottini-e-cotado-para-ministerio-da-justica/",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "pierpaolo bottini advogado"
+      "title": "novemberferien",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/29/novembro-tera-tres-feriados-veja-datas.ghtml",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "feriados de novembro"
      },
      {
-      "title": "elena rybakina",
-      "link": "https://japantoday.com/category/sports/rybakina-looking-to-clinch-year-end-number-one-in-tokyo",
-      "meta": "100+ Suchanfragen"
+      "title": "paulo guedes",
+      "link": "https://www.metropoles.com/colunas/tacio-lorran/pf-investiga-paulo-guedes-por-crime-contra-o-sistema-financeiro",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2918,34 +2917,34 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Takuya Kinoshita",
-      "link": "https://news.yahoo.co.jp/articles/179eeea3886b4ff8d5780bb4ea86133e146fce11",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "木下拓哉"
-     },
-     {
-      "title": "Ende der Ewigkeit",
-      "link": "https://www.famitsu.com/article/202610/92464",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "エンドオブエタニティ"
-     },
-     {
-      "title": "Isoko Mochizuki",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E6%9C%9B%E6%9C%88%E8%A1%A3%E5%A1%91%E5%AD%90",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "望月衣塑子"
-     },
-     {
-      "title": "Löwen Tasse Termine",
-      "link": "https://news.yahoo.co.jp/articles/f4ccf36476b7a5c1d2f934e54a56afff5ae4c955",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "ルヴァンカップ 日程"
-     },
-     {
-      "title": "Ikeda Senshu Bank",
-      "link": "https://news.yahoo.co.jp/pickup/6600584",
+      "title": "Yuna Taira",
+      "link": "https://topics.smt.docomo.ne.jp/article/smartflash/entertainment/smartflash-436092",
       "meta": "200+ Suchanfragen",
-      "title_orig": "池田泉州銀行"
+      "title_orig": "平祐奈"
+     },
+     {
+      "title": "m Liga",
+      "link": "https://news.yahoo.co.jp/articles/367b5a57f73dc2fed049073f4d2e52ffd4ae9d5b",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "mリーグ"
+     },
+     {
+      "title": "Ionenschleim dunkel",
+      "link": "https://news.yahoo.co.jp/articles/b703ec11ab86370c616871aa36da6b00bf1cf96b",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "イオン スライム ダーク"
+     },
+     {
+      "title": "Daisuke Miura",
+      "link": "https://www.nikkansports.com/battle/sumo/photonews/photonews_nsInc_202610250001052-1.html",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "三浦大輔"
+     },
+     {
+      "title": "Wirtschaftsindikatoren",
+      "link": "https://finance.yahoo.co.jp/news/detail/bf9fa76a58db304def52cbd3e8d3cb131fd3c5b1",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "経済指標"
      }
     ]
    },
@@ -3014,34 +3013,34 @@
     "lang": "en",
     "items": [
      {
+      "title": "Bluesky blockiert Links zu einem großen Leck von DHS-Mitarbeiterdatensätzen",
+      "link": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+      "meta": "WIRED · 237 Personen teilen",
+      "title_orig": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records"
+     },
+     {
       "title": "ICE betreibt eine der größten linksfeindlichen Überwachungsoperationen in der Geschichte der USA",
       "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-      "meta": "WIRED · 452 Personen teilen",
+      "meta": "WIRED · 470 Personen teilen",
       "title_orig": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History"
      },
      {
       "title": "Massives Leck enthüllt 41.000 Homeland Security-Mitarbeiter - einschließlich Undercover-ICE-Agenten",
       "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "meta": "WIRED · 416 Personen teilen",
+      "meta": "WIRED · 436 Personen teilen",
       "title_orig": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents"
      },
      {
       "title": "Konservative Influencer, die wegen rechtswidriger Stimmabgabe angeklagt sind und sich in „muslimischer Kleidung“ tarnen",
       "link": "https://www.theguardian.com/us-news/2026/oct/28/voting-felony-disguise-minneapolis",
-      "meta": "The Guardian · 422 Personen teilen",
+      "meta": "The Guardian · 451 Personen teilen",
       "title_orig": "Conservative influencers charged with unlawful voting, disguising themselves in ‘Muslim garb’"
      },
      {
-      "title": "Bluesky blockiert Links zu einem großen Leck von DHS-Mitarbeiterdatensätzen",
-      "link": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
-      "meta": "WIRED · 91 Personen teilen",
-      "title_orig": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records"
-     },
-     {
-      "title": "Hacker stahlen Personaldaten über Tausende von Homeland Security-Mitarbeitern, einschließlich CBP- und ICE-Agenten | TechCrunch",
-      "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-      "meta": "TechCrunch · 211 Personen teilen",
-      "title_orig": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents | TechCrunch"
+      "title": "Heute vor 50 Jahren wurde das Internet geboren.",
+      "link": "https://arstechnica.com/information-technology/2019/10/50-years-ago-today-the-internet-was-born-sort-of/",
+      "meta": "Ars Technica · 75 Personen teilen",
+      "title_orig": "50 years ago today, the Internet was born. Sort of"
      }
     ]
    }
@@ -3052,7 +3051,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 63,
+   "count": 61,
    "error": ""
   },
   {
@@ -3073,7 +3072,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 162,
+   "count": 158,
    "error": ""
   },
   {
@@ -3087,7 +3086,7 @@
    "source": "Finanz-Szene",
    "category": "pay_de",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": ""
   },
   {
@@ -3122,7 +3121,7 @@
    "source": "Finextra",
    "category": "pay_eu",
    "ok": true,
-   "count": 7,
+   "count": 10,
    "error": ""
   },
   {
@@ -3269,8 +3268,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 114,
-   "info": "114 von 114 Überschriften übersetzt (neu in diesem Lauf: MyMemory 52). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 112,
+   "info": "112 von 112 Überschriften übersetzt (neu in diesem Lauf: MyMemory 64). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
