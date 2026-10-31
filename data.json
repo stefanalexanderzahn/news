@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T15:43:54+00:00",
+ "generated": "2026-10-31T18:52:55+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
@@ -38,21 +38,79 @@
     ]
    },
    {
-    "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-    "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
-    "image": "https://images.tagesschau.de/image/fe71c35a-2fba-4961-abc0-ac073243635b/AAABoZIiK3A/AAABnSSvrFg/16x9-big/ukraine-2890.jpg?width=1920",
+    "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
+    "image": "https://images.tagesschau.de/image/3c693696-01d8-4305-a50e-b410eef58dc0/AAABoZKxZXE/AAABnSSvrFg/16x9-big/berlin-die-linke-100.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-10-31T15:20:00+00:00",
+    "time": "2026-10-31T18:00:40+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-      "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
+      "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Berlin: Linke entscheidet sich für Koalitionsverhandlungen",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Evakuierung aus Oleschky: Oleschky-Flüchtlinge sind laut Selenskyj wieder in der Ukraine",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/oleschky-ukraine-russische-besatzung-evakuierung-belarus-dmytro-lubinez-wolodymyr-selenskyj"
+      "title": "Nach Berlinwahl: Berliner Linke stimmt für Aufnahme von Koalitionsgesprächen",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/berliner-linke-stimmt-fuer-aufnahme-von-koalitionsverhandlungen"
+     },
+     {
+      "name": "FAZ",
+      "title": "Deutschland Liveblog: Berliner Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-faz-110093143.html"
+     }
+    ]
+   },
+   {
+    "title": "Linke in Berlin: Elif Eralp bekommt Applaus bei Parteitag – Vanessa Emde demonstriert draußen",
+    "link": "https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/c46a68c7-7592-4c07-9c4c-41fe307f0e0f_w520_r2.08_fpx32.13_fpy52.99.jpg",
+    "n_sources": 4,
+    "time": "2026-10-31T17:32:00+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "Linke in Berlin: Elif Eralp bekommt Applaus bei Parteitag – Vanessa Emde demonstriert draußen",
+      "link": "https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Berlin: Elif Eralp erhält Polizeischutz beim Linken-Parteitag",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/elif-eralp-berlin-polizeischutz-die-linke-spiegel"
+     },
+     {
+      "name": "FAZ",
+      "title": "Parteitag in Berlin: Elif Eralp gibt sich kämpferisch – und erringt einen Sieg",
+      "link": "https://www.faz.net/aktuell/politik/inland/elif-eralp-fuehrt-die-berliner-linke-in-koalitionsverhandlungen-mit-spd-und-gruenen-201639508.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Berlin: Elif Eralp: „Werden uns nicht kleinkriegen lassen“",
+      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-elif-eralp-werden-uns-nicht-kleinkriegen-lassen/100266336.html"
+     }
+    ]
+   },
+   {
+    "title": "Evakuierung von ukrainischer Frontstadt Oleschky beendet",
+    "link": "https://www.tagesschau.de/video/video-1675768.html",
+    "image": "https://images.tagesschau.de/image/3ea1bc69-0492-44a9-b483-cf565ab8131d/AAABoZLIXX4/AAABnSSvrFg/16x9-big/sendungsbild-1820208.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-10-31T16:26:10+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Evakuierung von ukrainischer Frontstadt Oleschky beendet",
+      "link": "https://www.tagesschau.de/video/video-1675768.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Ukraine-Krieg: Oleschky-Flüchtlinge sollen bald zurück in der Ukraine sein",
+      "link": "https://www.zeit.de/news/2026-10/31/russland-ukrainische-oleschky-fluechtlinge-ausgeflogen"
      },
      {
       "name": "FAZ",
@@ -67,17 +125,36 @@
     ]
    },
    {
-    "title": "Emma Hübner, \"Gen Z regelt\" Köln, zu den Jugendprotesten",
-    "link": "https://www.tagesschau.de/video/video-1675346.html",
-    "image": "https://images.tagesschau.de/image/16611179-9863-41b7-b098-b9234dc1a253/AAABoY4UlI4/AAABnSSvrFg/16x9-big/sendungsbild-1819834.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-31T15:27:00+00:00",
+    "title": "Oleschky-Flüchtlinge sind wieder in der Ukraine",
+    "link": "https://www.spiegel.de/ausland/oleschky-fluechtlinge-sind-wieder-in-der-ukraine-a-84c2759e-6b0b-419a-87e9-ab0b2e5ff5a7#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/9b3efc3a-bafd-407e-b5f2-cef39eb2dc98_w520_r2.08_fpx55.99_fpy49.99.jpg",
+    "n_sources": 3,
+    "time": "2026-10-31T16:15:00+00:00",
     "sources": [
      {
-      "name": "Tagesschau",
-      "title": "Emma Hübner, \"Gen Z regelt\" Köln, zu den Jugendprotesten",
-      "link": "https://www.tagesschau.de/video/video-1675346.html"
+      "name": "Spiegel",
+      "title": "Oleschky-Flüchtlinge sind wieder in der Ukraine",
+      "link": "https://www.spiegel.de/ausland/oleschky-fluechtlinge-sind-wieder-in-der-ukraine-a-84c2759e-6b0b-419a-87e9-ab0b2e5ff5a7#ref=rss"
      },
+     {
+      "name": "Zeit Online",
+      "title": "Evakuierung aus Oleschky: Oleschky-Flüchtlinge sind laut Selenskyj wieder in der Ukraine",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/oleschky-ukraine-russische-besatzung-evakuierung-belarus-dmytro-lubinez-wolodymyr-selenskyj"
+     },
+     {
+      "name": "FAZ",
+      "title": "UKRAINE: Evakuierte aus dem besetzten Oleschky über Belarus gebracht",
+      "link": "https://www.faz.net/video/ukraine-holt-zivilisten-aus-dem-besetzten-oleschky-heraus-201639139.html"
+     }
+    ]
+   },
+   {
+    "title": "»Gen Z regelt«: So laufen die »Gen Z regelt«-Demos in ganz Deutschland ab",
+    "link": "https://www.spiegel.de/panorama/gen-z-regelt-so-laufen-die-gen-z-regelt-demos-in-ganz-deutschland-ab-a-1158e142-e5c5-4290-91f2-772daf524f2c#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/78f7ee3b-9629-48f9-b6af-ee8ffef1bfef_w520_r2.08_fpx57.33_fpy49.99.jpg",
+    "n_sources": 3,
+    "time": "2026-10-31T15:27:00+00:00",
+    "sources": [
      {
       "name": "Spiegel",
       "title": "»Gen Z regelt«: So laufen die »Gen Z regelt«-Demos in ganz Deutschland ab",
@@ -92,35 +169,6 @@
       "name": "FAZ",
       "title": "Gen-Z-Demos: Demonstrationszug in Köln wegen Vermummung abgesagt",
       "link": "https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-demonstrationszug-in-koeln-wegen-vermummung-abgesagt-faz-201635936.html"
-     }
-    ]
-   },
-   {
-    "title": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
-    "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html",
-    "image": "https://images.tagesschau.de/image/0c397f94-5de0-41e8-bf4f-4d9385bcc5ec/AAABoY_rktU/AAABnSSvrFg/16x9-big/lawrow-298.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-10-31T03:29:27+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
-      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Atlanta: G20-Außenminister sperren sich gegen »Familienfoto« mit Russland",
-      "link": "https://www.spiegel.de/ausland/atlanta-g20-aussenminister-sperren-sich-gegen-familienfoto-mit-russland-a-33133ed9-ccae-4ef5-8cda-c0763f269655#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Ukrainekrieg: Russischer Außenminister Lawrow provoziert beim G20-Treffen",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/sergej-lawrow-russland-usa-beziehungen-sanktionen-g20"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Ukraine-Krieg: Lawrow poltert beim G20-Außenministertreffen in Atlanta",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-lawrow-poltert-beim-g20-aussenministertreffen-in-atlanta/100266269.html"
      }
     ]
    },
@@ -197,80 +245,71 @@
     ]
    },
    {
-    "title": "Midterms: Gericht verbietet Trump-Regierung Druck auf Wahlbeamte",
-    "link": "https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte-a-cd8a3fe0-68e6-4284-8717-d71f620c835d#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/fedf96ec-e7a5-487e-a728-a2f1133e5161_w520_r2.08_fpx37.34_fpy50.jpg",
-    "n_sources": 3,
-    "time": "2026-10-31T05:21:00+00:00",
+    "title": "Frankreich erwartet Hunderttausende bei neuen Protesten",
+    "link": "https://www.tagesschau.de/video/video-1675760.html",
+    "image": "https://images.tagesschau.de/image/d893aeda-4b29-4124-a48f-5cd7f9abc551/AAABoZLQ7Zo/AAABnSSvrFg/16x9-big/sendungsbild-1820214.jpg?width=1920",
+    "n_sources": 2,
+    "time": "2026-10-31T18:43:19+00:00",
     "sources": [
      {
-      "name": "Spiegel",
-      "title": "Midterms: Gericht verbietet Trump-Regierung Druck auf Wahlbeamte",
-      "link": "https://www.spiegel.de/ausland/midterms-gericht-verbietet-trump-regierung-druck-auf-wahlbeamte-a-cd8a3fe0-68e6-4284-8717-d71f620c835d#ref=rss"
+      "name": "Tagesschau",
+      "title": "Frankreich erwartet Hunderttausende bei neuen Protesten",
+      "link": "https://www.tagesschau.de/video/video-1675760.html"
      },
      {
       "name": "Zeit Online",
-      "title": "Midterms in den USA: Wie kommt Trumps Zollpolitik in Kanada an?",
-      "link": "https://www.zeit.de/video/2026-10/midterms-usa-donald-trump-repraesentantenhaus-senat"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: US-Gericht verbietet Trumps Regierung Druck auf Wahlhelfer",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer-faz-19444916.html"
-     }
-    ]
-   },
-   {
-    "title": "Jugendproteste in mehr als 30 Städten geplant",
-    "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
-    "image": "https://images.tagesschau.de/image/08aa6f05-11c3-4adc-bd3f-ad620756cca3/AAABoZBNUYc/AAABnSSvrFg/16x9-big/proteste-188.jpg?width=1920",
-    "n_sources": 2,
-    "time": "2026-10-31T15:01:42+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Jugendproteste in mehr als 30 Städten geplant",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "„Gen Z regelt“: Bundesweite Jugendproteste in ersten Städten gestartet – Vermummte und Pyrotechnik in Stuttgart",
-      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-regelt-bundesweite-jugendproteste-in-ersten-staedten-gestartet/100266344.html"
-     }
-    ]
-   },
-   {
-    "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
-    "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
-    "image": "https://images.tagesschau.de/image/9f49bd5c-5daa-4757-ad0b-b6f9d181edc3/AAABoZIXzaw/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-122.jpg?width=1920",
-    "n_sources": 2,
-    "time": "2026-10-31T13:57:56+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Polen: Polizeieinsatz bei eskalierendem Streit über das Verfassungsgericht",
-      "link": "https://www.spiegel.de/ausland/polen-polizeieinsatz-bei-eskalierendem-streit-ueber-das-verfassungsgericht-a-47bdca85-d4e4-48da-8688-d3c40f2065ad#ref=rss"
+      "title": "Proteste in Frankreich: Spannungen steigen am Abend, Hunderttausende auf den Straßen",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/proteste-frankreich-paris-gele-west-gesellschaft-gewerkschaften-gxe"
      }
     ]
    }
   ],
   "7d": [
    {
-    "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-    "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
-    "image": "https://images.tagesschau.de/image/fe71c35a-2fba-4961-abc0-ac073243635b/AAABoZIiK3A/AAABnSSvrFg/16x9-big/ukraine-2890.jpg?width=1920",
+    "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
+    "image": "https://images.tagesschau.de/image/77afaa8a-f08f-4b05-82ca-60ff45e5088a/AAABoXxq0UI/AAABnSSvrFg/16x9-big/rbb-625257499-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-31T15:20:00+00:00",
+    "time": "2026-10-31T17:32:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-      "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
+      "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Linke in Berlin: Elif Eralp bekommt Applaus bei Parteitag – Vanessa Emde demonstriert draußen",
+      "link": "https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Berlin: Elif Eralp erhält Polizeischutz beim Linken-Parteitag",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/elif-eralp-berlin-polizeischutz-die-linke-spiegel"
+     },
+     {
+      "name": "FAZ",
+      "title": "Parteitag in Berlin: Elif Eralp gibt sich kämpferisch – und erringt einen Sieg",
+      "link": "https://www.faz.net/aktuell/politik/inland/elif-eralp-fuehrt-die-berliner-linke-in-koalitionsverhandlungen-mit-spd-und-gruenen-201639508.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Berlin: Elif Eralp: „Werden uns nicht kleinkriegen lassen“",
+      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-elif-eralp-werden-uns-nicht-kleinkriegen-lassen/100266336.html"
+     }
+    ]
+   },
+   {
+    "title": "Evakuierung von ukrainischer Frontstadt Oleschky beendet",
+    "link": "https://www.tagesschau.de/video/video-1675768.html",
+    "image": "https://images.tagesschau.de/image/3ea1bc69-0492-44a9-b483-cf565ab8131d/AAABoZLIXX4/AAABnSSvrFg/16x9-big/sendungsbild-1820208.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-31T16:26:10+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Evakuierung von ukrainischer Frontstadt Oleschky beendet",
+      "link": "https://www.tagesschau.de/video/video-1675768.html"
      },
      {
       "name": "Spiegel",
@@ -279,8 +318,8 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Evakuierung aus Oleschky: Oleschky-Flüchtlinge sind laut Selenskyj wieder in der Ukraine",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/oleschky-ukraine-russische-besatzung-evakuierung-belarus-dmytro-lubinez-wolodymyr-selenskyj"
+      "title": "Ukraine-Krieg: Oleschky-Flüchtlinge sollen bald zurück in der Ukraine sein",
+      "link": "https://www.zeit.de/news/2026-10/31/russland-ukrainische-oleschky-fluechtlinge-ausgeflogen"
      },
      {
       "name": "FAZ",
@@ -291,6 +330,40 @@
       "name": "Handelsblatt",
       "title": "+++ Ukraine-Krieg +++: Oleschky-Flüchtlinge in der Ukraine angekommen – Evakuierung von ukrainischer Frontstadt beendet",
       "link": "https://www.handelsblatt.com/politik/international/ukraine-oleschky-fluechtlinge-in-der-ukraine-angekommen/27982126.html"
+     }
+    ]
+   },
+   {
+    "title": "Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html",
+    "image": "https://images.tagesschau.de/image/d4855fdf-43b3-43c7-a54a-397ee7c45e9a/AAABoY2w1fI/AAABnSSvrFg/16x9-big/busse-oleschky-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-31T16:15:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Oleschky-Flüchtlinge sind wieder in der Ukraine",
+      "link": "https://www.spiegel.de/ausland/oleschky-fluechtlinge-sind-wieder-in-der-ukraine-a-84c2759e-6b0b-419a-87e9-ab0b2e5ff5a7#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Evakuierung aus Oleschky: Oleschky-Flüchtlinge sind laut Selenskyj wieder in der Ukraine",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/oleschky-ukraine-russische-besatzung-evakuierung-belarus-dmytro-lubinez-wolodymyr-selenskyj"
+     },
+     {
+      "name": "FAZ",
+      "title": "UKRAINE: Evakuierte aus dem besetzten Oleschky über Belarus gebracht",
+      "link": "https://www.faz.net/video/ukraine-holt-zivilisten-aus-dem-besetzten-oleschky-heraus-201639139.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Ukraine-Krieg +++: Evakuierung aus russisch besetztem Oleschky abgeschlossen",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-evakuierung-aus-russisch-besetztem-oleschky-abgeschlossen/27982126.html"
      }
     ]
    },
@@ -499,40 +572,6 @@
     ]
    },
    {
-    "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-    "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
-    "image": "https://images.tagesschau.de/image/58c6a5b2-091b-4fbc-a28e-4aee3f008817/AAABoYj-n3M/AAABnSSvrFg/16x9-big/lagarde-334.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-29T18:40:44+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Christine Lagarde: EZB-Präsidentin verlässt Notenbank in heikler Phase",
-      "link": "https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-verlaesst-notenbank-in-heikler-phase-a-d8530265-f4ff-421a-927a-c741945cb96d#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "EZB-Präsidentin: Christine Lagarde hört vorzeitig als EZB-Präsidentin auf",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/christine-lagarde-hoert-vorzeitig-als-ezb-praesidentin-auf"
-     },
-     {
-      "name": "FAZ",
-      "title": "Wer wird die nachfolge?: EZB-Präsidentin Lagarde tritt vorzeitig zurück",
-      "link": "https://www.faz.net/video/ezb-praesidentin-lagarde-tritt-vorzeitig-zurueck-201633034.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Geldpolitik: EZB-Präsidentin Christine Lagarde tritt im Februar vorzeitig ab",
-      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/christine-lagarde-ezb-praesidentin-tritt-im-februar-2027-vorzeitig-ab/100265875.html"
-     }
-    ]
-   },
-   {
     "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
     "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
     "image": "https://images.tagesschau.de/image/4fa122f3-e6c0-4210-a3ea-9a24fb193a7f/AAABoYSCpNQ/AAABnSSvrFg/16x9-big/bolsonaro-348.jpg?width=1920",
@@ -563,56 +602,56 @@
       "name": "Handelsblatt",
       "title": "Brasilien: Bolsonaro erklärt sich zum wahren Wahlsieger – wie er der brasilianischen Justiz entkam",
       "link": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaro-erklaert-sich-zum-wahren-wahlsieger-wie-er-der-brasilianischen-justiz-entkam/100265385.html"
-     }
-    ]
-   },
-   {
-    "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
-    "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html",
-    "image": "https://images.sportschau.de/image/a1a67031-0807-44aa-8235-3e034c38917b/AAABoXl6fDM/AAABnSSvrFg/16x9-big/putellas-122.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-27T12:24:52+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
-      "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Ballon d’Or für Harry Kane: Reaktionen auf die Wahl des Bayernstars zum Weltfußballer",
-      "link": "https://www.spiegel.de/sport/ballon-d-or-fuer-harry-kane-reaktionen-auf-die-wahl-des-bayernstars-zum-weltfussballer-a-c309b0a7-41e0-4fca-9576-22f5a4bf0294#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Prestigeträchtige Auszeichnung: «Wow!»: Bayerns Harry Kane gewinnt den Ballon d'Or",
-      "link": "https://www.zeit.de/news/2026-10/26/bayerns-harry-kane-gewinnt-den-ballon-d-or"
-     },
-     {
-      "name": "FAZ",
-      "title": "Weltfußballer-Wahl: „Wenn man Fußball mag, geht man zu Lamine, nicht zu Harry Kane“",
-      "link": "https://www.faz.net/aktuell/sport/fussball/ballon-d-or-lamine-yamals-onkel-kirtisiert-wahl-von-harry-kane-201625691.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
      }
     ]
    }
   ],
   "30d": [
    {
-    "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-    "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
-    "image": "https://images.tagesschau.de/image/fe71c35a-2fba-4961-abc0-ac073243635b/AAABoZIiK3A/AAABnSSvrFg/16x9-big/ukraine-2890.jpg?width=1920",
+    "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
+    "image": "https://images.tagesschau.de/image/77afaa8a-f08f-4b05-82ca-60ff45e5088a/AAABoXxq0UI/AAABnSSvrFg/16x9-big/rbb-625257499-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-31T15:20:00+00:00",
+    "time": "2026-10-31T17:32:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-      "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
+      "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Linke in Berlin: Elif Eralp bekommt Applaus bei Parteitag – Vanessa Emde demonstriert draußen",
+      "link": "https://www.spiegel.de/politik/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Berlin: Elif Eralp erhält Polizeischutz beim Linken-Parteitag",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/elif-eralp-berlin-polizeischutz-die-linke-spiegel"
+     },
+     {
+      "name": "FAZ",
+      "title": "Parteitag in Berlin: Elif Eralp gibt sich kämpferisch – und erringt einen Sieg",
+      "link": "https://www.faz.net/aktuell/politik/inland/elif-eralp-fuehrt-die-berliner-linke-in-koalitionsverhandlungen-mit-spd-und-gruenen-201639508.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Berlin: Elif Eralp: „Werden uns nicht kleinkriegen lassen“",
+      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-elif-eralp-werden-uns-nicht-kleinkriegen-lassen/100266336.html"
+     }
+    ]
+   },
+   {
+    "title": "Evakuierung von ukrainischer Frontstadt Oleschky beendet",
+    "link": "https://www.tagesschau.de/video/video-1675768.html",
+    "image": "https://images.tagesschau.de/image/3ea1bc69-0492-44a9-b483-cf565ab8131d/AAABoZLIXX4/AAABnSSvrFg/16x9-big/sendungsbild-1820208.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-31T16:26:10+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Evakuierung von ukrainischer Frontstadt Oleschky beendet",
+      "link": "https://www.tagesschau.de/video/video-1675768.html"
      },
      {
       "name": "Spiegel",
@@ -621,8 +660,8 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Evakuierung aus Oleschky: Oleschky-Flüchtlinge sind laut Selenskyj wieder in der Ukraine",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/oleschky-ukraine-russische-besatzung-evakuierung-belarus-dmytro-lubinez-wolodymyr-selenskyj"
+      "title": "Ukraine-Krieg: Oleschky-Flüchtlinge sollen bald zurück in der Ukraine sein",
+      "link": "https://www.zeit.de/news/2026-10/31/russland-ukrainische-oleschky-fluechtlinge-ausgeflogen"
      },
      {
       "name": "FAZ",
@@ -633,6 +672,40 @@
       "name": "Handelsblatt",
       "title": "+++ Ukraine-Krieg +++: Oleschky-Flüchtlinge in der Ukraine angekommen – Evakuierung von ukrainischer Frontstadt beendet",
       "link": "https://www.handelsblatt.com/politik/international/ukraine-oleschky-fluechtlinge-in-der-ukraine-angekommen/27982126.html"
+     }
+    ]
+   },
+   {
+    "title": "Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html",
+    "image": "https://images.tagesschau.de/image/d4855fdf-43b3-43c7-a54a-397ee7c45e9a/AAABoY2w1fI/AAABnSSvrFg/16x9-big/busse-oleschky-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-31T16:15:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Oleschky-Flüchtlinge sind wieder in der Ukraine",
+      "link": "https://www.spiegel.de/ausland/oleschky-fluechtlinge-sind-wieder-in-der-ukraine-a-84c2759e-6b0b-419a-87e9-ab0b2e5ff5a7#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Evakuierung aus Oleschky: Oleschky-Flüchtlinge sind laut Selenskyj wieder in der Ukraine",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/oleschky-ukraine-russische-besatzung-evakuierung-belarus-dmytro-lubinez-wolodymyr-selenskyj"
+     },
+     {
+      "name": "FAZ",
+      "title": "UKRAINE: Evakuierte aus dem besetzten Oleschky über Belarus gebracht",
+      "link": "https://www.faz.net/video/ukraine-holt-zivilisten-aus-dem-besetzten-oleschky-heraus-201639139.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Ukraine-Krieg +++: Evakuierung aus russisch besetztem Oleschky abgeschlossen",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-evakuierung-aus-russisch-besetztem-oleschky-abgeschlossen/27982126.html"
      }
     ]
    },
@@ -841,40 +914,6 @@
     ]
    },
    {
-    "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-    "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
-    "image": "https://images.tagesschau.de/image/58c6a5b2-091b-4fbc-a28e-4aee3f008817/AAABoYj-n3M/AAABnSSvrFg/16x9-big/lagarde-334.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-29T18:40:44+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Christine Lagarde: EZB-Präsidentin verlässt Notenbank in heikler Phase",
-      "link": "https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-verlaesst-notenbank-in-heikler-phase-a-d8530265-f4ff-421a-927a-c741945cb96d#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "EZB-Präsidentin: Christine Lagarde hört vorzeitig als EZB-Präsidentin auf",
-      "link": "https://www.zeit.de/wirtschaft/2026-10/christine-lagarde-hoert-vorzeitig-als-ezb-praesidentin-auf"
-     },
-     {
-      "name": "FAZ",
-      "title": "Wer wird die nachfolge?: EZB-Präsidentin Lagarde tritt vorzeitig zurück",
-      "link": "https://www.faz.net/video/ezb-praesidentin-lagarde-tritt-vorzeitig-zurueck-201633034.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Geldpolitik: EZB-Präsidentin Christine Lagarde tritt im Februar vorzeitig ab",
-      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/christine-lagarde-ezb-praesidentin-tritt-im-februar-2027-vorzeitig-ab/100265875.html"
-     }
-    ]
-   },
-   {
     "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
     "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
     "image": "https://images.tagesschau.de/image/4fa122f3-e6c0-4210-a3ea-9a24fb193a7f/AAABoYSCpNQ/AAABnSSvrFg/16x9-big/bolsonaro-348.jpg?width=1920",
@@ -905,40 +944,6 @@
       "name": "Handelsblatt",
       "title": "Brasilien: Bolsonaro erklärt sich zum wahren Wahlsieger – wie er der brasilianischen Justiz entkam",
       "link": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaro-erklaert-sich-zum-wahren-wahlsieger-wie-er-der-brasilianischen-justiz-entkam/100265385.html"
-     }
-    ]
-   },
-   {
-    "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
-    "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html",
-    "image": "https://images.sportschau.de/image/a1a67031-0807-44aa-8235-3e034c38917b/AAABoXl6fDM/AAABnSSvrFg/16x9-big/putellas-122.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-27T12:24:52+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
-      "link": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Ballon d’Or für Harry Kane: Reaktionen auf die Wahl des Bayernstars zum Weltfußballer",
-      "link": "https://www.spiegel.de/sport/ballon-d-or-fuer-harry-kane-reaktionen-auf-die-wahl-des-bayernstars-zum-weltfussballer-a-c309b0a7-41e0-4fca-9576-22f5a4bf0294#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Prestigeträchtige Auszeichnung: «Wow!»: Bayerns Harry Kane gewinnt den Ballon d'Or",
-      "link": "https://www.zeit.de/news/2026-10/26/bayerns-harry-kane-gewinnt-den-ballon-d-or"
-     },
-     {
-      "name": "FAZ",
-      "title": "Weltfußballer-Wahl: „Wenn man Fußball mag, geht man zu Lamine, nicht zu Harry Kane“",
-      "link": "https://www.faz.net/aktuell/sport/fussball/ballon-d-or-lamine-yamals-onkel-kirtisiert-wahl-von-harry-kane-201625691.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
      }
     ]
    }
@@ -946,64 +951,7 @@
  },
  "payments": {
   "de": {
-   "24h": [
-    {
-     "title": "Sämtliche „VÖB- und VdP-Banken“-News aus Oktober 2026",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVhoSnVOVWV1cFpUV3A2c2o2RjE5eTNETFdCRkl0SUtvVFNnVU5fZjMzX3JIM3lQREZ4SkZIZ2wxc2pZTU5mVFdiTnE1QXZ2YXRIRnlYQkJKSHg3UjZDMFJnRFc2X0U0YUlCd1RlRGdXNzYyMFB1bUJBY3psZzlaY19fbVQzNk05UVcwaXpB?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T16:30:00+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Sämtliche „VÖB- und VdP-Banken“-News aus Oktober 2026",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVhoSnVOVWV1cFpUV3A2c2o2RjE5eTNETFdCRkl0SUtvVFNnVU5fZjMzX3JIM3lQREZ4SkZIZ2wxc2pZTU5mVFdiTnE1QXZ2YXRIRnlYQkJKSHg3UjZDMFJnRFc2X0U0YUlCd1RlRGdXNzYyMFB1bUJBY3psZzlaY19fbVQzNk05UVcwaXpB?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Digitaler Euro: EZB vergibt das Netz doppelt an Nexi/Telekom und Telefónica",
-     "link": "https://www.it-finanzmagazin.de/digitaler-euro-ezb-vergibt-das-netz-doppelt-an-nexi-telekom-und-telefonica-253168/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T17:33:10+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Digitaler Euro: EZB vergibt das Netz doppelt an Nexi/Telekom und Telefónica",
-       "link": "https://www.it-finanzmagazin.de/digitaler-euro-ezb-vergibt-das-netz-doppelt-an-nexi-telekom-und-telefonica-253168/"
-      }
-     ]
-    },
-    {
-     "title": "Alle >40 Personalien-Updates von Genos und Sparkassen aus dem Oktober",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YU0FxMV92LVhfalMxNlR2eUZXRWlTZ1NfVmxoQkQ1ZkxwS0FXc0JydS1iNEk3RDQ1Ty00YUdnM1FsOFowWXpnbkNHcTRIdDBWblVScjg0eDI1SktaS2dmMXZHVGxIYUg3cDdlLQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T17:20:08+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Alle >40 Personalien-Updates von Genos und Sparkassen aus dem Oktober",
-       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YU0FxMV92LVhfalMxNlR2eUZXRWlTZ1NfVmxoQkQ1ZkxwS0FXc0JydS1iNEk3RDQ1Ty00YUdnM1FsOFowWXpnbkNHcTRIdDBWblVScjg0eDI1SktaS2dmMXZHVGxIYUg3cDdlLQ?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Neobank Vivid verbessert Ausgabenmanagement mit Visa",
-     "link": "https://www.it-finanzmagazin.de/neobank-vivid-verbessert-ausgabenmanagement-mit-visa-253160/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T16:11:58+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Neobank Vivid verbessert Ausgabenmanagement mit Visa",
-       "link": "https://www.it-finanzmagazin.de/neobank-vivid-verbessert-ausgabenmanagement-mit-visa-253160/"
-      }
-     ]
-    }
-   ],
+   "24h": [],
    "7d": [
     {
      "title": "Sämtliche „VÖB- und VdP-Banken“-News aus Oktober 2026",
@@ -1330,126 +1278,6 @@
       }
      ],
      "title_orig": "The Paypers"
-    },
-    {
-     "title": "Video: Standard Chartered bei Money20/20 USA 2026",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXI0VmFSdXlnMHQ4VUNBdDN4Mk1CT0tIbEI1dFRyaFByTWV0TUFKeUhDRmFwWXF3YkV6N1NUMHlkdURZaGowUXR5MGpyS0t3amo2UHpLb1RfVElNcGNXNGRzSk04Q1BsZlJZVEVSYlFNVmV5ZXhCb21zMENTbmRjcHFiUmh6OHAtZy1xb0tzLVRITlo3RWZZcll5eVlHZk5RY1gtU21DTE5tbGxuMXByUWQxNzlwUkhyY213ZDdHTEZfdGFLM2dsNnZpclc?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T17:15:32+00:00",
-     "sources": [
-      {
-       "name": "Fintech Futures",
-       "title": "Video: Standard Chartered at Money20/20 USA 2026",
-       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXI0VmFSdXlnMHQ4VUNBdDN4Mk1CT0tIbEI1dFRyaFByTWV0TUFKeUhDRmFwWXF3YkV6N1NUMHlkdURZaGowUXR5MGpyS0t3amo2UHpLb1RfVElNcGNXNGRzSk04Q1BsZlJZVEVSYlFNVmV5ZXhCb21zMENTbmRjcHFiUmh6OHAtZy1xb0tzLVRITlo3RWZZcll5eVlHZk5RY1gtU21DTE5tbGxuMXByUWQxNzlwUkhyY213ZDdHTEZfdGFLM2dsNnZpclc?oc=5"
-      }
-     ],
-     "title_orig": "Video: Standard Chartered at Money20/20 USA 2026"
-    },
-    {
-     "title": "PayNet startet ausgehende DuitNow QR-Zahlungen über Alipay+",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGFndUtuRGFLUFhRTnlnWWRReWwyU0pOS2VQUWE5Tk1lYlNhMVd3aTUzcFdCcFpBeWQ0ZkdFZThFRFVDM1BlYzlhek9rVW1VYTJpc1g0V1ZhRWdZRVdnZEhVR1hWeDNFZlVpVjNqYklpbk9kSjZETndnOXFKdkp0MGNqdERUOXhXZFIydXJqbHNzbWktaXNTRzZWN2Y?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T16:57:40+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "PayNet launches outbound DuitNow QR payments via Alipay+",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGFndUtuRGFLUFhRTnlnWWRReWwyU0pOS2VQUWE5Tk1lYlNhMVd3aTUzcFdCcFpBeWQ0ZkdFZThFRFVDM1BlYzlhek9rVW1VYTJpc1g0V1ZhRWdZRVdnZEhVR1hWeDNFZlVpVjNqYklpbk9kSjZETndnOXFKdkp0MGNqdERUOXhXZFIydXJqbHNzbWktaXNTRzZWN2Y?oc=5"
-      }
-     ],
-     "title_orig": "PayNet launches outbound DuitNow QR payments via Alipay+"
-    },
-    {
-     "title": "Grey startet Paycheck FX Gehaltskonten",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGFCY2RHelRPMkFKaHVhbjZBOUFHRVRaczZhVjFOYk5feThvR1lZYXpjYzNaUEFBU2dBNV85Q254cWg0ZWlYUHhUOUlGeGsyVDEzSHJFTFZHRDhuQzRVOE5fWGFMU0tMQU4tVDMyOHotbjNvdXlXcUdPLUZHWHNxSGI5UEY2T3pfV214eWNYQVBPRW03SU82ZGN6VUlNUzExR2c?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T16:57:40+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Grey launches Paycheck FX salary accounts",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGFCY2RHelRPMkFKaHVhbjZBOUFHRVRaczZhVjFOYk5feThvR1lZYXpjYzNaUEFBU2dBNV85Q254cWg0ZWlYUHhUOUlGeGsyVDEzSHJFTFZHRDhuQzRVOE5fWGFMU0tMQU4tVDMyOHotbjNvdXlXcUdPLUZHWHNxSGI5UEY2T3pfV214eWNYQVBPRW03SU82ZGN6VUlNUzExR2c?oc=5"
-      }
-     ],
-     "title_orig": "Grey launches Paycheck FX salary accounts"
-    },
-    {
-     "title": "Tech Mahindra und Mastercard arbeiten bei eingebetteten B2B-Zahlungen zusammen",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOC1UX1F0eE5xeGhkMjN2ZUpVY3JxRllkajNGb1VQM2VKcFFQZjdWRV9UajRNT19oR3B3eW5PeTZnUm1zMjVtOXhKdndGUDNlRTdaSUxGYjhJandJbGZ6cjJPbEhhU3hiMUFpaVRfRXNaZW5aLWt6N2ttd3NuY3QxOURLUFNseFhOLVVmdTFocmNCd2owQkNIMzZta1lKTjQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T16:57:40+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Tech Mahindra and Mastercard partner on embedded B2B payments",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOC1UX1F0eE5xeGhkMjN2ZUpVY3JxRllkajNGb1VQM2VKcFFQZjdWRV9UajRNT19oR3B3eW5PeTZnUm1zMjVtOXhKdndGUDNlRTdaSUxGYjhJandJbGZ6cjJPbEhhU3hiMUFpaVRfRXNaZW5aLWt6N2ttd3NuY3QxOURLUFNseFhOLVVmdTFocmNCd2owQkNIMzZta1lKTjQ?oc=5"
-      }
-     ],
-     "title_orig": "Tech Mahindra and Mastercard partner on embedded B2B payments"
-    },
-    {
-     "title": "Payroc: 97 % der Softwarefirmen verlieren Einnahmen durch Integrationen",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHROVmNzQWxJbGVtam1WMnZEbFVOMVpSVmZ1UlB4NkQzYjI0eHZBSHhnN3pQbXFzQ0d1NDQyLWtnMXFDREt4Z2ZsMjdTaXR2d1pQd3piV2hUTkZhdEZVX0ZqWFpIRDBpTVBLZ0ZRV3doZnlaWHJxeG5yZFNsUGd6OTBsTHVyYldMRW1LWFV2b0ZjT3NQSWlOekZXa0N0TzRq?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T16:47:37+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Payroc: 97% of software firms lose revenue to integrations",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHROVmNzQWxJbGVtam1WMnZEbFVOMVpSVmZ1UlB4NkQzYjI0eHZBSHhnN3pQbXFzQ0d1NDQyLWtnMXFDREt4Z2ZsMjdTaXR2d1pQd3piV2hUTkZhdEZVX0ZqWFpIRDBpTVBLZ0ZRV3doZnlaWHJxeG5yZFNsUGd6OTBsTHVyYldMRW1LWFV2b0ZjT3NQSWlOekZXa0N0TzRq?oc=5"
-      }
-     ],
-     "title_orig": "Payroc: 97% of software firms lose revenue to integrations"
-    },
-    {
-     "title": "Klarna erweitert Lands ’End-Deal auf Europa",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdm5ZcDUxOVJ2YnFUTUR1NXNkS090emFzMUhHanJqZ0IxUEZDdVFldnpyWFRRWFQxclM3RjdNUjlSRDF5V05KMG14aE5vOGFsc3dlQmpFVnRxQkF2OG1IeHBwOGR1SU9WcjFBb3N6UUZYMm45TmE4ejExQmNnQ3pSZlc5MjhNX19ubERfcll6NVV4Y2VsQ25VLUlDdmRUenBnSGk4?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T16:39:44+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Klarna expands Lands’ End deal to Europe",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdm5ZcDUxOVJ2YnFUTUR1NXNkS090emFzMUhHanJqZ0IxUEZDdVFldnpyWFRRWFQxclM3RjdNUjlSRDF5V05KMG14aE5vOGFsc3dlQmpFVnRxQkF2OG1IeHBwOGR1SU9WcjFBb3N6UUZYMm45TmE4ejExQmNnQ3pSZlc5MjhNX19ubERfcll6NVV4Y2VsQ25VLUlDdmRUenBnSGk4?oc=5"
-      }
-     ],
-     "title_orig": "Klarna expands Lands’ End deal to Europe"
-    },
-    {
-     "title": "Nexi, Deutsche Telekom gewinnt digitalen Euro-Deal",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXBkamZBQ1FSRmo0Y3FfRUZZM0ZWSFZDMWpZT1pUQklGelZaZXlvbnJXLUxfUTJpNG92Ujc4ZUgyTUl5N1RsMnhkTkptVVJ6VFc2eE5OaUV4NDQ3T0loWFlnS3BMeEZtVzQyZ2lJM3Fuenp0M0diSlI3dk1JVTlpcjVlT1loSkhkMXVlblc2U00wNklCR0pJa09QaHRPaEdBTDAyNHNGZ0lZNGlpbF9yY0d4QzBtbk0?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T16:36:56+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Nexi, Deutsche Telekom win digital euro deal",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXBkamZBQ1FSRmo0Y3FfRUZZM0ZWSFZDMWpZT1pUQklGelZaZXlvbnJXLUxfUTJpNG92Ujc4ZUgyTUl5N1RsMnhkTkptVVJ6VFc2eE5OaUV4NDQ3T0loWFlnS3BMeEZtVzQyZ2lJM3Fuenp0M0diSlI3dk1JVTlpcjVlT1loSkhkMXVlblc2U00wNklCR0pJa09QaHRPaEdBTDAyNHNGZ0lZNGlpbF9yY0d4QzBtbk0?oc=5"
-      }
-     ],
-     "title_orig": "Nexi, Deutsche Telekom win digital euro deal"
-    },
-    {
-     "title": "Webinar | 9. Dezember 2026 | Jede Schiene, jede Millisekunde: Zahlungsrisiko überdenken",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVR0emZYdGcteUh4SzlObEw5YkRYaGNwQmFJd0ZqT21zWldTd1lhYWV1RlBTbjA4Z0l1TDNlM0dIM0NRZlAxTHJ2cnM1dWFwZkc5Ull3VHYxT190WlpGT1JNWWd1WllveFdsaTFuQ3dUamVjcWluZVpsbEpoWmNXbWVlQVQya1llNTh4MC1xTnYwMGFISEFBWFRiUFJTZDBjMDRYbTdNU1dlYXlRbzEzR19MN2dyOFk?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-10-30T16:18:20+00:00",
-     "sources": [
-      {
-       "name": "Fintech Futures",
-       "title": "Webinar | 9 December 2026 | Every rail, every millisecond: Rethinking payments risk",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVR0emZYdGcteUh4SzlObEw5YkRYaGNwQmFJd0ZqT21zWldTd1lhYWV1RlBTbjA4Z0l1TDNlM0dIM0NRZlAxTHJ2cnM1dWFwZkc5Ull3VHYxT190WlpGT1JNWWd1WllveFdsaTFuQ3dUamVjcWluZVpsbEpoWmNXbWVlQVQya1llNTh4MC1xTnYwMGFISEFBWFRiUFJTZDBjMDRYbTdNU1dlYXlRbzEzR19MN2dyOFk?oc=5"
-      }
-     ],
-     "title_orig": "Webinar | 9 December 2026 | Every rail, every millisecond: Rethinking payments risk"
     }
    ],
    "7d": [
@@ -1681,6 +1509,31 @@
      "title_orig": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion"
     },
     {
+     "title": "Konto-zu-Konto-Zahlungen in Großbritannien: Was kommt als nächstes?",
+     "link": "https://www.finextra.com/videoarticle/3617/account-to-account-payments-in-the-uk-what-comes-next?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 3,
+     "time": "2026-10-26T10:40:41+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Account-to-Account Payments in the UK: What Comes Next?",
+       "link": "https://www.finextra.com/videoarticle/3617/account-to-account-payments-in-the-uk-what-comes-next?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "The Paypers",
+       "title": "Klarna launches Consumer FX for cross-border payments",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelBfcnE5dHhEWFVPdXgzck9vT0JyWm5wR3hCYlZldGNVcm5XQ3M4ZXJPaEdPUWdJN0V0ak8xbEJiMkpwM1kyVWwwXzdYcTJOdjAwcHNIZ0hBOVlJZENmOTBzRnpsaldTV25fZTJtUGNEWkVwYUw1Y256d3pkU3gzNXRJZjRXNTVoa1RPZjQtbHNVZC1yY3o0MlM0cUM4eUdQ?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Video: NatWest at Sibos 2026 – What’s next for cross-border payments and agentic commerce?",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ0JyR09ENmRUMndnOHZELUFuQmR0RF9OQzJoUm03QjFjNTdqUGpTSHV5SGlGem1xaGoteTV0TDlYY3ZTTjRQYUl6T1podjhwU0t2dUQ1eVN2SFRlVkx6dnBSNFNhRFNIWFBSVjZKSm9rRUViWDB5empFeElkcU55Z0UtRmJLYWk3eDlONUxnTkxrRmdZdG9md0JwbmxfTjJfRG1qMl9hRjllY3ZfMGZ2LWpfLU9udWhlMjJwcGpmSkZ2dw?oc=5"
+      }
+     ],
+     "title_orig": "Account-to-Account Payments in the UK: What Comes Next?"
+    },
+    {
      "title": "Tech Mahindra erwirbt die Cash-Management-Sparte von Finastra",
      "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1849,26 +1702,6 @@
       }
      ],
      "title_orig": "Why banks can’t afford to slow down on structured addresses"
-    },
-    {
-     "title": "Grenzüberschreitende Zahlungen: Wie Banken die Lücke im Corporate Service schließen können",
-     "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-10-25T11:28:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Cross-border payments: How banks can close the corporate service gap",
-       "link": "https://www.finextra.com/event-info/645/cross-border-payments-how-banks-can-close-the-corporate-service-gap?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "Klarna launches Consumer FX for cross-border payments",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelBfcnE5dHhEWFVPdXgzck9vT0JyWm5wR3hCYlZldGNVcm5XQ3M4ZXJPaEdPUWdJN0V0ak8xbEJiMkpwM1kyVWwwXzdYcTJOdjAwcHNIZ0hBOVlJZENmOTBzRnpsaldTV25fZTJtUGNEWkVwYUw1Y256d3pkU3gzNXRJZjRXNTVoa1RPZjQtbHNVZC1yY3o0MlM0cUM4eUdQ?oc=5"
-      }
-     ],
-     "title_orig": "Cross-border payments: How banks can close the corporate service gap"
     }
    ]
   },
@@ -2438,54 +2271,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "regionalliga west",
-      "link": "https://www.waz.de/sport/lokalsport/bochum/article412692897/regionalliga-west-kellerduell-im-livestream-sg-wattenscheid-09-empfaengt-lotte.html",
+      "title": "rosenheim cops",
+      "link": "https://www.joyn.de/bts/serien/die-rosenheim-cops/marisa-burgers-letzte-folge-wann-sie-laeuft-170365",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "zf arena",
+      "link": "https://www.t-online.de/sport/mehr-sport/id_101506770/sport-selbstgebauter-sprengsatz-setzt-arena-in-brand.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "lotto live ziehung",
+      "link": "https://www.stern.de/panorama/weltgeschehen/lottozahlen-heute--die-gewinnzahlen-von-samstag--31--oktober-2026-38463626.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "internet steuer frankreich",
+      "link": "https://www.heise.de/news/Frankreich-plant-Internetsteuer-5-5-Cent-pro-Gigabyte-11507164.html",
+      "meta": "2000+ Suchanfragen"
+     },
+     {
+      "title": "festgeldzinsen",
+      "link": "https://trends.google.com/trends/explore?geo=DE&q=festgeldzinsen",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "formel 1 qualifying heute",
+      "link": "https://www.bild.de/sport/mehr-sport/formel-1-nikola-tsolov-ich-spuere-mein-rechtes-bein-nicht-mehr-6ae4faf8aedea8cd9ffbeb52",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "russland wirtschaft",
+      "link": "https://www.focus.de/finanzen/news/haendler-prognose-im-november-gehen-russlands-oelexporte-ueber-haefen-an-ostsee-und-schwarzes-meer-zurueck_4ebf5b7d-31bd-433e-b9eb-d940857871b6.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "rettungshubschrauber",
+      "link": "https://www.siegener-zeitung.de/lokales/wittgenstein/bad-berleburg/rettungshubschrauber-landet-arbeitsunfall-im-elsofftal-bei-bad-berleburg-4OF664ZT4RDS5JGWVCZRNDUFCU.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "tobias stieler",
+      "link": "https://www.spox.com/fussball/news/schiedsrichter-bei-fc-bayern-muenchen-vs-bvb-wer-pfeift-heute-fcb-gegen-borussia-dortmund-in-der-bundesliga/blt19edc795c440b247",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "sarah engels",
+      "link": "https://www.stern.de/lifestyle/leute/leute--sarah-engels-sagt-noch-einmal--ja--zu-ehemann-julian-38482576.html",
       "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "halle (saale)",
-      "link": "https://dubisthalle.de/halles-ob-vogt-lobt-erfolgreiche-wiederbelebung-des-ehemaligen-kaufhofs-durch-millionen-investitionen-penny-hat-eroeffnet-aldi-folgt-naechstes-jahr/",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "mäuerach",
-      "link": "https://www.pz-news.de/pforzheim_artikel,-Grosseinsatz-in-Pforzheim-Maeuerach-Zwei-Verletzte-ein-mutmasslicher-Taeter-gefasst-_arid,2375404.html",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "feyenoord – fortuna sittard",
-      "link": "https://www.telegraaf.nl/sport/voetbal/11e-speelronde-eredivisie-vanavond-kraker-tussen-ajax-en-az-ook-feyenoord-en-psv-in-actie/163797567.html",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "dietmar hamann",
-      "link": "https://www.bild.de/sport/fussball/bundesliga-didi-hamann-raet-ihm-von-bayern-wechsel-ab-6ae5f2deaedea8cd9ffbf6a7",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "bfv",
-      "link": "https://www.hessenschau.de/sport/fussball/regionalliga/dfb-setzt-bei-regionalliga-reform-auf-das-kompassmodell-v1,regio-kompass-102.html",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "patrik schick",
-      "link": "https://www.bild.de/sport/fussball/fcn-30-minuten-zauberfussball-leverkusen-star-glaubt-an-fcn-aufstieg-6ae464a5a4ede285fb30598d",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "rayo vallecano – celta",
-      "link": "https://onefootball.com/es/noticias/el-partido-de-la-incertidumbre-43699383",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "fenerbahçe – göztepe",
-      "link": "https://www.sporx.com/fenerbahce-goztepe-11-ler-SXHBQ1181217SXQ",
-      "meta": "5000+ Suchanfragen"
-     },
-     {
-      "title": "grand theft auto",
-      "link": "https://www.rnd.de/medien/gta-6-wird-gigantisch-downloadgroesse-geleakt-so-viel-speicher-muessen-gamer-vorher-freiraeumen-WPMMYVVFCNGYPGMLKORFLHDICI.html",
-      "meta": "5000+ Suchanfragen"
      }
     ]
    },
@@ -2552,31 +2385,31 @@
     "lang": "fr",
     "items": [
      {
-      "title": "ligaklassifizierung 3",
-      "link": "https://www.lequipe.fr/Football/Actualites/Frustre-par-thionville-amiens-fait-la-mauvaise-affaire-en-ligue-3/1739639",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "classement ligue 3"
-     },
-     {
-      "title": "brawl stars",
-      "link": "https://esports.gg/news/mobile/brawl-talk-oct-2026-ranked-brawlidays-more/",
+      "title": "busio",
+      "link": "https://www.corriere.it/sport/calcio/serie-a/cards/pagelle-venezia-inter-26-ottobre-28/a-stankovic.shtml",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Deutschland",
-      "link": "https://www.lemonde.fr/international/article/2026/10/31/en-allemagne-des-dizaines-de-milliers-de-jeunes-attendus-dans-les-rues-samedi-pour-manifester-contre-le-cout-de-la-vie-et-l-etat-des-etablissements-scolaires_6803597_3210.html",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "allemagne"
-     },
-     {
-      "title": "catherine robert",
-      "link": "https://www.gala.fr/l_actu/news_de_stars/vianney-a-construit-sa-cabane-et-pour-sa-femme-catherine-robert-ca-n-a-pas-toujours-ete-simple-ca-l-enervait-20261031",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "yasin ayari",
-      "link": "https://www.skysports.com/football/live-blog/13604905/man-city-vs-brighton-live-premier-league-match-updates-news-and-score",
+      "title": "alain colas",
+      "link": "https://voilesetvoiliers.ouest-france.fr/course-au-large/route-du-rhum/video-route-du-rhum-rencontre-avec-la-veuve-d-alain-colas-48-ans-apres-sa-disparition-9a269f7b-2b1d-4b94-bede-d2fbfd7d4a03",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "ian gillan",
+      "link": "https://blabbermouth.net/news/deep-purple-cancels-german-shows-due-to-medical-emergency-involving-ian-gillan",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "olympische Jugendspiele",
+      "link": "https://www.lemonde.fr/videos/video/2026/10/31/senegal-pourquoi-la-colere-enfle-a-l-ouverture-des-jeux-olympiques-de-la-jeunesse_6803396_1669088.html",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "jeux olympiques de la jeunesse"
+     },
+     {
+      "title": "die Route du Rhum",
+      "link": "https://www.ouest-france.fr/route-du-rhum/direct/direct-route-du-rhum-a-j-1-du-depart-suivez-la-sortie-des-bateaux-du-port-de-saint-malo-en-live-5e3193b2-572f-4500-a505-14f7690b4e94",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "la route du rhum"
      }
     ]
    },
@@ -2585,29 +2418,32 @@
     "lang": "it",
     "items": [
      {
-      "title": "jonathan david",
-      "link": "https://www.gambling911.com/levante-v-atletico-madrid-goalscorer-betting-markets-jonathan-david",
+      "title": "playstation",
+      "link": "https://www.everyeye.it/notizie/amazon-preorder-minimo-novita-audio-sony-playstation-vista-gta-6-908972.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "fenerbahçe - göztepe",
-      "link": "https://www.superlighaberler.com/fenerbahce/fenerbahce-goztepe-macinda-kuyttan-onemli-aciklamalar-h18426",
+      "title": "udine-Palme",
+      "link": "https://www.sportmediaset.mediaset.it/calcio/udinese-runjaic-siamo-stati-la-squadra-migliore-meritavamo-di-vincere_118278715-202602k.shtml",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "palma udinese"
+     },
+     {
+      "title": "bayern",
+      "link": "https://onefootball.com/de/news/schrecksekunde-im-klassiker-bayern-verliert-frueh-einen-offensivspieler-43704318",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "simona izzo",
-      "link": "https://www.ilfattoquotidiano.it/2026/10/31/stavo-cosi-male-che-ho-pensato-di-morire-mi-sono-detta-ed-eravamo-in-estate-non-arrivo-a-ottobre-poi-ho-avuto-la-diagnosi-di-sindrome-di-sjogren-parla-simona-izzo/8556396/",
-      "meta": "500+ Suchanfragen"
+      "title": "halloween-Film",
+      "link": "https://www.sentieriselvaggi.it/halloween-day-i-dieci-horror-preferiti-di-sentieri-selvaggi/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "film halloween"
      },
      {
-      "title": "trick or treat",
-      "link": "https://weather.com/2026/10/31/holiday/halloween/halloween-trick-or-treat-weather-forecast",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "daniil medvedev",
-      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-paul-alcaraz-atp-vienna-scambio-pazzesco-che-lascia-lo-spagnolo-a-bocca-aperta/06ddd5a9-a5f7-4d01-864b-b423a7d8bxlk",
-      "meta": "2000+ Suchanfragen"
+      "title": "end-of-Service-Behandlung",
+      "link": "https://www.rainews.it/articoli/2026/10/manovra-via-libera-del-quirinale-trasmessa-alla-presidenza-della-camera-8ab054c7-006a-416a-8ad3-4e94e09f07df.html",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "trattamento di fine servizio"
      }
     ]
    },
@@ -2616,31 +2452,34 @@
     "lang": "es",
     "items": [
      {
-      "title": "city",
-      "link": "https://as.com/futbol/internacional/manchester-city-brighton-en-directo-premier-league-hoy-en-vivo-f202610-d/",
-      "meta": "200+ Suchanfragen"
+      "title": "sonstiges Onega",
+      "link": "https://www.instyle.es/celebrities/sonsoles-onega-me-recuerdo-asalvajada-salia-madrid-y-era-otro-mundo_73889",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "sonsoles ónega"
      },
      {
-      "title": "antonio Flaggen",
-      "link": "https://www.hola.com/actualidad/20261031932237/antonio-banderas-prediccion-javis-camino-los-oscar-oportunidad-seria-lo-ganen/",
+      "title": "brombeer-Rapha",
+      "link": "https://www.elperiodico.com/es/gente/20261031/rafa-mora-propietario-negocio-viviendas-alquiler-mercado-inmobiliario-dv-135916966",
       "meta": "200+ Suchanfragen",
-      "title_orig": "antonio banderas"
+      "title_orig": "rafa mora"
      },
      {
-      "title": "feyenoord - Glück",
-      "link": "https://www.fr12.nl/liveblog/live-1630-feyenoord-fortuna-sittard-31102026",
+      "title": "der Heizung",
+      "link": "https://www.lne.es/asturias/2026/10/31/universidad-oviedo-avisa-invierno-duro-135943990.html",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "calefacción"
+     },
+     {
+      "title": "bayern münchen",
+      "link": "https://www.bbc.com/sport/football/articles/c6073yeg52xeo",
       "meta": "200+ Suchanfragen",
-      "title_orig": "feyenoord - fortuna"
+      "title_orig": "bayern munich"
      },
      {
-      "title": "it",
-      "link": "https://www.nytimes.com/2026/10/31/us/politics/talarico-texas.html",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "mercedes irazola",
-      "link": "https://www.hola.com/actualidad/20261031932437/valeria-ros-muerte-amiga-catastrofe-ferroviaria/",
-      "meta": "200+ Suchanfragen"
+      "title": "teneriffa-Regenwarnung",
+      "link": "https://www.canarias7.es/canarias/canarias-actualiza-prealerta-aviso-inicio-tormentas-cinco-20261031132158-nt.html",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "alerta lluvias tenerife"
      }
     ]
    },
@@ -2649,30 +2488,34 @@
     "lang": "en",
     "items": [
      {
-      "title": "tatsuhiro sakamoto",
-      "link": "https://www.coventrytelegraph.net/sport/football/football-news/frank-lampard-tatsuhiro-sakamoto-stepping-34841836",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "nffc",
-      "link": "https://www.westlondonsport.com/brentford/nottingham-forest-star-could-miss-brentford-game",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "luke pearce",
-      "link": "https://www.walesonline.co.uk/sport/rugby/rugby-news/angry-referee-row-rude-louis-34843342",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "internetsteuer in Frankreich",
-      "link": "https://app.dealroom.co/news/note/france-s-lower-house-narrowly-votes-a-5-5-cent-per-gigabyte-tax-on-netflix-google-and-other-content-providers",
+      "title": "meghan markle neuigkeiten",
+      "link": "https://www.telegraph.co.uk/news/2026/10/31/epstein-victims-lawyer-thomas-markle-indecent-images/",
       "meta": "500+ Suchanfragen",
-      "title_orig": "france internet tax"
+      "title_orig": "meghan markle news"
      },
      {
-      "title": "safc",
-      "link": "https://www.ccfc.co.uk/news/2026/october/30/matchday-guide--sunderland--h-/",
-      "meta": "500+ Suchanfragen"
+      "title": "neue dwp bankschecks",
+      "link": "https://capitolskyline.com/dwp-sends-first-bank-notice-under-new-benefit/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "new dwp bank checks"
+     },
+     {
+      "title": "SCHNELLES ERGEBNIS",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/oct/18/not-seeing-gym-results-progress-personal-trainers",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "fast results"
+     },
+     {
+      "title": "sportliches Leben",
+      "link": "https://www.sportinglife.com/racing/racecards/2026-10-31/deauville/racecard/946975/prix-la-bamba-maiden-stakes",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "sporting life"
+     },
+     {
+      "title": "tesla halloween-modus",
+      "link": "https://www.usatoday.com/story/cars/research/2026/10/30/tesla-vs-rivian-halloween-mode-comparison/92517859007/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "tesla halloween mode"
      }
     ]
    },
@@ -2681,30 +2524,32 @@
     "lang": "pl",
     "items": [
      {
-      "title": "doda",
-      "link": "https://www.pudelek.pl/doda-pozegnala-pupila-moj-ukochany-pies-przyjaciel-dzien-po-swoich-trzecich-urodzinach-zmarl-7345935606188480a",
+      "title": "Bundesliga!",
+      "link": "https://www.bild.de/sport/fussball/saibari-heftig-erwischt-sorgen-um-bayern-star-fc-bayern-bvb-im-live-ticker-6ae5faadaedea8cd9ffbf76f",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "bundesliga"
+     },
+     {
+      "title": "gks katowice – widzew łódź",
+      "link": "https://www.gkskatowice.eu/news/gks-widzew-informator-3",
+      "meta": "5000+ Suchanfragen"
+     },
+     {
+      "title": "jaroslaw kaczynski",
+      "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,33106954,morawiecki-zareagowal-na-slowa-kaczynskiego-o-polexicie.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "lechia gdańsk",
-      "link": "https://sport.tvp.pl/96178023/lechia-gdansk-unia-skierniewice-na-zywo-transmisja-online-meczu-betclic-1-ligi-live-stream-31102026-gdzie-ogladac",
-      "meta": "500+ Suchanfragen"
+      "title": "besessenheit",
+      "link": "https://naekranie.pl/aktualnosci/obsesja-scena-inspiracja-legion-samobojcow-1793449936",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "obsesja"
      },
      {
-      "title": "levante ud – atlético Madrid Rangliste",
-      "link": "https://sports.yahoo.com/articles/juli-n-cuti-levante-atl-115200040.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "rankingi levante ud – atlético madryt"
-     },
-     {
-      "title": "feyenoord – fortuna sittard",
-      "link": "https://www.ad.nl/voetbal/live-eredivisie-koploper-feyenoord-met-een-wijziging-tegen-fortuna-bekijk-de-opstelling-hier~ab104b2e/",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "man city vs brighton",
-      "link": "https://www.skysports.com/football/live-blog/13604905/man-city-vs-brighton-live-premier-league-match-updates-news-and-score",
-      "meta": "200+ Suchanfragen"
+      "title": "Gewinn",
+      "link": "https://krakow.eska.pl/wygrana-w-zdrapce-lotto-w-myslenicach-gracz-zdobyl-ostatnia-glowna-nagrode-aa-eZp3-iNe1-FyqV.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "wygrana"
      }
     ]
    },
@@ -2780,29 +2625,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "josh jacobs",
-      "link": "https://www.nbc26.com/sports/nfl/green-bay-packers/some-josh-jacobs-files-released-video-withheld",
-      "meta": "5000+ Suchanfragen"
+      "title": "utep vs nd Zustand",
+      "link": "https://www.inforum.com/sports/bison-media-zone/mens-sports/how-to-watch-ndsu-play-utep-on-saturday",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "utep vs nd state"
      },
      {
-      "title": "valentin vacherot",
-      "link": "https://www.atptour.com/en/news/paris-2026-draw-preview",
-      "meta": "200+ Suchanfragen"
+      "title": "co state vs utah state",
+      "link": "https://www.deseret.com/sports/2026/10/30/utah-state-vs-colorado-state-how-to-watch-listen-to-or-stream-the-game/",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "thomas castellanos",
-      "link": "https://www.espn.com/college-football/story/_/id/50328498/sources-texas-tech-use-castellanos-hammond-vs-arizona",
-      "meta": "200+ Suchanfragen"
+      "title": "alabama state vs alabama a&m",
+      "link": "https://www.al.com/news/birmingham/2026/10/birminghams-magic-city-classic-parade-showcases-the-power-of-black-creativity.html",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "cornell vs princeton",
-      "link": "https://www.dailyprincetonian.com/article/2026/10/princeton-tigers-football-cornell-big-red-ivy-league-staff-picks-october-2026",
-      "meta": "200+ Suchanfragen"
+      "title": "rhode Island Fußball",
+      "link": "https://goblackbears.com/news/2026/10/29/preview-football-heads-to-rhode-island-for-caa-matchup",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "rhode island football"
      },
      {
-      "title": "michigan vs rutgers",
-      "link": "https://www.maizenbrew.com/football/126051/michigan-football-injury-report-rutgers-blake-frazier-rod-moore-dom-nichols-john-henry-daley-2026-season",
-      "meta": "2000+ Suchanfragen"
+      "title": "minnesota vs indiana",
+      "link": "https://www.espn.com/college-football/story/_/id/50329417/2026-college-gameday-week-9-minnesota-vs-indiana",
+      "meta": "10000+ Suchanfragen"
      }
     ]
    },
@@ -2811,32 +2658,30 @@
     "lang": "en",
     "items": [
      {
-      "title": "2:1",
-      "link": "https://trends.google.com/trends/explore?geo=IN&q=%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A5%87%20%E0%A4%B9%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8",
-      "meta": "10000+ Suchanfragen",
-      "title_orig": "उद्याचे हवामान"
+      "title": "König des Nicht",
+      "link": "https://www.cricinfo.com/story/najmul-hossain-shanto-blames-bangladesh-spinners-inconsistency-for-mirpur-test-defeat-1560886",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "king"
      },
      {
-      "title": "5x5x5x5x5x5x5x",
-      "link": "https://www.aajtak.in/sports/cricket/story/rohit-sharma-to-rejoin-mumbai-indians-as-captain-ipl-2027-hardik-pandya-kieron-pollard-head-coach-tspoa-dskc-2684338-2026-10-30",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "रोहित शर्मा"
-     },
-     {
-      "title": "feyenoord vs fortuna sittard",
-      "link": "https://www.ad.nl/voetbal/live-eredivisie-koploper-feyenoord-met-een-wijziging-tegen-fortuna-bekijk-de-opstelling-hier~ab104b2e/",
+      "title": "barcelona vs alavés",
+      "link": "https://onefootball.com/es/noticias/borron-y-cuenta-nueva-en-el-camp-nou-43697006",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "yasin ayari",
-      "link": "https://www.bbc.com/sport/football/articles/cme3xk2jkyv0o",
+      "title": "aishwarya rai",
+      "link": "https://www.exchange4media.com/marketing-news/aishwarya-rai-bachchan-at-53-three-decades-of-building-an-advertising-legacy-159692.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "kannada rajyotsava 2026",
+      "link": "https://kannada.asianetnews.com/karnataka-districts/dk-shivakumar-makes-special-video-call-to-kagodu-thimmappa-congratulates-him-on-rajyotsava-award/articleshow-n1tvhl1",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "Taschenspielertrinken",
-      "link": "https://ntvtelugu.com/news/sri-lanka-vs-pakistan-odi-tri-series-match-report-final-1029857.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "శ్రీలంక క్రికెట్ జట్టు"
+      "title": "spurs",
+      "link": "https://www.nytimes.com/athletic/7741705/2026/10/31/timberwolves-vs-spurs-stream-how-to-watch-oct-31/",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2845,31 +2690,30 @@
     "lang": "pt",
     "items": [
      {
-      "title": "borussia mönchengladbach",
-      "link": "https://onefootball.com/de/wetten/tipps/borussia-monchengladbach-vs-sc-paderborn-31-10-2026",
+      "title": "psv",
+      "link": "https://www.bd.nl/willem-ii/live-streppel-kiest-bij-willem-ii-rentree-voor-ander-systeem-didillon-hodl-ontbreekt-tegen-psv~a35e7742f/",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "al hilal",
+      "link": "https://www.vavel.com/en-us/soccer/2026/10/31/1277470-al-hilal-vs-al-fateh-live-score-saudi-pro-league.html",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "climatempo",
+      "link": "https://www.climatempo.com.br/noticia/primavera/balanco-da-chuva-de-outubro-nas-capitais-brasileiras",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "manchester city",
-      "link": "https://ge.globo.com/sc/futebol/noticia/2026/10/30/novidade-na-selecao-alisson-santana-teve-inicio-de-carreira-em-base-de-clube-itinerante-de-sc.ghtml",
+      "title": "alejandro-Eimer",
+      "link": "https://onefootball.com/es/noticias/la-pieza-que-flick-perderia-en-el-mercado-de-invierno-43691497",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "alejandro balde"
+     },
+     {
+      "title": "copa do brasil",
+      "link": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/10/31/escalacao-palmeiras-fecha-trabalhos-para-enfrentar-vasco-e-pode-ter-vitor-roque-titular.ghtml",
       "meta": "5000+ Suchanfragen"
-     },
-     {
-      "title": "bournemouth",
-      "link": "https://www.premierleague.com/en/news/4750924/alonso-makes-four-changes-see-chelseas-line-up",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "mAN-Stadt",
-      "link": "https://www.bbc.com/sport/football/live/cm2l8lx5k1zvt",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "man city"
-     },
-     {
-      "title": "korinther x Kreuzfahrt",
-      "link": "https://ge.globo.com/sp/campinas-e-regiao/futebol/futebol-feminino/libertadores-feminina/noticia/2026/10/31/corinthians-x-cruzeiro-na-libertadores-feminina-onde-assistir-ao-vivo-e-horario.ghtml",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "corinthians x cruzeiro"
      }
     ]
    },
@@ -2878,33 +2722,33 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Abzug",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E6%8E%A7%E9%99%A4",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "控除"
-     },
-     {
-      "title": "Tatsuhiro Sakamoto",
-      "link": "https://news.yahoo.co.jp/articles/3b4263f93a0e62472175c27894c61f47238cc61c",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "坂元達裕"
-     },
-     {
-      "title": "Leverkusen vs Stuttgart",
-      "link": "https://sports.yahoo.com/articles/confirmed-lineups-bayer-leverkusen-vs-132300670.html",
+      "title": "Udinese vs. Rom",
+      "link": "https://abema.tv/live-event/5485b1cb-a91b-4ece-af1b-5b9a7fe2ef2e",
       "meta": "100+ Suchanfragen",
-      "title_orig": "レバークーゼン 対 シュトゥットガルト"
+      "title_orig": "ウディネーゼ 対 ローマ"
      },
      {
-      "title": "nepal premier league",
-      "link": "https://english.onlinekhabar.com/waterlogged-tu-cricket-ground.html",
-      "meta": "100+ Suchanfragen"
+      "title": "Keanland Racecourse",
+      "link": "https://news.yahoo.co.jp/articles/23787edc6db484770fbe9740d01bd01aefb141cd",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "キーンランド競馬場"
      },
      {
-      "title": "Nao",
-      "link": "https://news.yahoo.co.jp/articles/6bc6cfa010c393ed934c559c034c97ae83b622ee",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "奈緒"
+      "title": "bc",
+      "link": "https://3downnation.com/2026/10/31/darnell-sankey-believes-lack-of-grey-cup-experience-makes-b-c-lions-even-more-deadly-to-riders/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Kostenloser Agent",
+      "link": "https://news.yahoo.co.jp/articles/3dc140c6cfd2a9f40bb4e6937b2448519b590052",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "フリーエージェント"
+     },
+     {
+      "title": "Gavin Stone",
+      "link": "https://news.yahoo.co.jp/articles/b9d6d9b2600c050a9a0971537b6878c9f9f2381b",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "ギャビン・ストーン"
      }
     ]
    },
@@ -2975,14 +2819,20 @@
      {
       "title": "Manifeste, Angst und „Loser Thinking“: In Protons KI-Berechnung",
       "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-      "meta": "404 Media · 809 Personen teilen",
+      "meta": "404 Media · 821 Personen teilen",
       "title_orig": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning"
      },
      {
       "title": "Nordkorea kommt mit 3 Milliarden $ von Binance davon",
       "link": "https://www.citationneeded.news/binance-theft/",
-      "meta": "Citation Needed · 369 Personen teilen",
+      "meta": "Citation Needed · 370 Personen teilen",
       "title_orig": "North Korea gets away with $3 billion from Binance"
+     },
+     {
+      "title": "Investoren schalten Google-Besitzer Alphabet nach entgangenem Gewinn, verlangsamter Werbung und hohen Ausgaben ein",
+      "link": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report",
+      "meta": "The Guardian · 134 Personen teilen",
+      "title_orig": "Investors turn on Google owner Alphabet after profit miss, ad slowdown and high spending"
      },
      {
       "title": "Patrick Stewart, \"Star Trek\" -Kapitän und \"X-Men\" -Superheld, stirbt mit 86 Jahren",
@@ -2993,14 +2843,8 @@
      {
       "title": "Klimaakademiker Andreas Malm darf nicht nach Großbritannien einreisen",
       "link": "https://www.theguardian.com/uk-news/2026/oct/30/climate-academic-andreas-malm-barred-from-entering-uk",
-      "meta": "The Guardian · 299 Personen teilen",
+      "meta": "The Guardian · 307 Personen teilen",
       "title_orig": "Climate academic Andreas Malm barred from entering UK"
-     },
-     {
-      "title": "Bluesky blockiert Links zu einem großen Leck von DHS-Mitarbeiterdatensätzen",
-      "link": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
-      "meta": "WIRED · 347 Personen teilen",
-      "title_orig": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records"
      }
     ]
    }
@@ -3011,7 +2855,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 71,
+   "count": 72,
    "error": ""
   },
   {
@@ -3032,7 +2876,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 161,
+   "count": 158,
    "error": ""
   },
   {
@@ -3046,7 +2890,7 @@
    "source": "Finanz-Szene",
    "category": "pay_de",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": ""
   },
   {
@@ -3095,7 +2939,7 @@
    "source": "Fintech Futures",
    "category": "pay_eu",
    "ok": true,
-   "count": 85,
+   "count": 100,
    "error": ""
   },
   {
@@ -3227,10 +3071,10 @@
   {
    "source": "Übersetzung",
    "category": "translate",
-   "ok": true,
-   "count": 119,
-   "info": "119 von 119 Überschriften übersetzt (neu in diesem Lauf: MyMemory 44). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
-   "error": "0 Überschriften noch ohne Übersetzung. "
+   "ok": false,
+   "count": 110,
+   "info": "110 von 111 Überschriften übersetzt (neu in diesem Lauf: MyMemory 43). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "error": "1 Überschriften noch ohne Übersetzung. "
   }
  ]
 }
