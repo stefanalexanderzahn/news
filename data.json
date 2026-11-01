@@ -1,24 +1,24 @@
 {
- "generated": "2026-11-01T01:17:27+00:00",
+ "generated": "2026-11-01T03:58:28+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
    {
-    "title": "Zusammenstöße mit der Polizei nach \"GenZ\"-Protesten in mehreren Städten",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1675932.html",
-    "image": "https://images.tagesschau.de/image/af8d6663-3425-40fe-b2b6-6e964d5f31f1/AAABoZQjTq8/AAABnSSvrFg/16x9-big/sendungsbild-1820354.jpg?width=1920",
+    "title": "Jakob Schaumann, HR, zu den Ausschreitungen in Frankfurt nach friedlichen Protesten der GenZ",
+    "link": "https://www.tagesschau.de/video/video-1675946.html",
+    "image": "https://images.tagesschau.de/image/8f38cf21-4756-490f-9b91-6a1590c52225/AAABoZRYTj0/AAABnSSvrFg/16x9-big/sendungsbild-1820370.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-31T22:45:13+00:00",
+    "time": "2026-10-31T23:43:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Zusammenstöße mit der Polizei nach \"GenZ\"-Protesten in mehreren Städten",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1675932.html"
+      "title": "Jakob Schaumann, HR, zu den Ausschreitungen in Frankfurt nach friedlichen Protesten der GenZ",
+      "link": "https://www.tagesschau.de/video/video-1675946.html"
      },
      {
       "name": "Spiegel",
-      "title": "»Gen Z regelt«: Erste Proteste in Berlin verlaufen weitgehend friedlich",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-erste-proteste-in-berlin-verlaufen-weitgehend-friedlich-a-8ed42304-8a51-42d0-bd90-a476f1fdd125#ref=rss"
+      "title": "Frankreich: Erneute Ausschreitungen bei Protesten gegen Bildungs­missstände",
+      "link": "https://www.spiegel.de/ausland/frankreich-erneute-ausschreitungen-bei-protesten-gegen-bildungs-missstaende-a-f05333eb-83b0-45b3-85fc-1c30c44fddc9#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -125,6 +125,54 @@
     ]
    },
    {
+    "title": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
+    "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html",
+    "image": "https://images.tagesschau.de/image/ee2a223d-bc92-4963-8f3f-bb64caca5e5b/AAABoZU5U5o/AAABnSSvrFg/16x9-big/warnstreik-456.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-01T03:48:45+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
+      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Tarifstreit: Warnstreiks der IG Metall haben begonnen",
+      "link": "https://www.zeit.de/arbeit/2026-11/ig-metall-warnstreiks-tarifverhandlungen-metall-elektroindustrie"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall kurz nach Mitternacht gestartet",
+      "link": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-warnstreiks-der-ig-metall-kurz-nach-mitternacht-gestartet/100266374.html"
+     }
+    ]
+   },
+   {
+    "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+    "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
+    "image": "https://images.tagesschau.de/image/9c1a0a5f-3325-4594-b57a-9d01958b7978/AAABoYunSGo/AAABnSSvrFg/16x9-big/binance-108.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-01T02:06:07+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+      "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Binance: FBI macht Nordkorea für Milliardenraub bei Kryptobörse verantwortlich",
+      "link": "https://www.spiegel.de/netzwelt/binance-fbi-macht-nordkorea-fuer-milliardenraub-bei-kryptoboerse-verantwortlich-a-cf2eebce-131e-418f-9510-ce17afcdac74#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Kryptobörse Binance: FBI macht Nordkorea für Milliardendiebstahl verantwortlich",
+      "link": "https://www.faz.net/aktuell/finanzen/fbi-macht-nordkorea-fuer-milliardendiebstahl-bei-binance-verantwortlich-accg-201640102.html"
+     }
+    ]
+   },
+   {
     "title": "Machtkampf um Polens Verfassungsgericht",
     "link": "https://www.tagesschau.de/tagesthemen/video-1675934.html",
     "image": "https://images.tagesschau.de/image/dc5e3b6c-da2f-4d6a-b21a-be8881752dd7/AAABoZQlAmY/AAABnSSvrFg/16x9-big/sendungsbild-1820358.jpg?width=1920",
@@ -169,30 +217,6 @@
       "name": "Handelsblatt",
       "title": "+++ Ukraine-Krieg +++: USA genehmigen Verkauf von 500 Patriot-Raketen an die Ukraine",
       "link": "https://www.handelsblatt.com/politik/international/ukraine-usa-genehmigen-verkauf-von-500-patriot-raketen-an-die-ukraine/27982126.html"
-     }
-    ]
-   },
-   {
-    "title": "Smalltalk beim G20-Außenministertreffen in Atlanta: Johann Wadephul plaudert mit Sergej Lawrow",
-    "link": "https://www.spiegel.de/politik/deutschland/smalltalk-beim-g20-aussenministertreffen-in-atlanta-johann-wadephul-plaudert-mit-sergej-lawrow-a-5981aa8c-ac98-4946-8319-9de68c38f7a9#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/c64c1c29-b52f-401c-84b7-057116644634_w520_r2.08_fpx41.34_fpy50.jpg",
-    "n_sources": 3,
-    "time": "2026-10-31T18:58:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Smalltalk beim G20-Außenministertreffen in Atlanta: Johann Wadephul plaudert mit Sergej Lawrow",
-      "link": "https://www.spiegel.de/politik/deutschland/smalltalk-beim-g20-aussenministertreffen-in-atlanta-johann-wadephul-plaudert-mit-sergej-lawrow-a-5981aa8c-ac98-4946-8319-9de68c38f7a9#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "G20-Außenministertreffen: Für Sergej Lawrow gibt es heute kein Foto",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/g20-aussenminister-atlanta-usa-russland-sergej-lawrow-johann-wadephul"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Ukraine-Krieg: Lawrow poltert beim G20-Außenministertreffen in Atlanta",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-lawrow-poltert-beim-g20-aussenministertreffen-in-atlanta/100266269.html"
      }
     ]
    },
@@ -243,83 +267,25 @@
       "link": "https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-demonstrationszug-in-koeln-wegen-vermummung-abgesagt-faz-201635936.html"
      }
     ]
-   },
-   {
-    "title": "2. Bundesliga: Hannover 96 entlässt Sportchef Jonas Boldt",
-    "link": "https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt-a-9eb28204-9a40-4afd-86bb-bece240f6ef8#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/36027b01-9088-4b54-9c32-e2550a7e65fd_w520_r2.08_fpx65.33_fpy50.jpg",
-    "n_sources": 3,
-    "time": "2026-10-31T13:18:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "2. Bundesliga: Hannover 96 entlässt Sportchef Jonas Boldt",
-      "link": "https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt-a-9eb28204-9a40-4afd-86bb-bece240f6ef8#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "2. Fußball-Bundesliga: Nach 5 Monaten: Sportchef Boldt muss bei Hannover 96 gehen",
-      "link": "https://www.zeit.de/news/2026-10/31/perfekt-hannover-96-trennt-sich-von-sportchef-boldt"
-     },
-     {
-      "name": "FAZ",
-      "title": "Nach 5 Monaten: Sportchef Boldt bei Hannover 96 entlassen",
-      "link": "https://www.faz.net/aktuell/sport/fussball/bundesliga/sportchef-jonas-boldt-bei-hannover-96-entlassen-accg-201638930.html"
-     }
-    ]
    }
   ],
   "7d": [
    {
-    "title": "Machtkampf um Polens Verfassungsgericht",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1675934.html",
-    "image": "https://images.tagesschau.de/image/dc5e3b6c-da2f-4d6a-b21a-be8881752dd7/AAABoZQlAmY/AAABnSSvrFg/16x9-big/sendungsbild-1820358.jpg?width=1920",
+    "title": "Jakob Schaumann, HR, zu den Ausschreitungen in Frankfurt nach friedlichen Protesten der GenZ",
+    "link": "https://www.tagesschau.de/video/video-1675946.html",
+    "image": "https://images.tagesschau.de/image/8f38cf21-4756-490f-9b91-6a1590c52225/AAABoZRYTj0/AAABnSSvrFg/16x9-big/sendungsbild-1820370.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-31T22:47:07+00:00",
+    "time": "2026-10-31T23:43:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Machtkampf um Polens Verfassungsgericht",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1675934.html"
+      "title": "Jakob Schaumann, HR, zu den Ausschreitungen in Frankfurt nach friedlichen Protesten der GenZ",
+      "link": "https://www.tagesschau.de/video/video-1675946.html"
      },
      {
       "name": "Spiegel",
-      "title": "Polen: Polizeieinsatz bei eskalierendem Streit über das Verfassungsgericht",
-      "link": "https://www.spiegel.de/ausland/polen-polizeieinsatz-bei-eskalierendem-streit-ueber-das-verfassungsgericht-a-47bdca85-d4e4-48da-8688-d3c40f2065ad#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Polen: Streit um Verfassungsgericht in Polen spitzt sich zu",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/polen-verfassungsgericht-karol-nawrocki-donald-tusk-pis"
-     },
-     {
-      "name": "FAZ",
-      "title": "Krisentreffen: Machtkampf um Polens Verfassungsgericht spitzt sich zu",
-      "link": "https://www.faz.net/aktuell/politik/ausland/polens-verfassungsgericht-nawrocki-laedt-zur-krisensitzung-201639845.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Polen: Krise um Verfassungsgericht in Polen spitzt sich zu",
-      "link": "https://www.handelsblatt.com/politik/international/polen-krise-um-verfassungsgericht-in-polen-spitzt-sich-zu/100266281.html"
-     }
-    ]
-   },
-   {
-    "title": "Zusammenstöße mit der Polizei nach \"GenZ\"-Protesten in mehreren Städten",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1675932.html",
-    "image": "https://images.tagesschau.de/image/af8d6663-3425-40fe-b2b6-6e964d5f31f1/AAABoZQjTq8/AAABnSSvrFg/16x9-big/sendungsbild-1820354.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-31T22:45:13+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Zusammenstöße mit der Polizei nach \"GenZ\"-Protesten in mehreren Städten",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1675932.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "»Gen Z regelt«: Erste Proteste in Berlin verlaufen weitgehend friedlich",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-erste-proteste-in-berlin-verlaufen-weitgehend-friedlich-a-8ed42304-8a51-42d0-bd90-a476f1fdd125#ref=rss"
+      "title": "Frankreich: Erneute Ausschreitungen bei Protesten gegen Bildungs­missstände",
+      "link": "https://www.spiegel.de/ausland/frankreich-erneute-ausschreitungen-bei-protesten-gegen-bildungs-missstaende-a-f05333eb-83b0-45b3-85fc-1c30c44fddc9#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -441,16 +407,16 @@
     ]
    },
    {
-    "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
-    "image": "https://images.tagesschau.de/image/77afaa8a-f08f-4b05-82ca-60ff45e5088a/AAABoXxq0UI/AAABnSSvrFg/16x9-big/rbb-625257499-100.jpg?width=1920",
+    "title": "Angst vor Hamas-Sympathisanten: Debatte um Sicherheit in Berlin",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1674866.html",
+    "image": "https://images.tagesschau.de/image/531f7b1d-b007-4981-bfd5-e124a4deff7e/AAABoYmMqdw/AAABnSSvrFg/16x9-big/sendungsbild-1819300.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-10-31T17:32:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
+      "title": "Angst vor Hamas-Sympathisanten: Debatte um Sicherheit in Berlin",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1674866.html"
      },
      {
       "name": "Spiegel",
@@ -505,40 +471,6 @@
       "name": "Handelsblatt",
       "title": "+++ US-Midterms +++: US-Gericht verbietet Trumps Regierung Druck auf Wahlhelfer",
       "link": "https://www.handelsblatt.com/politik/international/usa-us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer/29669594.html"
-     }
-    ]
-   },
-   {
-    "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
-    "link": "https://www.tagesschau.de/ausland/eu-kanada-ki-100.html",
-    "image": "https://images.tagesschau.de/image/f777cc2e-6e6c-4a70-96d9-74a583c70bef/AAABoYj25Qw/AAABnSSvrFg/16x9-big/flaggen-eu-kanada-100.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-31T02:55:10+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
-      "link": "https://www.tagesschau.de/ausland/eu-kanada-ki-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "EU-Kanada-Gipfel: Streit um einen Namen – »Mitgliedschaft« wird zum Störfaktor",
-      "link": "https://www.spiegel.de/ausland/eu-kanada-gipfel-streit-um-einen-namen-mitgliedschaft-wird-zum-stoerfaktor-a-c285fb01-d854-4e3c-bbbd-561905b261bc#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Kanada und die Europäische Union: Kanada wird vorerst wohl kein »assoziiertes« EU-Mitglied",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/kanada-eu-assoziierte-mitgliedschaft-gipfel-ursula-von-der-leyen-friedrich-merz"
-     },
-     {
-      "name": "FAZ",
-      "title": "Namensstreit: Begriff „Mitgliedschaft“ wird zum Störfaktor beim EU-Kanada-Gipfel",
-      "link": "https://www.faz.net/aktuell/politik/ausland/begriff-mitgliedschaft-wird-zum-stoerfaktor-beim-eu-kanada-gipfel-accg-201638580.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "EU-Kanada-Gipfel: EU und Kanada rücken zusammen, verzichten vorerst aber auf „assoziierte Mitgliedschaft“",
-      "link": "https://www.handelsblatt.com/politik/international/eu-kanada-gipfel-allianz-ja-assoziierte-mitgliedschaft-nein/100265054.html"
      }
     ]
    },
@@ -607,61 +539,95 @@
       "name": "Handelsblatt",
       "title": "Konjunktur: Deutsche Wirtschaft wächst stärker als erwartet – weil es in einem Bereich erstaunlich gut läuft",
       "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-staerker-als-erwartet/100266091.html"
+     }
+    ]
+   },
+   {
+    "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
+    "image": "https://images.tagesschau.de/image/814030d4-6f76-4e55-8922-3ae689b93c11/AAABoYcn_rw/AAABnSSvrFg/16x9-big/lagarde-328.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-29T16:52:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "News des Tages: EZB-Chefin Christine Lagarde tritt ab, Elif Eralp äußert sich, Friedrich Merz bereist Asien",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-ezb-chefin-christine-lagarde-tritt-ab-elif-eralp-aeussert-sich-friedrich-merz-bereist-asien-a-6e65925f-90c6-41ed-8c19-585f777c92c2#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "EZB-Präsidentin: Christine Lagarde hört vorzeitig als EZB-Präsidentin auf",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/christine-lagarde-hoert-vorzeitig-als-ezb-praesidentin-auf"
+     },
+     {
+      "name": "FAZ",
+      "title": "Wer wird die nachfolge?: EZB-Präsidentin Lagarde tritt vorzeitig zurück",
+      "link": "https://www.faz.net/video/ezb-praesidentin-lagarde-tritt-vorzeitig-zurueck-201633034.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Geldpolitik: EZB-Präsidentin Christine Lagarde tritt im Februar vorzeitig ab",
+      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/christine-lagarde-ezb-praesidentin-tritt-im-februar-2027-vorzeitig-ab/100265875.html"
+     }
+    ]
+   },
+   {
+    "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+    "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
+    "image": "https://images.tagesschau.de/image/4fa122f3-e6c0-4210-a3ea-9a24fb193a7f/AAABoYSCpNQ/AAABnSSvrFg/16x9-big/bolsonaro-348.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-29T12:09:36+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Brasilien: Flávio Bolsonaro behauptet, Präsidentschaftswahl gewonnen zu haben",
+      "link": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-behauptet-praesidentschaftswahl-gewonnen-zu-haben-a-82aadc56-61e0-454f-a203-3884bed50173#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Flávio Bolsonaro: Bolsonaro erklärt sich zum Wahlsieger Brasiliens",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/flavio-bolsonaro-brasilien-miami-wahlbetrug-brief"
+     },
+     {
+      "name": "FAZ",
+      "title": "Nach Flucht in die USA: Bolsonaro beansprucht Wahlsieg für sich",
+      "link": "https://www.faz.net/video/bolsonaro-beansprucht-wahlsieg-fuer-sich-201632742.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Brasilien: Bolsonaro erklärt sich zum wahren Wahlsieger – wie er der brasilianischen Justiz entkam",
+      "link": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaro-erklaert-sich-zum-wahren-wahlsieger-wie-er-der-brasilianischen-justiz-entkam/100265385.html"
      }
     ]
    }
   ],
   "30d": [
    {
-    "title": "Machtkampf um Polens Verfassungsgericht",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1675934.html",
-    "image": "https://images.tagesschau.de/image/dc5e3b6c-da2f-4d6a-b21a-be8881752dd7/AAABoZQlAmY/AAABnSSvrFg/16x9-big/sendungsbild-1820358.jpg?width=1920",
+    "title": "Jakob Schaumann, HR, zu den Ausschreitungen in Frankfurt nach friedlichen Protesten der GenZ",
+    "link": "https://www.tagesschau.de/video/video-1675946.html",
+    "image": "https://images.tagesschau.de/image/8f38cf21-4756-490f-9b91-6a1590c52225/AAABoZRYTj0/AAABnSSvrFg/16x9-big/sendungsbild-1820370.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-10-31T22:47:07+00:00",
+    "time": "2026-10-31T23:43:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Machtkampf um Polens Verfassungsgericht",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1675934.html"
+      "title": "Jakob Schaumann, HR, zu den Ausschreitungen in Frankfurt nach friedlichen Protesten der GenZ",
+      "link": "https://www.tagesschau.de/video/video-1675946.html"
      },
      {
       "name": "Spiegel",
-      "title": "Polen: Polizeieinsatz bei eskalierendem Streit über das Verfassungsgericht",
-      "link": "https://www.spiegel.de/ausland/polen-polizeieinsatz-bei-eskalierendem-streit-ueber-das-verfassungsgericht-a-47bdca85-d4e4-48da-8688-d3c40f2065ad#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Polen: Streit um Verfassungsgericht in Polen spitzt sich zu",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/polen-verfassungsgericht-karol-nawrocki-donald-tusk-pis"
-     },
-     {
-      "name": "FAZ",
-      "title": "Krisentreffen: Machtkampf um Polens Verfassungsgericht spitzt sich zu",
-      "link": "https://www.faz.net/aktuell/politik/ausland/polens-verfassungsgericht-nawrocki-laedt-zur-krisensitzung-201639845.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Polen: Krise um Verfassungsgericht in Polen spitzt sich zu",
-      "link": "https://www.handelsblatt.com/politik/international/polen-krise-um-verfassungsgericht-in-polen-spitzt-sich-zu/100266281.html"
-     }
-    ]
-   },
-   {
-    "title": "Zusammenstöße mit der Polizei nach \"GenZ\"-Protesten in mehreren Städten",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1675932.html",
-    "image": "https://images.tagesschau.de/image/af8d6663-3425-40fe-b2b6-6e964d5f31f1/AAABoZQjTq8/AAABnSSvrFg/16x9-big/sendungsbild-1820354.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-31T22:45:13+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Zusammenstöße mit der Polizei nach \"GenZ\"-Protesten in mehreren Städten",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1675932.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "»Gen Z regelt«: Erste Proteste in Berlin verlaufen weitgehend friedlich",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-erste-proteste-in-berlin-verlaufen-weitgehend-friedlich-a-8ed42304-8a51-42d0-bd90-a476f1fdd125#ref=rss"
+      "title": "Frankreich: Erneute Ausschreitungen bei Protesten gegen Bildungs­missstände",
+      "link": "https://www.spiegel.de/ausland/frankreich-erneute-ausschreitungen-bei-protesten-gegen-bildungs-missstaende-a-f05333eb-83b0-45b3-85fc-1c30c44fddc9#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -783,16 +749,16 @@
     ]
    },
    {
-    "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
-    "image": "https://images.tagesschau.de/image/77afaa8a-f08f-4b05-82ca-60ff45e5088a/AAABoXxq0UI/AAABnSSvrFg/16x9-big/rbb-625257499-100.jpg?width=1920",
+    "title": "Angst vor Hamas-Sympathisanten: Debatte um Sicherheit in Berlin",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1674866.html",
+    "image": "https://images.tagesschau.de/image/531f7b1d-b007-4981-bfd5-e124a4deff7e/AAABoYmMqdw/AAABnSSvrFg/16x9-big/sendungsbild-1819300.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-10-31T17:32:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
+      "title": "Angst vor Hamas-Sympathisanten: Debatte um Sicherheit in Berlin",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1674866.html"
      },
      {
       "name": "Spiegel",
@@ -847,40 +813,6 @@
       "name": "Handelsblatt",
       "title": "+++ US-Midterms +++: US-Gericht verbietet Trumps Regierung Druck auf Wahlhelfer",
       "link": "https://www.handelsblatt.com/politik/international/usa-us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer/29669594.html"
-     }
-    ]
-   },
-   {
-    "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
-    "link": "https://www.tagesschau.de/ausland/eu-kanada-ki-100.html",
-    "image": "https://images.tagesschau.de/image/f777cc2e-6e6c-4a70-96d9-74a583c70bef/AAABoYj25Qw/AAABnSSvrFg/16x9-big/flaggen-eu-kanada-100.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-10-31T02:55:10+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
-      "link": "https://www.tagesschau.de/ausland/eu-kanada-ki-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "EU-Kanada-Gipfel: Streit um einen Namen – »Mitgliedschaft« wird zum Störfaktor",
-      "link": "https://www.spiegel.de/ausland/eu-kanada-gipfel-streit-um-einen-namen-mitgliedschaft-wird-zum-stoerfaktor-a-c285fb01-d854-4e3c-bbbd-561905b261bc#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Kanada und die Europäische Union: Kanada wird vorerst wohl kein »assoziiertes« EU-Mitglied",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/kanada-eu-assoziierte-mitgliedschaft-gipfel-ursula-von-der-leyen-friedrich-merz"
-     },
-     {
-      "name": "FAZ",
-      "title": "Namensstreit: Begriff „Mitgliedschaft“ wird zum Störfaktor beim EU-Kanada-Gipfel",
-      "link": "https://www.faz.net/aktuell/politik/ausland/begriff-mitgliedschaft-wird-zum-stoerfaktor-beim-eu-kanada-gipfel-accg-201638580.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "EU-Kanada-Gipfel: EU und Kanada rücken zusammen, verzichten vorerst aber auf „assoziierte Mitgliedschaft“",
-      "link": "https://www.handelsblatt.com/politik/international/eu-kanada-gipfel-allianz-ja-assoziierte-mitgliedschaft-nein/100265054.html"
      }
     ]
    },
@@ -949,6 +881,74 @@
       "name": "Handelsblatt",
       "title": "Konjunktur: Deutsche Wirtschaft wächst stärker als erwartet – weil es in einem Bereich erstaunlich gut läuft",
       "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-staerker-als-erwartet/100266091.html"
+     }
+    ]
+   },
+   {
+    "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
+    "image": "https://images.tagesschau.de/image/814030d4-6f76-4e55-8922-3ae689b93c11/AAABoYcn_rw/AAABnSSvrFg/16x9-big/lagarde-328.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-29T16:52:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "News des Tages: EZB-Chefin Christine Lagarde tritt ab, Elif Eralp äußert sich, Friedrich Merz bereist Asien",
+      "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-ezb-chefin-christine-lagarde-tritt-ab-elif-eralp-aeussert-sich-friedrich-merz-bereist-asien-a-6e65925f-90c6-41ed-8c19-585f777c92c2#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "EZB-Präsidentin: Christine Lagarde hört vorzeitig als EZB-Präsidentin auf",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/christine-lagarde-hoert-vorzeitig-als-ezb-praesidentin-auf"
+     },
+     {
+      "name": "FAZ",
+      "title": "Wer wird die nachfolge?: EZB-Präsidentin Lagarde tritt vorzeitig zurück",
+      "link": "https://www.faz.net/video/ezb-praesidentin-lagarde-tritt-vorzeitig-zurueck-201633034.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Geldpolitik: EZB-Präsidentin Christine Lagarde tritt im Februar vorzeitig ab",
+      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/christine-lagarde-ezb-praesidentin-tritt-im-februar-2027-vorzeitig-ab/100265875.html"
+     }
+    ]
+   },
+   {
+    "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+    "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
+    "image": "https://images.tagesschau.de/image/4fa122f3-e6c0-4210-a3ea-9a24fb193a7f/AAABoYSCpNQ/AAABnSSvrFg/16x9-big/bolsonaro-348.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-10-29T12:09:36+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Brasilien: Flávio Bolsonaro behauptet, Präsidentschaftswahl gewonnen zu haben",
+      "link": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-behauptet-praesidentschaftswahl-gewonnen-zu-haben-a-82aadc56-61e0-454f-a203-3884bed50173#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Flávio Bolsonaro: Bolsonaro erklärt sich zum Wahlsieger Brasiliens",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/flavio-bolsonaro-brasilien-miami-wahlbetrug-brief"
+     },
+     {
+      "name": "FAZ",
+      "title": "Nach Flucht in die USA: Bolsonaro beansprucht Wahlsieg für sich",
+      "link": "https://www.faz.net/video/bolsonaro-beansprucht-wahlsieg-fuer-sich-201632742.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Brasilien: Bolsonaro erklärt sich zum wahren Wahlsieger – wie er der brasilianischen Justiz entkam",
+      "link": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaro-erklaert-sich-zum-wahren-wahlsieger-wie-er-der-brasilianischen-justiz-entkam/100265385.html"
      }
     ]
    }
@@ -1524,6 +1524,26 @@
      "title_orig": "Modernising Core Banking Without Compromising Resilience"
     },
     {
+     "title": "Konto-zu-Konto-Zahlungen in Großbritannien: Was kommt als nächstes?",
+     "link": "https://www.finextra.com/videoarticle/3617/account-to-account-payments-in-the-uk-what-comes-next?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-10-26T10:40:41+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Account-to-Account Payments in the UK: What Comes Next?",
+       "link": "https://www.finextra.com/videoarticle/3617/account-to-account-payments-in-the-uk-what-comes-next?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Video: NatWest at Sibos 2026 – What’s next for cross-border payments and agentic commerce?",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ0JyR09ENmRUMndnOHZELUFuQmR0RF9OQzJoUm03QjFjNTdqUGpTSHV5SGlGem1xaGoteTV0TDlYY3ZTTjRQYUl6T1podjhwU0t2dUQ1eVN2SFRlVkx6dnBSNFNhRFNIWFBSVjZKSm9rRUViWDB5empFeElkcU55Z0UtRmJLYWk3eDlONUxnTkxrRmdZdG9md0JwbmxfTjJfRG1qMl9hRjllY3ZfMGZ2LWpfLU9udWhlMjJwcGpmSkZ2dw?oc=5"
+      }
+     ],
+     "title_orig": "Account-to-Account Payments in the UK: What Comes Next?"
+    },
+    {
      "title": "Zen.com und Mastercard erweitern Pay By Bank für Händler und Verbraucher in ganz Europa",
      "link": "https://www.finextra.com/newsarticle/48659/zencom-and-mastercard-expand-pay-by-bank-for-merchants-and-consumers-across-europe?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1662,26 +1682,6 @@
       }
      ],
      "title_orig": "Vancity selects Temenos SaaS for core banking overhaul"
-    },
-    {
-     "title": "Monzo startet in Spanien",
-     "link": "https://www.finextra.com/newsarticle/48665/monzo-launches-in-spain?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-10-29T15:32:21+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Monzo launches in Spain",
-       "link": "https://www.finextra.com/newsarticle/48665/monzo-launches-in-spain?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "Monzo launches Bizum-linked accounts in Spain",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd01DazJSMmlweUxjeEVnV253bGRLYTZjWXAzd0JvRFQ3cE1Ia1ZQUE5aanl0UkREcDN4RXlWNTFMV3JWYzI5ZUIyVGk3ZHJnUHBnQVBzZjJGMXdjaVJGeVduZUdCMFJzd2ViT1YyOHRWenRWbEMyMkxfaFhrQ0gtTEhpUV9BTzZmbVRjdlYzM2hNTnhRZDJzMHQ2dTJjNVN0a0xV?oc=5"
-      }
-     ],
-     "title_orig": "Monzo launches in Spain"
     }
    ]
   },
@@ -1907,26 +1907,6 @@
    ],
    "30d": [
     {
-     "title": "Sezzle strebt OCC-Bankcharta an",
-     "link": "https://www.paymentsdive.com/news/sezzle-seeks-occ-bank-charter/833847/",
-     "image": "https://imgproxy.divecdn.com/f62fINWQ7k0ajz5kcT5aNdx5MKOoM2Bs1RXs8Ip__Fs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzX1BodXhnZlkuanBn.webp",
-     "n_sources": 2,
-     "time": "2026-10-30T18:42:13+00:00",
-     "sources": [
-      {
-       "name": "Payments Dive",
-       "title": "Sezzle seeks OCC bank charter",
-       "link": "https://www.paymentsdive.com/news/sezzle-seeks-occ-bank-charter/833847/"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Galaxy Digital Seeks Bank Charter to Expand Financial Services Reach",
-       "link": "https://www.pymnts.com/news/banking/2026/galaxy-digital-seeks-bank-charter-to-expand-financial-services-reach/"
-      }
-     ],
-     "title_orig": "Sezzle seeks OCC bank charter"
-    },
-    {
      "title": "Hacker stehlen Krypto-Assets im Wert von 6,3 Mrd. $ von Binance",
      "link": "https://www.finextra.com/newsarticle/48674/hackers-steal-63bn-in-crypto-assets-from-binance?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "https://www.pymnts.com/wp-content/uploads/2022/11/Binance.jpg?w=457",
@@ -2105,6 +2085,26 @@
       }
      ],
      "title_orig": "Anthropic expands Claude for Financial Advisors with ne integrations"
+    },
+    {
+     "title": "Silbentrennung bringt 45 Mio. $ für autonome Finanzagenten ein",
+     "link": "https://www.finextra.com/pressarticle/111474/hyphenate-raises-45m-for-autonomous-finance-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2023/11/artificial-intelligence-AI.jpg?w=457",
+     "n_sources": 2,
+     "time": "2026-10-27T19:46:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Hyphenate raises $45m for autonomous finance agents",
+       "link": "https://www.finextra.com/pressarticle/111474/hyphenate-raises-45m-for-autonomous-finance-agents?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Hyphenate Raises $45 Million for Finance-Focused AI Agents",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/hyphenate-raises-45-million-dollars-finance-focused-ai-agents/"
+      }
+     ],
+     "title_orig": "Hyphenate raises $45m for autonomous finance agents"
     }
    ]
   }
@@ -2116,54 +2116,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "grayson allen",
-      "link": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-31/brandon-miller-records-24-5-5-2-1-line-vs-phi",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "spurs – timberwolves",
-      "link": "https://www.canishoopus.com/timberwolves-game-previews/71283/nba-thread-san-antonio-spurs-rudy-gobert",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "wnba",
-      "link": "https://crisismagazine.com/opinion/playing-games",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "mcdonald's",
-      "link": "https://www.reuters.com/legal/government/mcdonalds-must-face-lawsuit-over-mcrib-us-judge-rules-2026-10-30/",
+      "title": "bangladesh vs india",
+      "link": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "lol esports",
+      "title": "rockets – thunder",
+      "link": "https://www.squawka.com/ca/news/nba/thunder-vs-rockets-prediction-team-news/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "mc donalds",
+      "link": "https://www.foxbusiness.com/lifestyle/mcdonalds-dealt-legal-setback-judge-allows-mcrib-lawsuit-over-sandwichs-meat-proceed",
+      "meta": "2000+ Suchanfragen"
+     },
+     {
+      "title": "ban vs ind",
+      "link": "https://www.indiatoday.in/sports/cricket/story/india-wtc-final-qualification-scenarios-south-africa-australia-series-win-3029501-2026-10-31",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "wnba",
+      "link": "https://www.theguardian.com/sport/2026/oct/31/golden-state-valkyries-atlanta-dream-wnba-finals-game-7-gabby-williams",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "spurs – timberwolves",
+      "link": "https://www.nba.com/game/min-vs-sas-0022600152/box-score",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "lol worlds",
       "link": "https://hypebeast.com/2026/10/huf-league-of-legends-worlds-championships-2026-collaboration-collection-release-info",
-      "meta": "100+ Suchanfragen"
+      "meta": "200+ Suchanfragen"
      },
      {
       "title": "sports",
       "link": "https://www.sportschau.de/regional/rbb/rbb-wie-ein-influencer-klub-das-leben-eines-kreisliga-trainers-veraenderte-102.html",
-      "meta": "200+ Suchanfragen"
+      "meta": "500+ Suchanfragen"
      },
      {
       "title": "worlds 2026",
-      "link": "https://www.sheepesports.com/en/articles/team-liquid-end-north-america-s-13-series-losing-streak-against-the-lpl-at-worlds-2026/en",
+      "link": "https://www.invenglobal.com/articles/27979/europes-survivor-is-kc-defeats-mkoi-to-advance-to-quarterfinals",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "bruce willis",
-      "link": "https://people.com/bruce-willis-daughter-tallulah-looks-like-dad-throwback-baby-photo-instagram-12204280",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "saarbahn",
-      "link": "https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/saarbahn_stellt_betrieb_s1_teilweise_ein_100.html",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "luka modrić",
-      "link": "https://www.gazzetta.it/en/football/teams/inter/news/storie/30-10-2026/milan-v-inter-where-the-players-live-and-their-favourite-venues/milan-derby-where-the-players-live-and-eat.shtml",
-      "meta": "100+ Suchanfragen"
+      "title": "more",
+      "link": "https://www.espn.com/nfl/story/_/id/50338005/nfl-review-additional-allegations-packers-jacobs",
+      "meta": "500+ Suchanfragen"
      }
     ]
    },
@@ -2172,54 +2172,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "Elke Sommer",
-      "link": "https://de.wikipedia.org/wiki/Elke_Sommer",
-      "meta": "174.290 Aufrufe am 29.10."
+      "title": "Lena Gercke",
+      "link": "https://de.wikipedia.org/wiki/Lena_Gercke",
+      "meta": "72.565 Aufrufe am 31.10."
+     },
+     {
+      "title": "Halloween",
+      "link": "https://de.wikipedia.org/wiki/Halloween",
+      "meta": "67.231 Aufrufe am 31.10."
+     },
+     {
+      "title": "Alexander Held",
+      "link": "https://de.wikipedia.org/wiki/Alexander_Held",
+      "meta": "66.604 Aufrufe am 31.10."
+     },
+     {
+      "title": "Generation Z",
+      "link": "https://de.wikipedia.org/wiki/Generation_Z",
+      "meta": "64.319 Aufrufe am 31.10."
+     },
+     {
+      "title": "Otto Waalkes",
+      "link": "https://de.wikipedia.org/wiki/Otto_Waalkes",
+      "meta": "56.022 Aufrufe am 31.10."
      },
      {
       "title": "Patrick Stewart",
       "link": "https://de.wikipedia.org/wiki/Patrick_Stewart",
-      "meta": "172.957 Aufrufe am 29.10."
+      "meta": "44.085 Aufrufe am 31.10."
      },
      {
       "title": "Elif Eralp",
       "link": "https://de.wikipedia.org/wiki/Elif_Eralp",
-      "meta": "46.454 Aufrufe am 29.10."
+      "meta": "40.066 Aufrufe am 31.10."
      },
      {
-      "title": "Christine Lagarde",
-      "link": "https://de.wikipedia.org/wiki/Christine_Lagarde",
-      "meta": "40.703 Aufrufe am 29.10."
+      "title": "Reformationstag",
+      "link": "https://de.wikipedia.org/wiki/Reformationstag",
+      "meta": "35.694 Aufrufe am 31.10."
      },
      {
       "title": "Liste der größten Auslegerbrücken",
       "link": "https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6%C3%9Ften_Auslegerbr%C3%BCcken",
-      "meta": "32.173 Aufrufe am 29.10."
+      "meta": "31.694 Aufrufe am 31.10."
      },
      {
-      "title": "Parlamentswahl in Israel 2026",
-      "link": "https://de.wikipedia.org/wiki/Parlamentswahl_in_Israel_2026",
-      "meta": "23.904 Aufrufe am 29.10."
-     },
-     {
-      "title": "Barbara Barrie",
-      "link": "https://de.wikipedia.org/wiki/Barbara_Barrie",
-      "meta": "19.129 Aufrufe am 29.10."
-     },
-     {
-      "title": "Alfred Hitchcock",
-      "link": "https://de.wikipedia.org/wiki/Alfred_Hitchcock",
-      "meta": "17.497 Aufrufe am 29.10."
-     },
-     {
-      "title": "Juli Zeh",
-      "link": "https://de.wikipedia.org/wiki/Juli_Zeh",
-      "meta": "17.061 Aufrufe am 29.10."
-     },
-     {
-      "title": "Drive – The Pretenders",
-      "link": "https://de.wikipedia.org/wiki/Drive_%E2%80%93_The_Pretenders",
-      "meta": "16.489 Aufrufe am 29.10."
+      "title": "Mats Hummels",
+      "link": "https://de.wikipedia.org/wiki/Mats_Hummels",
+      "meta": "29.631 Aufrufe am 31.10."
      }
     ]
    }
@@ -2230,30 +2230,30 @@
     "lang": "fr",
     "items": [
      {
-      "title": "jean-paul lebosnoyani",
-      "link": "https://sports.yahoo.com/articles/jean-paul-lebosnoyani-vs-farman-162821151.html",
+      "title": "mcdo",
+      "link": "https://www.lalibre.be/culture/musique/2026/10/30/un-ancien-candidat-de-la-star-academy-evoque-ses-problemes-financiers-je-vends-mes-vetements-sur-vinted-je-vais-travailler-a-mcdo-R5CN4W6PMBBXLF3KGVLEGI4BTQ/",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "wnba",
-      "link": "https://crisismagazine.com/opinion/playing-games",
+      "title": "lotto Ziehung Ergebnisse",
+      "link": "https://www.fdj.fr/jeux-de-tirage/loto/resultats/mercredi-28-octobre-2026",
+      "meta": "20000+ Suchanfragen",
+      "title_orig": "tirage loto résultats"
+     },
+     {
+      "title": "victor wembanyama",
+      "link": "https://sports.yahoo.com/articles/spurs-beat-minnesota-behind-victor-025158541.html",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "jacobe smith",
+      "link": "https://www.mmamania.com/latest-news/482482/ufc-vegas-123s-jacobe-smith-hopes-to-get-a-title-shot-by-early-2028-give-me-my-chance",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "ps5 pro",
+      "link": "https://blog.playstation.com/2026/10/28/first-look-inside-the-prism-collection-with-three-new-transparent-designs-for-ps5-accessories/",
       "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "grizzlies – kings",
-      "link": "https://mnlr.ro/mnlr3.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2V2YXJ1aXo1Ni5naXRodWIuaW8vdG9tL3h5ei54bWwiLz48L2tycGFubz4=&id=video-where-to-watch-grizzlies-vs-kings-live-2bznz",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "rockets – thunder",
-      "link": "https://www.squawka.com/ca/news/nba/thunder-vs-rockets-prediction-team-news/",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "unfall züge in spanien",
-      "link": "https://www.lemonde.fr/international/article/2026/10/31/collision-de-trains-en-espagne-une-francaise-parmi-les-69-morts-le-ministere-des-affaires-etrangeres-dit-sa-tres-vive-emotion_6803714_3210.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "accident trains en espagne"
      }
     ]
    },
@@ -2262,29 +2262,32 @@
     "lang": "it",
     "items": [
      {
-      "title": "ban vs ind",
-      "link": "https://www.livemint.com/sports/cricket-news/wtc-points-table-after-ban-vs-wi-1st-test-india-move-up-to-fourth-as-bangladesh-drop-to-fifth-after-eight-wicket-defeat-11793452888042.html",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "rockets - thunder",
-      "link": "https://www.squawka.com/ca/news/nba/thunder-vs-rockets-prediction-team-news/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "wnba",
-      "link": "https://crisismagazine.com/opinion/playing-games",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "spurs - timberwolves",
-      "link": "https://www.rotowire.com/basketball/headlines/joan-beringer-news-starting-saturday-537001",
+      "title": "shashank singh",
+      "link": "https://gulfnews.com/sport/pm-shehbaz-sharif-praises-pakistan-for-defeating-india-in-hong-kong-sixes-1.500730471",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "jimmy ghione",
-      "link": "https://www.rainews.it/video/2026/11/ballando-con-le-stelle-lesibizione-di-serena-autieri-ballerina-per-una-notte-25fb22ba-48f9-42af-b630-cb83faa08bcb.html",
-      "meta": "5000+ Suchanfragen"
+      "title": "jack nicholson",
+      "link": "https://www.yahoo.com/entertainment/celebrity/articles/michael-douglas-gives-jack-nicholson-135616674.html",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "McDonald’s",
+      "link": "https://it.marketscreener.com/notizie/mcdonald-s-dovra-affrontare-la-causa-sulla-mcrib-stabilisce-un-giudice-statunitense-ce785fdbd08af722",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "mcdonald"
+     },
+     {
+      "title": "bangladesch vs. Indien",
+      "link": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "bangladesh vs india"
+     },
+     {
+      "title": "McDonald’s",
+      "link": "https://www.foxbusiness.com/lifestyle/mcdonalds-dealt-legal-setback-judge-allows-mcrib-lawsuit-over-sandwichs-meat-proceed",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "mc donald"
      }
     ]
    },
@@ -2293,30 +2296,31 @@
     "lang": "es",
     "items": [
      {
-      "title": "rockets - thunder",
-      "link": "https://www.squawka.com/ca/news/nba/thunder-vs-rockets-prediction-team-news/",
-      "meta": "200+ Suchanfragen"
+      "title": "sport",
+      "link": "https://www.twincities.com/2026/10/28/loons-stave-off-playoff-elimination-with-3-1-win-over-kansas-city/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "sports"
      },
      {
-      "title": "grayson allen",
-      "link": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-31/naz-reid-ice-cold-from-deep-scores-14-points",
+      "title": "a",
+      "link": "https://www.politico.com/news/magazine/2026/10/31/texas-abbott-gop-turnout-paxton-01136886",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "buckets - Cavaliers",
-      "link": "https://sports.yahoo.com/articles/milwaukee-bucks-vs-cleveland-cavaliers-222956635.html",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "bucks - cavaliers"
+      "title": "McDonald’s",
+      "link": "https://as.com/meristation/noticias/mcdonalds-confirma-que-los-happy-meal-del-30-aniversario-de-pokemon-llegaran-a-espana-con-cartas-y-juguetes-de-regalo-f202610-n/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "mcdonalds"
      },
      {
-      "title": "spurs - timberwolves",
-      "link": "https://www.canishoopus.com/timberwolves-game-previews/71283/nba-thread-san-antonio-spurs-rudy-gobert",
-      "meta": "500+ Suchanfragen"
+      "title": "tom nolan",
+      "link": "https://www.sherdog.com/news/news/UFC-Vegas-123-Moicano-vs-Nolan-playbyplay-results-round-scoring-203430",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "loles león",
-      "link": "https://www.elperiodico.com/cuore/famosos/2026/10/31/loles-leon-76-anos-aviso-135863763",
-      "meta": "500+ Suchanfragen"
+      "title": "leonardo dicaprio",
+      "link": "https://www.imdb.com/news/ni66088759/?ref_=nmnw_art_perm",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2325,29 +2329,30 @@
     "lang": "en",
     "items": [
      {
-      "title": "ban vs ind",
-      "link": "https://www.livemint.com/sports/cricket-news/wtc-points-table-after-ban-vs-wi-1st-test-india-move-up-to-fourth-as-bangladesh-drop-to-fifth-after-eight-wicket-defeat-11793452888042.html",
-      "meta": "1000+ Suchanfragen"
+      "title": "Ersparnisse",
+      "link": "https://www.theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "savings"
      },
      {
-      "title": "alonso",
-      "link": "https://www.marca.com/motor/formula1/gp-mexico/2026/10/31/alonso-roto-frustracion-indescriptible.html",
+      "title": "nationwide building society",
+      "link": "https://www.reuters.com/world/uk/uk-house-price-growth-slows-lowest-since-january-2024-2026-10-30/",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "hongkong vs. Sri Lanka",
+      "link": "https://www.cricbuzz.com/live-cricket-scores/175163/sl-vs-oman-plate-semi-final-1-hong-kong-sixes-2026",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "hong kong vs sri lanka"
+     },
+     {
+      "title": "colorado vs chicago",
+      "link": "https://www.espn.co.uk/football/team-stats/_/gameId/401876913/league/mex.1",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "fernando alonso",
-      "link": "https://www.formula1.com/en/video/2026-mexico-city-gp-qualifying-session-red-flagged-as-alonso-stops-on-track-in-q1.1880608164799838703",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "raketen vs. Donner",
-      "link": "https://www.nytimes.com/athletic/7741718/2026/10/31/thunder-vs-rockets-stream-how-to-watch-oct-31/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "rockets vs thunder"
-     },
-     {
-      "title": "iran",
-      "link": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1",
+      "title": "shashank singh",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/uae-se-haare-pakistan-pm-gets-fact-checked-by-ex-india-cricketer-after-victory-over-india-tweet/articleshow/135399145.cms",
       "meta": "200+ Suchanfragen"
      }
     ]
@@ -2358,26 +2363,26 @@
     "items": [
      {
       "title": "colorado Stromschnellen – Feuer",
-      "link": "https://sportowefakty.wp.pl/pilka-nozna/1281938/colorado-rapids-chicago-fire-gdzie-ogladac-mecz-major-league-soccer-o-ktorej-sta",
-      "meta": "500+ Suchanfragen",
+      "link": "https://sport.interia.pl/robert-lewandowski/na-zywo-colorado-rapids-chicago-fire-w-33-kolejce-major-league-socce,nzId,9374",
+      "meta": "2000+ Suchanfragen",
       "title_orig": "colorado rapids – fire"
      },
      {
       "title": "sporen – Holzwölfe",
-      "link": "https://www.canishoopus.com/timberwolves-game-previews/71283/nba-thread-san-antonio-spurs-rudy-gobert",
+      "link": "https://www.nba.com/game/min-vs-sas-0022600152/box-score",
       "meta": "200+ Suchanfragen",
       "title_orig": "spurs – timberwolves"
      },
      {
       "title": "welten 2026",
-      "link": "https://www.sheepesports.com/en/articles/team-liquid-end-north-america-s-13-series-losing-streak-against-the-lpl-at-worlds-2026/en",
+      "link": "https://hypebeast.com/2026/10/huf-league-of-legends-worlds-championships-2026-collaboration-collection-release-info",
       "meta": "200+ Suchanfragen",
       "title_orig": "worlds 2026"
      },
      {
       "title": "McDonald's",
-      "link": "https://www.yahoo.com/lifestyle/articles/meat-does-mcdonalds-biscuits-gravy-220300374.html",
-      "meta": "500+ Suchanfragen",
+      "link": "https://www.foxbusiness.com/lifestyle/mcdonalds-dealt-legal-setback-judge-allows-mcrib-lawsuit-over-sandwichs-meat-proceed",
+      "meta": "1000+ Suchanfragen",
       "title_orig": "mcdonald"
      },
      {
@@ -2391,37 +2396,65 @@
    {
     "name": "Wikipedia: meistgelesen (Französisch)",
     "lang": "fr",
-    "items": []
+    "items": [
+     {
+      "title": "Vesna Vulović",
+      "link": "https://fr.wikipedia.org/wiki/Vesna_Vulovi%C4%87",
+      "meta": "56.682 Aufrufe am 31.10."
+     },
+     {
+      "title": "Halloween",
+      "link": "https://fr.wikipedia.org/wiki/Halloween",
+      "meta": "35.253 Aufrufe am 31.10."
+     },
+     {
+      "title": "Sheryfa Luna",
+      "link": "https://fr.wikipedia.org/wiki/Sheryfa_Luna",
+      "meta": "27.865 Aufrufe am 31.10."
+     },
+     {
+      "title": "Liste der Umfragen zur französischen Präsidentschaftswahl 2027",
+      "link": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "meta": "21.625 Aufrufe am 31.10.",
+      "title_orig": "Liste de sondages sur l'élection présidentielle française de 2027"
+     },
+     {
+      "title": "Patrick Stewart",
+      "link": "https://fr.wikipedia.org/wiki/Patrick_Stewart",
+      "meta": "20.216 Aufrufe am 31.10."
+     }
+    ]
    },
    {
     "name": "Wikipedia: meistgelesen (Italienisch)",
     "lang": "it",
     "items": [
      {
+      "title": "Halloween",
+      "link": "https://it.wikipedia.org/wiki/Halloween",
+      "meta": "33.366 Aufrufe am 31.10."
+     },
+     {
+      "title": "Diego Moreira",
+      "link": "https://it.wikipedia.org/wiki/Diego_Moreira",
+      "meta": "21.442 Aufrufe am 31.10."
+     },
+     {
+      "title": "Die Flügel der Freiheit",
+      "link": "https://it.wikipedia.org/wiki/Le_ali_della_libert%C3%A0",
+      "meta": "17.800 Aufrufe am 31.10.",
+      "title_orig": "Le ali della libertà"
+     },
+     {
+      "title": "Riccardo Rossi (Schauspieler)",
+      "link": "https://it.wikipedia.org/wiki/Riccardo_Rossi_(attore)",
+      "meta": "12.623 Aufrufe am 31.10.",
+      "title_orig": "Riccardo Rossi (attore)"
+     },
+     {
       "title": "Patrick Stewart",
       "link": "https://it.wikipedia.org/wiki/Patrick_Stewart",
-      "meta": "54.521 Aufrufe am 30.10."
-     },
-     {
-      "title": "Civil War (film)",
-      "link": "https://it.wikipedia.org/wiki/Civil_War_(film)",
-      "meta": "17.632 Aufrufe am 30.10."
-     },
-     {
-      "title": "Boeing CH-47 Chinook",
-      "link": "https://it.wikipedia.org/wiki/Boeing_CH-47_Chinook",
-      "meta": "12.694 Aufrufe am 30.10."
-     },
-     {
-      "title": "Episoden von Doc - In deinen Händen (Staffel 4)",
-      "link": "https://it.wikipedia.org/wiki/Episodi_di_Doc_-_Nelle_tue_mani_(quarta_stagione)",
-      "meta": "11.860 Aufrufe am 30.10.",
-      "title_orig": "Episodi di Doc - Nelle tue mani (quarta stagione)"
-     },
-     {
-      "title": "Ian McKellen",
-      "link": "https://it.wikipedia.org/wiki/Ian_McKellen",
-      "meta": "10.334 Aufrufe am 30.10."
+      "meta": "11.902 Aufrufe am 31.10."
      }
     ]
    }
@@ -2432,29 +2465,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "marcus smart",
-      "link": "https://www.cbssports.com/fantasy/basketball/news/rockets-marcus-smart-good-to-go-friday/",
+      "title": "nebraska fußball zeitplan",
+      "link": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2VzdHJlYW1ub3cuY29tL3d6dS92eC54bWwiLz48L2tycGFubz4=&id=video-nebraska-football-schedule-gridiron-ncaa-week-tz6ljp7",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "nebraska football schedule"
+     },
+     {
+      "title": "powerball-Nummern",
+      "link": "https://www.cbs8.com/article/news/nation-world/powerball-drawing-winning-numbers-saturday-october-31/507-e7038df6-4075-4c0a-b9d2-94f973a14590",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "powerball numbers"
+     },
+     {
+      "title": "grambling state football",
+      "link": "https://www.espn.com/nhl/recap/_/gameId/401892610",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "kellen moore",
+      "link": "https://www.ktvb.com/article/sports/ncaa/ncaaf/boise-state-football/kellen-moore-returning-for-statue-unveiling-saturday/277-5f54d04c-b1fc-4b2f-a5f6-a9e440fa3f19",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "kaitlyn chen",
-      "link": "https://www.sfgate.com/valkyries/article/valkyries-kaitlyn-hot-dog-22504439.php",
+      "title": "robert lewandowski",
+      "link": "https://przegladsportowy.onet.pl/pilka-nozna/mls/nawet-fani-chicago-fire-przejechali-sie-po-lewandowskim-tak-go-nazwali/80kcrxe",
       "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "ban vs ind",
-      "link": "https://www.livemint.com/sports/cricket-news/wtc-points-table-after-ban-vs-wi-1st-test-india-move-up-to-fourth-as-bangladesh-drop-to-fifth-after-eight-wicket-defeat-11793452888042.html",
-      "meta": "5000+ Suchanfragen"
-     },
-     {
-      "title": "chicago fire - colorado",
-      "link": "https://www.coloradorapids.com/news/gameday-guide-your-complete-guide-to-fan-appreciation-night-and-our-matchup-with-chicago-fire-fc",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "jelani thurman",
-      "link": "https://247sports.com/college/north-carolina/article/unc-football-jelani-thurman-291918286/",
-      "meta": "500+ Suchanfragen"
      }
     ]
    },
@@ -2463,33 +2498,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "1:1",
-      "link": "https://trends.google.com/trends/explore?geo=IN&q=%E0%A4%B9%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "हवामान"
-     },
-     {
-      "title": "Äthiopien",
-      "link": "https://www.eenadu.net/telugu-news/andhra-pradesh/polling-today-in-92-urban-local-bodies-of-ap-from-7-am-to-5-pm/1799/126198449",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "ఆంధ్ర ప్రదేశ్"
-     },
-     {
-      "title": "Äthiopien",
-      "link": "https://bengali.abplive.com/sports/cricket/india-vs-new-zealand-odi-series-auqib-nabi-added-to-india-squad-for-first-three-odis-against-new-zealand-1197846",
+      "title": "tisch hong kong sixes",
+      "link": "https://sports.yahoo.com/articles/hong-kong-sixes-2026-prize-032608100.html",
       "meta": "100+ Suchanfragen",
-      "title_orig": "ভারত জাতীয় ক্রিকেট দল"
+      "title_orig": "hong kong sixes table"
      },
      {
-      "title": "bangladesch vs indien",
-      "link": "https://www.cricbuzz.com/live-cricket-scores/175190/ban-vs-ind-11th12th-bowl-play-off-hong-kong-sixes-2026",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "bangladesh vs india"
+      "title": "leylah fernandez",
+      "link": "https://www.espn.in/tennis/story/_/id/50334385/leylah-fernandez-advances-tokyo-wta-final",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "cec gyanesh kumar",
-      "link": "https://www.thehindu.com/news/national/india-bloc-holds-symbolic-public-impeachment-of-cec-gyanesh-kumar-on-six-charges/article71650457.ece",
-      "meta": "5000+ Suchanfragen"
+      "title": "pnb",
+      "link": "https://www.moneylife.in/article/pnb-suspends-around-20-branch-heads-after-surprise-inspections-find-outsiders-handling-banking-operations-report/82073.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "1: 1",
+      "link": "https://kannada.asianetnews.com/bike-news/tvs-orbiter-sales-surge-17027-units-sold-in-september-2026-price-and-range-and-features/articleshow-n4a85zn",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "ಸ್ಕೂಟರ್"
+     },
+     {
+      "title": "5x5x5x5x5x5x",
+      "link": "https://www.aajtak.in/religion/rashiphal/video/mithun-rashifal-01-november-2026-gemini-daily-horoscope-today-2685240-2026-11-01",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "मिथुन राशि"
      }
     ]
    },
@@ -2498,32 +2532,29 @@
     "lang": "pt",
     "items": [
      {
-      "title": "ode osbourne",
-      "link": "https://ats.io/matchup/ufc/ode-osbourne-vs-cody-durden-prediction-31-10-2026/",
+      "title": "elvira",
+      "link": "https://www.interviewmagazine.com/culture/elviras-casandra-peterson-pumpkinhead-2-mistress-dark-paul-reubens-dolly-parton",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "medizinstudent",
-      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/31/alunos-de-medicina-do-parana-sao-expulsos.ghtml",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "estudante de medicina"
+      "title": "heidi klum halloween",
+      "link": "https://www.promiflash.de/news/2026/10/31/partnerlook-das-ist-rebecca-und-massimos-halloweenkostuem.html",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "wer ist benjamin network",
-      "link": "https://oglobo.globo.com/blogs/guga-chacra/post/2026/10/por-que-a-oposicao-em-israel-nao-se-alia-aos-partidos-arabes-para-derrotar-netanyahu.ghtml",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "quem é benjamin netanyahu"
-     },
-     {
-      "title": "jacobe smith",
-      "link": "https://www.ufc.com.br/news/jacobe-smith-feels-himself-reaching-next-level-ufc-vegas-123-welterweight",
+      "title": "jason statham",
+      "link": "https://movieweb.com/wrath-of-man-jason-statham-stream-october-2026/",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "argentinische Meisterschaft",
-      "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-argentino/noticia/2026/10/30/campeonato-argentino-aprova-nova-mudanca-de-formato-mas-mantem-30-times-e-playoffs.ghtml",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "campeonato argentino"
+      "title": "live flávio bolsonaro",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/31/trump-diz-que-flavio-bolsonaro-pode-ficar-nos-eua-quanto-tempo-que-quiser.ghtml",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "bruce willis",
+      "link": "https://people.com/bruce-willis-daughter-tallulah-looks-like-dad-throwback-baby-photo-instagram-12204280",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2532,34 +2563,34 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Bürgermeisterwahl in Chigasaki",
-      "link": "https://news.yahoo.co.jp/articles/000d72ac57712b44b6fa574d74c23b56f2687466",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "茅ヶ崎市長選挙"
-     },
-     {
-      "title": "Herbst-Tokio-Metropolitan-Gymnasium-Baseball-Turnier",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E7%A7%8B%E5%AD%A3%E6%9D%B1%E4%BA%AC%E9%83%BD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E9%87%8E%E7%90%83%E5%A4%A7%E4%BC%9A",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "秋季東京都高等学校野球大会"
-     },
-     {
-      "title": "Hiromichi Sato",
-      "link": "https://news.tv-asahi.co.jp/news_geinou/articles/900202923.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "佐藤弘道"
-     },
-     {
-      "title": "Nakamaru",
-      "link": "https://topics.smt.docomo.ne.jp/article/chuspo/entertainment/chuspo-1331924",
+      "title": "Verlassene Körper",
+      "link": "https://news.yahoo.co.jp/articles/99ca908d570c6b94ac407c176243e274947b964d",
       "meta": "200+ Suchanfragen",
-      "title_orig": "中丸"
+      "title_orig": "死体遺棄"
      },
      {
-      "title": "Spionage",
-      "link": "https://news.yahoo.co.jp/articles/bc8c4b5703532d31978481c1d3bef5decb8c3ab2",
+      "title": "Neu von Starbucks",
+      "link": "https://news.yahoo.co.jp/articles/3b19fb90b2dc825de407686832fe729f026ab10b",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "スタバ新作"
+     },
+     {
+      "title": "Rafael Espinosa",
+      "link": "https://news.yahoo.co.jp/articles/e1c16e993fdd124f4ea569595a7cf1174dcd1d65",
       "meta": "100+ Suchanfragen",
-      "title_orig": "スパイ"
+      "title_orig": "ラファエル エスピノサ"
+     },
+     {
+      "title": "pikmin-Tag",
+      "link": "https://pikminbloom.com/news/nov26-secretcaves",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "pikmin day"
+     },
+     {
+      "title": "Conan",
+      "link": "https://news.yahoo.co.jp/articles/f6697aea46760ac2b1e33cdeec28890506afaea4",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "コナン"
      }
     ]
    },
@@ -2570,56 +2601,55 @@
      {
       "title": "Patrick Stewart",
       "link": "https://en.wikipedia.org/wiki/Patrick_Stewart",
-      "meta": "1.882.386 Aufrufe am 30.10."
+      "meta": "450.119 Aufrufe am 31.10."
      },
      {
-      "title": "Sonniges Ozell",
-      "link": "https://en.wikipedia.org/wiki/Sunny_Ozell",
-      "meta": "488.907 Aufrufe am 30.10.",
-      "title_orig": "Sunny Ozell"
+      "title": "Nidhi Razdan",
+      "link": "https://en.wikipedia.org/wiki/Nidhi_Razdan",
+      "meta": "303.902 Aufrufe am 31.10."
      },
      {
-      "title": "Ian McKellen",
-      "link": "https://en.wikipedia.org/wiki/Ian_McKellen",
-      "meta": "213.817 Aufrufe am 30.10."
+      "title": "Halloween",
+      "link": "https://en.wikipedia.org/wiki/Halloween",
+      "meta": "202.666 Aufrufe am 31.10."
      },
      {
-      "title": "Wendy Neuss",
-      "link": "https://en.wikipedia.org/wiki/Wendy_Neuss",
-      "meta": "163.945 Aufrufe am 30.10."
+      "title": "Sanjay Gupta (Regisseur)",
+      "link": "https://en.wikipedia.org/wiki/Sanjay_Gupta_(director)",
+      "meta": "168.695 Aufrufe am 31.10.",
+      "title_orig": "Sanjay Gupta (director)"
      },
      {
-      "title": "Demenz, Lewy-Korpuskel-",
-      "link": "https://en.wikipedia.org/wiki/Lewy_body_dementia",
-      "meta": "160.656 Aufrufe am 30.10.",
-      "title_orig": "Lewy body dementia"
+      "title": "Omar Abdullah",
+      "link": "https://en.wikipedia.org/wiki/Omar_Abdullah",
+      "meta": "153.421 Aufrufe am 31.10."
      },
      {
-      "title": "Israelische Parlamentswahl 2026",
-      "link": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election",
-      "meta": "152.854 Aufrufe am 30.10.",
-      "title_orig": "2026 Israeli legislative election"
+      "title": "Elizabeth Holmes",
+      "link": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+      "meta": "150.897 Aufrufe am 31.10."
      },
      {
       "title": "Sebastian Croft",
       "link": "https://en.wikipedia.org/wiki/Sebastian_Croft",
-      "meta": "152.737 Aufrufe am 30.10."
+      "meta": "134.794 Aufrufe am 31.10."
      },
      {
       "title": "Todesfälle im Jahr 2026",
       "link": "https://en.wikipedia.org/wiki/Deaths_in_2026",
-      "meta": "152.362 Aufrufe am 30.10.",
+      "meta": "129.794 Aufrufe am 31.10.",
       "title_orig": "Deaths in 2026"
      },
      {
-      "title": "Jonestown",
-      "link": "https://en.wikipedia.org/wiki/Jonestown",
-      "meta": "143.302 Aufrufe am 30.10."
+      "title": "Sonniges Ozell",
+      "link": "https://en.wikipedia.org/wiki/Sunny_Ozell",
+      "meta": "126.366 Aufrufe am 31.10.",
+      "title_orig": "Sunny Ozell"
      },
      {
-      "title": "Maya Jama",
-      "link": "https://en.wikipedia.org/wiki/Maya_Jama",
-      "meta": "139.120 Aufrufe am 30.10."
+      "title": "Ansel Adams",
+      "link": "https://en.wikipedia.org/wiki/Ansel_Adams",
+      "meta": "123.576 Aufrufe am 31.10."
      }
     ]
    },
@@ -2630,7 +2660,7 @@
      {
       "title": "Investoren schalten Google-Besitzer Alphabet nach entgangenem Gewinn, verlangsamter Werbung und hohen Ausgaben ein",
       "link": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report",
-      "meta": "The Guardian · 144 Personen teilen",
+      "meta": "The Guardian · 145 Personen teilen",
       "title_orig": "Investors turn on Google owner Alphabet after profit miss, ad slowdown and high spending"
      },
      {
@@ -2642,19 +2672,19 @@
      {
       "title": "Fast 50 Festnahmen aus Protest gegen das Palästina-Aktionsverbot vor der US-Botschaft in London",
       "link": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
-      "meta": "The Guardian · 115 Personen teilen",
+      "meta": "The Guardian · 119 Personen teilen",
       "title_orig": "Almost 50 arrested at protest against Palestine Action ban outside US embassy in London"
      },
      {
       "title": "Wie Trump Amerikas wissenschaftliche Forschungsmaschine demontiert",
       "link": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
-      "meta": "The New York Times · 116 Personen teilen",
+      "meta": "The New York Times · 125 Personen teilen",
       "title_orig": "How Trump Is Dismantling America’s Scientific Research Machine"
      },
      {
       "title": "Klimaakademiker Andreas Malm darf nicht nach Großbritannien einreisen",
       "link": "https://www.theguardian.com/uk-news/2026/oct/30/climate-academic-andreas-malm-barred-from-entering-uk",
-      "meta": "The Guardian · 37 Personen teilen",
+      "meta": "The Guardian · 38 Personen teilen",
       "title_orig": "Climate academic Andreas Malm barred from entering UK"
      }
     ]
@@ -2666,7 +2696,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 65,
+   "count": 53,
    "error": ""
   },
   {
@@ -2687,7 +2717,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 161,
+   "count": 160,
    "error": ""
   },
   {
@@ -2743,14 +2773,14 @@
    "source": "The Paypers",
    "category": "pay_eu",
    "ok": true,
-   "count": 91,
+   "count": 90,
    "error": ""
   },
   {
    "source": "Fintech Futures",
    "category": "pay_eu",
    "ok": true,
-   "count": 100,
+   "count": 77,
    "error": ""
   },
   {
@@ -2826,9 +2856,9 @@
   {
    "source": "Wikipedia: meistgelesen (Französisch)",
    "category": "social_eu",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 404 Not Found – {\"detail\":\"The date(s) you used are valid, but we either do not have d"
+   "ok": true,
+   "count": 5,
+   "error": ""
   },
   {
    "source": "Wikipedia: meistgelesen (Italienisch)",
@@ -2883,8 +2913,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 93,
-   "info": "93 von 93 Überschriften übersetzt (neu in diesem Lauf: MyMemory 42). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 99,
+   "info": "99 von 99 Überschriften übersetzt (neu in diesem Lauf: MyMemory 49). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
