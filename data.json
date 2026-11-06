@@ -1,19 +1,82 @@
 {
- "generated": "2026-11-06T04:00:23+00:00",
+ "generated": "2026-11-06T07:27:21+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
    {
-    "title": "Freie-Wähler-Chef und bayerischer Vize-Ministerpräsident Aiwanger mit 55 Jahren gestorben",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678884.html",
-    "image": "https://images.tagesschau.de/image/72b72189-fbc1-400b-826c-3af7a6f9c369/AAABoa0bHJ8/AAABnSSvrFg/16x9-big/sendungsbild-1822996.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-05T19:06:43+00:00",
+    "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
+    "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
+    "image": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoa0KZI8/AAABnSSvrFg/16x9-big/pena-102.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-06T01:05:50+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Freie-Wähler-Chef und bayerischer Vize-Ministerpräsident Aiwanger mit 55 Jahren gestorben",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678884.html"
+      "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Paraguay: Präsident Santiago Peña tritt nach Bankenskandal zurück",
+      "link": "https://www.spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Santiago Peña: Paraguays Präsident Peña kündigt nach Bankenpleite Rücktritt an",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-ruecktritt-bankenkrise"
+     },
+     {
+      "name": "FAZ",
+      "title": "Renten betroffen: Bankenkrise zwingt Paraguays Präsidenten zum Rücktritt",
+      "link": "https://www.faz.net/aktuell/politik/ausland/bankenkrise-in-paraguay-praesident-santiago-pena-tritt-zurueck-accg-201653269.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Bankenkrise: Paraguays Präsident Peña tritt nach Bankenkollaps zurück",
+      "link": "https://www.handelsblatt.com/politik/international/bankenkrise-paraguays-praesident-pena-tritt-nach-bankenkollaps-zurueck/100267703.html"
+     }
+    ]
+   },
+   {
+    "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+    "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
+    "image": "https://images.tagesschau.de/image/619686c0-a7cb-4865-b7dd-ba50c33715ca/AAABoa8R5R8/AAABnSSvrFg/16x9-big/trump-5422.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-06T06:00:41+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Ukrainekrieg: Trump kündigt »großes Abkommen« für ganz Europa an",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-kirill-dmitrijew-abkommen-ukraine-russland"
+     },
+     {
+      "name": "FAZ",
+      "title": "Liveblog Ukrainekrieg: Trump kündigt „sehr großen Deal“ mit Russland an",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-kuendigt-sehr-grossen-deal-mit-russland-an-faz-110683325.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Ukraine-Krieg +++: Nach Treffen mit Dmitrijew – Trump stellt „großes Abkommen“ in Aussicht",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-nach-treffen-mit-dmitrijew-trump-stellt-grosses-abkommen-in-aussicht/27982126.html"
+     }
+    ]
+   },
+   {
+    "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+    "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html",
+    "image": "https://images.tagesschau.de/image/5cdacbc5-bc6b-47f3-8f71-fd283e85ad69/AAABoavM7qM/AAABnSSvrFg/16x9-big/freie-waehler-109.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-06T03:15:06+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+      "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
      },
      {
       "name": "Spiegel",
@@ -22,71 +85,13 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Freie-Wähler-Chef: Trauerbeflaggung in Bayern nach Tod von Aiwanger",
-      "link": "https://www.zeit.de/news/2026-11/05/trauerbeflaggung-in-bayern-nach-tod-von-aiwanger"
+      "title": "Nach dem Tod des Parteichefs: Experte: Aiwanger-Nachfolge Zukunftsfrage für Freie Wähler",
+      "link": "https://www.zeit.de/news/2026-11/06/experte-aiwanger-nachfolge-zukunftsfrage-fuer-freie-waehler"
      },
      {
       "name": "FAZ",
       "title": "Freie-Wähler-Chef: Bayerns Wirtschaftsminister Aiwanger tot aufgefunden",
       "link": "https://www.faz.net/video/bayerns-wirtschaftsminister-aiwanger-tot-aufgefunden-201654243.html"
-     }
-    ]
-   },
-   {
-    "title": "Zehn Jahre Haft für Hongkongs prominenten Demokratieaktivisten Wong",
-    "link": "https://www.tagesschau.de/video/video-1678678.html",
-    "image": "https://images.tagesschau.de/image/53d3cd79-76ff-48aa-882f-ef4113c8a51c/AAABoaxGPGo/AAABnSSvrFg/16x9-big/sendungsbild-1822900.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-05T15:14:13+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Zehn Jahre Haft für Hongkongs prominenten Demokratieaktivisten Wong",
-      "link": "https://www.tagesschau.de/video/video-1678678.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Joshua Wong: Hongkonger Aktivist zu zehn Jahren Haft verurteilt",
-      "link": "https://www.spiegel.de/ausland/joshua-wong-hongkonger-aktivist-zu-zehn-jahren-haft-verurteilt-a-94be2a6b-6f41-465f-b110-1f01ed11eda1#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Gericht in Hongkong verurteilt Demokratie-Aktivisten Wong zu zehn Jahren Haft",
-      "link": "https://www.zeit.de/video/2026-11/gericht-in-hongkong-verurteilt-demokratie-aktivisten-wong-zu-zehn-jahren-haft"
-     },
-     {
-      "name": "FAZ",
-      "title": "Hongkong: Demokratieaktivist Joshua Wong muss weitere zehn Jahre in Haft",
-      "link": "https://www.faz.net/aktuell/politik/ausland/hongkong-joshua-wong-zu-weiteren-zehn-jahren-haft-verurteilt-accg-201653518.html"
-     }
-    ]
-   },
-   {
-    "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
-    "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html",
-    "image": "https://images.tagesschau.de/image/3966cd19-2564-49cf-a6ae-bb657d8c8144/AAABoauwfdU/AAABnSSvrFg/16x9-big/oel-260.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-05T13:18:40+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Dax springt auf Rekordhoch",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-auf-rekordhoch-a-c3ac80a4-d033-4cc7-9e19-d76b8f9874be#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Börse: Dax steigt auf Rekordhoch",
-      "link": "https://www.zeit.de/wirtschaft/boerse/2026-11/dax-steigt-auf-rekordhoch"
-     },
-     {
-      "name": "FAZ",
-      "title": "Deutsche Börse: Dax erreicht Rekordhoch",
-      "link": "https://www.faz.net/aktuell/finanzen/nach-den-us-midterms-2026-dax-erreicht-rekordhoch-accg-201654446.html"
      }
     ]
    },
@@ -120,26 +125,79 @@
     ]
    },
    {
-    "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
-    "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
-    "image": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoa0KZI8/AAABnSSvrFg/16x9-big/pena-102.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-06T03:00:35+00:00",
+    "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html",
+    "image": "https://images.tagesschau.de/image/3966cd19-2564-49cf-a6ae-bb657d8c8144/AAABoauwfdU/AAABnSSvrFg/16x9-big/oel-260.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-05T13:18:40+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
-      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html"
+      "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Paraguay: Präsident Santiago Peña tritt nach Bankenskandal zurück",
-      "link": "https://www.spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5#ref=rss"
+      "title": "Dax springt auf Rekordhoch",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-auf-rekordhoch-a-c3ac80a4-d033-4cc7-9e19-d76b8f9874be#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Börse: Dax steigt auf Rekordhoch",
+      "link": "https://www.zeit.de/wirtschaft/boerse/2026-11/dax-steigt-auf-rekordhoch"
+     },
+     {
+      "name": "FAZ",
+      "title": "Deutsche Börse: Dax erreicht Rekordhoch",
+      "link": "https://www.faz.net/aktuell/finanzen/nach-den-us-midterms-2026-dax-erreicht-rekordhoch-accg-201654446.html"
+     }
+    ]
+   },
+   {
+    "title": "Staatskrise in Paraguay: Kongress nimmt Peñas Rücktritt nicht an und will Verfahren",
+    "link": "https://www.spiegel.de/politik/staatskrise-in-paraguay-kongress-nimmt-penas-ruecktritt-nicht-an-und-will-verfahren-a-52ab3a5b-7cd8-45a9-8f2e-b38d69b32854#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/0234d37c-4dfa-49fd-92b7-07d35660f523_w520_r2.08_fpx45.34_fpy50.jpg",
+    "n_sources": 3,
+    "time": "2026-11-06T06:17:00+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "Staatskrise in Paraguay: Kongress nimmt Peñas Rücktritt nicht an und will Verfahren",
+      "link": "https://www.spiegel.de/politik/staatskrise-in-paraguay-kongress-nimmt-penas-ruecktritt-nicht-an-und-will-verfahren-a-52ab3a5b-7cd8-45a9-8f2e-b38d69b32854#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Staatskrise in Paraguay: Kongress nimmt Peñas Rücktritt nicht an und will Verfahren",
+      "link": "https://www.zeit.de/news/2026-11/06/kongress-nimmt-pe-as-ruecktritt-nicht-an-und-will-verfahren"
+     },
+     {
+      "name": "FAZ",
+      "title": "Offenes Rücktrittsgesuch: Paraguay schlittert von der Banken- in die Staatskrise",
+      "link": "https://www.faz.net/aktuell/politik/ausland/santiago-pena-bleibt-vorerst-im-amt-paraguays-staatskrise-spitzt-sich-zu-accg-201657210.html"
+     }
+    ]
+   },
+   {
+    "title": "Audi will geplantes US-Werk in Georgia offenbar noch vergrößern",
+    "link": "https://www.spiegel.de/wirtschaft/audi-will-geplantes-us-werk-in-georgia-offenbar-noch-vergroessern-a-c0397e01-6083-4731-91a4-be07bd6714ce#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/57498890-6365-4477-8f6d-214b2cc2cedb_w520_r2.08_fpx50.09_fpy49.99.jpg",
+    "n_sources": 3,
+    "time": "2026-11-06T04:47:50+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "Audi will geplantes US-Werk in Georgia offenbar noch vergrößern",
+      "link": "https://www.spiegel.de/wirtschaft/audi-will-geplantes-us-werk-in-georgia-offenbar-noch-vergroessern-a-c0397e01-6083-4731-91a4-be07bd6714ce#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Autohersteller: Audi erwägt offenbar Erweiterung von Werk in Georgia",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/audi-usa-werk-georgia-donald-trump-zoelle"
      },
      {
       "name": "Handelsblatt",
-      "title": "Paraguay: Bankenskandal bringt Paraguays Präsidenten zu Fall",
-      "link": "https://www.handelsblatt.com/politik/international/paraguay-bankenskandal-bringt-paraguays-praesidenten-zu-fall/100267745.html"
+      "title": "USA: Option auf Rückzug – Wie sich Audi beim neuen US-Werk in Georgia absichert",
+      "link": "https://www.handelsblatt.com/unternehmen/industrie/usa-option-auf-rueckzug-wie-sich-audi-beim-neuen-us-werk-in-georgia-absichert/100267764.html"
      }
     ]
    },
@@ -214,102 +272,54 @@
       "link": "https://www.faz.net/aktuell/sport/fussball/europa-league-bayer-leverkusen-verliert-0-1-gegen-marseille-201210491.html"
      }
     ]
-   },
-   {
-    "title": "Jetzt live - wie schlägt sich Freiburg gegen Trabzon?",
-    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma12520662/trabzonspor_sc-freiburg/liveticker",
-    "image": "https://images.sportschau.de/image/a277cac0-a187-4cc6-82ee-16c55341cd07/AAABoaz8EA8/AAABnSSvrFg/16x9-big/trabzonspor-freiburg-102.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-05T21:42:06+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Jetzt live - wie schlägt sich Freiburg gegen Trabzon?",
-      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma12520662/trabzonspor_sc-freiburg/liveticker"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Conference League: Kübler steht richtig: Freiburg erkämpft Sieg bei Trabzon",
-      "link": "https://www.zeit.de/news/2026-11/05/kuebler-steht-richtig-freiburg-erkaempft-sieg-bei-trabzon"
-     },
-     {
-      "name": "FAZ",
-      "title": "1:0-Sieg bei Trabzon: Freiburg gewinnt am Schwarzen Meer",
-      "link": "https://www.faz.net/aktuell/sport/fussball/champions-league/europa-league-sc-freiburg-gewinnt-1-0-bei-trabzonspor-201305708.html"
-     }
-    ]
-   },
-   {
-    "title": "Hoffenheim vergibt Sieg bei Crystal Palace",
-    "link": "https://www.sportschau.de/regional/swr/swr-trotz-ueberzahl-hoffenheim-gibt-sieg-bei-crystal-palace-in-der-nachspielzeit-aus-der-hand-100.html",
-    "image": "https://images.sportschau.de/image/0324078f-53d9-486b-b24a-8a68ca26bc11/AAABoa2hcHA/AAABnSSvrFg/16x9-big/swr-hoffenheim-kassiert-den-spaeten-ausgleich-gegen-crystal-palace-100.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-05T21:11:04+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Hoffenheim vergibt Sieg bei Crystal Palace",
-      "link": "https://www.sportschau.de/regional/swr/swr-trotz-ueberzahl-hoffenheim-gibt-sieg-bei-crystal-palace-in-der-nachspielzeit-aus-der-hand-100.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Europa League, 4. Spieltag : TSG Hoffenheim und Crystal Palace trennen sich unentschieden",
-      "link": "https://www.zeit.de/sport/2026-11/europa-league-tsg-hoffenheim-crystal-palace"
-     },
-     {
-      "name": "FAZ",
-      "title": "1:1 bei Crystal Palace: Kamada verhindert den Hoffenheimer Sieg",
-      "link": "https://www.faz.net/aktuell/sport/fussball/conference-league-tsg-hoffenheim-verpasst-sieg-bei-crystal-palace-201210483.html"
-     }
-    ]
    }
   ],
   "7d": [
    {
-    "title": "Midterms: Demokraten holen auch Mehrheit im US-Repräsentantenhaus",
-    "link": "https://www.tagesschau.de/eilmeldung/eilmeldung-repraesentantenhaus-usa-midterms-100.html",
-    "image": "https://images.tagesschau.de/image/779e1043-888e-49d8-920a-f1a0b512324f/AAABoaUgUws/AAABnSSvrFg/16x9-big/jeffries-106.jpg?width=1920",
+    "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+    "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
+    "image": "https://images.tagesschau.de/image/619686c0-a7cb-4865-b7dd-ba50c33715ca/AAABoa8R5R8/AAABnSSvrFg/16x9-big/trump-5422.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-06T01:00:00+00:00",
+    "time": "2026-11-06T06:00:41+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Midterms: Demokraten holen auch Mehrheit im US-Repräsentantenhaus",
-      "link": "https://www.tagesschau.de/eilmeldung/eilmeldung-repraesentantenhaus-usa-midterms-100.html"
+      "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html"
      },
      {
       "name": "Spiegel",
-      "title": "Donald Trump: Trump erklärt sein vergoldetes Oval Office zum Nationaldenkmal",
-      "link": "https://www.spiegel.de/ausland/donald-trump-trump-erklaert-sein-vergoldetes-oval-office-zum-nationaldenkmal-a-ed02fc73-d56a-4773-9142-68e9bb41780e#ref=rss"
+      "title": "Ukraine-Krieg: Kyjiw versucht Russlands Raketenindustrie zu treffen",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-versucht-russlands-raketenindustrie-zu-treffen-a-f840c7b8-a053-4dd0-a514-da9e7b06012d#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Dekor als Chefsache: Trump erklärt goldverziertes Oval Office zum Nationaldenkmal",
-      "link": "https://www.zeit.de/news/2026-11/06/trump-erklaert-goldverziertes-oval-office-zum-nationaldenkmal"
+      "title": "Ukrainekrieg: Trump kündigt »großes Abkommen« für ganz Europa an",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-kirill-dmitrijew-abkommen-ukraine-russland"
      },
      {
       "name": "FAZ",
-      "title": "USA unter Trump: Machtkampf bei den Republikanern",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-machtkampf-bei-den-republikanern-faz-19444916.html"
+      "title": "Liveblog Ukrainekrieg: Trump kündigt „sehr großen Deal“ mit Russland an",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-kuendigt-sehr-grossen-deal-mit-russland-an-faz-110683325.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "+++ US-Midterms +++: Trump will Oval Office als nationales Denkmal schützen lassen",
-      "link": "https://www.handelsblatt.com/politik/international/nach-us-midterms-trump-will-oval-office-als-nationales-denkmal-schuetzen-lassen/29669594.html"
+      "title": "+++ Ukraine-Krieg +++: Nach Treffen mit Dmitrijew – Trump stellt „großes Abkommen“ in Aussicht",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-nach-treffen-mit-dmitrijew-trump-stellt-grosses-abkommen-in-aussicht/27982126.html"
      }
     ]
    },
    {
-    "title": "Freie-Wähler-Chef und bayerischer Vize-Ministerpräsident Aiwanger mit 55 Jahren gestorben",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678884.html",
-    "image": "https://images.tagesschau.de/image/72b72189-fbc1-400b-826c-3af7a6f9c369/AAABoa0bHJ8/AAABnSSvrFg/16x9-big/sendungsbild-1822996.jpg?width=1920",
+    "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+    "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html",
+    "image": "https://images.tagesschau.de/image/5cdacbc5-bc6b-47f3-8f71-fd283e85ad69/AAABoavM7qM/AAABnSSvrFg/16x9-big/freie-waehler-109.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-05T19:06:43+00:00",
+    "time": "2026-11-06T03:15:06+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Freie-Wähler-Chef und bayerischer Vize-Ministerpräsident Aiwanger mit 55 Jahren gestorben",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678884.html"
+      "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+      "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
      },
      {
       "name": "Spiegel",
@@ -318,8 +328,8 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Freie-Wähler-Chef: Trauerbeflaggung in Bayern nach Tod von Aiwanger",
-      "link": "https://www.zeit.de/news/2026-11/05/trauerbeflaggung-in-bayern-nach-tod-von-aiwanger"
+      "title": "Nach dem Tod des Parteichefs: Experte: Aiwanger-Nachfolge Zukunftsfrage für Freie Wähler",
+      "link": "https://www.zeit.de/news/2026-11/06/experte-aiwanger-nachfolge-zukunftsfrage-fuer-freie-waehler"
      },
      {
       "name": "FAZ",
@@ -334,36 +344,104 @@
     ]
    },
    {
-    "title": "Ukraine: Feuerpause in Oleschky ausgelaufen",
-    "link": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html",
-    "image": "https://images.tagesschau.de/image/269540d6-d27d-44e3-ae7f-22656aa2bca3/AAABoZnD__4/AAABnSSvrFg/16x9-big/region-cherson-100.jpg?width=1920",
+    "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
+    "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
+    "image": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoa0KZI8/AAABnSSvrFg/16x9-big/pena-102.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-05T18:36:11+00:00",
+    "time": "2026-11-06T01:05:50+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Ukraine: Feuerpause in Oleschky ausgelaufen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html"
+      "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Ukraine-Krieg: Wolodymyr Selenskyj verleiht Melania Trump Orden wegen Oleschky-Waffenruhe",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-verleiht-melania-trump-orden-wegen-oleschky-waffenruhe-a-f1ad025e-e638-4111-9363-d9a7f6503294#ref=rss"
+      "title": "Paraguay: Präsident Santiago Peña tritt nach Bankenskandal zurück",
+      "link": "https://www.spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Ukrainekrieg: Melania Trump empfängt russische und ukrainische Vertreter",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/melania-trump-waffenruhe-ukraine-oleschky-russland"
+      "title": "Santiago Peña: Paraguays Präsident Peña kündigt nach Bankenpleite Rücktritt an",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-ruecktritt-bankenkrise"
      },
      {
       "name": "FAZ",
-      "title": "Liveblog Ukrainekrieg: Selenskyj verleiht Staatsorden an Melania Trump",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-verleiht-staatsorden-an-melania-trump-faz-110683325.html"
+      "title": "Renten betroffen: Bankenkrise zwingt Paraguays Präsidenten zum Rücktritt",
+      "link": "https://www.faz.net/aktuell/politik/ausland/bankenkrise-in-paraguay-praesident-santiago-pena-tritt-zurueck-accg-201653269.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Selenskyj ehrt Melania Trump mit ukrainischem Orden",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-selenskyj-ehrt-melania-trump-mit-ukrainischem-orden/27982126.html"
+      "title": "Bankenkrise: Paraguays Präsident Peña tritt nach Bankenkollaps zurück",
+      "link": "https://www.handelsblatt.com/politik/international/bankenkrise-paraguays-praesident-pena-tritt-nach-bankenkollaps-zurueck/100267703.html"
+     }
+    ]
+   },
+   {
+    "title": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
+    "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html",
+    "image": "https://images.tagesschau.de/image/cc3708c1-f48c-43a9-ad65-499b2ce07d74/AAABmamZfiU/AAABnSSvrFg/16x9-big/deutschlandtrend-3337.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-05T17:58:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Deutschland: Große Mehrheit zeigt Verständnis für »Gen Z regelt«-Jugendproteste",
+      "link": "https://www.spiegel.de/politik/deutschland/deutschland-grosse-mehrheit-zeigt-verstaendnis-fuer-gen-z-regelt-jugendproteste-a-ecc21116-0a2d-49e9-be1e-d6f3a51687dd#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "ARD-»Deutschlandtrend«: Große Mehrheit hat Verständnis für Proteste der Generation Z",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/proteste-generation-z-ard-deutschlandtrend-umfrage"
+     },
+     {
+      "name": "FAZ",
+      "title": "Proteste: Gen-Z-Proteste in Deutschland: Gewalt und Plünderungen in Frankfurt",
+      "link": "https://www.faz.net/video/gen-z-proteste-in-frankfurt-eskalieren-polizei-im-grosseinsatz-201640775.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "„Gen Z regelt“: Verletzte Polizisten bei Jugendprotesten in Frankfurt",
+      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-regelt-verletzte-polizisten-bei-jugendprotesten-in-frankfurt/100266344.html"
+     }
+    ]
+   },
+   {
+    "title": "Midterms: Demokraten holen auch Mehrheit im US-Repräsentantenhaus",
+    "link": "https://www.tagesschau.de/eilmeldung/eilmeldung-repraesentantenhaus-usa-midterms-100.html",
+    "image": "https://images.tagesschau.de/image/779e1043-888e-49d8-920a-f1a0b512324f/AAABoaUgUws/AAABnSSvrFg/16x9-big/jeffries-106.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-04T10:52:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Midterms: Demokraten holen auch Mehrheit im US-Repräsentantenhaus",
+      "link": "https://www.tagesschau.de/eilmeldung/eilmeldung-repraesentantenhaus-usa-midterms-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Midterms in den USA: Deutsche Politiker warnen vor zu großer Erleichterung nach Sieg der Demokraten",
+      "link": "https://www.spiegel.de/politik/midterms-in-den-usa-deutsche-politiker-warnen-vor-zu-grosser-erleichterung-nach-sieg-der-demokraten-a-36b59104-c318-4d8a-a2fb-585a1b8b98b8#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Zwischenwahlen in den USA: Demokraten werden Mehrheit im US-Repräsentantenhaus holen",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/demokraten-holen-die-mehrheit-im-us-repraesentantenhaus"
+     },
+     {
+      "name": "FAZ",
+      "title": "Nach der Niederlage: Plötzlich lobt Donald Trump die Demokraten",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/was-das-ergebnis-der-us-midterms-2026-fuer-donald-trump-heisst-accg-201648633.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ US-Midterms +++: Sieben Staaten zurückerobert – Demokraten gewinnen auch Mehrheit im Senat",
+      "link": "https://www.handelsblatt.com/politik/international/us-midterms-sieben-staaten-zurueckerobert-demokraten-gewinnen-auch-mehrheit-im-senat/29669594.html"
      }
     ]
    },
@@ -402,6 +480,40 @@
     ]
    },
    {
+    "title": "Machtkampf um Polens Verfassungsgericht",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1675934.html",
+    "image": "https://images.tagesschau.de/image/dc5e3b6c-da2f-4d6a-b21a-be8881752dd7/AAABoZQlAmY/AAABnSSvrFg/16x9-big/sendungsbild-1820358.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-04T05:58:01+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Machtkampf um Polens Verfassungsgericht",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1675934.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Polen: Der Präsident stürmt das Verfassungsgericht",
+      "link": "https://www.spiegel.de/ausland/polen-der-praesident-stuermt-das-verfassungsgericht-a-a71ba561-d842-4a66-953e-a017cbbf25ea#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Streit um Justiz: Nach Chaos – Polens Verfassungsrichter wollen tagen",
+      "link": "https://www.zeit.de/news/2026-11/03/nach-chaos-polens-verfassungsrichter-wollen-tagen"
+     },
+     {
+      "name": "FAZ",
+      "title": "Verfassungskrise: Jetzt ermittelt Polens Justiz gegen Präsident Nawrocki",
+      "link": "https://www.faz.net/aktuell/politik/ausland/krise-um-polnisches-verfassungsgericht-justiz-gegen-praesident-nawrocki-accg-201649240.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Polen: Krise um Verfassungsgericht in Polen spitzt sich zu",
+      "link": "https://www.handelsblatt.com/politik/international/polen-krise-um-verfassungsgericht-in-polen-spitzt-sich-zu/100266281.html"
+     }
+    ]
+   },
+   {
     "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
     "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
     "image": "https://images.tagesschau.de/image/86f7cb7c-53f7-4f94-b11f-dc56bbe00cb7/AAABoZ2pwgw/AAABnSSvrFg/16x9-big/truemmer-schule-saporischschja-100.jpg?width=1920",
@@ -436,74 +548,6 @@
     ]
    },
    {
-    "title": "Steinmeier in China: Handelsüberschuss im Fokus",
-    "link": "https://www.tagesschau.de/ausland/asien/steinmeiner-xi-treffen-100.html",
-    "image": "https://images.tagesschau.de/image/1b6fcd05-98e7-4b3b-a76a-9a8b2247aa9c/AAABoY01iWc/AAABnSSvrFg/16x9-big/xi-steinmeier-100.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-03T07:38:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Steinmeier in China: Handelsüberschuss im Fokus",
-      "link": "https://www.tagesschau.de/ausland/asien/steinmeiner-xi-treffen-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Schaeffler baut Tausende Stellen ab und schließt vier deutsche Werke",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-baut-tausende-stellen-ab-und-schliesst-vier-deutsche-werke-a-d8d594dc-cc55-4a16-9ece-e3c76fcf22b3#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Autozulieferer Schaeffler streicht rund 2.600 Stellen in Deutschland",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/autozulieferer-schaeffler-streicht-2600-jobs-standorte-deutschland"
-     },
-     {
-      "name": "FAZ",
-      "title": "Business-Ticker: Autozulieferer Schaeffler schließt vier Standorte in Deutschland",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-schaeffler-schliesst-vier-standorte-in-deutschland-faz-200452404.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Industrie: Schaeffler baut Tausende Stellen in Deutschland ab",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/autozulieferer-schaeffler-baut-tausende-stellen-in-deutschland-ab/100266684.html"
-     }
-    ]
-   },
-   {
-    "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
-    "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
-    "image": "https://images.tagesschau.de/image/14102e35-48e8-439a-8fb0-4c556e6d4d00/AAABmEAxqQI/AAABnSSvrFg/16x9-big/abitur-138.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-03T00:48:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Midterms: Donald Trump scheitert im Kalifornien-Streit vor Supreme Court",
-      "link": "https://www.spiegel.de/ausland/midterms-donald-trump-scheitert-im-kalifornien-streit-vor-supreme-court-a-1769275e-a646-4cd1-b8a0-7e9d72a05570#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "US-Midterms: Trump scheitert im Streit um Briefwahl in Kalifornien vor Gericht",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/supreme-court-briefwahl-kalifornien-donald-trump"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: US-Gericht verbietet Trumps Regierung Druck auf Wahlhelfer",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ US-Midterms +++: Gericht stoppt US-Regierung im Streit um Briefwahl in Kalifornien",
-      "link": "https://www.handelsblatt.com/politik/international/us-midterms-gericht-stoppt-us-regierung-im-streit-um-briefwahl-in-kalifornien/29669594.html"
-     }
-    ]
-   },
-   {
     "title": "Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
     "link": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html",
     "image": "https://images.tagesschau.de/image/a36daf46-80c0-4aed-a8c4-104c19a43449/AAABoZyaaIc/AAABnSSvrFg/16x9-big/merz-1776.jpg?width=1920",
@@ -534,40 +578,6 @@
       "name": "Handelsblatt",
       "title": "+++ Bundespolitik +++: ﻿Merz spricht sich für Frau als Bundespräsidentin aus",
       "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-merz-spricht-sich-fuer-frau-als-bundespraesidentin-aus/100137034.html"
-     }
-    ]
-   },
-   {
-    "title": "IG Metall will Warnstreiks in Metall- und Elektroindustrie ausweiten",
-    "link": "https://www.tagesschau.de/video/video-1676426.html",
-    "image": "https://images.tagesschau.de/image/c4a99e86-b562-4971-a482-c9fabd2735a3/AAABoZqMwB8/AAABnSSvrFg/16x9-big/sendungsbild-1820842.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-02T16:01:55+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "IG Metall will Warnstreiks in Metall- und Elektroindustrie ausweiten",
-      "link": "https://www.tagesschau.de/video/video-1676426.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall sind angelaufen",
-      "link": "https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Friedenspflicht abgelaufen: Mehr als 2.000 Metall-Beschäftigte legen Arbeit nieder",
-      "link": "https://www.zeit.de/news/2026-11/02/mehr-als-2-000-metall-beschaeftigte-legen-arbeit-nieder"
-     },
-     {
-      "name": "FAZ",
-      "title": "Tarifkonflikt: Warnstreiks der IG Metall in Hessen",
-      "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/ig-metall-erste-warnstreiks-in-hessen-am-montag-accg-201637767.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall kurz nach Mitternacht gestartet",
-      "link": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-warnstreiks-der-ig-metall-kurz-nach-mitternacht-gestartet/100266374.html"
      }
     ]
    },
@@ -608,16 +618,50 @@
   ],
   "30d": [
    {
-    "title": "Freie-Wähler-Chef und bayerischer Vize-Ministerpräsident Aiwanger mit 55 Jahren gestorben",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678884.html",
-    "image": "https://images.tagesschau.de/image/72b72189-fbc1-400b-826c-3af7a6f9c369/AAABoa0bHJ8/AAABnSSvrFg/16x9-big/sendungsbild-1822996.jpg?width=1920",
+    "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+    "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
+    "image": "https://images.tagesschau.de/image/619686c0-a7cb-4865-b7dd-ba50c33715ca/AAABoa8R5R8/AAABnSSvrFg/16x9-big/trump-5422.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-05T19:06:43+00:00",
+    "time": "2026-11-06T06:00:41+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Freie-Wähler-Chef und bayerischer Vize-Ministerpräsident Aiwanger mit 55 Jahren gestorben",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678884.html"
+      "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ukraine-Krieg: Kyjiw versucht Russlands Raketenindustrie zu treffen",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-versucht-russlands-raketenindustrie-zu-treffen-a-f840c7b8-a053-4dd0-a514-da9e7b06012d#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Ukrainekrieg: Trump kündigt »großes Abkommen« für ganz Europa an",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-kirill-dmitrijew-abkommen-ukraine-russland"
+     },
+     {
+      "name": "FAZ",
+      "title": "Liveblog Ukrainekrieg: Trump kündigt „sehr großen Deal“ mit Russland an",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-kuendigt-sehr-grossen-deal-mit-russland-an-faz-110683325.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Ukraine-Krieg +++: Nach Treffen mit Dmitrijew – Trump stellt „großes Abkommen“ in Aussicht",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-nach-treffen-mit-dmitrijew-trump-stellt-grosses-abkommen-in-aussicht/27982126.html"
+     }
+    ]
+   },
+   {
+    "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+    "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html",
+    "image": "https://images.tagesschau.de/image/5cdacbc5-bc6b-47f3-8f71-fd283e85ad69/AAABoavM7qM/AAABnSSvrFg/16x9-big/freie-waehler-109.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-06T03:15:06+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+      "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
      },
      {
       "name": "Spiegel",
@@ -626,8 +670,8 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Freie-Wähler-Chef: Trauerbeflaggung in Bayern nach Tod von Aiwanger",
-      "link": "https://www.zeit.de/news/2026-11/05/trauerbeflaggung-in-bayern-nach-tod-von-aiwanger"
+      "title": "Nach dem Tod des Parteichefs: Experte: Aiwanger-Nachfolge Zukunftsfrage für Freie Wähler",
+      "link": "https://www.zeit.de/news/2026-11/06/experte-aiwanger-nachfolge-zukunftsfrage-fuer-freie-waehler"
      },
      {
       "name": "FAZ",
@@ -638,6 +682,40 @@
       "name": "Handelsblatt",
       "title": "Politik: Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
       "link": "https://www.handelsblatt.com/politik/deutschland/politik-bayerns-wirtschaftsminister-hubert-aiwanger-ist-tot/100267392.html"
+     }
+    ]
+   },
+   {
+    "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
+    "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
+    "image": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoa0KZI8/AAABnSSvrFg/16x9-big/pena-102.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-06T01:05:50+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Paraguay: Präsident Santiago Peña tritt nach Bankenskandal zurück",
+      "link": "https://www.spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Santiago Peña: Paraguays Präsident Peña kündigt nach Bankenpleite Rücktritt an",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-ruecktritt-bankenkrise"
+     },
+     {
+      "name": "FAZ",
+      "title": "Renten betroffen: Bankenkrise zwingt Paraguays Präsidenten zum Rücktritt",
+      "link": "https://www.faz.net/aktuell/politik/ausland/bankenkrise-in-paraguay-praesident-santiago-pena-tritt-zurueck-accg-201653269.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Bankenkrise: Paraguays Präsident Peña tritt nach Bankenkollaps zurück",
+      "link": "https://www.handelsblatt.com/politik/international/bankenkrise-paraguays-praesident-pena-tritt-nach-bankenkollaps-zurueck/100267703.html"
      }
     ]
    },
@@ -676,36 +754,70 @@
     ]
    },
    {
-    "title": "Perspektiven der Republikaner nach Niederlage bei den US-Midterms",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1678318.html",
-    "image": "https://images.tagesschau.de/image/8784da41-601c-4475-93d2-ff604a944074/AAABoai9Zk4/AAABnSSvrFg/16x9-big/sendungsbild-1822528.jpg?width=1920",
+    "title": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
+    "link": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html",
+    "image": "https://images.tagesschau.de/image/76612aaf-a6e5-4bfd-9d9d-716c0bae47b7/AAABoZES8Ik/AAABnSSvrFg/16x9-big/bus-evakuierung-gomel-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-05T15:55:00+00:00",
+    "time": "2026-11-05T18:36:11+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Perspektiven der Republikaner nach Niederlage bei den US-Midterms",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1678318.html"
+      "title": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Midterms: Donald Trump will, dass Dan Sullivan Dan Sullivans Stimmen bekommt",
-      "link": "https://www.spiegel.de/ausland/midterms-donald-trump-will-dass-dan-sullivan-dan-sullivans-stimmen-bekommt-a-897769e2-3177-425a-abcf-5e6fe6d3cd02#ref=rss"
+      "title": "Ukraine-Krieg: Wolodymyr Selenskyj verleiht Melania Trump Orden wegen Oleschky-Waffenruhe",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-verleiht-melania-trump-orden-wegen-oleschky-waffenruhe-a-f1ad025e-e638-4111-9363-d9a7f6503294#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Midterm-Wahlen in den USA: Der Preis der Unterwerfung",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/midterm-wahlen-usa-2026-republikaner-ergebnis"
+      "title": "Ukrainekrieg: Melania Trump empfängt russische und ukrainische Vertreter",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/melania-trump-waffenruhe-ukraine-oleschky-russland"
      },
      {
       "name": "FAZ",
-      "title": "USA unter Trump: Machtkampf bei den Republikanern",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-machtkampf-bei-den-republikanern-faz-19444916.html"
+      "title": "Liveblog Ukrainekrieg: Selenskyj verleiht Staatsorden an Melania Trump",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-verleiht-staatsorden-an-melania-trump-faz-110683325.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "+++ US-Midterms +++: Sieben Staaten zurückerobert – Demokraten gewinnen auch Mehrheit im Senat",
-      "link": "https://www.handelsblatt.com/politik/international/us-midterms-sieben-staaten-zurueckerobert-demokraten-gewinnen-auch-mehrheit-im-senat/29669594.html"
+      "title": "+++ Ukraine-Krieg +++: Selenskyj ehrt Melania Trump mit ukrainischem Orden",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-selenskyj-ehrt-melania-trump-mit-ukrainischem-orden/27982126.html"
+     }
+    ]
+   },
+   {
+    "title": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
+    "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html",
+    "image": "https://images.tagesschau.de/image/b2f2524d-772c-46f6-9f34-819ba44b950a/AAABoaXCJOY/AAABnSSvrFg/16x9-big/herzog-180.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-04T23:42:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Israel: Präsident Isaac Herzog sucht Regierungschef, arabische Partei unterstützt Eisenkot",
+      "link": "https://www.spiegel.de/ausland/israel-praesident-isaac-herzog-sucht-regierungschef-arabische-partei-unterstuetzt-eisenkot-a-cc883d26-59a9-42fa-9b75-103eae0ecf6e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Parlamentswahl in Israel: Netanjahu-Lager liegt laut Prognosen zurück",
+      "link": "https://www.zeit.de/politik/ausland/2026-10/israel-parlament-wahl-prognose-benjamin-netanjahu-gadi-gadi-eisenkot"
+     },
+     {
+      "name": "FAZ",
+      "title": "Liveblog Israel-Wahl: Israels Präsident will Neuwahl verhindern",
+      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-israels-praesident-will-neuwahl-verhindern-faz-200583539.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Israel: Netanjahu könnte die Wahl verlieren – und dennoch regieren",
+      "link": "https://www.handelsblatt.com/politik/international/israel-netanjahu-koennte-die-wahl-verlieren-und-dennoch-regieren/100260417.html"
      }
     ]
    },
@@ -744,6 +856,40 @@
     ]
    },
    {
+    "title": "Midterms: Demokraten holen auch Mehrheit im US-Repräsentantenhaus",
+    "link": "https://www.tagesschau.de/eilmeldung/eilmeldung-repraesentantenhaus-usa-midterms-100.html",
+    "image": "https://images.tagesschau.de/image/779e1043-888e-49d8-920a-f1a0b512324f/AAABoaUgUws/AAABnSSvrFg/16x9-big/jeffries-106.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-04T10:52:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Midterms: Demokraten holen auch Mehrheit im US-Repräsentantenhaus",
+      "link": "https://www.tagesschau.de/eilmeldung/eilmeldung-repraesentantenhaus-usa-midterms-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Midterms in den USA: Deutsche Politiker warnen vor zu großer Erleichterung nach Sieg der Demokraten",
+      "link": "https://www.spiegel.de/politik/midterms-in-den-usa-deutsche-politiker-warnen-vor-zu-grosser-erleichterung-nach-sieg-der-demokraten-a-36b59104-c318-4d8a-a2fb-585a1b8b98b8#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Zwischenwahlen in den USA: Demokraten werden Mehrheit im US-Repräsentantenhaus holen",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/demokraten-holen-die-mehrheit-im-us-repraesentantenhaus"
+     },
+     {
+      "name": "FAZ",
+      "title": "Midterms 2026: So deutlich fällt der Sieg der Demokraten aus",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-ergebnisse-der-zwischenwahlen-in-den-usa-unter-donald-trump-201644176.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ US-Midterms +++: Sieben Staaten zurückerobert – Demokraten gewinnen auch Mehrheit im Senat",
+      "link": "https://www.handelsblatt.com/politik/international/us-midterms-sieben-staaten-zurueckerobert-demokraten-gewinnen-auch-mehrheit-im-senat/29669594.html"
+     }
+    ]
+   },
+   {
     "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
     "link": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
     "image": "https://images.tagesschau.de/image/4141b557-c7c8-4671-9d78-3b1a80a10857/AAABoaM1OZM/AAABnSSvrFg/16x9-big/puente-100.jpg?width=1920",
@@ -757,8 +903,8 @@
      },
      {
       "name": "Spiegel",
-      "title": "Zugunglück in Spanien: Zwei Kollisionen, mehr als 100 Tote. Kann Verkehrsminister Óscar Puente im Amt bleiben?",
-      "link": "https://www.spiegel.de/ausland/zugunglueck-in-spanien-zwei-kollisionen-mehr-als-100-tote-kann-verkehrsminister-oscar-puente-im-amt-bleiben-a-bd2a02d7-7515-46f1-9763-f5a1d18317e7#ref=rss"
+      "title": "Spanien: Verkehrsminister Óscar Puente kündigt nach tödlichem Zugunglücken Rücktritt an",
+      "link": "https://www.spiegel.de/ausland/spanien-verkehrsminister-oscar-puente-kuendigt-nach-toedlichem-zugungluecken-ruecktritt-an-a-94e07b2a-3563-4419-aebd-67a4385091bc#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -778,172 +924,36 @@
     ]
    },
    {
-    "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
-    "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
-    "image": "https://images.tagesschau.de/image/86f7cb7c-53f7-4f94-b11f-dc56bbe00cb7/AAABoZ2pwgw/AAABnSSvrFg/16x9-big/truemmer-schule-saporischschja-100.jpg?width=1920",
+    "title": "Angst vor Hamas-Sympathisanten: Debatte um Sicherheit in Berlin",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1674866.html",
+    "image": "https://images.tagesschau.de/image/531f7b1d-b007-4981-bfd5-e124a4deff7e/AAABoYmMqdw/AAABnSSvrFg/16x9-big/sendungsbild-1819300.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-03T17:56:15+00:00",
+    "time": "2026-11-03T18:30:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html"
+      "title": "Angst vor Hamas-Sympathisanten: Debatte um Sicherheit in Berlin",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1674866.html"
      },
      {
       "name": "Spiegel",
-      "title": "Ukraine: 26 Tote bei russischen Angriffen auf Schulgebäude nahe Saporischschja",
-      "link": "https://www.spiegel.de/ausland/ukraine-26-tote-bei-russischen-angriffen-auf-schulgebaeude-nahe-saporischschja-a-da431ff0-9641-46e1-af7b-ac3264faf56f#ref=rss"
+      "title": "Die Linke in Berlin: Zwischen Klassenkampf, Israelhass und Terror-Sympathien - SPIEGEL TV",
+      "link": "https://www.spiegel.de/politik/die-linke-in-berlin-zwischen-klassenkampf-israelhass-und-terror-sympathien-spiegel-tv-a-6c481db1-b007-4df6-9a07-4807aa01614d#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Krieg in der Ukraine: Mindestens 26 Tote bei russischen Luftangriffen in Saporischschja",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/russland-luftangriff-ukraine-komyschuwacha-saporischschja-humanitaere-hilfe"
+      "title": "Linke in Berlin: Elif Eralp begründet Ängste mit Austausch mit Sicherheitsbehörden",
+      "link": "https://www.zeit.de/politik/deutschland/2026-10/elif-eralp-berlin-die-linke-kommentar-bedrohung-gxe"
      },
      {
       "name": "FAZ",
-      "title": "Ukraine: Dutzende Tote bei Angriff auf Schule",
-      "link": "https://www.faz.net/video/ukraine-dutzende-tote-bei-angriff-auf-schule-201646581.html"
+      "title": "Furcht vor Terror: Mit Elif Eralp am Abgrund",
+      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/spiegel-zeigt-dass-elif-eralp-vor-islamisten-zurueckweicht-201633322.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Ukraine-Krieg: Auf die Waffenruhe folgt ein Massaker: Russischer Angriff auf Schulhaus tötet Dutzende Zivilisten",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russischer-angriff-auf-schulhaus-toetet-dutzende-zivilisten/100267066.html"
-     }
-    ]
-   },
-   {
-    "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
-    "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
-    "image": "https://images.tagesschau.de/image/14102e35-48e8-439a-8fb0-4c556e6d4d00/AAABmEAxqQI/AAABnSSvrFg/16x9-big/abitur-138.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-03T00:48:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Midterms: Donald Trump scheitert im Kalifornien-Streit vor Supreme Court",
-      "link": "https://www.spiegel.de/ausland/midterms-donald-trump-scheitert-im-kalifornien-streit-vor-supreme-court-a-1769275e-a646-4cd1-b8a0-7e9d72a05570#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "US-Midterms: Trump scheitert im Streit um Briefwahl in Kalifornien vor Gericht",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/supreme-court-briefwahl-kalifornien-donald-trump"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: US-Gericht verbietet Trumps Regierung Druck auf Wahlhelfer",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ US-Midterms +++: Gericht stoppt US-Regierung im Streit um Briefwahl in Kalifornien",
-      "link": "https://www.handelsblatt.com/politik/international/us-midterms-gericht-stoppt-us-regierung-im-streit-um-briefwahl-in-kalifornien/29669594.html"
-     }
-    ]
-   },
-   {
-    "title": "Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
-    "link": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html",
-    "image": "https://images.tagesschau.de/image/a36daf46-80c0-4aed-a8c4-104c19a43449/AAABoZyaaIc/AAABnSSvrFg/16x9-big/merz-1776.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-02T18:30:17+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
-      "link": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Friedrich Merz legt sich fest: Das nächste Staatsoberhaupt soll eine Frau sein",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-legt-sich-fest-das-naechste-staatsoberhaupt-soll-eine-frau-sein-a-95f4944b-b4b6-42d5-9dee-4af59ff8bdb2#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Steinmeier-Nachfolge: Friedrich Merz will Frau als Staatsoberhaupt vorschlagen",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/bundespraesidentin-2027-cdu-ilse-aigner-friedrich-merz"
-     },
-     {
-      "name": "FAZ",
-      "title": "Deutschland Liveblog: Steinmeier-Nachfolge: Merz will auf jeden Fall eine Frau",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-steinmeier-nachfolge-merz-will-auf-jeden-fall-eine-frau-faz-110093143.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ Bundespolitik +++: ﻿Merz spricht sich für Frau als Bundespräsidentin aus",
-      "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-merz-spricht-sich-fuer-frau-als-bundespraesidentin-aus/100137034.html"
-     }
-    ]
-   },
-   {
-    "title": "VW meldet Milliardenverluste",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1674882.html",
-    "image": "https://images.tagesschau.de/image/f33e346d-23f7-445d-a8dc-d61cc2c861a6/AAABoYmmFzc/AAABnSSvrFg/16x9-big/sendungsbild-1819316.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-02T16:30:14+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "VW meldet Milliardenverluste",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1674882.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Volkswagen: Umsatz und Absatz brechen ein – Milliardenverlust im dritten Quartal",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "VW: Volkswagen macht im dritten Quartal Milliardenverlust",
-      "link": "https://www.zeit.de/mobilitaet/2026-10/volkswagen-macht-im-dritten-quartal-milliardenverlust"
-     },
-     {
-      "name": "FAZ",
-      "title": "Autohersteller: Volkswagen macht 5,8 Milliarden Euro Verlust",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-meldet-milliardenverlust-im-dritten-quartal-accg-201631461.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "IPO: Anthropic meldet 17 Milliarden Dollar Umsatz im dritten Quartal",
-      "link": "https://www.handelsblatt.com/technik/ki/ipo-anthropic-meldet-17-milliarden-dollar-umsatz-im-dritten-quartal/100266735.html"
-     }
-    ]
-   },
-   {
-    "title": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
-    "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
-    "image": "https://images.tagesschau.de/image/34fd81e3-ab88-4dbf-878b-3d7c22ad7dec/AAABoZjUoew/AAABnSSvrFg/16x9-big/ilijana-jotowa-102.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-02T11:29:43+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
-      "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Bulgarien: Iliana Jotowa nach Prognosen vorn",
-      "link": "https://www.spiegel.de/ausland/bulgarien-iliana-jotowa-nach-prognosen-vorn-a-e70269f7-9feb-4274-8d45-7436ee034b30#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Präsidentschaftswahl in Bulgarien: Russlandfreundliche Ilijana Jotowa gewinnt Stichwahl in Bulgarien",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/praesidentschaftswahl-bulgarien-ilijana-jotowa-andrej-gjurow-russland"
-     },
-     {
-      "name": "FAZ",
-      "title": "Ilijana Jotowa: Ihre Wahl stärkt Bulgariens russlandfreundlichen Kurs",
-      "link": "https://www.faz.net/aktuell/politik/ausland/bulgarien-wahlausgang-staerkt-russlandfreundlichen-kurs-accg-201642633.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Wahl: Sozialistische Amtsinhaberin siegt bei Stichwahl in Bulgarien",
-      "link": "https://www.handelsblatt.com/politik/international/bulgarien-sozialistische-amtsinhaberin-siegt-bei-stichwahl/100266529.html"
+      "title": "Elif Eralp: „Toxische Mischung“ – Angst vor Hamas-Unterstützern wird zur Machtfrage in Berlin",
+      "link": "https://www.handelsblatt.com/politik/deutschland/elif-eralp-angst-vor-hamas-unterstuetzern-wird-zur-machtfrage-in-berlin/100265958.html"
      }
     ]
    }
@@ -953,6 +963,76 @@
   "de": {
    "24h": [
     {
+     "title": "Inveda.net verbindet digitale Antragsstrecken mit eigener BiPRO-440 Erweiterung",
+     "link": "https://www.it-finanzmagazin.de/inveda-net-verbindet-digitale-antragsstrecken-mit-bipro-440-253591/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T07:00:36+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Inveda.net verbindet digitale Antragsstrecken mit eigener BiPRO-440 Erweiterung",
+       "link": "https://www.it-finanzmagazin.de/inveda-net-verbindet-digitale-antragsstrecken-mit-bipro-440-253591/"
+      }
+     ]
+    },
+    {
+     "title": "wealth-invest-abo",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQ09uV1VHbjlJWmx3WmlMQ3ZFajJHbVV2elVhalJ0WVZvU0lmcU54SmcwTmdnMTJCUTAyUGdmSi1nTHJtTkg5NjE1ZElCR1M5SFFBcA?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:47:40+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "wealth-invest-abo",
+       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQ09uV1VHbjlJWmx3WmlMQ3ZFajJHbVV2elVhalJ0WVZvU0lmcU54SmcwTmdnMTJCUTAyUGdmSi1nTHJtTkg5NjE1ZElCR1M5SFFBcA?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Openbank Deutschland holt nächsten digitalen Topshot – und mehr Personalien",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDR3X05iVll5WG5maEc2ZUNRNTVhdkJKUnFhZGE2OHhidlFlb0pTU2Q1dmNaa3hSUF94X3Q2OExmQ3RWMERmdHB0dTJuS2VpbmhFeTJIa1pxTVd5NThzMmNDWGZ3REVxRDd0R2lfaHJRbkt0YS1rYUxxeUV6N3pqSVFFWmUtVnZJQ0tQRzRvbmc3QXdHMTMtX1prM1lCTll5WVNhUDRwdWdkWWRNNGlPWXhOejUxX3VWV3c?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:37:58+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Openbank Deutschland holt nächsten digitalen Topshot – und mehr Personalien",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDR3X05iVll5WG5maEc2ZUNRNTVhdkJKUnFhZGE2OHhidlFlb0pTU2Q1dmNaa3hSUF94X3Q2OExmQ3RWMERmdHB0dTJuS2VpbmhFeTJIa1pxTVd5NThzMmNDWGZ3REVxRDd0R2lfaHJRbkt0YS1rYUxxeUV6N3pqSVFFWmUtVnZJQ0tQRzRvbmc3QXdHMTMtX1prM1lCTll5WVNhUDRwdWdkWWRNNGlPWXhOejUxX3VWV3c?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Bei der Aareal Bank vernebelt die flotte Erzählung die triste Realität",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFVuYldMZDFrUHJZQmdVY19xcW9LQjg5QkFZak9YUVJtOEdPTi1HVUYwSHdPbHNZTWQzMXJ5QlBKWUo5QU5YSFk0Sk9ncHJsQjV5enNMSVB5VWlTRFhIZlJUX1dhcy1Jd0h2Nk9lZXd0X3d6dW9sUHlkeWR3a0hDRUVMTFpNTGpYTl9fTXhONFdKc1I0WHNXTU90ZVE0VFJGVFhxOElhRjk?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:16:26+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Bei der Aareal Bank vernebelt die flotte Erzählung die triste Realität",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFVuYldMZDFrUHJZQmdVY19xcW9LQjg5QkFZak9YUVJtOEdPTi1HVUYwSHdPbHNZTWQzMXJ5QlBKWUo5QU5YSFk0Sk9ncHJsQjV5enNMSVB5VWlTRFhIZlJUX1dhcy1Jd0h2Nk9lZXd0X3d6dW9sUHlkeWR3a0hDRUVMTFpNTGpYTl9fTXhONFdKc1I0WHNXTU90ZVE0VFJGVFhxOElhRjk?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "\"Die Ironie ist – die Standalone-Strategie der Commerzbank hätte funktioniert\"",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1RUektuTHUyUWJMbDJ0RlpRYXJLeHRXQmVCT05VVlREWUlYM3ZyRnVMdjdhN2VSVkpudERPRzM5dHpOTVdhTzJuS0ROQ3hSVGJtZFpONnhGQmJady16eEMybU9xY3RVaDFHUlFzT1ZXVTJMQ0RTcl80em9ydHhDM3cweXhzUno0Ry1fSWVrOThFV0ZTbVJTZExuR3JLbVk5dXN6VzJTME51a1pZb1NTTXQybjNOR2dNTEZLY2JmeGF0UHM?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:05:05+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "\"Die Ironie ist – die Standalone-Strategie der Commerzbank hätte funktioniert\"",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1RUektuTHUyUWJMbDJ0RlpRYXJLeHRXQmVCT05VVlREWUlYM3ZyRnVMdjdhN2VSVkpudERPRzM5dHpOTVdhTzJuS0ROQ3hSVGJtZFpONnhGQmJady16eEMybU9xY3RVaDFHUlFzT1ZXVTJMQ0RTcl80em9ydHhDM3cweXhzUno0Ry1fSWVrOThFV0ZTbVJTZExuR3JLbVk5dXN6VzJTME51a1pZb1NTTXQybjNOR2dNTEZLY2JmeGF0UHM?oc=5"
+      }
+     ]
+    },
+    {
      "title": "Trotz Mega-Bewertung: Das sind die drei großen Baustellen bei Revolut",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmUzeTBEdEpKT2l1VWhNS0tZc0VRTXJ1ZGxaeUZhaDU1d0RVZTc5cEh0TVgwSjlTeVVvdGtralh2ZkNiZTAzeUlscGdneWVRcEFPR0ZOdWtYSnQ3ZXZzWk51eVl4QUYyQ0lPMjBSNmx2LXdRWU1YcEFrMDdIN3pGMjBsYlExc1pjTWhQUW1ySExrNlV0LVRvM3NVMUtVa2NQMkE?oc=5",
      "image": "",
@@ -1005,96 +1085,82 @@
        "name": "IT-Finanzmagazin",
        "title": "EU will bei FIDA den Stecker ziehen: Weniger Regulierung, mehr Datensilos?",
        "link": "https://www.it-finanzmagazin.de/eu-will-bei-fida-den-stecker-ziehen-weniger-regulierung-mehr-datensilos-253544/"
-      }
-     ]
-    },
-    {
-     "title": "Zinsanstieg belastet die Commerzbank – und die Übernahme läuft bereits",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxcXAwQy14WlJHZWp2azZYbzc1b0VncEdOWnNVUzcxcFlocHBEbVdGMnp2N2llYTFncm1yR192eTVRekw5bWdZclA2VUI2T2k4RXlzeFBTVUVubTlTOGN0U0RYUkZDcWduUTZWTGdaYXA4eHNmeUI4Yy1zYkcwdw?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T07:07:30+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Zinsanstieg belastet die Commerzbank – und die Übernahme läuft bereits",
-       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxcXAwQy14WlJHZWp2azZYbzc1b0VncEdOWnNVUzcxcFlocHBEbVdGMnp2N2llYTFncm1yR192eTVRekw5bWdZclA2VUI2T2k4RXlzeFBTVUVubTlTOGN0U0RYUkZDcWduUTZWTGdaYXA4eHNmeUI4Yy1zYkcwdw?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "CyberDirekt fasst Cyberversicherungs-Angebote mit generativer KI zusammen",
-     "link": "https://www.it-finanzmagazin.de/cyberdirekt-fasst-versicherungsangebote-mit-ki-zusammen-253551/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T07:00:24+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "CyberDirekt fasst Cyberversicherungs-Angebote mit generativer KI zusammen",
-       "link": "https://www.it-finanzmagazin.de/cyberdirekt-fasst-versicherungsangebote-mit-ki-zusammen-253551/"
-      }
-     ]
-    },
-    {
-     "title": "Commerzbank: Starkes Quartal – aber Erwartungen minimal verfehlt",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CaEp1c1RnVXJlQ0pzSXJkWENyQ2FWMlVxbmtVZ2V1SDU1Qk9nVzBZUjJ4V04xNGJ3NnpEbWpTOVdlQm1tMDkxakdtUHJFUlpfMkVCazVRRmZ2QzluSXZQZDQ0b3QydjA0b1E0?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T06:18:13+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Commerzbank: Starkes Quartal – aber Erwartungen minimal verfehlt",
-       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CaEp1c1RnVXJlQ0pzSXJkWENyQ2FWMlVxbmtVZ2V1SDU1Qk9nVzBZUjJ4V04xNGJ3NnpEbWpTOVdlQm1tMDkxakdtUHJFUlpfMkVCazVRRmZ2QzluSXZQZDQ0b3QydjA0b1E0?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Der Open-Finance-Verordnung FIDA droht das endgültige Aus",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGQ3WDR6VlJjakhGWlNucjdmY3oya05wMjZRVDhvX0tnWDNSS1BNdXV6V0VteXVDUTRYN3FLdkxrSVN2X1Vnbi1HeHRzaWcyNkFDY1hHZjFhLTBwc1pfd281NFJzRWl5M3hhck05Q2VWWU9ScmZyaWR0SzU3VjJjNFIwdTY2dTN4cExOWHQ2Y3ozUzN0cFE?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T04:47:53+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Der Open-Finance-Verordnung FIDA droht das endgültige Aus",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGQ3WDR6VlJjakhGWlNucjdmY3oya05wMjZRVDhvX0tnWDNSS1BNdXV6V0VteXVDUTRYN3FLdkxrSVN2X1Vnbi1HeHRzaWcyNkFDY1hHZjFhLTBwc1pfd281NFJzRWl5M3hhck05Q2VWWU9ScmZyaWR0SzU3VjJjNFIwdTY2dTN4cExOWHQ2Y3ozUzN0cFE?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Pliant sammelt 80 Mio. Dollar ein. Plus: Ein Solaris-Update",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXhtUUNHTGp5YWZFVlFDNG5GQjhyS2tRalJ5VzRpRF9tOHI4azQ5ZUFudko1UzdfbU4zSTk5amVVY21qd01qNWpmU2JGWFRna1RITTFfUng0Yy12djNBU1lqQXJUVDlNTEJPNlRMcGh1clFkb04wTEp0VVBPdjktdXQ2V1lZT2lzRG1HWVNERXRGREU?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T04:42:51+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Pliant sammelt 80 Mio. Dollar ein. Plus: Ein Solaris-Update",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXhtUUNHTGp5YWZFVlFDNG5GQjhyS2tRalJ5VzRpRF9tOHI4azQ5ZUFudko1UzdfbU4zSTk5amVVY21qd01qNWpmU2JGWFRna1RITTFfUng0Yy12djNBU1lqQXJUVDlNTEJPNlRMcGh1clFkb04wTEp0VVBPdjktdXQ2V1lZT2lzRG1HWVNERXRGREU?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Das „New Normal“ der KfW – viel Geschäft, viel Gewinn, kaum noch Sondereffekte",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejJwbmQyRzJkY1ZlNVRDdWVnbUhVdnA1QW1WYk1wRG51X0c2b0VhX2NkbC01LXZBbkZRcXZpZmVYQjNadFVXc0VZMThVLVB0QjlRT1JZcjl2YzMyOFphRXFZZGJlNG1CWUZuTEs1TUI2SXBlbFkxSVktUDk5ZHlNXzlyRkhGcFc0akl0Yi0xMWEtOWkxbXNJRXluNlpFeGZSYmxoVW5aOFpiZw?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T04:40:31+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Das „New Normal“ der KfW – viel Geschäft, viel Gewinn, kaum noch Sondereffekte",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejJwbmQyRzJkY1ZlNVRDdWVnbUhVdnA1QW1WYk1wRG51X0c2b0VhX2NkbC01LXZBbkZRcXZpZmVYQjNadFVXc0VZMThVLVB0QjlRT1JZcjl2YzMyOFphRXFZZGJlNG1CWUZuTEs1TUI2SXBlbFkxSVktUDk5ZHlNXzlyRkhGcFc0akl0Yi0xMWEtOWkxbXNJRXluNlpFeGZSYmxoVW5aOFpiZw?oc=5"
       }
      ]
     }
    ],
    "7d": [
     {
+     "title": "Inveda.net verbindet digitale Antragsstrecken mit eigener BiPRO-440 Erweiterung",
+     "link": "https://www.it-finanzmagazin.de/inveda-net-verbindet-digitale-antragsstrecken-mit-bipro-440-253591/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T07:00:36+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Inveda.net verbindet digitale Antragsstrecken mit eigener BiPRO-440 Erweiterung",
+       "link": "https://www.it-finanzmagazin.de/inveda-net-verbindet-digitale-antragsstrecken-mit-bipro-440-253591/"
+      }
+     ]
+    },
+    {
+     "title": "wealth-invest-abo",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQ09uV1VHbjlJWmx3WmlMQ3ZFajJHbVV2elVhalJ0WVZvU0lmcU54SmcwTmdnMTJCUTAyUGdmSi1nTHJtTkg5NjE1ZElCR1M5SFFBcA?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:47:40+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "wealth-invest-abo",
+       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQ09uV1VHbjlJWmx3WmlMQ3ZFajJHbVV2elVhalJ0WVZvU0lmcU54SmcwTmdnMTJCUTAyUGdmSi1nTHJtTkg5NjE1ZElCR1M5SFFBcA?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Openbank Deutschland holt nächsten digitalen Topshot – und mehr Personalien",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDR3X05iVll5WG5maEc2ZUNRNTVhdkJKUnFhZGE2OHhidlFlb0pTU2Q1dmNaa3hSUF94X3Q2OExmQ3RWMERmdHB0dTJuS2VpbmhFeTJIa1pxTVd5NThzMmNDWGZ3REVxRDd0R2lfaHJRbkt0YS1rYUxxeUV6N3pqSVFFWmUtVnZJQ0tQRzRvbmc3QXdHMTMtX1prM1lCTll5WVNhUDRwdWdkWWRNNGlPWXhOejUxX3VWV3c?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:37:58+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Openbank Deutschland holt nächsten digitalen Topshot – und mehr Personalien",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDR3X05iVll5WG5maEc2ZUNRNTVhdkJKUnFhZGE2OHhidlFlb0pTU2Q1dmNaa3hSUF94X3Q2OExmQ3RWMERmdHB0dTJuS2VpbmhFeTJIa1pxTVd5NThzMmNDWGZ3REVxRDd0R2lfaHJRbkt0YS1rYUxxeUV6N3pqSVFFWmUtVnZJQ0tQRzRvbmc3QXdHMTMtX1prM1lCTll5WVNhUDRwdWdkWWRNNGlPWXhOejUxX3VWV3c?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Bei der Aareal Bank vernebelt die flotte Erzählung die triste Realität",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFVuYldMZDFrUHJZQmdVY19xcW9LQjg5QkFZak9YUVJtOEdPTi1HVUYwSHdPbHNZTWQzMXJ5QlBKWUo5QU5YSFk0Sk9ncHJsQjV5enNMSVB5VWlTRFhIZlJUX1dhcy1Jd0h2Nk9lZXd0X3d6dW9sUHlkeWR3a0hDRUVMTFpNTGpYTl9fTXhONFdKc1I0WHNXTU90ZVE0VFJGVFhxOElhRjk?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:16:26+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Bei der Aareal Bank vernebelt die flotte Erzählung die triste Realität",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFVuYldMZDFrUHJZQmdVY19xcW9LQjg5QkFZak9YUVJtOEdPTi1HVUYwSHdPbHNZTWQzMXJ5QlBKWUo5QU5YSFk0Sk9ncHJsQjV5enNMSVB5VWlTRFhIZlJUX1dhcy1Jd0h2Nk9lZXd0X3d6dW9sUHlkeWR3a0hDRUVMTFpNTGpYTl9fTXhONFdKc1I0WHNXTU90ZVE0VFJGVFhxOElhRjk?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "\"Die Ironie ist – die Standalone-Strategie der Commerzbank hätte funktioniert\"",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1RUektuTHUyUWJMbDJ0RlpRYXJLeHRXQmVCT05VVlREWUlYM3ZyRnVMdjdhN2VSVkpudERPRzM5dHpOTVdhTzJuS0ROQ3hSVGJtZFpONnhGQmJady16eEMybU9xY3RVaDFHUlFzT1ZXVTJMQ0RTcl80em9ydHhDM3cweXhzUno0Ry1fSWVrOThFV0ZTbVJTZExuR3JLbVk5dXN6VzJTME51a1pZb1NTTXQybjNOR2dNTEZLY2JmeGF0UHM?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:05:05+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "\"Die Ironie ist – die Standalone-Strategie der Commerzbank hätte funktioniert\"",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1RUektuTHUyUWJMbDJ0RlpRYXJLeHRXQmVCT05VVlREWUlYM3ZyRnVMdjdhN2VSVkpudERPRzM5dHpOTVdhTzJuS0ROQ3hSVGJtZFpONnhGQmJady16eEMybU9xY3RVaDFHUlFzT1ZXVTJMQ0RTcl80em9ydHhDM3cweXhzUno0Ry1fSWVrOThFV0ZTbVJTZExuR3JLbVk5dXN6VzJTME51a1pZb1NTTXQybjNOR2dNTEZLY2JmeGF0UHM?oc=5"
+      }
+     ]
+    },
+    {
      "title": "Trotz Mega-Bewertung: Das sind die drei großen Baustellen bei Revolut",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmUzeTBEdEpKT2l1VWhNS0tZc0VRTXJ1ZGxaeUZhaDU1d0RVZTc5cEh0TVgwSjlTeVVvdGtralh2ZkNiZTAzeUlscGdneWVRcEFPR0ZOdWtYSnQ3ZXZzWk51eVl4QUYyQ0lPMjBSNmx2LXdRWU1YcEFrMDdIN3pGMjBsYlExc1pjTWhQUW1ySExrNlV0LVRvM3NVMUtVa2NQMkE?oc=5",
      "image": "",
@@ -1161,76 +1227,6 @@
        "name": "Finanz-Szene",
        "title": "Zinsanstieg belastet die Commerzbank – und die Übernahme läuft bereits",
        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxcXAwQy14WlJHZWp2azZYbzc1b0VncEdOWnNVUzcxcFlocHBEbVdGMnp2N2llYTFncm1yR192eTVRekw5bWdZclA2VUI2T2k4RXlzeFBTVUVubTlTOGN0U0RYUkZDcWduUTZWTGdaYXA4eHNmeUI4Yy1zYkcwdw?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "CyberDirekt fasst Cyberversicherungs-Angebote mit generativer KI zusammen",
-     "link": "https://www.it-finanzmagazin.de/cyberdirekt-fasst-versicherungsangebote-mit-ki-zusammen-253551/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T07:00:24+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "CyberDirekt fasst Cyberversicherungs-Angebote mit generativer KI zusammen",
-       "link": "https://www.it-finanzmagazin.de/cyberdirekt-fasst-versicherungsangebote-mit-ki-zusammen-253551/"
-      }
-     ]
-    },
-    {
-     "title": "Commerzbank: Starkes Quartal – aber Erwartungen minimal verfehlt",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CaEp1c1RnVXJlQ0pzSXJkWENyQ2FWMlVxbmtVZ2V1SDU1Qk9nVzBZUjJ4V04xNGJ3NnpEbWpTOVdlQm1tMDkxakdtUHJFUlpfMkVCazVRRmZ2QzluSXZQZDQ0b3QydjA0b1E0?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T06:18:13+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Commerzbank: Starkes Quartal – aber Erwartungen minimal verfehlt",
-       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CaEp1c1RnVXJlQ0pzSXJkWENyQ2FWMlVxbmtVZ2V1SDU1Qk9nVzBZUjJ4V04xNGJ3NnpEbWpTOVdlQm1tMDkxakdtUHJFUlpfMkVCazVRRmZ2QzluSXZQZDQ0b3QydjA0b1E0?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Der Open-Finance-Verordnung FIDA droht das endgültige Aus",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGQ3WDR6VlJjakhGWlNucjdmY3oya05wMjZRVDhvX0tnWDNSS1BNdXV6V0VteXVDUTRYN3FLdkxrSVN2X1Vnbi1HeHRzaWcyNkFDY1hHZjFhLTBwc1pfd281NFJzRWl5M3hhck05Q2VWWU9ScmZyaWR0SzU3VjJjNFIwdTY2dTN4cExOWHQ2Y3ozUzN0cFE?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T04:47:53+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Der Open-Finance-Verordnung FIDA droht das endgültige Aus",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGQ3WDR6VlJjakhGWlNucjdmY3oya05wMjZRVDhvX0tnWDNSS1BNdXV6V0VteXVDUTRYN3FLdkxrSVN2X1Vnbi1HeHRzaWcyNkFDY1hHZjFhLTBwc1pfd281NFJzRWl5M3hhck05Q2VWWU9ScmZyaWR0SzU3VjJjNFIwdTY2dTN4cExOWHQ2Y3ozUzN0cFE?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Pliant sammelt 80 Mio. Dollar ein. Plus: Ein Solaris-Update",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXhtUUNHTGp5YWZFVlFDNG5GQjhyS2tRalJ5VzRpRF9tOHI4azQ5ZUFudko1UzdfbU4zSTk5amVVY21qd01qNWpmU2JGWFRna1RITTFfUng0Yy12djNBU1lqQXJUVDlNTEJPNlRMcGh1clFkb04wTEp0VVBPdjktdXQ2V1lZT2lzRG1HWVNERXRGREU?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T04:42:51+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Pliant sammelt 80 Mio. Dollar ein. Plus: Ein Solaris-Update",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXhtUUNHTGp5YWZFVlFDNG5GQjhyS2tRalJ5VzRpRF9tOHI4azQ5ZUFudko1UzdfbU4zSTk5amVVY21qd01qNWpmU2JGWFRna1RITTFfUng0Yy12djNBU1lqQXJUVDlNTEJPNlRMcGh1clFkb04wTEp0VVBPdjktdXQ2V1lZT2lzRG1HWVNERXRGREU?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Das „New Normal“ der KfW – viel Geschäft, viel Gewinn, kaum noch Sondereffekte",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejJwbmQyRzJkY1ZlNVRDdWVnbUhVdnA1QW1WYk1wRG51X0c2b0VhX2NkbC01LXZBbkZRcXZpZmVYQjNadFVXc0VZMThVLVB0QjlRT1JZcjl2YzMyOFphRXFZZGJlNG1CWUZuTEs1TUI2SXBlbFkxSVktUDk5ZHlNXzlyRkhGcFc0akl0Yi0xMWEtOWkxbXNJRXluNlpFeGZSYmxoVW5aOFpiZw?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T04:40:31+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Das „New Normal“ der KfW – viel Geschäft, viel Gewinn, kaum noch Sondereffekte",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejJwbmQyRzJkY1ZlNVRDdWVnbUhVdnA1QW1WYk1wRG51X0c2b0VhX2NkbC01LXZBbkZRcXZpZmVYQjNadFVXc0VZMThVLVB0QjlRT1JZcjl2YzMyOFphRXFZZGJlNG1CWUZuTEs1TUI2SXBlbFkxSVktUDk5ZHlNXzlyRkhGcFc0akl0Yi0xMWEtOWkxbXNJRXluNlpFeGZSYmxoVW5aOFpiZw?oc=5"
       }
      ]
     }
@@ -1275,6 +1271,76 @@
      ]
     },
     {
+     "title": "Inveda.net verbindet digitale Antragsstrecken mit eigener BiPRO-440 Erweiterung",
+     "link": "https://www.it-finanzmagazin.de/inveda-net-verbindet-digitale-antragsstrecken-mit-bipro-440-253591/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T07:00:36+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Inveda.net verbindet digitale Antragsstrecken mit eigener BiPRO-440 Erweiterung",
+       "link": "https://www.it-finanzmagazin.de/inveda-net-verbindet-digitale-antragsstrecken-mit-bipro-440-253591/"
+      }
+     ]
+    },
+    {
+     "title": "wealth-invest-abo",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQ09uV1VHbjlJWmx3WmlMQ3ZFajJHbVV2elVhalJ0WVZvU0lmcU54SmcwTmdnMTJCUTAyUGdmSi1nTHJtTkg5NjE1ZElCR1M5SFFBcA?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:47:40+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "wealth-invest-abo",
+       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQ09uV1VHbjlJWmx3WmlMQ3ZFajJHbVV2elVhalJ0WVZvU0lmcU54SmcwTmdnMTJCUTAyUGdmSi1nTHJtTkg5NjE1ZElCR1M5SFFBcA?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Openbank Deutschland holt nächsten digitalen Topshot – und mehr Personalien",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDR3X05iVll5WG5maEc2ZUNRNTVhdkJKUnFhZGE2OHhidlFlb0pTU2Q1dmNaa3hSUF94X3Q2OExmQ3RWMERmdHB0dTJuS2VpbmhFeTJIa1pxTVd5NThzMmNDWGZ3REVxRDd0R2lfaHJRbkt0YS1rYUxxeUV6N3pqSVFFWmUtVnZJQ0tQRzRvbmc3QXdHMTMtX1prM1lCTll5WVNhUDRwdWdkWWRNNGlPWXhOejUxX3VWV3c?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:37:58+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Openbank Deutschland holt nächsten digitalen Topshot – und mehr Personalien",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDR3X05iVll5WG5maEc2ZUNRNTVhdkJKUnFhZGE2OHhidlFlb0pTU2Q1dmNaa3hSUF94X3Q2OExmQ3RWMERmdHB0dTJuS2VpbmhFeTJIa1pxTVd5NThzMmNDWGZ3REVxRDd0R2lfaHJRbkt0YS1rYUxxeUV6N3pqSVFFWmUtVnZJQ0tQRzRvbmc3QXdHMTMtX1prM1lCTll5WVNhUDRwdWdkWWRNNGlPWXhOejUxX3VWV3c?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Bei der Aareal Bank vernebelt die flotte Erzählung die triste Realität",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFVuYldMZDFrUHJZQmdVY19xcW9LQjg5QkFZak9YUVJtOEdPTi1HVUYwSHdPbHNZTWQzMXJ5QlBKWUo5QU5YSFk0Sk9ncHJsQjV5enNMSVB5VWlTRFhIZlJUX1dhcy1Jd0h2Nk9lZXd0X3d6dW9sUHlkeWR3a0hDRUVMTFpNTGpYTl9fTXhONFdKc1I0WHNXTU90ZVE0VFJGVFhxOElhRjk?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:16:26+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Bei der Aareal Bank vernebelt die flotte Erzählung die triste Realität",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFVuYldMZDFrUHJZQmdVY19xcW9LQjg5QkFZak9YUVJtOEdPTi1HVUYwSHdPbHNZTWQzMXJ5QlBKWUo5QU5YSFk0Sk9ncHJsQjV5enNMSVB5VWlTRFhIZlJUX1dhcy1Jd0h2Nk9lZXd0X3d6dW9sUHlkeWR3a0hDRUVMTFpNTGpYTl9fTXhONFdKc1I0WHNXTU90ZVE0VFJGVFhxOElhRjk?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "\"Die Ironie ist – die Standalone-Strategie der Commerzbank hätte funktioniert\"",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1RUektuTHUyUWJMbDJ0RlpRYXJLeHRXQmVCT05VVlREWUlYM3ZyRnVMdjdhN2VSVkpudERPRzM5dHpOTVdhTzJuS0ROQ3hSVGJtZFpONnhGQmJady16eEMybU9xY3RVaDFHUlFzT1ZXVTJMQ0RTcl80em9ydHhDM3cweXhzUno0Ry1fSWVrOThFV0ZTbVJTZExuR3JLbVk5dXN6VzJTME51a1pZb1NTTXQybjNOR2dNTEZLY2JmeGF0UHM?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T04:05:05+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "\"Die Ironie ist – die Standalone-Strategie der Commerzbank hätte funktioniert\"",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1RUektuTHUyUWJMbDJ0RlpRYXJLeHRXQmVCT05VVlREWUlYM3ZyRnVMdjdhN2VSVkpudERPRzM5dHpOTVdhTzJuS0ROQ3hSVGJtZFpONnhGQmJady16eEMybU9xY3RVaDFHUlFzT1ZXVTJMQ0RTcl80em9ydHhDM3cweXhzUno0Ry1fSWVrOThFV0ZTbVJTZExuR3JLbVk5dXN6VzJTME51a1pZb1NTTXQybjNOR2dNTEZLY2JmeGF0UHM?oc=5"
+      }
+     ]
+    },
+    {
      "title": "Sämtliche „VÖB- und VdP-Banken“-News aus Oktober 2026",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVhoSnVOVWV1cFpUV3A2c2o2RjE5eTNETFdCRkl0SUtvVFNnVU5fZjMzX3JIM3lQREZ4SkZIZ2wxc2pZTU5mVFdiTnE1QXZ2YXRIRnlYQkJKSHg3UjZDMFJnRFc2X0U0YUlCd1RlRGdXNzYyMFB1bUJBY3psZzlaY19fbVQzNk05UVcwaXpB?oc=5",
      "image": "",
@@ -1315,76 +1381,6 @@
        "link": "https://www.it-finanzmagazin.de/die-payment-service-regulation-verlangt-betrugsdatenaustausch-in-deutschland-fehlt-die-koordination-253256/"
       }
      ]
-    },
-    {
-     "title": "Safirum bringt Stablecoin CHF-S in Schweizer Franken",
-     "link": "https://www.it-finanzmagazin.de/safirum-bringt-stablecoin-chf-s-in-schweizer-franken-253452/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T08:40:30+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Safirum bringt Stablecoin CHF-S in Schweizer Franken",
-       "link": "https://www.it-finanzmagazin.de/safirum-bringt-stablecoin-chf-s-in-schweizer-franken-253452/"
-      }
-     ]
-    },
-    {
-     "title": "EU will bei FIDA den Stecker ziehen: Weniger Regulierung, mehr Datensilos?",
-     "link": "https://www.it-finanzmagazin.de/eu-will-bei-fida-den-stecker-ziehen-weniger-regulierung-mehr-datensilos-253544/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T08:00:20+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "EU will bei FIDA den Stecker ziehen: Weniger Regulierung, mehr Datensilos?",
-       "link": "https://www.it-finanzmagazin.de/eu-will-bei-fida-den-stecker-ziehen-weniger-regulierung-mehr-datensilos-253544/"
-      }
-     ]
-    },
-    {
-     "title": "Zinsanstieg belastet die Commerzbank – und die Übernahme läuft bereits",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxcXAwQy14WlJHZWp2azZYbzc1b0VncEdOWnNVUzcxcFlocHBEbVdGMnp2N2llYTFncm1yR192eTVRekw5bWdZclA2VUI2T2k4RXlzeFBTVUVubTlTOGN0U0RYUkZDcWduUTZWTGdaYXA4eHNmeUI4Yy1zYkcwdw?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T07:07:30+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Zinsanstieg belastet die Commerzbank – und die Übernahme läuft bereits",
-       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxcXAwQy14WlJHZWp2azZYbzc1b0VncEdOWnNVUzcxcFlocHBEbVdGMnp2N2llYTFncm1yR192eTVRekw5bWdZclA2VUI2T2k4RXlzeFBTVUVubTlTOGN0U0RYUkZDcWduUTZWTGdaYXA4eHNmeUI4Yy1zYkcwdw?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "CyberDirekt fasst Cyberversicherungs-Angebote mit generativer KI zusammen",
-     "link": "https://www.it-finanzmagazin.de/cyberdirekt-fasst-versicherungsangebote-mit-ki-zusammen-253551/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T07:00:24+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "CyberDirekt fasst Cyberversicherungs-Angebote mit generativer KI zusammen",
-       "link": "https://www.it-finanzmagazin.de/cyberdirekt-fasst-versicherungsangebote-mit-ki-zusammen-253551/"
-      }
-     ]
-    },
-    {
-     "title": "Commerzbank: Starkes Quartal – aber Erwartungen minimal verfehlt",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CaEp1c1RnVXJlQ0pzSXJkWENyQ2FWMlVxbmtVZ2V1SDU1Qk9nVzBZUjJ4V04xNGJ3NnpEbWpTOVdlQm1tMDkxakdtUHJFUlpfMkVCazVRRmZ2QzluSXZQZDQ0b3QydjA0b1E0?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T06:18:13+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Commerzbank: Starkes Quartal – aber Erwartungen minimal verfehlt",
-       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CaEp1c1RnVXJlQ0pzSXJkWENyQ2FWMlVxbmtVZ2V1SDU1Qk9nVzBZUjJ4V04xNGJ3NnpEbWpTOVdlQm1tMDkxakdtUHJFUlpfMkVCazVRRmZ2QzluSXZQZDQ0b3QydjA0b1E0?oc=5"
-      }
-     ]
     }
    ]
   },
@@ -1409,6 +1405,95 @@
       }
      ],
      "title_orig": "Yellow Card acquires GoMoney to enter Brazil crypto market"
+    },
+    {
+     "title": "OCC stellt Aufsichtsrahmen für den Einsatz von Bank-KI vor",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc0pzbzlfdEl2S0RlaG5WUHNVdkdBRmNHcjRiN3k0T0w5ay1JbkEta0xsNGxMVW53eUZhLUVmMTE1bjZhaGdfaXpnZnpvR2k3RFZNR2lLb0M0eU1LX3UweFBBOFMyTm1pcHJKZFVFWkFpX3IxWDZ5NTJMQXdEZnd3cW8wZElmd0p5MFdHMlNhUUFsSlNJSV9BVjdEYjJJZ0NKdDIzdThLRW10V3Y2RnpR?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T06:00:18+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "OCC unveils supervisory framework for bank AI deployment",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc0pzbzlfdEl2S0RlaG5WUHNVdkdBRmNHcjRiN3k0T0w5ay1JbkEta0xsNGxMVW53eUZhLUVmMTE1bjZhaGdfaXpnZnpvR2k3RFZNR2lLb0M0eU1LX3UweFBBOFMyTm1pcHJKZFVFWkFpX3IxWDZ5NTJMQXdEZnd3cW8wZElmd0p5MFdHMlNhUUFsSlNJSV9BVjdEYjJJZ0NKdDIzdThLRW10V3Y2RnpR?oc=5"
+      }
+     ],
+     "title_orig": "OCC unveils supervisory framework for bank AI deployment"
+    },
+    {
+     "title": "Gen Z Agentic Money App Frank verlässt Stealth vor dem Start im Jahr 2027",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXY3eHVRMUVjWVlDM1BLLWhPdU43WHBBcjVCZVB3bUl6b2Z4NEtIVHRtRzRtS2FKdVR6SXJJSVo2MVRUX1lOb3Q2aGtqLUNLSUZCajhGNUNPbUFfWXBrMEtTdHZLaTB0cUVOUm1PNTdJaWJrbTREUjRSSnZ2UEdUZUhZLTVwNjVSZWN1QkZpc3JvamRvZk1JWTFlVlpOeXNMRHdmd1NuWEpYN1BFUnRTWExTUQ?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T06:00:18+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Gen Z agentic money app Frank exits stealth ahead of 2027 launch",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXY3eHVRMUVjWVlDM1BLLWhPdU43WHBBcjVCZVB3bUl6b2Z4NEtIVHRtRzRtS2FKdVR6SXJJSVo2MVRUX1lOb3Q2aGtqLUNLSUZCajhGNUNPbUFfWXBrMEtTdHZLaTB0cUVOUm1PNTdJaWJrbTREUjRSSnZ2UEdUZUhZLTVwNjVSZWN1QkZpc3JvamRvZk1JWTFlVlpOeXNMRHdmd1NuWEpYN1BFUnRTWExTUQ?oc=5"
+      }
+     ],
+     "title_orig": "Gen Z agentic money app Frank exits stealth ahead of 2027 launch"
+    },
+    {
+     "title": "Die Möglichkeit der Rechenschaftspflicht im Bankwesen",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOakRLNWtrRTNycXhTa0lOZnpTU3RhcDJaajE5T3dDZm8wOHhOSTBjTGVvLUU0Y1MwU3VsQVRiTTMxTjl4b1daMVYtVnZISlhPVHh0MFNJRHZFQWtPcWRxOFlaXzFuRTRLTjBNMlZQNENmWnBDQWJBQkNIUjVxS0x0SjhEb1Q5cmpScHZMQUgzOA?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T05:28:09+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "The accountability opportunity in banking",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOakRLNWtrRTNycXhTa0lOZnpTU3RhcDJaajE5T3dDZm8wOHhOSTBjTGVvLUU0Y1MwU3VsQVRiTTMxTjl4b1daMVYtVnZISlhPVHh0MFNJRHZFQWtPcWRxOFlaXzFuRTRLTjBNMlZQNENmWnBDQWJBQkNIUjVxS0x0SjhEb1Q5cmpScHZMQUgzOA?oc=5"
+      }
+     ],
+     "title_orig": "The accountability opportunity in banking"
+    },
+    {
+     "title": "Sandi Samantaray",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NdHlkSjZic2FtSkMteFFVenJLZFprTzdDQW5fSUlfc3FtUW4wZXBoWW9LVnFtSHpMUUpXcWt4SktWSHZXekU0bHprNG5SQ1piVG5IdjhRcTAzLWdHWTBHd1hsd20?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T05:18:51+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Sandi Samantaray",
+       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NdHlkSjZic2FtSkMteFFVenJLZFprTzdDQW5fSUlfc3FtUW4wZXBoWW9LVnFtSHpMUUpXcWt4SktWSHZXekU0bHprNG5SQ1piVG5IdjhRcTAzLWdHWTBHd1hsd20?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Was es braucht, um KI innerhalb einer regulierten Bank zu versenden",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnVCb05tQU5CR20wc3ZtS2poeUhuRXZkQmR6cmloN3BmNHZsU1FvZS0waUJDTE9NTUpKM0xhM2l6MVNCU1VsdzNETDhQcWxxWElkNlVGcjFfUzNfUTJHclQ1UzVNbVV0X25oYmpXeEpkN0l0OFRkbXpPUE1sbmhJb3hSNXQ3QzVkSFNTNWdNUURyZkZsNkdpNw?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T05:17:03+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "What it takes to ship AI inside a regulated bank",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnVCb05tQU5CR20wc3ZtS2poeUhuRXZkQmR6cmloN3BmNHZsU1FvZS0waUJDTE9NTUpKM0xhM2l6MVNCU1VsdzNETDhQcWxxWElkNlVGcjFfUzNfUTJHclQ1UzVNbVV0X25oYmpXeEpkN0l0OFRkbXpPUE1sbmhJb3hSNXQ3QzVkSFNTNWdNUURyZkZsNkdpNw?oc=5"
+      }
+     ],
+     "title_orig": "What it takes to ship AI inside a regulated bank"
+    },
+    {
+     "title": "Der Wassergraben, der auf das Dashboard einer anderen Person verschoben wurde",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSEZJWXgxMzhfOWw2U282anlOOWV5Qkl4SnJpYTJKYjFNT2xtakh2VldwYXIwenJTWFBKVXlUbEVHampEeG9BN282THk3NXptWU5JdG9IUGdPQmxUSVhLZC1rOTVyODY3Uk5NZGdWQ1BFZ3gtTW9XeVk2N2xLNGI4cGF4UGZ6RFlHOE5hTE44NjlEQzg?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-06T05:03:14+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "The moat that moved to someone else's dashboard",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSEZJWXgxMzhfOWw2U282anlOOWV5Qkl4SnJpYTJKYjFNT2xtakh2VldwYXIwenJTWFBKVXlUbEVHampEeG9BN282THk3NXptWU5JdG9IUGdPQmxUSVhLZC1rOTVyODY3Uk5NZGdWQ1BFZ3gtTW9XeVk2N2xLNGI4cGF4UGZ6RFlHOE5hTE44NjlEQzg?oc=5"
+      }
+     ],
+     "title_orig": "The moat that moved to someone else's dashboard"
     },
     {
      "title": "Klarna führt weltweit ein Tool zur Verifizierung von Anti-Betrugsanrufen ein",
@@ -1454,96 +1539,6 @@
       }
      ],
      "title_orig": "Razorpay reportedly gets Sebi nod for IPO"
-    },
-    {
-     "title": "Bank of Ireland investiert 12 Mio. EUR in Geldautomaten und Filial-Upgrades",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG8yY19wYWtfbTRRZjhLbk5wdGlNVlljM3piWG1YZlg2Nkl2TXVUTl9yYkpFWWR2Yk5DblRBRGNSSHQtbEl3c0NWOHBocl9ubzR5M2hCa0lJczN3S25fODhTVEJ2ZmVxWWVVanBGMXd6S1F1Qnh4Q0tYRkd3WUpGb0pRUlJhWTdQUG0waHNvdnhTUjA5Rmc3UElTeWhEeVk?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T16:59:19+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Bank of Ireland invests EUR 12 mln in ATMs and branch upgrades",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG8yY19wYWtfbTRRZjhLbk5wdGlNVlljM3piWG1YZlg2Nkl2TXVUTl9yYkpFWWR2Yk5DblRBRGNSSHQtbEl3c0NWOHBocl9ubzR5M2hCa0lJczN3S25fODhTVEJ2ZmVxWWVVanBGMXd6S1F1Qnh4Q0tYRkd3WUpGb0pRUlJhWTdQUG0waHNvdnhTUjA5Rmc3UElTeWhEeVk?oc=5"
-      }
-     ],
-     "title_orig": "Bank of Ireland invests EUR 12 mln in ATMs and branch upgrades"
-    },
-    {
-     "title": "ADIB fügt Echtzeit-EGP-Transfers nach Ägypten über Visa Direct hinzu",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMEJfUnNFMVVLWDFhRmFNV1ZYZnhMc3lGT0VWb0dzblBHRnBLbDZmYmt5eS1ackx3T0NfWlVyR2pES0I3ZE5QcHBCSVRZWDV3SXNOYVp4WjYzeHRCaUhYQ3ZwZ3dGS2JGbDdaanhldEdlM1NKRXZ0Vnlhcmw2bjd0blhrRURjMzl0X3BMZjBURzJZZHV4blRVTHJIa2tGNGJC?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T16:53:42+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "ADIB adds real-time EGP transfers to Egypt via Visa Direct",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMEJfUnNFMVVLWDFhRmFNV1ZYZnhMc3lGT0VWb0dzblBHRnBLbDZmYmt5eS1ackx3T0NfWlVyR2pES0I3ZE5QcHBCSVRZWDV3SXNOYVp4WjYzeHRCaUhYQ3ZwZ3dGS2JGbDdaanhldEdlM1NKRXZ0Vnlhcmw2bjd0blhrRURjMzl0X3BMZjBURzJZZHV4blRVTHJIa2tGNGJC?oc=5"
-      }
-     ],
-     "title_orig": "ADIB adds real-time EGP transfers to Egypt via Visa Direct"
-    },
-    {
-     "title": "Yuno fügt Ecommpay hinzu, um die Zahlungsmethoden in Europa und APAC zu erweitern",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzBlZG5XSldfeEpFUG9xM0d4YV9icUJCaWVJcUQ2MUxQbEtaQ3d5RTZpVEpxRl9DbFVscEpXQUp3MDFuUDVOd3BUVmkteWQ0d3lCX1YwS2VIMXJwZFM4MEtzMS10NHBQY2kzc1c0V1pIUG0xU0s5VE9kdVY4dlBsQ2RRa1d6WmRTekI0N2lURDM5eHJCeGNOV3BZZ1hJUWJQcHc?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T16:48:41+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Yuno adds Ecommpay to expand payment methods in Europe and APAC",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzBlZG5XSldfeEpFUG9xM0d4YV9icUJCaWVJcUQ2MUxQbEtaQ3d5RTZpVEpxRl9DbFVscEpXQUp3MDFuUDVOd3BUVmkteWQ0d3lCX1YwS2VIMXJwZFM4MEtzMS10NHBQY2kzc1c0V1pIUG0xU0s5VE9kdVY4dlBsQ2RRa1d6WmRTekI0N2lURDM5eHJCeGNOV3BZZ1hJUWJQcHc?oc=5"
-      }
-     ],
-     "title_orig": "Yuno adds Ecommpay to expand payment methods in Europe and APAC"
-    },
-    {
-     "title": "TBC Georgia startet Palm-Zahlungen für Einkäufe im Geschäft",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUhaUFZvelExaERTZUZBT3FsN004dTlBcVlBTi1IeFAtSk9CbUtrM3dya1BWTHQ5QVdjNHROdWNzOXZRQU1zOVlHRWlzelltdVJKUzlWanc5TDlWQ2EyTThjNHZ4RF82MnBiY2JWY1JKamxxUkx1UU5UQnJQOFVraUtNX2lJMl9hcUI0QjdSenB5Z0xJTU5QYlRn?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T16:43:16+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "TBC Georgia launches palm payments for in-store purchases",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUhaUFZvelExaERTZUZBT3FsN004dTlBcVlBTi1IeFAtSk9CbUtrM3dya1BWTHQ5QVdjNHROdWNzOXZRQU1zOVlHRWlzelltdVJKUzlWanc5TDlWQ2EyTThjNHZ4RF82MnBiY2JWY1JKamxxUkx1UU5UQnJQOFVraUtNX2lJMl9hcUI0QjdSenB5Z0xJTU5QYlRn?oc=5"
-      }
-     ],
-     "title_orig": "TBC Georgia launches palm payments for in-store purchases"
-    },
-    {
-     "title": "BioCatch bildet ein öffentlich-privates Gremium zur Bekämpfung von staatlichem Zahlungsbetrug",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1Z6ZkkwejlsTzJLLWp0SkQ4eXFVQVkxcFN1d3ZDbzZfalp4YVk5MWFVa3RDN1lOU1lsRFFtN3d4VHRGMHNoQmY3bXk1WVpoYjBibXJPQ3BJVnJNV1g5T3FSSy16R3VqS3I0ZHI1cVEyTWdONHBERG5vazlpTmFILXNpUnE0Snh4aDhNWjVjYWY3dDRsYjFGd0FEeG51MC1ja1hfU3JubkNpSC1RUHU2ZS1NSmRuQXhQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T16:38:28+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "BioCatch forms public-private board to tackle government payment fraud",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1Z6ZkkwejlsTzJLLWp0SkQ4eXFVQVkxcFN1d3ZDbzZfalp4YVk5MWFVa3RDN1lOU1lsRFFtN3d4VHRGMHNoQmY3bXk1WVpoYjBibXJPQ3BJVnJNV1g5T3FSSy16R3VqS3I0ZHI1cVEyTWdONHBERG5vazlpTmFILXNpUnE0Snh4aDhNWjVjYWY3dDRsYjFGd0FEeG51MC1ja1hfU3JubkNpSC1RUHU2ZS1NSmRuQXhQ?oc=5"
-      }
-     ],
-     "title_orig": "BioCatch forms public-private board to tackle government payment fraud"
-    },
-    {
-     "title": "ESET-Bericht über das Cyber-Risiko des britischen Finanzsektors",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmlXSXdNLXlBaUdnNXRON19tUzVGNWNWQ0JoLVhsTjUycDdMSVNQeXUxMVJQZldmS2stV0VTUVdJODQwcDBsek80Sk5LbV9aTXFpbjBDU0ZLVDhNNENsaEptRmk3ODE2MzR2RS0zOHVjNlNyNVZ2eHlKaDViUHBBY3JnUjZmODl5MmZqMlhRcTZZR0xQbEVJbEoxbXB1SXFuLXdoOV9sZW1zNHhJ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-05T16:33:26+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "ESET report on UK financial sector cyber risk",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmlXSXdNLXlBaUdnNXRON19tUzVGNWNWQ0JoLVhsTjUycDdMSVNQeXUxMVJQZldmS2stV0VTUVdJODQwcDBsek80Sk5LbV9aTXFpbjBDU0ZLVDhNNENsaEptRmk3ODE2MzR2RS0zOHVjNlNyNVZ2eHlKaDViUHBBY3JnUjZmODl5MmZqMlhRcTZZR0xQbEVJbEoxbXB1SXFuLXdoOV9sZW1zNHhJ?oc=5"
-      }
-     ],
-     "title_orig": "ESET report on UK financial sector cyber risk"
     }
    ],
    "7d": [
@@ -1770,6 +1765,31 @@
      "title_orig": "EU and Canada plan to link real-time payment systems"
     },
     {
+     "title": "TEN Credit Union wählt Bankjoy für seine Corelation KeyStone-Konvertierung aus",
+     "link": "https://www.finextra.com/pressarticle/111431/ten-credit-union-selects-bankjoy-for-its-corelation-keystone-conversion?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 3,
+     "time": "2026-10-27T11:33:37+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion",
+       "link": "https://www.finextra.com/pressarticle/111431/ten-credit-union-selects-bankjoy-for-its-corelation-keystone-conversion?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "The Paypers",
+       "title": "TEN Credit Union picks Bankjoy for digital banking",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmxSYUVSb3VoNW9xbzlsUWFpU1RIR2RuRGZvYzFsSjJ1VTJNUlJBMFh3QVNURkxYR21leDZWWDFsa3NnRXI2ZS0yd1ViWXQtTTl6OFJZV0x4WUVmYldydmVtVkYtNE1vLW02QVFwLXF6bnp5UXp3SzVkeXVJc2VzMC1LbUFzWk4xY2oyN3FXYlA4QzFFZEVzRndPQ2hISDByMXc?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Sound Credit Union",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOeWlJeXc2Yzg5U2FWNlFDVlFwRjhzYkFNRXlCSVF1M1hHYklPeGxNMHBDd2x5VGlRNEdQdlhzNUVBZ3AwYzUxZ2xBeUkxdnRUbElmeV9keEoydzhXSHhRZDlOeS1oU0lD?oc=5"
+      }
+     ],
+     "title_orig": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion"
+    },
+    {
      "title": "Tech Mahindra erwirbt die Cash-Management-Sparte von Finastra",
      "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1938,26 +1958,6 @@
       }
      ],
      "title_orig": "Mastercard launches free platform to help European SMEs boost cyber confidence"
-    },
-    {
-     "title": "Ebury arbeitet mit Form3 zusammen, um Sofortzahlungen in Kanada über RTR zu liefern",
-     "link": "https://www.finextra.com/pressarticle/111541/ebury-partners-with-form3-to-deliver-instant-payments-in-canada-via-rtr?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-04T12:22:35+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Ebury partners with Form3 to deliver instant payments in Canada via RTR",
-       "link": "https://www.finextra.com/pressarticle/111541/ebury-partners-with-form3-to-deliver-instant-payments-in-canada-via-rtr?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "Ebury and Form3 partner on instant payments in Canada RTR",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkJqbm14cTdYZ3NpT3dJNUZFNWtMZzdwQ3BGaTR1RnIxTFZDUzZFc2Jneno0V3VlLUNXMUtvRGVQeUJ1NzF2cGtaa25ZWTNsU0xoTjVoV1ZIZGxhb0Zub2hlWk9KUHFNUXRtU0xmN0pCWWNEMGtobXB6emhwbmJlU3RneGUxTG93NXk5cDRobFVBcGxueXltMg?oc=5"
-      }
-     ],
-     "title_orig": "Ebury partners with Form3 to deliver instant payments in Canada via RTR"
     }
    ]
   },
@@ -2527,54 +2527,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "autohaus könig",
-      "link": "https://www.welt.de/politik/plus6ae87796fa18ad14b908ea2a/mitten-in-der-insolvenz-autohaus-koenig-chef-fliegt-fuer-kurzurlaub-nach-marokko.html",
+      "title": "fabian reese",
+      "link": "https://www.bild.de/sport/fussball/hertha-bsc-reese-faellt-entscheidung-ueber-verabschiedung-6aec8f47a389bc337cfc6dae",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "schiffswrack",
+      "link": "https://www.zeit.de/wissenschaft/2026-11/vorhaengeschloss-ann-francis-messing-schiff-museum-wales",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "hohen neuendorf",
+      "link": "https://www.maz-online.de/lokales/oberhavel/baustellen-aktuell-in-oberhavel-stand-5-11-2026-a10-b96-gransee-oranienburg-hohen-neuendorf-BHAJI2FVOFDZRBOBURDZLNADTI.html",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "nordkurier",
-      "link": "https://www.nordkurier.de/regional/neustrelitz/neustrelitz-und-umland/wegen-klinik-pfusch-schwer-geschaedigt-paulas-familie-kaempft-seit-jahren-um-eine-millionensumme-4923199",
+      "title": "godwin",
+      "link": "https://fantasyfootballcalculator.com/start/chris-godwin-jr.-or-kyler-murray",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "sky",
-      "link": "https://www.computerbild.de/artikel/News-Streaming-RTL-und-Sky-Neue-Kombi-Tarife-das-aendert-sich-fuer-Kunden-8d1fd2f-41163269.html",
+      "title": "rentenversicherungsbericht",
+      "link": "https://www.zeit.de/wirtschaft/2026-11/rentenerhoehung-rente-reform-loehne-aequivalenzprinzip-rentenkommission",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "der farang",
+      "link": "https://www.ahgz.de/hotellerie/news/immer-mehr-schliessungen-warum-thailands-hotels-unter-druck-geraten-320546",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "autódromo josé carlos pace",
+      "link": "https://www.mercedesamgf1.com/news/play-make-your-2026-sao-paulo-gp-predictions",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "diebstahl",
-      "link": "https://www.tagesschau.de/inland/regional/sachsen/news-rueckgabe-geldscheine-opfer-urteil-dieb-rechtskraeftig,diebstahl-bargeld-100.html",
+      "title": "erdrutsch",
+      "link": "https://www.bild.de/news/ausland/erdrutsch-auf-bali-deutscher-nach-glamping-unglueck-vermisst-6aec45d5eca9cecdd5d477e0",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "kraftstoff",
-      "link": "https://www.t-online.de/mobilitaet/aktuelles/id_101513292/e20-benzin-wer-darf-die-neue-spritsorte-tanken-und-wer-nicht-.html",
-      "meta": "500+ Suchanfragen"
+      "title": "wurst",
+      "link": "https://www.bild.de/news/inland/deutscher-wurst-riese-macht-werk-dicht-230-mitarbeiter-betroffen-6aeb06cb1a1d431301d467de",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "mönchengladbach",
-      "link": "https://rp-online.de/nrw/staedte/moenchengladbach/unfall-in-moenchengladbach-sperrung-auf-der-aachener-strasse-massenanfall-von-verletzten_aid-157897599",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "champions league achtelfinale",
-      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma12537030/fc-barcelona_arsenal-wfc/liveticker",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "online casinos",
-      "link": "https://www.pennlive.com/online-casinos/2026/11/instant-withdrawal-casino-sites-which-pa-casinos-pay-fastest-this-weekend.html",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "luke littler",
-      "link": "https://www.salfordnow.co.uk/2026/11/05/it-was-an-incredible-experience-irlam-student-battles-luke-littler-in-live-netflix-show/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "auslosung nations league",
-      "link": "https://de.uefa.com/womensnationsleague/video/02ab-21ff0c7662d8-3ae075f80ad0-1000--uefa-women-s-nations-league-auslosung-der-ligaphase/",
-      "meta": "100+ Suchanfragen"
+      "title": "the taste: wer ist raus",
+      "link": "https://www.joyn.de/bts/serien/the-taste/grosser-unmut-bei-the-taste-fans-ueber-neue-regel-211199",
+      "meta": "2000+ Suchanfragen"
      }
     ]
    },
@@ -2641,32 +2641,32 @@
     "lang": "fr",
     "items": [
      {
-      "title": "Hund",
-      "link": "https://www.leparisien.fr/faits-divers/mordue-en-voulant-defendre-son-chien-une-actrice-americaine-estime-ne-plus-pouvoir-travailler-et-porte-plainte-05-11-2026-6FEEJ4YS4JBK3BCZ4ZMJQ5P54U.php",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "chien"
-     },
-     {
-      "title": "grand theft auto vi",
-      "link": "https://kotaku.com/rockstar-dumps-nearly-40-spectacular-new-gta-6-screenshots-ahead-of-launch-2000754266",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "Schuld",
-      "link": "https://www.lemonde.fr/politique/article/2026/11/05/dette-les-deputes-veulent-mettre-fin-aux-emprunts-d-etat-indexes-sur-l-inflation_6807190_823448.html",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "dette"
-     },
-     {
-      "title": "olfullung",
-      "link": "https://www.lesnumeriques.com/voiture/les-japonais-ne-changent-pas-leur-huile-moteur-comme-les-francais-et-leurs-voitures-depassent-souvent-les-300-000-km-234-n263467.html",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "huile"
-     },
-     {
-      "title": "warriors – heat",
-      "link": "https://sports.yahoo.com/articles/final-injury-report-heat-warriors-230000483.html",
+      "title": "maeva ghennam",
+      "link": "https://www.cnews.fr/faits-divers/2026-11-06/maeva-ghennam-linfluenceuse-jugee-en-appel-ce-vendredi-pour-pratiques",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Gerechtigkeit",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "justice"
+     },
+     {
+      "title": "netto-Smic",
+      "link": "https://www.sudouest.fr/politique/marine-le-pen/presidentielle-2027-marine-le-pen-refuse-d-obliger-les-entreprises-a-augmenter-les-salaires-sinon-on-rentre-dans-l-urss-31396917.php",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "smic net"
+     },
+     {
+      "title": "Schloss",
+      "link": "https://actu.fr/histoire-patrimoine/monuments/nichee-dans-un-chateau-hors-du-commun-et-faisant-moins-de-2-metres-carres-cette-eglise-est-la-plus-petite-du-monde_65020574.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "château"
+     },
+     {
+      "title": "lee chang-dong",
+      "link": "https://www.sportschosun.com/en/movie/2026-11-06/202611060100043250004267",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2675,33 +2675,32 @@
     "lang": "it",
     "items": [
      {
-      "title": "bauablass",
-      "link": "https://www.ilsole24ore.com/art/torna-l-ipotesi-condono-ma-dall-ultima-sanatoria-incassato-solo-terzo-previsto-AJMxXc4B",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "condono edilizio"
+      "title": "Inflation",
+      "link": "https://global.morningstar.com/it/economia/inflazione-nelleurozona-al-4-aumento-dei-tassi-bce-pi-probabile-dicembre",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "inflazione"
      },
      {
-      "title": "Gasaustritt",
-      "link": "https://www.genovatoday.it/cronaca/via-bottego-chiusa-fuga-gas.html",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "fuga di gas"
-     },
-     {
-      "title": "gelöscht x faktor",
-      "link": "https://tg24.sky.it/spettacolo/tv-show/2026/11/05/eliminato-terzo-live-x-factor",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "eliminato x factor"
-     },
-     {
-      "title": "supervulkan",
-      "link": "https://www.libero.it/tecnologia/supervulcano-kikai-magma-serbatoio-sommerso-126765",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "supervulcano"
-     },
-     {
-      "title": "montorio al vomano",
-      "link": "https://www.ansa.it/abruzzo/notizie/2026/11/05/24enne-scomparso-nel-teramano-appello-del-comune-e-forze-dellordine_cd86fc7e-c65f-4e6e-836d-95b85d60c578.html",
+      "title": "yellowstone",
+      "link": "https://collider.com/yellowstone-lee-dutton-death-killed-off-too-early/",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "scrambler",
+      "link": "https://www.gearpatrol.com/motorcycles/bsa-scrambler-350/",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "regionales Schulamt für Sizilien",
+      "link": "https://trends.google.com/trends/explore?geo=IT&q=ufficio%20scolastico%20regionale%20per%20la%20sicilia",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "ufficio scolastico regionale per la sicilia"
+     },
+     {
+      "title": "wetter florence",
+      "link": "https://www.firenzedintorni.it/it/articolo/50047/meteo-firenze-giornata-tra-schiarite-e-velature-massima-di-16-gradi-venti-deboli-da-nord-est-e-poche-possibilita-di-pioggia-piu-nuvole-in-tarda-serata.html",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "meteo firenze"
      }
     ]
    },
@@ -2710,32 +2709,31 @@
     "lang": "es",
     "items": [
      {
-      "title": "warriors - heat",
-      "link": "https://www.thesportsleader.com/2026/11/05/potential-frontcourt-duel-on-tap-as-heat-visit-warriors/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "ziehungen der nationalen Lotterie",
-      "link": "https://elpais.com/sorteos/2026-11-05/loteria-nacional-sorteo-del-jueves-5-de-noviembre.html",
-      "meta": "10000+ Suchanfragen",
-      "title_orig": "sorteos lotería nacional"
-     },
-     {
-      "title": "FC Barcelona",
-      "link": "https://elpais.com/deportes/futbol/2026-11-05/el-raphinha-que-temia-simeone-ya-es-el-9-del-barcelona.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "fútbol club barcelona"
-     },
-     {
-      "title": "twitch",
-      "link": "https://natlawreview.com/press-releases/streams-charts-data-twitch-has-most-us-centric-audience-kick-most",
+      "title": "eldiario.es",
+      "link": "https://www.eldiario.es/blog/sin-filtro/frankenstein-sala-maquinas_132_13637753.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "jjgabriel real madrid",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/11/05/fichaje-jj-gabriel-real-madrid-inminente.html",
+      "title": "harvey elliott",
+      "link": "https://as.com/futbol/elliott-descarto-al-madrid-por-ramos-f202611-n/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "polizeichef",
+      "link": "https://www.elmundo.es/madrid/2026/11/06/6aecb50f21efa016488b45be.html",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "jefe de la policía"
+     },
+     {
+      "title": "dabiz muñoz",
+      "link": "https://www.directoalpaladar.com/seleccion/aliento-dragon-nuevo-panettone-dabiz-munoz-que-podemos-reservar-corte-ingles-recibirlo-16-noeviembre",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "zu schreiten,",
+      "link": "https://www.eleconomista.es/mercados-cotizaciones/noticias/14025580/11/26/la-banca-sube-aun-mas-su-apuesta-por-los-depositos-hasta-un-324-a-un-ano-y-un-355-a-tres-anos.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "jj gabriel real madrid"
+      "title_orig": "depósito"
      }
     ]
    },
@@ -2744,31 +2742,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "krieger gegen Hitze",
-      "link": "https://www.businessinsider.com/guides/streaming/how-to-watch-heat-vs-warriors-nba-2026-11",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "warriors vs heat"
+      "title": "wiltshire-Zeiten",
+      "link": "https://www.wiltshiretimes.co.uk/news/26702683.tributes-death-missing-teenager-wiltshire/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "wiltshire times"
      },
      {
-      "title": "susan saint james",
-      "link": "https://people.com/susan-saint-james-cause-of-death-revealed-12024603",
+      "title": "mobland episode 8",
+      "link": "https://www.forbes.com/sites/erikkain/2026/11/03/mobland-season-2-episode-8-release-date-time-paramount-plus/",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "gedenktag 2026",
+      "link": "https://englishcathedrals.co.uk/latest-news/remembrance-2026-at-durham-cathedral/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "remembrance day 2026"
+     },
+     {
+      "title": "bryson dechambeau",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "tyler dibling",
+      "link": "https://inews.co.uk/sport/football/everton-tyler-dibling-moment-4863276",
       "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "artemis ii",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "joe fagnano",
-      "link": "https://www.nfl.com/news/ravens-qb-tyler-huntley-out-for-season-turf-toe-injury",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "ebola-Patient",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "ebola patient"
      }
     ]
    },
@@ -2777,33 +2775,32 @@
     "lang": "pl",
     "items": [
      {
-      "title": "robert lewandowski",
-      "link": "https://sportowefakty.wp.pl/pilka-nozna/1282710/wiemy-co-z-robertem-lewandowskim-mamy-potwierdzenie-z-reprezentacji",
-      "meta": "500+ Suchanfragen"
+      "title": "bridget fonda",
+      "link": "https://www.eonline.com/news/1437789/bridget-fonda-makes-rare-appearance-24-years-after-leaving-hollywood",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Leber",
-      "link": "https://trends.google.com/trends/explore?geo=PL&q=w%C4%85troba",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "wątroba"
+      "title": "Wind",
+      "link": "https://www.twojapogoda.pl/wiadomosc/2026-11-06/drzewa-poleca-na-samochody-nie-bedzie-pradu-nadciaga-wichura/",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "wiatr"
      },
      {
-      "title": "Tank",
-      "link": "https://geekweek.interia.pl/militaria/news-nasi-sasiedzi-pokazali-nowy-czolg-miazdzy-najnowsze-polskie,nId,23569692",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "czołg"
-     },
-     {
-      "title": "landwirt auf der Suche nach Frau",
-      "link": "https://telemagazyn.pl/pamietacie-nicole-z-rolnik-szuka-zony-przeszla-spektakularna-metamorfoze/ar/c13p2-29501509",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "rolnik szuka żony"
-     },
-     {
-      "title": "braut-Episode 242",
-      "link": "https://pilot.wp.pl/program-tv/serial/panna-mloda-6ccbcfd021a21f226053f78713e6a266",
+      "title": "ruhestandsfähiges Alter",
+      "link": "https://gk24.pl/polacy-pracuja-za-krotko-kiedy-wiek-emerytalny-zostanie-podniesiony-4-11-2026/ar/c1p2-28825797",
       "meta": "1000+ Suchanfragen",
-      "title_orig": "panna młoda odcinek 242"
+      "title_orig": "wiek emerytalny"
+     },
+     {
+      "title": "sabotaż.",
+      "link": "https://www.dw.com/pl/powa%C5%BCny-sabota%C5%BC-rosyjski-kapitan-skazany-w-finlandii-za-uszkodzenie-kabli-na-dnie-ba%C5%82tyku/a-79865707",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "sabotaż"
+     },
+     {
+      "title": "taylor sheridan",
+      "link": "https://www.foxnews.com/entertainment/sylvester-stallone-hollywood-abandoned-middle-america-taylor-sheridan-found-ignored-audience",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2879,30 +2876,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "brian thomas jr",
-      "link": "https://www.espn.com/nfl/story/_/id/50366346/jaguars-wr-brian-thomas-jr-trade-deadline-rumors",
-      "meta": "2000+ Suchanfragen"
+      "title": "Ryan Donowho …………… Johnny Harper",
+      "link": "https://deadline.com/2026/11/the-terminal-list-franchise-amazon-savage-son-chris-pratt-1237215033/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "chris pratt"
      },
      {
-      "title": "dillonbäche",
-      "link": "https://www.nba.com/news/draymond-green-ejection-motivates-warriors",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "dillon brooks"
+      "title": "Wann ist Black Friday?",
+      "link": "https://nymag.com/strategist/article/what-will-be-on-sale-for-black-friday-2026.html",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "when is black friday"
      },
      {
-      "title": "cal poly vs arizona",
-      "link": "https://sports.yahoo.com/articles/arizona-men-basketball-vs-cal-030000056.html",
-      "meta": "500+ Suchanfragen"
+      "title": "Tankwagen ",
+      "link": "https://www.reuters.com/business/energy/new-jersey-governor-warns-ports-against-accepting-russian-diesel-2026-11-03/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "tanker"
      },
      {
-      "title": "schumer",
-      "link": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-mississippi-senate/689301/",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "paul newman",
-      "link": "https://stephensilver.substack.com/p/a-generational-acting-duel-the-color",
+      "title": "martin mcdonagh",
+      "link": "https://www.wsj.com/arts-culture/film/wild-horse-nine-review-martin-mcdonaghs-black-comic-beauty-6f232d16",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "michelle obama",
+      "link": "https://www.jta.org/2026/11/05/ideas/rabbi-capers-funnye-skillfully-navigated-a-jewish-world-wary-of-hebrew-israelites",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2911,34 +2910,33 @@
     "lang": "en",
     "items": [
      {
-      "title": "5x5",
-      "link": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/05/people-heading-to-their-hometowns-arrangements-made-to-reduce-traffic-congestion",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "போக்குவரத்து"
+      "title": "simbabwe vs. Afghanistan",
+      "link": "https://www.cricinfo.com/series/afghanistan-v-zimbabwe-2026-27-1555105/afghanistan-vs-zimbabwe-1st-test-1555123/match-report",
+      "meta": "20000+ Suchanfragen",
+      "title_orig": "zimbabwe vs afghanistan"
      },
      {
-      "title": "kalyan Juweliere",
-      "link": "https://www.zeebiz.com/companies/news-kalyan-jewellers-q2-preview-pat-may-jump-30-to-rs-340-crore-will-margins-remain-under-pressure-405184",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "kalyan jewellers"
+      "title": "kerala psc",
+      "link": "https://www.thehindu.com/news/national/kerala/exam-fraud-psc-chairman-members-under-crime-branch-scanner/article71669982.ece",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "katzenzulassungskarte",
-      "link": "https://www.telegraphindia.com/edugraph/news/iim-indore-to-release-cat-2026-admit-card-shortly-at-iimcat-ac-in-how-to-download-cat-admit-card-here/cid/2187813",
+      "title": "call of Duty mobil",
+      "link": "https://www.callofduty.com/blog/2026/11/call-of-duty-mobile-season-10-7th-anniversary",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "call of duty mobile"
+     },
+     {
+      "title": "2/3",
+      "link": "https://www.polimernews.com/sportsnews/csk-ipl-2027-trade-liam-livingstone-jack-edwards-12786001",
       "meta": "500+ Suchanfragen",
-      "title_orig": "cat admit card"
+      "title_orig": "சென்னை சூப்பர் கிங்ஸ்"
      },
      {
-      "title": "5x5x5x5x5x",
-      "link": "https://www.ap7am.com/tn/885769/india-takes-cautious-steps-on-us-deal-as-election-results-favor-trade",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "భారతదేశం"
-     },
-     {
-      "title": "1:1",
-      "link": "https://www.eenadu.net/telugu-news/movies/summer-holidays-movie-review/0203/126201964",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "సమీక్ష"
+      "title": "2:1",
+      "link": "https://www.aajtak.in/sports/cricket/story/chinmay-sutar-breaks-old-world-record-most-runs-first-six-first-class-innings-ranji-trophy-2026-27-tspoa-dskc-2688631-2026-11-05",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "रणजी ट्रॉफी"
      }
     ]
    },
@@ -2947,30 +2945,30 @@
     "lang": "pt",
     "items": [
      {
-      "title": "davion mitchell",
-      "link": "https://www.espn.com/watch/player/_/id/50385640",
+      "title": "pizza",
+      "link": "https://www.bbc.com/news/articles/cx4g1qy6gq9mo",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "seifenopern-Liebhaber aufgepasst",
+      "link": "https://gshow.globo.com/novelas/quem-ama-cuida/noticia/tata-werneck-arranca-elogios-em-barraco-com-isabel-teixeira-em-quem-ama-cuida.ghtml",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "novela quem ama cuida"
+     },
+     {
+      "title": "andrew wiggins",
+      "link": "https://www.espn.com/video/clip/_/id/50312496/andrew-wiggins-somehow-gets-1-fall",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "bet365",
+      "link": "https://www.espn.com/nfl/story/_/id/50397312/jaguars-stay-hot-rout-ravens-feel-way-better",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "fabiano zettel",
-      "link": "https://oglobo.globo.com/politica/noticia/2026/11/05/caso-master-fachin-mantem-prisao-preventiva-de-cunhado-de-vorcaro.ghtml",
+      "title": "80 win",
+      "link": "https://www.cbssports.com/college-basketball/news/dywane-chess-scores-20-to-lift-marist-past-umbc-88-80/",
       "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "giannis antetokounmpo",
-      "link": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-05/giannis-antetokounmpo-records-27-14-6-2-3-line",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "devin booker",
-      "link": "https://www.nbcnews.com/sports/nba/devin-booker-phoenix-suns-nba-superstar-rcna607322",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "goldener Zustand",
-      "link": "https://sports.yahoo.com/articles/every-player-california-play-golden-020035656.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "golden state"
      }
     ]
    },
@@ -2979,33 +2977,33 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Quan Dongxin",
-      "link": "https://news.yahoo.co.jp/articles/c09bcef2a19c941404468cd017715b814c1af3fc",
+      "title": "Erwerbstätigkeit",
+      "link": "https://news.yahoo.co.jp/articles/e2c5ce7bd88bf5638ce5042ff1b0ddde97593ab1?page=3",
       "meta": "200+ Suchanfragen",
-      "title_orig": "全東信"
+      "title_orig": "雇用"
      },
      {
-      "title": "Kaito Kozono",
-      "link": "https://news.yahoo.co.jp/articles/3425fea21446a47ab5e66e911694f11fd933bee5",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "小園海斗"
-     },
-     {
-      "title": "starto entertainment",
-      "link": "https://news.yahoo.co.jp/articles/c2904c60042239477e4a0bbdfeb73688a25824ab",
+      "title": "9984",
+      "link": "https://www.reuters.com/business/media-telecom/softbank-cds-softbank-cds-2026-11-06/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Final",
-      "link": "https://news.yahoo.co.jp/articles/7393af24fabee17e3115111c2eddaa43d1e22521",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "最終回"
+      "title": "Vanforet Kofu",
+      "link": "https://news.yahoo.co.jp/articles/c80cda876eb947441d7cc0c8a8e55a7114693d32",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "ヴァンフォーレ甲府"
      },
      {
-      "title": "Let's Make It Expo",
-      "link": "https://topics.smt.docomo.ne.jp/article/dailysports/entertainment/20261105042",
+      "title": "Sadahisa Furukawa",
+      "link": "https://news.yahoo.co.jp/pickup/6601525",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "古川禎久"
+     },
+     {
+      "title": "Tepco",
+      "link": "https://news.yahoo.co.jp/articles/676873f90f5889b5d8126d769279f767888261c6",
       "meta": "200+ Suchanfragen",
-      "title_orig": "たくろう万博"
+      "title_orig": "東京電力"
      }
     ]
    },
@@ -3076,32 +3074,32 @@
      {
       "title": "Abschied vom Salon - Salon.com",
       "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "meta": "Salon.com · 320 Personen teilen",
+      "meta": "Salon.com · 371 Personen teilen",
       "title_orig": "Goodbye from Salon - Salon.com"
      },
      {
       "title": "Bots plündern Bibliotheksbestände, um KI zu füttern — und schließen Forscher und die Öffentlichkeit aus | CBC News",
       "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-      "meta": "CBC · 153 Personen teilen",
+      "meta": "CBC · 154 Personen teilen",
       "title_orig": "Bots are raiding library collections to feed AI — shutting out researchers and the public | CBC News"
      },
      {
       "title": "Gemeinsame Liste sagt, dass es Eisenkot unterstützen wird, um Israels nächste Regierung zu bilden",
       "link": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government",
-      "meta": "Al Jazeera · 174 Personen teilen",
+      "meta": "Al Jazeera · 195 Personen teilen",
       "title_orig": "Joint List says it will back Eisenkot to form Israel’s next government"
      },
      {
       "title": "Republikaner lernen, dass X die Echokammer ist",
       "link": "https://www.404media.co/republicans-learn-x-is-an-echo-chamber/",
-      "meta": "404 Media · 132 Personen teilen",
+      "meta": "404 Media · 140 Personen teilen",
       "title_orig": "Republicans Learn X Is the Echo Chamber"
      },
      {
-      "title": "Demokraten stellen bereits Anwälte ein, um das DHS zu untersuchen",
-      "link": "https://www.motherjones.com/politics/2026/11/democrats-dhs-homeland-security-investigations-corruption-hassan-senate/",
-      "meta": "Mother Jones · 110 Personen teilen",
-      "title_orig": "Democrats are already hiring lawyers to investigate DHS"
+      "title": "Wann wurde Open-Source zum Twitter-Grift?",
+      "link": "https://www.joanwestenberg.com/p/when-did-open-source-become-a-twitter",
+      "meta": "WESTENBERG · 82 Personen teilen",
+      "title_orig": "When Did Open-Source Become a Twitter Grift?"
      }
     ]
    }
@@ -3133,7 +3131,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 164,
+   "count": 158,
    "error": ""
   },
   {
@@ -3147,14 +3145,14 @@
    "source": "Finanz-Szene",
    "category": "pay_de",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": ""
   },
   {
    "source": "Payment & Banking",
    "category": "pay_de",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": ""
   },
   {
@@ -3196,7 +3194,7 @@
    "source": "Fintech Futures",
    "category": "pay_eu",
    "ok": true,
-   "count": 83,
+   "count": 85,
    "error": ""
   },
   {
@@ -3329,8 +3327,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 115,
-   "info": "115 von 115 Überschriften übersetzt (neu in diesem Lauf: MyMemory 56). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 116,
+   "info": "116 von 116 Überschriften übersetzt (neu in diesem Lauf: MyMemory 50). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
