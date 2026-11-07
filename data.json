@@ -1,24 +1,29 @@
 {
- "generated": "2026-11-07T09:55:05+00:00",
+ "generated": "2026-11-07T12:59:43+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
    {
-    "title": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
-    "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/18eeaf2c-1c7c-4c8b-9719-269b927408bb_w520_r2.08_fpx58_fpy45.jpg",
-    "n_sources": 4,
-    "time": "2026-11-07T03:30:06+00:00",
+    "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html",
+    "image": "https://images.tagesschau.de/image/bf2bb47a-b8aa-4708-89c7-cace4b8fdada/AAABobIlh28/AAABnSSvrFg/16x9-big/rbb-vanessa-emde-die-linke-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-07T12:31:00+00:00",
     "sources": [
      {
+      "name": "Tagesschau",
+      "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html"
+     },
+     {
       "name": "Spiegel",
-      "title": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb#ref=rss"
+      "title": "Berlin: Linke-Chefin hofft auf Einlenken von Vanessa Emde",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-chefin-hofft-auf-einlenken-von-vanessa-emde-a-335b4b83-c079-4c10-949d-9abc24777440#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Regierungsbildung in Berlin: Linke-Abgeordnete Emde muss über Mandatsverzicht entscheiden",
-      "link": "https://www.zeit.de/news/2026-11/07/linke-abgeordnete-emde-muss-ueber-mandatsverzicht-entscheiden"
+      "title": "Streit in der Berliner Linken: Linken-Chefin hofft auf Einlenken von Abgeordneter Emde",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/vanessa-emde-die-linke-berlin-mandat-gxe"
      },
      {
       "name": "FAZ",
@@ -33,17 +38,41 @@
     ]
    },
    {
-    "title": "Philip Kuntschner, ARD Berlin, über die Nomierung der Unionsparteien von Ilse Aigner als Bundespräsidentin",
-    "link": "https://www.tagesschau.de/video/video-1679326.html",
-    "image": "https://images.tagesschau.de/image/4beb9bbe-323c-408c-abf8-60ebc663b7c8/AAABobGvI_g/AAABnSSvrFg/16x9-big/sendungsbild-1823534.jpg?width=1920",
+    "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+    "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
+    "image": "https://images.tagesschau.de/image/7bd1dc74-b219-499d-9b06-dc6fe94316da/AAABobNOoTQ/AAABnSSvrFg/16x9-big/pena-106.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-11-06T16:26:53+00:00",
+    "time": "2026-11-07T08:06:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Philip Kuntschner, ARD Berlin, über die Nomierung der Unionsparteien von Ilse Aigner als Bundespräsidentin",
-      "link": "https://www.tagesschau.de/video/video-1679326.html"
+      "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+      "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html"
      },
+     {
+      "name": "Spiegel",
+      "title": "Paraguay: Santiago Peña als Präsident abgesetzt – Vize übernimmt",
+      "link": "https://www.spiegel.de/ausland/paraguay-santiago-pena-als-praesident-abgesetzt-vize-uebernimmt-a-f188f388-ac17-4d7f-a95c-4e9ff08eba18#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Haftbefehl erlassen: Staatskrise in Paraguay: Peña als Präsident abgesetzt",
+      "link": "https://www.zeit.de/news/2026-11/07/staatskrise-in-paraguay-pe-a-als-praesident-abgesetzt"
+     },
+     {
+      "name": "FAZ",
+      "title": "Bankenaffäre: Paraguays Präsident abgesetzt",
+      "link": "https://www.faz.net/aktuell/politik/ausland/santiago-pena-abgesetzt-paraguays-praesident-scheitert-an-bankenaffaere-201660662.html"
+     }
+    ]
+   },
+   {
+    "title": "llse Aigner: Die CSU-Politikerin soll Bundespräsidentin werden, so CDU-Kreise",
+    "link": "https://www.spiegel.de/politik/deutschland/llse-aigner-die-csu-politikerin-soll-bundespraesidentin-werden-so-cdu-kreise-a-7a25d55d-6e5b-4fa7-9daa-96be6f9916fe#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/5a185efe-f5de-4fae-a581-5eff0589d30e_w520_r2.08_fpx40.29_fpy49.99.jpg",
+    "n_sources": 4,
+    "time": "2026-11-07T05:00:27+00:00",
+    "sources": [
      {
       "name": "Spiegel",
       "title": "llse Aigner: Die CSU-Politikerin soll Bundespräsidentin werden, so CDU-Kreise",
@@ -51,13 +80,42 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Ilse Aigner: CDU und CSU wollen Ilse Aigner als Bundespräsidentin",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-union-landtagswahl-bayern-csu"
+      "title": "Wahl zur Bundespräsidentin: Ist Ilse Aigner die Richtige?",
+      "link": "https://www.zeit.de/politik/2026-11/wahl-bundespraesidentin-ilse-aigner-csu-politikpodcast"
      },
      {
       "name": "FAZ",
       "title": "Ilse Aigner: Bundespräsidentin der Herzen",
       "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-csu-bekommt-das-bundespraesidentenamt-201659945.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Staatsoberhaupt: CDU will offenbar Ilse Aigner für das Amt der Bundespräsidentin nominieren",
+      "link": "https://www.handelsblatt.com/politik/deutschland/staatsoberhaupt-cdu-will-offenbar-ilse-aigner-fuer-das-amt-der-bundespraesidentin-nominieren/100267970.html"
+     }
+    ]
+   },
+   {
+    "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
+    "image": "https://images.tagesschau.de/image/cc62aaec-9be1-4ab8-9152-b85193c4ac4d/AAABobVW4eg/AAABnSSvrFg/16x9-big/spd-hubig-100.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-07T10:35:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "AfD-Verbot: Stefanie Hubig will E-Mails bei Prüfung für Antrag nutzen",
+      "link": "https://www.spiegel.de/politik/deutschland/afd-verbot-stefanie-hubig-will-e-mails-bei-pruefung-fuer-antrag-nutzen-a-e340c29d-e222-4ee6-8299-320a906dc468#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Verbotsverfahren: Hubig will E-Mails bei Prüfung von AfD-Verbot nutzen",
+      "link": "https://www.zeit.de/news/2026-11/07/hubig-will-e-mails-bei-pruefung-von-afd-verbot-nutzen"
      }
     ]
    },
@@ -86,40 +144,16 @@
     ]
    },
    {
-    "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
-    "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
-    "image": "https://images.tagesschau.de/image/7bd1dc74-b219-499d-9b06-dc6fe94316da/AAABobNOoTQ/AAABnSSvrFg/16x9-big/pena-106.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-07T08:06:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
-      "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Paraguay: Santiago Peña als Präsident abgesetzt – Vize übernimmt",
-      "link": "https://www.spiegel.de/ausland/paraguay-santiago-pena-als-praesident-abgesetzt-vize-uebernimmt-a-f188f388-ac17-4d7f-a95c-4e9ff08eba18#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bankenaffäre: Paraguays Präsident abgesetzt",
-      "link": "https://www.faz.net/aktuell/politik/ausland/santiago-pena-abgesetzt-paraguays-praesident-scheitert-an-bankenaffaere-201660662.html"
-     }
-    ]
-   },
-   {
-    "title": "Union legt sich bei Bundespräsidenten-Kandidatur auf Aigner fest",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1679594.html",
-    "image": "https://images.tagesschau.de/image/a19b4374-40ae-41b8-ba90-3fbd5e2251c7/AAABobLNirc/AAABnSSvrFg/16x9-big/sendungsbild-1823660.jpg?width=1920",
+    "title": "Porträt der möglichen neuen Bundespräsidentin Ilse Aigner",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1679596.html",
+    "image": "https://images.tagesschau.de/image/dca2477b-dc1a-497e-9903-aec7e9151603/AAABobLOtgM/AAABnSSvrFg/16x9-big/sendungsbild-1823662.jpg?width=1920",
     "n_sources": 3,
     "time": "2026-11-07T03:45:04+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Union legt sich bei Bundespräsidenten-Kandidatur auf Aigner fest",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1679594.html"
+      "title": "Porträt der möglichen neuen Bundespräsidentin Ilse Aigner",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1679596.html"
      },
      {
       "name": "Zeit Online",
@@ -127,9 +161,9 @@
       "link": "https://www.zeit.de/news/2026-11/07/ilse-aigner-ist-die-ungekuerte-kandidatin-kritik-an-merz"
      },
      {
-      "name": "Handelsblatt",
-      "title": "Staatsoberhaupt: CDU will offenbar Ilse Aigner für das Amt der Bundespräsidentin nominieren",
-      "link": "https://www.handelsblatt.com/politik/deutschland/staatsoberhaupt-cdu-will-offenbar-ilse-aigner-fuer-das-amt-der-bundespraesidentin-nominieren/100267970.html"
+      "name": "FAZ",
+      "title": "Steinmeier-Nachfolge: Die Favoritin und der Kanzler",
+      "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-wird-bundespraesidentin-merz-langer-weg-zur-entscheidung-201658143.html"
      }
     ]
    },
@@ -206,100 +240,47 @@
     ]
    },
    {
-    "title": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
-    "image": "https://images.tagesschau.de/image/f06decaf-b051-4d8e-80d5-8d1459e0cba1/AAABlgUgph8/AAABnSSvrFg/16x9-big/eishockey-163.jpg?width=1920",
+    "title": "US-Präsident Trump ersetzt seine bisherige Stabschefin Wiles durch ihren Stellvertreter Miller",
+    "link": "https://www.tagesschau.de/video/video-1679758.html",
+    "image": "https://images.tagesschau.de/image/c2da4097-7256-4395-adcb-f120592e355b/AAABobYRfbY/AAABnSSvrFg/16x9-big/sendungsbild-1823882.jpg?width=1920",
     "n_sources": 2,
-    "time": "2026-11-07T09:39:00+00:00",
+    "time": "2026-11-07T12:52:58+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html"
+      "title": "US-Präsident Trump ersetzt seine bisherige Stabschefin Wiles durch ihren Stellvertreter Miller",
+      "link": "https://www.tagesschau.de/video/video-1679758.html"
      },
      {
       "name": "Spiegel",
-      "title": "Eishockey-WM in Deutschland: Bundesregierung hält Austragung mit Teilnahme Russlands für \"unmöglich\"",
-      "link": "https://www.spiegel.de/sport/eishockey/eishockey-wm-in-deutschland-bundesregierung-haelt-austragung-mit-teilnahme-russlands-fuer-unmoeglich-a-77ae7f94-d8ca-4230-a5d0-bf88126ef2d1#ref=rss"
-     }
-    ]
-   },
-   {
-    "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
-    "image": "https://images.tagesschau.de/image/cc62aaec-9be1-4ab8-9152-b85193c4ac4d/AAABobVW4eg/AAABnSSvrFg/16x9-big/spd-hubig-100.jpg?width=1920",
-    "n_sources": 2,
-    "time": "2026-11-07T09:28:52+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Verbotsverfahren: Hubig will E-Mails bei Prüfung von AfD-Verbot nutzen",
-      "link": "https://www.zeit.de/news/2026-11/07/hubig-will-e-mails-bei-pruefung-von-afd-verbot-nutzen"
+      "title": "Stephen Miller: Mit dem neuen Stabschef setzt Trump auf Angst",
+      "link": "https://www.spiegel.de/ausland/personalie-stephen-miller-donald-trump-setzt-auf-angst-a-e8532d64-f89b-4945-a825-d20f03e0d8fe#ref=rss"
      }
     ]
    }
   ],
   "7d": [
    {
-    "title": "Union legt sich bei Bundespräsidenten-Kandidatur auf Aigner fest",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1679594.html",
-    "image": "https://images.tagesschau.de/image/a19b4374-40ae-41b8-ba90-3fbd5e2251c7/AAABobLNirc/AAABnSSvrFg/16x9-big/sendungsbild-1823660.jpg?width=1920",
+    "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html",
+    "image": "https://images.tagesschau.de/image/bf2bb47a-b8aa-4708-89c7-cace4b8fdada/AAABobIlh28/AAABnSSvrFg/16x9-big/rbb-vanessa-emde-die-linke-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-07T03:45:04+00:00",
+    "time": "2026-11-07T12:31:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Union legt sich bei Bundespräsidenten-Kandidatur auf Aigner fest",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1679594.html"
+      "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Friedrich Merz legt sich fest: Das nächste Staatsoberhaupt soll eine Frau sein",
-      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-legt-sich-fest-das-naechste-staatsoberhaupt-soll-eine-frau-sein-a-95f4944b-b4b6-42d5-9dee-4af59ff8bdb2#ref=rss"
+      "title": "Berlin: Linke-Chefin hofft auf Einlenken von Vanessa Emde",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-chefin-hofft-auf-einlenken-von-vanessa-emde-a-335b4b83-c079-4c10-949d-9abc24777440#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Bundespräsidentenwahl: Ilse Aigner ist die ungekürte Kandidatin - Kritik an Merz",
-      "link": "https://www.zeit.de/news/2026-11/07/ilse-aigner-ist-die-ungekuerte-kandidatin-kritik-an-merz"
-     },
-     {
-      "name": "FAZ",
-      "title": "Steinmeier-Nachfolge: Der CDU-Fanklub für Ilse Aigner wächst",
-      "link": "https://www.faz.net/aktuell/politik/inland/der-cdu-fanklub-fuer-ilse-aigner-waechst-201654247.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Staatsoberhaupt: CDU will offenbar Ilse Aigner für das Amt der Bundespräsidentin nominieren",
-      "link": "https://www.handelsblatt.com/politik/deutschland/staatsoberhaupt-cdu-will-offenbar-ilse-aigner-fuer-das-amt-der-bundespraesidentin-nominieren/100267970.html"
-     }
-    ]
-   },
-   {
-    "title": "Mutmaßlich Hackerangriff auf Abgeordnete und Regierungsmitglieder",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676338.html",
-    "image": "https://images.tagesschau.de/image/79d9c03f-2b2e-4bc1-b864-7c49eb0ace29/AAABoZiGS98/AAABnSSvrFg/16x9-big/sendungsbild-1820714.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-07T03:30:06+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Mutmaßlich Hackerangriff auf Abgeordnete und Regierungsmitglieder",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676338.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Regierungsbildung in Berlin: Linke-Abgeordnete Emde muss über Mandatsverzicht entscheiden",
-      "link": "https://www.zeit.de/news/2026-11/07/linke-abgeordnete-emde-muss-ueber-mandatsverzicht-entscheiden"
+      "title": "Streit in der Berliner Linken: Linken-Chefin hofft auf Einlenken von Abgeordneter Emde",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/vanessa-emde-die-linke-berlin-mandat-gxe"
      },
      {
       "name": "FAZ",
@@ -314,50 +295,84 @@
     ]
    },
    {
-    "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
-    "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
-    "image": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoa0KZI8/AAABnSSvrFg/16x9-big/pena-102.jpg?width=1920",
+    "title": "Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html",
+    "image": "https://images.tagesschau.de/image/839b445e-29f4-4a3b-ba44-9c9a3e2b01f2/AAABoapJ_r8/AAABnSSvrFg/16x9-big/aigner-130.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-06T23:48:40+00:00",
+    "time": "2026-11-07T05:00:27+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
-      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html"
+      "title": "Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Paraguay: Präsident Santiago Peña tritt nach Bankenskandal zurück",
-      "link": "https://www.spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5#ref=rss"
+      "title": "llse Aigner: Die CSU-Politikerin soll Bundespräsidentin werden, so CDU-Kreise",
+      "link": "https://www.spiegel.de/politik/deutschland/llse-aigner-die-csu-politikerin-soll-bundespraesidentin-werden-so-cdu-kreise-a-7a25d55d-6e5b-4fa7-9daa-96be6f9916fe#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Regierungskrise in Paraguay: Paraguays Senat enthebt Präsident Santiago Peña des Amtes",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/paraguay-santiago-pena-regierungskrise-bankenskandal-senat"
+      "title": "Wahl zur Bundespräsidentin: Ist Ilse Aigner die Richtige?",
+      "link": "https://www.zeit.de/politik/2026-11/wahl-bundespraesidentin-ilse-aigner-csu-politikpodcast"
      },
      {
       "name": "FAZ",
-      "title": "Renten betroffen: Bankenkrise zwingt Paraguays Präsidenten zum Rücktritt",
-      "link": "https://www.faz.net/aktuell/politik/ausland/bankenkrise-in-paraguay-praesident-santiago-pena-tritt-zurueck-accg-201653269.html"
+      "title": "Ilse Aigner: Bundespräsidentin der Herzen",
+      "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-csu-bekommt-das-bundespraesidentenamt-201659945.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Bankenkrise: Paraguays Präsident Peña tritt nach Bankenkollaps zurück",
-      "link": "https://www.handelsblatt.com/politik/international/bankenkrise-paraguays-praesident-pena-tritt-nach-bankenkollaps-zurueck/100267703.html"
+      "title": "Staatsoberhaupt: CDU will offenbar Ilse Aigner für das Amt der Bundespräsidentin nominieren",
+      "link": "https://www.handelsblatt.com/politik/deutschland/staatsoberhaupt-cdu-will-offenbar-ilse-aigner-fuer-das-amt-der-bundespraesidentin-nominieren/100267970.html"
      }
     ]
    },
    {
-    "title": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
-    "link": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html",
-    "image": "https://images.tagesschau.de/image/8e6be664-a867-424d-82e0-a1f8ce29c500/AAABoaTfkVw/AAABnSSvrFg/16x9-big/demokraten-124.jpg?width=1920",
+    "title": "Porträt der möglichen neuen Bundespräsidentin Ilse Aigner",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1679596.html",
+    "image": "https://images.tagesschau.de/image/dca2477b-dc1a-497e-9903-aec7e9151603/AAABobLOtgM/AAABnSSvrFg/16x9-big/sendungsbild-1823662.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-07T03:45:04+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Porträt der möglichen neuen Bundespräsidentin Ilse Aigner",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1679596.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Friedrich Merz legt sich fest: Das nächste Staatsoberhaupt soll eine Frau sein",
+      "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-legt-sich-fest-das-naechste-staatsoberhaupt-soll-eine-frau-sein-a-95f4944b-b4b6-42d5-9dee-4af59ff8bdb2#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Bundespräsidentenwahl: Ilse Aigner ist die ungekürte Kandidatin - Kritik an Merz",
+      "link": "https://www.zeit.de/news/2026-11/07/ilse-aigner-ist-die-ungekuerte-kandidatin-kritik-an-merz"
+     },
+     {
+      "name": "FAZ",
+      "title": "Steinmeier-Nachfolge: Die Favoritin und der Kanzler",
+      "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-wird-bundespraesidentin-merz-langer-weg-zur-entscheidung-201658143.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Bundespräsident: Unterstützung für Ilse Aigner in der Union wächst",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesident-unterstuetzung-fuer-ilse-aigner-in-der-union-waechst/100267471.html"
+     }
+    ]
+   },
+   {
+    "title": "Midterms: Demokraten holen auch Mehrheit im US-Repräsentantenhaus",
+    "link": "https://www.tagesschau.de/eilmeldung/eilmeldung-repraesentantenhaus-usa-midterms-100.html",
+    "image": "https://images.tagesschau.de/image/779e1043-888e-49d8-920a-f1a0b512324f/AAABoaUgUws/AAABnSSvrFg/16x9-big/jeffries-106.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-06T14:46:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
-      "link": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html"
+      "title": "Midterms: Demokraten holen auch Mehrheit im US-Repräsentantenhaus",
+      "link": "https://www.tagesschau.de/eilmeldung/eilmeldung-repraesentantenhaus-usa-midterms-100.html"
      },
      {
       "name": "Spiegel",
@@ -450,40 +465,6 @@
     ]
    },
    {
-    "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-    "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
-    "image": "https://images.tagesschau.de/image/fe71c35a-2fba-4961-abc0-ac073243635b/AAABoZIiK3A/AAABnSSvrFg/16x9-big/ukraine-2890.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-05T18:36:11+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-      "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Ukraine-Krieg: Wolodymyr Selenskyj verleiht Melania Trump Orden wegen Oleschky-Waffenruhe",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-verleiht-melania-trump-orden-wegen-oleschky-waffenruhe-a-f1ad025e-e638-4111-9363-d9a7f6503294#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Ukrainekrieg: Melania Trump empfängt russische und ukrainische Vertreter",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/melania-trump-waffenruhe-ukraine-oleschky-russland"
-     },
-     {
-      "name": "FAZ",
-      "title": "Liveblog Ukrainekrieg: Selenskyj verleiht Staatsorden an Melania Trump",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-verleiht-staatsorden-an-melania-trump-faz-110683325.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Selenskyj ehrt Melania Trump mit ukrainischem Orden",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-selenskyj-ehrt-melania-trump-mit-ukrainischem-orden/27982126.html"
-     }
-    ]
-   },
-   {
     "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
     "link": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
     "image": "https://images.tagesschau.de/image/4141b557-c7c8-4671-9d78-3b1a80a10857/AAABoaM1OZM/AAABnSSvrFg/16x9-big/puente-100.jpg?width=1920",
@@ -552,6 +533,40 @@
     ]
    },
    {
+    "title": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
+    "link": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
+    "image": "https://images.tagesschau.de/image/8c3a5c5e-61ca-4caa-8488-8443339438aa/AAABoZzH20g/AAABnSSvrFg/16x9-big/merz-wildberger-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-03T14:57:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
+      "link": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ukraine-Krieg: Friedrich Merz fordert USA auf, Wolodymyr Selenskyj zu G20-Gipfel mit Putin einzuladen",
+      "link": "https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-fordert-usa-auf-wolodymyr-selenskyj-zu-g20-gipfel-mit-putin-einzuladen-a-dec77b75-5f23-4c76-9c13-9cd23510e301#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Ukraine-Krieg: USA: Nächste Woche Verhandlungen mit Ukraine und Russland",
+      "link": "https://www.zeit.de/news/2026-11/03/usa-naechste-woche-verhandlungen-mit-ukraine-und-russland"
+     },
+     {
+      "name": "FAZ",
+      "title": "Liveblog Ukrainekrieg: Merz hat Selenskyj im Kanzleramt empfangen",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-hat-selenskyj-im-kanzleramt-empfangen-faz-110683325.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Krieg gegen Ukraine: Vor Verhandlungen – Selenskyj besucht Merz in Berlin",
+      "link": "https://www.handelsblatt.com/politik/deutschland/ukrainekrieg-vor-verhandlungen-selenskyj-besucht-merz-in-berlin/100266875.html"
+     }
+    ]
+   },
+   {
     "title": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
     "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
     "image": "https://images.tagesschau.de/image/34fd81e3-ab88-4dbf-878b-3d7c22ad7dec/AAABoZjUoew/AAABnSSvrFg/16x9-big/ilijana-jotowa-102.jpg?width=1920",
@@ -588,16 +603,118 @@
   ],
   "30d": [
    {
-    "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
-    "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
-    "image": "https://images.tagesschau.de/image/14102e35-48e8-439a-8fb0-4c556e6d4d00/AAABmEAxqQI/AAABnSSvrFg/16x9-big/abitur-138.jpg?width=1920",
+    "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html",
+    "image": "https://images.tagesschau.de/image/bf2bb47a-b8aa-4708-89c7-cace4b8fdada/AAABobIlh28/AAABnSSvrFg/16x9-big/rbb-vanessa-emde-die-linke-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-07T12:31:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Berlin: Linke-Chefin hofft auf Einlenken von Vanessa Emde",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-chefin-hofft-auf-einlenken-von-vanessa-emde-a-335b4b83-c079-4c10-949d-9abc24777440#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Streit in der Berliner Linken: Linken-Chefin hofft auf Einlenken von Abgeordneter Emde",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/vanessa-emde-die-linke-berlin-mandat-gxe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Deutschland Liveblog: Berliner Linke fordert Mandatsverzicht von Emde",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-linke-fordert-mandatsverzicht-von-emde-faz-110093143.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Berlin: Berliner Linke fordert Mandatsverzicht von Emde",
+      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-berliner-linke-fordert-mandatsverzicht-von-emde/100267960.html"
+     }
+    ]
+   },
+   {
+    "title": "Polizei zieht Bilanz zu Krawallen in Frankfurt",
+    "link": "https://www.tagesschau.de/inland/regional/hessen/krawalle-frankfurt-polizei-bilanz-100.html",
+    "image": "https://images.tagesschau.de/image/4243f3f1-0ef0-4997-a728-4b49d417be41/AAABoZfYLHc/AAABnSSvrFg/16x9-big/krawalle-randale-frankfurt-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-07T12:20:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Polizei zieht Bilanz zu Krawallen in Frankfurt",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/krawalle-frankfurt-polizei-bilanz-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Frankreich: Rechtsextreme marschieren bei Demos auf – Kritik an Polizei",
+      "link": "https://www.spiegel.de/ausland/frankreich-rechtsextreme-marschieren-bei-demos-auf-kritik-an-polizei-a-e1793fc9-c406-4ed2-92b3-a73204e8a36e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Gewalt nach Demo: Festnahmen nach Attacke auf Waffengeschäft in Frankfurt",
+      "link": "https://www.zeit.de/news/2026-10/31/festnahmen-nach-attacke-auf-waffengeschaeft-in-frankfurt"
+     },
+     {
+      "name": "FAZ",
+      "title": "Rhein-Main-Liveblog: Tausende Iraner demonstrieren in Frankfurt",
+      "link": "https://www.faz.net/aktuell/rhein-main/tausende-iraner-demonstrieren-in-frankfurt-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Proteste: 1300 Festnahmen bei erneuten Krawallen in Frankreich – Plünderungen und Chaos in Barcelona",
+      "link": "https://www.handelsblatt.com/politik/international/frankreich-1300-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html"
+     }
+    ]
+   },
+   {
+    "title": "Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html",
+    "image": "https://images.tagesschau.de/image/839b445e-29f4-4a3b-ba44-9c9a3e2b01f2/AAABoapJ_r8/AAABnSSvrFg/16x9-big/aigner-130.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-07T05:00:27+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "llse Aigner: Die CSU-Politikerin soll Bundespräsidentin werden, so CDU-Kreise",
+      "link": "https://www.spiegel.de/politik/deutschland/llse-aigner-die-csu-politikerin-soll-bundespraesidentin-werden-so-cdu-kreise-a-7a25d55d-6e5b-4fa7-9daa-96be6f9916fe#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Wahl zur Bundespräsidentin: Ist Ilse Aigner die Richtige?",
+      "link": "https://www.zeit.de/politik/2026-11/wahl-bundespraesidentin-ilse-aigner-csu-politikpodcast"
+     },
+     {
+      "name": "FAZ",
+      "title": "Ilse Aigner: Bundespräsidentin der Herzen",
+      "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-csu-bekommt-das-bundespraesidentenamt-201659945.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Staatsoberhaupt: CDU will offenbar Ilse Aigner für das Amt der Bundespräsidentin nominieren",
+      "link": "https://www.handelsblatt.com/politik/deutschland/staatsoberhaupt-cdu-will-offenbar-ilse-aigner-fuer-das-amt-der-bundespraesidentin-nominieren/100267970.html"
+     }
+    ]
+   },
+   {
+    "title": "Midterms in den USA: Machtprobe für Trump",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1677632.html",
+    "image": "https://images.tagesschau.de/image/1a6e2c44-b66c-40e2-9c07-ca3c743c4588/AAABoaNP9jo/AAABnSSvrFg/16x9-big/sendungsbild-1821868.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-07T04:06:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html"
+      "title": "Midterms in den USA: Machtprobe für Trump",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1677632.html"
      },
      {
       "name": "Spiegel",
@@ -622,16 +739,16 @@
     ]
    },
    {
-    "title": "Union legt sich bei Bundespräsidenten-Kandidatur auf Aigner fest",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1679594.html",
-    "image": "https://images.tagesschau.de/image/a19b4374-40ae-41b8-ba90-3fbd5e2251c7/AAABobLNirc/AAABnSSvrFg/16x9-big/sendungsbild-1823660.jpg?width=1920",
+    "title": "Porträt der möglichen neuen Bundespräsidentin Ilse Aigner",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1679596.html",
+    "image": "https://images.tagesschau.de/image/dca2477b-dc1a-497e-9903-aec7e9151603/AAABobLOtgM/AAABnSSvrFg/16x9-big/sendungsbild-1823662.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-07T03:45:04+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Union legt sich bei Bundespräsidenten-Kandidatur auf Aigner fest",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1679594.html"
+      "title": "Porträt der möglichen neuen Bundespräsidentin Ilse Aigner",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1679596.html"
      },
      {
       "name": "Spiegel",
@@ -645,81 +762,13 @@
      },
      {
       "name": "FAZ",
-      "title": "Steinmeier-Nachfolge: Der CDU-Fanklub für Ilse Aigner wächst",
-      "link": "https://www.faz.net/aktuell/politik/inland/der-cdu-fanklub-fuer-ilse-aigner-waechst-201654247.html"
+      "title": "Steinmeier-Nachfolge: Die Favoritin und der Kanzler",
+      "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-wird-bundespraesidentin-merz-langer-weg-zur-entscheidung-201658143.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Staatsoberhaupt: CDU will offenbar Ilse Aigner für das Amt der Bundespräsidentin nominieren",
-      "link": "https://www.handelsblatt.com/politik/deutschland/staatsoberhaupt-cdu-will-offenbar-ilse-aigner-fuer-das-amt-der-bundespraesidentin-nominieren/100267970.html"
-     }
-    ]
-   },
-   {
-    "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
-    "image": "https://images.tagesschau.de/image/77afaa8a-f08f-4b05-82ca-60ff45e5088a/AAABoXxq0UI/AAABnSSvrFg/16x9-big/rbb-625257499-100.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-07T03:30:06+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Regierungsbildung in Berlin: Linke-Abgeordnete Emde muss über Mandatsverzicht entscheiden",
-      "link": "https://www.zeit.de/news/2026-11/07/linke-abgeordnete-emde-muss-ueber-mandatsverzicht-entscheiden"
-     },
-     {
-      "name": "FAZ",
-      "title": "Deutschland Liveblog: Berliner Linke fordert Mandatsverzicht von Emde",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-linke-fordert-mandatsverzicht-von-emde-faz-110093143.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Berlin: Berliner Linke fordert Mandatsverzicht von Emde",
-      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-berliner-linke-fordert-mandatsverzicht-von-emde/100267960.html"
-     }
-    ]
-   },
-   {
-    "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
-    "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
-    "image": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoa0KZI8/AAABnSSvrFg/16x9-big/pena-102.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-06T23:48:40+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
-      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Paraguay: Präsident Santiago Peña tritt nach Bankenskandal zurück",
-      "link": "https://www.spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Regierungskrise in Paraguay: Paraguays Senat enthebt Präsident Santiago Peña des Amtes",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/paraguay-santiago-pena-regierungskrise-bankenskandal-senat"
-     },
-     {
-      "name": "FAZ",
-      "title": "Renten betroffen: Bankenkrise zwingt Paraguays Präsidenten zum Rücktritt",
-      "link": "https://www.faz.net/aktuell/politik/ausland/bankenkrise-in-paraguay-praesident-santiago-pena-tritt-zurueck-accg-201653269.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Bankenkrise: Paraguays Präsident Peña tritt nach Bankenkollaps zurück",
-      "link": "https://www.handelsblatt.com/politik/international/bankenkrise-paraguays-praesident-pena-tritt-nach-bankenkollaps-zurueck/100267703.html"
+      "title": "Bundespräsident: Unterstützung für Ilse Aigner in der Union wächst",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesident-unterstuetzung-fuer-ilse-aigner-in-der-union-waechst/100267471.html"
      }
     ]
    },
@@ -758,16 +807,16 @@
     ]
    },
    {
-    "title": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
-    "link": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html",
-    "image": "https://images.tagesschau.de/image/8e6be664-a867-424d-82e0-a1f8ce29c500/AAABoaTfkVw/AAABnSSvrFg/16x9-big/demokraten-124.jpg?width=1920",
+    "title": "Trump zu Midterms: \"Herzlichen Glückwunsch an die Demokraten!\"",
+    "link": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-midterms-100.html",
+    "image": "https://images.tagesschau.de/image/c77d8779-c5d6-4650-a8b1-a7ce5d768c34/AAABoaB7250/AAABnSSvrFg/16x9-big/donald-trump-982.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-06T14:46:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
-      "link": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html"
+      "title": "Trump zu Midterms: \"Herzlichen Glückwunsch an die Demokraten!\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-midterms-100.html"
      },
      {
       "name": "Spiegel",
@@ -792,16 +841,16 @@
     ]
    },
    {
-    "title": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-    "link": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html",
-    "image": "https://images.tagesschau.de/image/70fe0c7c-a66f-4325-8ee6-d0a3069080da/AAABoXjcJ8Y/AAABnSSvrFg/16x9-big/trump-doellner-100.jpg?width=1920",
+    "title": "Kritik an Auftritt von Audi-Chef Döllner auf US-Wahlkampfveranstaltung",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1673140.html",
+    "image": "https://images.tagesschau.de/image/3c520042-95dc-4b2c-af13-2cbca729c035/AAABoXoxDhs/AAABnSSvrFg/16x9-big/sendungsbild-1817602.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-06T13:41:17+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-      "link": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html"
+      "title": "Kritik an Auftritt von Audi-Chef Döllner auf US-Wahlkampfveranstaltung",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1673140.html"
      },
      {
       "name": "Spiegel",
@@ -892,40 +941,6 @@
       "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-im-dritten-quartal/100266091.html"
      }
     ]
-   },
-   {
-    "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
-    "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
-    "image": "https://images.tagesschau.de/image/619686c0-a7cb-4865-b7dd-ba50c33715ca/AAABoa8R5R8/AAABnSSvrFg/16x9-big/trump-5422.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-06T07:41:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Donald Trump: US-Präsident stellt nach Treffen mit Kremlberater Abkommen für »ganz Europa« in Aussicht",
-      "link": "https://www.spiegel.de/ausland/donald-trump-us-praesident-stellt-nach-treffen-mit-kremlberater-abkommen-fuer-ganz-europa-in-aussicht-a-b44601ad-c7f8-4909-8e21-ba38cf8829a7#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Ukrainekrieg: Trump kündigt »großes Abkommen« für ganz Europa an",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-kirill-dmitrijew-abkommen-ukraine-russland"
-     },
-     {
-      "name": "FAZ",
-      "title": "Liveblog Ukrainekrieg: Trump kündigt „sehr großen Deal“ mit Russland an",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-kuendigt-sehr-grossen-deal-mit-russland-an-faz-110683325.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Nach Treffen mit Dmitrijew – Trump stellt „großes Abkommen“ in Aussicht",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-nach-treffen-mit-dmitrijew-trump-stellt-grosses-abkommen-in-aussicht/27982126.html"
-     }
-    ]
    }
   ]
  },
@@ -943,20 +958,6 @@
        "name": "IT-Finanzmagazin",
        "title": "Harvest now, decrypt later: Kreditdaten brauchen PQC vor dem vollständigen Krypto-Inventar",
        "link": "https://www.it-finanzmagazin.de/quantensicherheit-krypto-agilitaet-im-core-banking-252723/"
-      }
-     ]
-    },
-    {
-     "title": "Digitaler Führerschein, N26 Altersvorsorge und Revolut Baustellen",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEhQNTFTb18ybWVXbjBrdVNVZ3dmSXFPNDJGX0ZlRmUxVFRLU2RMcDNJSEtWTG5fTkwtdFVMVGVXSkxGOFk4Yk9xQW5aVHNoUThwNTZ0bDJlTXZhQnBYeFdfdkxWNGxnQ0F6czJLSkhYMFdTdGIwTnJpZGlHWWRYbE9jLTNmMVZCWXIxelJ2M29RX24xRk9aeDZoRQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-06T11:01:47+00:00",
-     "sources": [
-      {
-       "name": "Payment & Banking",
-       "title": "Digitaler Führerschein, N26 Altersvorsorge und Revolut Baustellen",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEhQNTFTb18ybWVXbjBrdVNVZ3dmSXFPNDJGX0ZlRmUxVFRLU2RMcDNJSEtWTG5fTkwtdFVMVGVXSkxGOFk4Yk9xQW5aVHNoUThwNTZ0bDJlTXZhQnBYeFdfdkxWNGxnQ0F6czJLSkhYMFdTdGIwTnJpZGlHWWRYbE9jLTNmMVZCWXIxelJ2M29RX24xRk9aeDZoRQ?oc=5"
       }
      ]
     }
@@ -2410,54 +2411,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "andreas palicka",
-      "link": "https://handbollslandslaget.se/herr/tre-legendarer-tackas-av-i-scandinavium/",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "kultfilm",
-      "link": "https://www.tag24.de/unterhaltung/tv/tv-tipps/bei-diesem-kultfilm-kann-man-nicht-anders-als-einzuschalten-3546758",
+      "title": "sv waldhof – fortuna köln",
+      "link": "https://www.tipico.de/wett-tipps/sportwetten-news/mannheim-vs-fortuna-koeln-tipp-quoten-news-prognose-tv-uebertragung",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "dirk galuba",
-      "link": "https://web.de/magazine/unterhaltung/filme-serien-kino/nachfolger-dirk-galuba-fuehrt-fuerstenhof-42914980",
+      "title": "sv wehen – havelse",
+      "link": "https://www.kicker.de/mannheim-gegen-f-koeln-2026-liga-5233335/ticker",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "csikszereda - „u” cluj",
+      "link": "https://www.gsp.ro/fotbal/liga-1/cristiano-bergodi-este-azi-la-meciul-300-in-superliga-nu-m-am-descurajat-vreodata-in-viata-mea-996719.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "capricorn holding gmbh",
-      "link": "https://www.merkur.de/wirtschaft/auto-spezialist-capricorn-wohl-insolvent-schock-94578710.html",
+      "title": "rotten tomatoes",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/05/black-doves-review-keira-knightley-ben-whishaw",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "boris becker",
-      "link": "https://www.n-tv.de/sport/Boris-Becker-aendert-Tonlage-gegenueber-Alexander-Zverev-id31506169.html",
+      "title": "rwe – alemannia",
+      "link": "https://www.kicker.de/essen-gegen-aachen-2026-liga-5233332/ticker",
       "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "cottbus",
-      "link": "https://www.ndr.de/sport/fussball/gruselige-nullnummer-eintracht-braunschweig-remis-gegen-cottbus,eintracht-408.html",
-      "meta": "20000+ Suchanfragen"
-     },
-     {
-      "title": "focus",
-      "link": "https://www.focus.de/politik/deutschland/radikale-idee-versucht-es-gegen-afd-doch-mal-mit-argumenten_bb9e374b-ef2b-4bed-8551-e97388ee81ed.html",
+      "title": "hansa rostock – sonnenhof großaspach",
+      "link": "https://www.kicker.de/rostock-gegen-grossaspach-2026-liga-5233333/ticker",
       "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "nummer",
-      "link": "https://rp-online.de/sport/tennis/tennis-haeme-fuer-alexander-zverev-ist-in-wahrheit-der-frust-ueber-shelton-fritz-und-co_aid-157928811",
+      "title": "samsunspor – konyaspor",
+      "link": "https://trends.google.com/trends/explore?geo=DE&q=samsunspor%20%E2%80%93%20konyaspor",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "wrestling",
+      "link": "https://iowastatedaily.com/348111/sports/five-tech-falls-lead-cyclones-to-first-big-12-victory/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "elina switolina",
-      "link": "https://www.tennismagazin.de/news/gael-monfils-sagt-paris-lebewohl/",
-      "meta": "200+ Suchanfragen"
+      "title": "rundfunk",
+      "link": "https://www.jazzzeitung.de/cms/2026/11/die-jazz-radiowoche-vom-09-11-26-bis-15-11-26/",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "masern usa",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
-      "meta": "20000+ Suchanfragen"
+      "title": "rené dost",
+      "link": "https://www.bild.de/unterhaltung/bildgg/rene-redo-dost-seine-neue-freundin-celine-ist-33-jahre-juenger-6aeded87320931eb80f5c7e6",
+      "meta": "5000+ Suchanfragen"
      }
     ]
    },
@@ -2524,32 +2525,31 @@
     "lang": "fr",
     "items": [
      {
-      "title": "sportverein von saint-Étienne",
-      "link": "https://www.asse.fr/actualites/les-informations-pratiques-avant-la-reception-de-laval--ac41367",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "association sportive de saint-étienne"
+      "title": "toulouse – clermont",
+      "link": "https://www.lequipe.fr/Rugby/match-direct/top-14/2026-2027/toulouse-clermont-live/42458",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "appartement",
-      "link": "https://www.leprogres.fr/faits-divers-justice/2026/11/07/sirenes-sur-les-quais-de-saone-au-coeur-de-la-nuit-un-appartement-a-pris-feu-sans-faire-de-blesse",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "pablo barrios",
-      "link": "https://fr.news.yahoo.com/sport/manchester-united-concurrence-paris-saint-101403552.html",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "der Studentenfigaro",
-      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-sanctions-pour-des-blocus-a-l-interieur-des-lycees_8271008.html",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "le figaro étudiant"
-     },
-     {
-      "title": "Oldtimer",
-      "link": "https://www.autojournal.fr/actu/insolites-actu/ils-pensaient-explorer-vieille-grange-ils-decouvrent-finalement-six-voitures-collection-abandonnees-378522.html",
+      "title": "Flugzeugträger",
+      "link": "https://www.bfmtv.com/economie/entreprises/defense/chez-nous-c-est-4-000-euros-net-par-mois-ces-entreprises-fabriquent-les-portes-geantes-et-les-reacteurs-nucleaires-du-futur-porte-avions-france-libre_AN-202611070062.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "automobile de collection"
+      "title_orig": "porte-avions"
+     },
+     {
+      "title": "samsunspor – konyaspor",
+      "link": "https://trends.google.com/trends/explore?geo=FR&q=samsunspor%20%E2%80%93%20konyaspor",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "jean-michel abgeworfen",
+      "link": "https://www.sports.fr/football/jean-michel-larque-nomination-suspecte-denoncee-1060929.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "jean-michel larqué"
+     },
+     {
+      "title": "clermont – rodez",
+      "link": "https://www.lequipe.fr/Football/match-direct/ligue-2/2026-2027/clermont-rodez-live/690665",
+      "meta": "2000+ Suchanfragen"
      }
     ]
    },
@@ -2558,31 +2558,30 @@
     "lang": "it",
     "items": [
      {
-      "title": "neapel Latium",
-      "link": "https://www.sportmediaset.mediaset.it/calcio/il-napoli-e-in-crisi-i-tifosi-no-maradona-verso-il-sold-out-con-la-lazio_118694014-202602k.shtml",
+      "title": "internationaler Fußballclub Mailand U23 - Salerno",
+      "link": "https://www.inter.it/it/notizie/formazioni-ufficiali-inter-u23-salernitana-serie-c-2026-27",
       "meta": "200+ Suchanfragen",
-      "title_orig": "napoli lazio"
+      "title_orig": "football club internazionale milano u23 - salernitana"
      },
      {
-      "title": "fahrpläne Motogp Katar",
-      "link": "https://www.motogp.com/it/videos/2026/11/06/marquez-su-bezzecchi-non-ha-niente-da-perdere/1184489",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "orari motogp qatar"
+      "title": "fiorentina juventus",
+      "link": "https://www.sportmediaset.mediaset.it/calcio/vanoli-avverte-la-juve-questa-e-la-partita-vogliamo-vincere-out-atta-e-pongracic_118700457-202602k.shtml",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "italien südafrika rugby",
-      "link": "https://www.federugby.it/fir-e-palazzo-madama-celebrano-la-costituzione-con-un-nuovo-video-progetto/",
+      "title": "sebastian lelio film",
+      "link": "https://www.rainews.it/articoli/2026/11/muore-a-52-anni-il-regista-cileno-premio-oscar-sebastian-lelio-2dbeecc9-417d-4b04-9952-6140ae402b04.html",
+      "meta": "2000+ Suchanfragen"
+     },
+     {
+      "title": "die Katze mit dem Hut",
+      "link": "https://www.sentieriselvaggi.it/il-gatto-col-cappello-di-alessandro-carloni-erica-rivinoja/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "italia sudafrica rugby"
+      "title_orig": "il gatto con il cappello"
      },
      {
-      "title": "paolo del debbio",
-      "link": "https://www.corriere.it/cronache/26_novembre_07/paolo-del-debbio-intervista-cc1a3fb2-7258-4d0b-ade8-174258b0axlk.shtml",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "sony playstation plus",
-      "link": "https://multiplayer.it/notizie/i-nuovi-vantaggi-di-playstation-plus-non-hanno-convinto-molti-abbonati.html",
+      "title": "alessandro benetton",
+      "link": "https://www.vanityfair.it/article/alessandro-benetton-intervista",
       "meta": "200+ Suchanfragen"
      }
     ]
@@ -2592,33 +2591,33 @@
     "lang": "es",
     "items": [
      {
-      "title": "las palmas de gran canaria",
-      "link": "https://www.canarias7.es/canarias/gran-canaria/las-palmas-de-gran-canaria/cortes-trafico-palmas-gran-canaria-sabado-carrera-20261106070000-nt.html",
-      "meta": "200+ Suchanfragen"
+      "title": "nationale Lotterie",
+      "link": "https://www.lavanguardia.com/loterias/20261107/11678652/loteria-nacional-sorteo-extraordinario-la-cultura-hoy-7-de-noviembre-resultado-premios-en-directo.html",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "loteria nacional"
      },
      {
-      "title": "bahnbetreiber",
-      "link": "https://www.elperiodicodearagon.com/aragon/2026/11/07/adif-permite-operador-ferroviario-tren-136176193.html",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "operador ferroviario"
-     },
-     {
-      "title": "quiles-Schraube",
-      "link": "https://www.eldiario.es/politica/detenido-rumania-guardaespaldas-vito-quiles-acusado-trafico-cocaina_1_13634961.html",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "vito quiles"
-     },
-     {
-      "title": "Neumond",
-      "link": "https://www.mujerhoy.com/horoscopo/horoscopo-hoy-lunes-9-noviembre-2026-predicciones-zodiaco-salid-dinero-amor-20261109063000-nt.html",
+      "title": "Leistungsprüfung",
+      "link": "https://www.levante-emv.com/opinion/2026/11/07/newsletter-levante-emv-joan-carles-marti-comunitat-valenciana-oposiciones-magisterio-ortografia-metrovalencia-area-metropolitana-movilidad-andenes-trenes-116301423.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "luna nueva"
+      "title_orig": "oposición"
      },
      {
-      "title": "erneuerbare Energie",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-11-07/laura-diaz-anadon-investigadora-la-transicion-energetica-no-es-el-problema-de-la-ue-lo-es-la-dependencia-de-los-combustibles-fosiles.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "energía renovable"
+      "title": "Meteoriten",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-07/meteorito-alemania-materia-leyes-fisica-1qrt_4283660/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "meteorito"
+     },
+     {
+      "title": "die Abascal Revolte",
+      "link": "https://www.elcorreo.com/gente-estilo/revuelta-cancela-entradas-publico-ante-exigencias-abascal-20261107093432-nt.html",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "la revuelta abascal"
+     },
+     {
+      "title": "boeing",
+      "link": "https://www.preferente.com/noticias-de-transportes/noticias-de-aerolineas/cazan-al-primer-boeing-737-max-de-vueling-en-eeuu-352793.html",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2627,31 +2626,33 @@
     "lang": "en",
     "items": [
      {
-      "title": "auf den ersten Blick verheiratet",
-      "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o",
+      "title": "archie grau",
+      "link": "https://www.leedsunited.com/en/news/farke-recalls-difficult-archie-gray-decision-ahead-of-first-proper-reunion",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "archie gray"
+     },
+     {
+      "title": "málaga vs rennsantander",
+      "link": "https://www.bbc.co.uk/sport/football/live/cjdx3729wkdlt",
       "meta": "200+ Suchanfragen",
-      "title_orig": "married at first sight"
+      "title_orig": "málaga vs racing santander"
      },
      {
-      "title": "prinz William Prinz George Camp Nou",
-      "link": "https://www.telegraph.co.uk/news/2026/11/07/william-sitwell-cuddly-prince-george/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "prince william prince george camp nou"
+      "title": "man city vs west ham",
+      "link": "https://www.bbc.co.uk/sport/football/live/cjzxl456k427t",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "jonny wilkinson",
-      "link": "https://www.ruck.co.uk/rugby-news/jonny-wilkinson-met-wife-in-magaluf-after-split-from-sky-sports-presenter-39478",
-      "meta": "200+ Suchanfragen"
+      "title": "Betrug",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "hoax"
      },
      {
-      "title": "tawhid hridoy",
-      "link": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-2nd-test-1553296/ball-by-ball-commentary",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "wales vs japan",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c9146d7g0reyo",
-      "meta": "100+ Suchanfragen"
+      "title": "herbstliche Internationals",
+      "link": "https://www.telegraph.co.uk/rugby-union/2026/11/06/england-a-v-argentina-xv-live-score-latest-updates/",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "autumn internationals"
      }
     ]
    },
@@ -2660,34 +2661,31 @@
     "lang": "pl",
     "items": [
      {
-      "title": "Wasser",
-      "link": "https://tvn24.pl/polska/woda-i-susza-w-polsce-co-robia-wody-polskie-polskie-przepisy-prowadza-nas-do-katastrofy-st9305508",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "woda"
+      "title": "wrexham – wolverhampton",
+      "link": "https://www.wrexhamafc.co.uk/news/2026/november/06/preview--wrexham-afc-vs-wolves/",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Pfandsystem? ",
-      "link": "https://www.onet.pl/informacje/onetwiadomosci/15-zl-zamiast-5-zl-duza-zmiana-w-systemie-kaucyjnym-od-2027-r/l8rdhmh,79cfc278",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "system kaucyjny"
-     },
-     {
-      "title": "flugzeugabsturz",
+      "title": "flugzeug auf a2",
       "link": "https://wydarzenia.interia.pl/zagranica/news-samolot-spadl-na-ruchliwa-autostrade-tragedia-w-niemczech,nId,23570433",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "katastrofa samolotu"
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "samolot na a2"
      },
      {
-      "title": "anthropisch",
-      "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+      "title": "elina svitolina",
+      "link": "https://sportowefakty.wp.pl/tenis/1283012/szczere-wyznanie-switoliny-trudno-mowic-o-szczesliwym-zyciu",
       "meta": "200+ Suchanfragen",
-      "title_orig": "anthropic"
+      "title_orig": "elina switolina"
      },
      {
-      "title": "8. November",
-      "link": "https://dziendobry.tvn.pl/horoskop/horoskop-dzienny-na-sobote-7-listopada-2026-r-dla-wszystkich-znakow-zodiaku-st9327162",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "8 listopada"
+      "title": "leeds – tottenham",
+      "link": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "microsoft",
+      "link": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+      "meta": "1000+ Suchanfragen"
      }
     ]
    },
@@ -2764,33 +2762,30 @@
     "lang": "en",
     "items": [
      {
-      "title": "westindien vs. Bangladesh",
-      "link": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-2nd-test-1553296/match-report",
+      "title": "chelsea vs everton",
+      "link": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-everton",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "ghsa fußball playoffs",
+      "link": "https://www.ajc.com/sports/2026/11/newton-football-allegations-ghsa/",
       "meta": "100+ Suchanfragen",
-      "title_orig": "west indies vs bangladesh"
+      "title_orig": "ghsa football playoffs"
      },
      {
-      "title": "zelda Okarina des Zeit-Remakes",
-      "link": "https://www.nintendo.com/en-gb/News/2026/November/Ask-the-Developer-Vol-24-The-Legend-of-Zelda-Ocarina-of-Time-Chapter-1-3230318.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "zelda ocarina of time remake"
-     },
-     {
-      "title": ".",
-      "link": "https://www.wivb.com/news/investigates/catholic-academy-parents-seek-answers-after-elevated-radiation-levels-found-in-parking-lot/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "radiation"
-     },
-     {
-      "title": "gabby windey",
-      "link": "https://www.vulture.com/article/gabby-windeys-biology-lesson-won-late-night-this-week.html",
+      "title": "la habana",
+      "link": "https://www.univision.com/local/miami-wltv/recibi-amenazas-la-periodista-yoani-sanchez-cuenta-como-fue-su-detencion-por-el-regimen-de-cuba-video",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "spiele gta 6 vor dem Startdatum",
-      "link": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10?utm_source=blast&amp;amp%3Butm_medium=o_email&amp;amp%3Butm_campaign=e10316_global_localized_gtavi-preload_static_learn-more&amp;amp%3Butm_content=main-img",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "play gta 6 before launch date"
+      "title": "málaga - racing de santander",
+      "link": "https://www.diariosur.es/malagacf/previa-malaga-racing-primera-20261106225109-nt.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "chris sale sonny gray rotation",
+      "link": "https://sports.yahoo.com/articles/braves-lock-75m-deal-sonny-100605406.html",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2799,33 +2794,33 @@
     "lang": "en",
     "items": [
      {
-      "title": "taskin ahmed",
-      "link": "https://www.cricbuzz.com/cricket-news/140796/bangladesh-v-west-indies-an-extra-seamer-could-have-made-a-difference-taskin-ahmed-cricbuzzcom",
-      "meta": "500+ Suchanfragen"
+      "title": "5x5x5x5x5x5x5x",
+      "link": "https://hindi.news18.com/photogallery/business/railways-270-kilometer-tunnel-on-bilaspur-manali-leh-railway-line-will-make-direct-link-to-china-border-10970590.html",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "रेलवे स्टेशन"
      },
      {
-      "title": "5,05",
-      "link": "https://www.aajtak.in/defence-news/story/indian-air-force-il-76md-transport-aircraft-scripts-aviation-history-with-a-successful-landing-at-nyoma-rpti-2690616-2026-11-07",
+      "title": "ll .",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "न्योमा"
+      "title_orig": "ll"
      },
      {
-      "title": "1:1",
-      "link": "https://www.jagran.com/uttar-pradesh/prayagraj-pm-awas-beneficiary-to-be-selection-via-door-to-door-survey-40429634.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "आवास"
+      "title": "kerala lotterie ergebnisse karunya",
+      "link": "https://www.onmanorama.com/news/kerala/2026/11/07/karunya-kr-775-lottery-results-kerala-1-crore-first-prize-list-winners-live.html",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "kerala lottery results karunya"
      },
      {
-      "title": "* ** * ** * **",
-      "link": "https://www.dailythanthi.com/sports/cricket/3rd-test-india-a-2272-against-new-zealand-a",
+      "title": "godzilla minus ZERO-Film",
+      "link": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "யஷஸ்வி ஜெய்ஸ்வால்"
+      "title_orig": "godzilla minus zero movie"
      },
      {
-      "title": "1: 1: 1:1",
-      "link": "https://www.aajtak.in/world/story/pakistan-ready-to-consider-visa-for-punjab-cm-bhagwant-mann-lahore-conference-ntc-apdy-dskc-2690216-2026-11-06",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "भगवंत मान"
+      "title": "man city vs west ham",
+      "link": "https://www.goal.com/en-sg/news/live-stream-online-tv-where-to-watch-manchester-city-women-v-west-ham-united-women/blt9d9624231b10d1ee",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2834,31 +2829,32 @@
     "lang": "pt",
     "items": [
      {
-      "title": "météo",
-      "link": "https://www.20minutes.fr/societe/4261060-20261106-meteo-temperatures-vont-grimper-france-semaine-prochaine-jusqu-25-attendus",
-      "meta": "200+ Suchanfragen"
+      "title": "tottenham",
+      "link": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "papst Löwe xiv",
-      "link": "https://www1.folha.uol.com.br/mundo/2026/11/leao-14-chega-ao-uruguai-pais-mais-secular-da-america-latina-quase-40-anos-apos-ultima-visita-papal.shtml",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "papa leão xiv"
+      "title": "broadcaster Day",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/07/quero-transmitir-o-fim-do-mundo-radialista-de-sorocaba-relembra-65-anos-de-carreira.ghtml",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "dia do radialista"
      },
      {
-      "title": "zeina latif",
-      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/almoco-remunerado-proposto-por-salabert-pode-encarecer-mao-de-obra-ate-33/",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "ilia topuria",
-      "link": "https://www.sherdog.com/news/news/Ilia-Topuria-reveals-who-he-wants-to-fight-next-in-the-UFC-203511",
+      "title": "malaga fc",
+      "link": "https://www.goal.com/en-ca/news/live-stream-online-tv-where-to-watch-malaga-v-racing-santander/bltbabef5aed90c5c81",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "lebenslängliche Freiheitsstrafe",
-      "link": "https://www1.folha.uol.com.br/ilustrada/2026/11/ex-marido-de-galerista-morto-a-facadas-no-rio-de-janeiro-e-condenado-a-prisao-perpetua.shtml",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "prisão perpétua"
+      "title": "blumenau wettervorhersage",
+      "link": "https://g1.globo.com/sc/santa-catarina/videos-jornal-do-almoco-sc-blumenau/video/chuva-da-tregua-em-blumenau-15163075.ghtml",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "previsão do tempo blumenau"
+     },
+     {
+      "title": "zivilschutzalarm",
+      "link": "https://estado.rs.gov.br/defesa-civil-estadual-alerta-para-risco-muito-alto-de-tempestade-com-granizo-grande-nas-proximidades-de-tapejara",
+      "meta": "10000+ Suchanfragen",
+      "title_orig": "alerta defesa civil"
      }
     ]
    },
@@ -2867,34 +2863,34 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Matsumoto vs Kanaz",
-      "link": "https://www.yamaga-fc.com/match-news/563603",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "松本 対 金沢"
-     },
-     {
-      "title": "Neuer Schlüssel",
-      "link": "https://news.yahoo.co.jp/articles/c30773b2c89d5e62628ca5e061dcc07ebe870fa1",
+      "title": "Tararico",
+      "link": "https://news.yahoo.co.jp/articles/a16b5a9a6723f0999058fc38b387b4725d1edc0c",
       "meta": "200+ Suchanfragen",
-      "title_orig": "新しいカギ"
+      "title_orig": "タラリコ氏"
      },
      {
-      "title": "Shingo Yamashita",
-      "link": "https://news.yahoo.co.jp/articles/9378c937df81890f3492799af0afd9086dfe510b",
+      "title": "Mord an Mr. Sakamotos Familie",
+      "link": "https://news.yahoo.co.jp/articles/805743dc6b700d10f710c34dff21e3778fbf1acf",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "坂本弁護士一家殺害事件"
+     },
+     {
+      "title": "Seika Inoue",
+      "link": "https://trilltrill.jp/articles/5085538",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "井上清華"
+     },
+     {
+      "title": "Fumiya Sano",
+      "link": "https://news.yahoo.co.jp/articles/10cca30657267326b43e6b0d444fde8c00d0a12d",
       "meta": "2000+ Suchanfragen",
-      "title_orig": "山下真瑚"
+      "title_orig": "佐野文哉"
      },
      {
-      "title": "Otoha",
-      "link": "https://news.yahoo.co.jp/articles/940329c63b89d445ac04de1a3a93d1667a49ded5",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "乙葉"
-     },
-     {
-      "title": "Moriizumi",
-      "link": "https://news.yahoo.co.jp/articles/4a3fba47795382421fc5665ce83f4be83d8e79b7",
+      "title": "Manchester City WFC vs West Ham United FC Frauen",
+      "link": "https://sports.yahoo.com/articles/great-opportunity-us-manchester-city-075700503.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "森泉"
+      "title_orig": "マンチェスター・シティwfc 対 ウェストハム・ユナイテッドfcウィメン"
      }
     ]
    },
@@ -2964,7 +2960,7 @@
      {
       "title": "Trump-Beamter, der Rechenzentren auf öffentlichem Land haben will, hat Dutzende von Millionen in die KI-Industrie investiert",
       "link": "https://www.propublica.org/article/burgum-public-land-data-centers-investments",
-      "meta": "ProPublica · 239 Personen teilen",
+      "meta": "ProPublica · 242 Personen teilen",
       "title_orig": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry"
      },
      {
@@ -2976,20 +2972,20 @@
      {
       "title": "Demonstranten brechen in das Microsoft KI-Rechenzentrum in Amsterdam ein",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam",
-      "meta": "Al Jazeera · 226 Personen teilen",
+      "meta": "Al Jazeera · 232 Personen teilen",
       "title_orig": "Protesters break into Microsoft AI data centre site in Amsterdam"
      },
      {
-      "title": "Wann wurde Open-Source zum Twitter-Grift?",
-      "link": "https://www.joanwestenberg.com/p/when-did-open-source-become-a-twitter",
-      "meta": "WESTENBERG · 99 Personen teilen",
-      "title_orig": "When Did Open-Source Become a Twitter Grift?"
+      "title": "Claude Codes „Don 't Ask Again“ -Datei enthüllt Passwörter und Schlüssel in 1.122 öffentlichen Kopien auf GitHub",
+      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "meta": "The Hacker News · 55 Personen teilen",
+      "title_orig": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub"
      },
      {
-      "title": "Abschied vom Salon - Salon.com",
-      "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "meta": "Salon.com · 206 Personen teilen",
-      "title_orig": "Goodbye from Salon - Salon.com"
+      "title": "Musk postet einen Tweet, in dem er den Starlink-Dienst wegen eines „Fehlers“ in der Ukraine anruft",
+      "link": "https://kyivindependent.com/musk-reposts-tweet-calling-starlink-service-for-ukraine-mistake/",
+      "meta": "The Kyiv Independent · 54 Personen teilen",
+      "title_orig": "Musk reposts tweet calling Starlink service for Ukraine 'mistake'"
      }
     ]
    }
@@ -3000,7 +2996,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 65,
+   "count": 66,
    "error": ""
   },
   {
@@ -3021,7 +3017,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 161,
+   "count": 162,
    "error": ""
   },
   {
@@ -3077,14 +3073,14 @@
    "source": "The Paypers",
    "category": "pay_eu",
    "ok": true,
-   "count": 100,
+   "count": 95,
    "error": ""
   },
   {
    "source": "Fintech Futures",
    "category": "pay_eu",
    "ok": true,
-   "count": 76,
+   "count": 75,
    "error": ""
   },
   {
@@ -3217,8 +3213,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 118,
-   "info": "118 von 118 Überschriften übersetzt (neu in diesem Lauf: MyMemory 45). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 117,
+   "info": "117 von 117 Überschriften übersetzt (neu in diesem Lauf: MyMemory 46). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
