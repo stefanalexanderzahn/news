@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T04:05:51+00:00",
+ "generated": "2026-11-09T07:37:21+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
@@ -38,35 +38,6 @@
     ]
    },
    {
-    "title": "Nvidia-Chef Jensen Huang entschuldigt sich für Affäre mit mutmaßlicher Spionin",
-    "link": "https://www.spiegel.de/ausland/nvidia-chef-jensen-huang-entschuldigt-sich-fuer-affaere-mit-mutmasslicher-spionin-a-66db6061-9340-44ba-9c9d-75726df75e3b#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/30764e20-cba6-4fd0-9884-b159796ceb8f_w520_r2.08_fpx35.9_fpy44.99.jpg",
-    "n_sources": 4,
-    "time": "2026-11-08T21:14:37+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Nvidia-Chef Jensen Huang entschuldigt sich für Affäre mit mutmaßlicher Spionin",
-      "link": "https://www.spiegel.de/ausland/nvidia-chef-jensen-huang-entschuldigt-sich-fuer-affaere-mit-mutmasslicher-spionin-a-66db6061-9340-44ba-9c9d-75726df75e3b#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Nvidia: Nvidia prüft Berichte zu ausländischer Spionage gegen Chef",
-      "link": "https://www.zeit.de/wirtschaft/2026-11/nvidia-jensen-huang-spionage-verwaltungsrat-ermittlungen"
-     },
-     {
-      "name": "FAZ",
-      "title": "Jensen Huang: Nvidia prüft Berichte zu ausländischer Spionage gegen Konzernchef",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-prueft-berichte-zu-auslaendischer-spionage-gegen-jensen-huang-201664216.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Spionageverdacht: Huang entschuldigt sich für Affäre – Nvidia will Berichte über ausländische Spionin prüfen",
-      "link": "https://www.handelsblatt.com/technik/ki/spionageverdacht-nvidia-will-berichte-ueber-auslaendische-spionage-gegen-chef-pruefen/100268272.html"
-     }
-    ]
-   },
-   {
     "title": "Israels Präsident Herzog erteilt Eisenkot Auftrag zur Regierungsbildung",
     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680462.html",
     "image": "https://images.tagesschau.de/image/c2ed02c4-8d74-4e71-8bc0-d816bd428276/AAABobybvsk/AAABnSSvrFg/16x9-big/sendungsbild-1824538.jpg?width=1920",
@@ -96,16 +67,112 @@
     ]
    },
    {
-    "title": "Papst Leo XIV. setzt Südamerika-Reise fort",
-    "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
-    "image": "https://images.tagesschau.de/image/569e6360-4542-49fc-a185-0871ac39e241/AAABobqGs5o/AAABnSSvrFg/16x9-big/papst-uruguay-100.jpg?width=1920",
+    "title": "Nvidia: Nvidia prüft Berichte zu ausländischer Spionage gegen Chef",
+    "link": "https://www.zeit.de/wirtschaft/2026-11/nvidia-jensen-huang-spionage-verwaltungsrat-ermittlungen",
+    "image": "https://img.zeit.de/wirtschaft/2026-11/ceo-nvidia-spionage-affaere-ki/original__640x360",
+    "n_sources": 3,
+    "time": "2026-11-09T06:46:00+00:00",
+    "sources": [
+     {
+      "name": "Zeit Online",
+      "title": "Nvidia: Nvidia prüft Berichte zu ausländischer Spionage gegen Chef",
+      "link": "https://www.zeit.de/wirtschaft/2026-11/nvidia-jensen-huang-spionage-verwaltungsrat-ermittlungen"
+     },
+     {
+      "name": "FAZ",
+      "title": "Jensen Huang: Nvidia prüft Berichte zu ausländischer Spionage gegen Konzernchef",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-prueft-berichte-zu-auslaendischer-spionage-gegen-jensen-huang-201664216.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Chiphersteller: Huang räumt Affäre ein: Nvidia prüft Verdacht der ausländischen Spionage gegen seinen Chef",
+      "link": "https://www.handelsblatt.com/technik/ki/jensen-huang-nvidia-prueft-verdacht-der-auslaendischen-spionage-gegen-chef/100268272.html"
+     }
+    ]
+   },
+   {
+    "title": "Donald Trump: Trump räumt mögliche Fehler bei Abschiebepolitik ein",
+    "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-abschiebepolitik-usa-stephen-miller-jd-vance",
+    "image": "https://img.zeit.de/politik/ausland/2026-11/donald-trump-abschiebepolitik-usa-stephen-miller-jd-vance-foto-1/original__640x360",
+    "n_sources": 3,
+    "time": "2026-11-09T07:28:59+00:00",
+    "sources": [
+     {
+      "name": "Zeit Online",
+      "title": "Donald Trump: Trump räumt mögliche Fehler bei Abschiebepolitik ein",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-abschiebepolitik-usa-stephen-miller-jd-vance"
+     },
+     {
+      "name": "FAZ",
+      "title": "USA unter Trump: Trump nennt seine bisherige Abschiebepolitik „zu hart“",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-nennt-seine-bisherige-abschiebepolitik-zu-hart-faz-19444916.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "USA: Trump räumt nach Midterms „zu harte Abschiebepolitik“ ein",
+      "link": "https://www.handelsblatt.com/politik/international/usa-trump-raeumt-nach-midterms-zu-harte-abschiebepolitik-ein/100268336.html"
+     }
+    ]
+   },
+   {
+    "title": "Todesschütze von Krakau ist tot",
+    "link": "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html",
+    "image": "https://images.tagesschau.de/image/b37f455e-5f09-4bb8-b717-e2ef584c52c1/AAABob8GgTA/AAABnSSvrFg/16x9-big/krakau-178.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-09T07:06:15+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Todesschütze von Krakau ist tot",
+      "link": "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Polen: Todesschütze von Krakau ist tot",
+      "link": "https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot-a-96a6c452-58ed-43d9-a789-4eacf0edef28#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Im Krankenhaus: Attentäter von Krakau ist tot",
+      "link": "https://www.faz.net/aktuell/politik/ausland/schusswaffenattacke-in-krakau-taeter-im-krankenhaus-gestorben-accg-201664711.html"
+     }
+    ]
+   },
+   {
+    "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+    "link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+    "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob1ZsYo/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-09T05:17:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Nvidia: Jensen Huang gesteht Affäre mit mutmaßlicher China-Spionin - was folgt daraus?",
+      "link": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Nvidia-Chef: War Jensen Huangs Affäre eine chinesische Spionin?",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-war-jensen-huangs-affaere-eine-chinesische-spionin-201664216.html"
+     }
+    ]
+   },
+   {
+    "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+    "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+    "image": "https://images.tagesschau.de/image/1f30676a-63bb-4057-a135-fb0db6a3cdc5/AAABob2ckP8/AAABnSSvrFg/16x9-big/papst-1178.jpg?width=1920",
     "n_sources": 3,
     "time": "2026-11-09T03:14:22+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Papst Leo XIV. setzt Südamerika-Reise fort",
-      "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html"
+      "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html"
      },
      {
       "name": "Zeit Online",
@@ -120,26 +187,50 @@
     ]
    },
    {
-    "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
-    "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
-    "image": "https://images.tagesschau.de/image/1d795625-6e32-4268-8bf0-5ca4a0c10aa8/AAABobqEWvg/AAABnSSvrFg/16x9-big/dana-white-donald-trump-100.jpg?width=1920",
+    "title": "Brandenburg: Leiche der vermissten Lisa gefunden – Verdächtiger festgenommen",
+    "link": "https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen-a-53fa9df4-9f57-4574-a824-eb48e6099e79#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/d78a19cc-c452-4924-b7ec-fe6f7cb56948_w520_r2.08_fpx33.34_fpy50.jpg",
     "n_sources": 3,
-    "time": "2026-11-09T00:06:00+00:00",
+    "time": "2026-11-09T00:32:44+00:00",
     "sources": [
      {
-      "name": "Tagesschau",
-      "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html"
-     },
-     {
       "name": "Spiegel",
-      "title": "Donald Trump: UFC-Chef Dana White als Pressesprecher? »War alles nur Spaß«",
-      "link": "https://www.spiegel.de/ausland/donald-trump-ufc-chef-dana-white-als-pressesprecher-war-alles-nur-spass-a-cd80c40a-389c-4843-9e29-32d7df86fc41#ref=rss"
+      "title": "Brandenburg: Leiche der vermissten Lisa gefunden – Verdächtiger festgenommen",
+      "link": "https://www.spiegel.de/panorama/justiz/brandenburg-leiche-der-vermissten-lisa-gefunden-verdaechtiger-festgenommen-a-53fa9df4-9f57-4574-a824-eb48e6099e79#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Dana White: Donald Trump will UFC-Chef als nächsten Regierungssprecher",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/dana-white-donald-trump-weisses-haus-sprecher"
+      "title": "Gewaltverbrechen: Spurensuche in Brandenburg: Vermisste Schülerin tot gefunden",
+      "link": "https://www.zeit.de/news/2026-11/09/spurensuche-in-brandenburg-vermisste-schuelerin-tot-gefunden"
+     },
+     {
+      "name": "FAZ",
+      "title": "Nach tagelanger Suche: Vermisste Schülerin aus Berlin tot aufgefunden – Verdächtiger festgenommen",
+      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/vermisste-schuelerin-aus-berlin-tot-aufgefunden-201663880.html"
+     }
+    ]
+   },
+   {
+    "title": "Björn Dake, ARD Tel Aviv, über Eisenkots schwierige Regierungsbildung in Israel",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1680512.html",
+    "image": "https://images.tagesschau.de/image/d3bcb3ca-b6ac-4502-b40e-7488cc6a7f8a/AAABob0rIpM/AAABnSSvrFg/16x9-big/sendungsbild-1824602.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-08T21:58:10+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Björn Dake, ARD Tel Aviv, über Eisenkots schwierige Regierungsbildung in Israel",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1680512.html"
+     },
+     {
+      "name": "FAZ",
+      "title": "ISRAEL: Nach der Pattsituation: Eisenkot soll die Regierung bilden",
+      "link": "https://www.faz.net/video/israelis-demonstrieren-fuer-eisenkot-und-politischen-wandel-201663228.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Israel: Diese Optionen hat Eisenkot nun für die Regierungsbildung",
+      "link": "https://www.handelsblatt.com/politik/international/israel-diese-optionen-hat-eisenkot-nun-fuer-die-regierungsbildung/100268201.html"
      }
     ]
    },
@@ -166,90 +257,43 @@
       "link": "https://www.faz.net/aktuell/sport/formel-1/lando-norris-siegt-bei-formel-1-in-brasilien-mercedes-holt-wm-team-wertung-201244831.html"
      }
     ]
-   },
-   {
-    "title": "Köln gegen Leverkusen - das Rheinland-Duell",
-    "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193663/1-fc-koeln_bayer-leverkusen/liveticker",
-    "image": "https://images.sportschau.de/image/87feea67-9aa8-47c6-ab77-aac9de73f480/AAABobvCXPk/AAABnSSvrFg/16x9-big/koeln-leverkusen-zweikampf-102.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-08T16:35:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Köln gegen Leverkusen - das Rheinland-Duell",
-      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193663/1-fc-koeln_bayer-leverkusen/liveticker"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Fußball-Bundesliga: 1. FC Köln unterliegt Bayer Leverkusen, El-Mala-Brüder kombinieren sich zum Anschlusstor",
-      "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-unterliegt-bayer-leverkusen-el-mala-brueder-kombinieren-sich-zum-anschlusstor-a-4933ff7e-5d31-4596-9ae8-7aaa11bc55c3#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bundesliga-Derby: Tor von El Mala reicht nicht – Leverkusen gewinnt in Köln",
-      "link": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bayer-leverkusen-gewinnt-fussball-bundesliga-derby-bei-1-fc-koeln-accg-201304363.html"
-     }
-    ]
-   },
-   {
-    "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
-    "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
-    "image": "https://images.tagesschau.de/image/1f30676a-63bb-4057-a135-fb0db6a3cdc5/AAABob2ckP8/AAABnSSvrFg/16x9-big/papst-1178.jpg?width=1920",
-    "n_sources": 2,
-    "time": "2026-11-09T03:36:02+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
-      "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Kritik an Präsident Milei: Papst mahnt in Argentinien mehr Rücksicht auf Schwache an",
-      "link": "https://www.zeit.de/news/2026-11/09/papst-mahnt-in-argentinien-mehr-ruecksicht-auf-schwache-an"
-     }
-    ]
-   },
-   {
-    "title": "Historische Niederlage: ANC stürzt bei Kommunalwahl in Südafrika ab",
-    "link": "https://www.tagesschau.de/ausland/amerika/wahlen-suedafrika-102.html",
-    "image": "https://images.tagesschau.de/image/0fc3f227-32a1-4044-8aa7-382c07e228a9/AAABob4F528/AAABnSSvrFg/16x9-big/wahlen-suedafrika-104.jpg?width=1920",
-    "n_sources": 2,
-    "time": "2026-11-09T02:47:21+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Historische Niederlage: ANC stürzt bei Kommunalwahl in Südafrika ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/wahlen-suedafrika-102.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Kommunalwahlen in Südafrika: ANC erleidet bei Kommunalwahlen in Südafrika historische Niederlage",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/kommunalwahlen-suedafrika-anc-niederlage-koalitionen-nelson-mandela-gxe"
-     }
-    ]
-   },
-   {
-    "title": "Björn Dake, ARD Tel Aviv, über Eisenkots schwierige Regierungsbildung in Israel",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1680512.html",
-    "image": "https://images.tagesschau.de/image/d3bcb3ca-b6ac-4502-b40e-7488cc6a7f8a/AAABob0rIpM/AAABnSSvrFg/16x9-big/sendungsbild-1824602.jpg?width=1920",
-    "n_sources": 2,
-    "time": "2026-11-08T21:58:10+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Björn Dake, ARD Tel Aviv, über Eisenkots schwierige Regierungsbildung in Israel",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1680512.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Israel: Diese Optionen hat Eisenkot nun für die Regierungsbildung",
-      "link": "https://www.handelsblatt.com/politik/international/israel-diese-optionen-hat-eisenkot-nun-fuer-die-regierungsbildung/100268201.html"
-     }
-    ]
    }
   ],
   "7d": [
+   {
+    "title": "Demokraten feiern Wahlsieg bei US-Midterms",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678262.html",
+    "image": "https://images.tagesschau.de/image/ddc735c6-9139-426b-ae26-7efdf8f885b7/AAABoaf_5sg/AAABnSSvrFg/16x9-big/sendungsbild-1822460.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-09T06:54:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Demokraten feiern Wahlsieg bei US-Midterms",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678262.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Donald Trump nach den Midterms in den USA: Wird er jetzt auf die Demokraten zugehen?",
+      "link": "https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen-a-1a0f3963-b289-4c5d-8409-32a8b0eba64d#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Zwischenwahlen in den USA: Demokraten werden Mehrheit im US-Repräsentantenhaus holen",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/demokraten-holen-die-mehrheit-im-us-repraesentantenhaus"
+     },
+     {
+      "name": "FAZ",
+      "title": "USA unter Trump: Demokraten nehmen Trumps Umfeld ins Visier",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokraten-nehmen-trumps-umfeld-ins-visier-faz-19444916.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Midterms: US-Demokraten nehmen nach Wahlsieg Musk und Trump-Vertraute ins Visier",
+      "link": "https://www.handelsblatt.com/politik/international/midterms-us-demokraten-nehmen-nach-wahlsieg-musk-und-trump-vertraute-ins-visier-01/100268255.html"
+     }
+    ]
+   },
    {
     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
@@ -315,40 +359,6 @@
       "name": "Handelsblatt",
       "title": "Dana White: Trump will Kampfsport-Manager als Sprecher des Weißen Hauses",
       "link": "https://www.handelsblatt.com/politik/international/dana-white-trump-will-kampfsport-manager-als-sprecher-des-weissen-hauses/100268144.html"
-     }
-    ]
-   },
-   {
-    "title": "Demokraten feiern Wahlsieg bei US-Midterms",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678262.html",
-    "image": "https://images.tagesschau.de/image/ddc735c6-9139-426b-ae26-7efdf8f885b7/AAABoaf_5sg/AAABnSSvrFg/16x9-big/sendungsbild-1822460.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-08T23:55:15+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Demokraten feiern Wahlsieg bei US-Midterms",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678262.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Donald Trump weist Justizministerium an, unliebsame Demokraten zu untersuchen",
-      "link": "https://www.spiegel.de/ausland/donald-trump-weist-justizministerium-an-unliebsame-demokraten-zu-untersuchen-a-c5f98176-36ff-41ad-88a9-511276a4b746#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Nach Wahlsieg: Wichtiger Demokrat erwartet Untersuchung von Trump-Familie",
-      "link": "https://www.zeit.de/news/2026-11/09/wichtiger-demokrat-erwartet-untersuchung-von-trump-familie"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Trump beauftragt Justizministerium mit Untersuchung gegen Demokraten",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-beauftragt-justizministerium-mit-untersuchung-gegen-demokraten-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ US-Midterms +++: Sieben Staaten zurückerobert – Demokraten gewinnen auch Mehrheit im Senat",
-      "link": "https://www.handelsblatt.com/politik/international/us-midterms-sieben-staaten-zurueckerobert-demokraten-gewinnen-auch-mehrheit-im-senat/29669594.html"
      }
     ]
    },
@@ -455,36 +465,36 @@
     ]
    },
    {
-    "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
-    "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
-    "image": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoa0KZI8/AAABnSSvrFg/16x9-big/pena-102.jpg?width=1920",
+    "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+    "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
+    "image": "https://images.tagesschau.de/image/7bd1dc74-b219-499d-9b06-dc6fe94316da/AAABobNOoTQ/AAABnSSvrFg/16x9-big/pena-106.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-06T23:48:40+00:00",
+    "time": "2026-11-08T03:32:53+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
-      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html"
+      "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+      "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Paraguay: Präsident Santiago Peña tritt nach Bankenskandal zurück",
-      "link": "https://www.spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5#ref=rss"
+      "title": "Paraguay: Santiago Peña als Präsident abgesetzt – Vize übernimmt",
+      "link": "https://www.spiegel.de/ausland/paraguay-santiago-pena-als-praesident-abgesetzt-vize-uebernimmt-a-f188f388-ac17-4d7f-a95c-4e9ff08eba18#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Regierungskrise in Paraguay: Paraguays Senat enthebt Präsident Santiago Peña des Amtes",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/paraguay-santiago-pena-regierungskrise-bankenskandal-senat"
+      "title": "Bankenskandal in Paraguay: Paraguays abgesetzter Präsident Peña muss in Untersuchungshaft",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-untersuchungshaft-bankenskandal"
      },
      {
       "name": "FAZ",
-      "title": "Renten betroffen: Bankenkrise zwingt Paraguays Präsidenten zum Rücktritt",
-      "link": "https://www.faz.net/aktuell/politik/ausland/bankenkrise-in-paraguay-praesident-santiago-pena-tritt-zurueck-accg-201653269.html"
+      "title": "Bankenaffäre: Paraguays Präsident abgesetzt",
+      "link": "https://www.faz.net/aktuell/politik/ausland/santiago-pena-abgesetzt-paraguays-praesident-scheitert-an-bankenaffaere-201660662.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Bankenkrise: Paraguays Präsident Peña tritt nach Bankenkollaps zurück",
-      "link": "https://www.handelsblatt.com/politik/international/bankenkrise-paraguays-praesident-pena-tritt-nach-bankenkollaps-zurueck/100267703.html"
+      "title": "Paraguay: Bankenskandal bringt Paraguays Präsidenten zu Fall",
+      "link": "https://www.handelsblatt.com/politik/international/paraguay-bankenskandal-bringt-paraguays-praesidenten-zu-fall/100267745.html"
      }
     ]
    },
@@ -523,16 +533,16 @@
     ]
    },
    {
-    "title": "Hubert Aiwanger - das Gesicht der Freien Wähler",
-    "link": "https://www.tagesschau.de/inland/regional/bayern/hubert-aiwanger-nachruf-100.html",
-    "image": "https://images.tagesschau.de/image/43e5d79d-1f86-4579-b5a4-5855deae5240/AAABoaqSgZk/AAABnSSvrFg/16x9-big/br-das-gesicht-der-freien-waehler-hubert-aiwanger-ist-tot-100.jpg?width=1920",
+    "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+    "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html",
+    "image": "https://images.tagesschau.de/image/5cdacbc5-bc6b-47f3-8f71-fd283e85ad69/AAABoavM7qM/AAABnSSvrFg/16x9-big/freie-waehler-109.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-05T10:49:48+00:00",
+    "time": "2026-11-06T03:15:06+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Hubert Aiwanger - das Gesicht der Freien Wähler",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/hubert-aiwanger-nachruf-100.html"
+      "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+      "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
      },
      {
       "name": "Spiegel",
@@ -541,8 +551,8 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Hubert Aiwanger: Freie Wähler wollen Bundesparteitag nach Tod Aiwangers verschieben",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/bundesparteitag-freie-waehler-hubert-aiwanger-verschiebung-joachim-streit-gxe"
+      "title": "Nach dem Tod des Parteichefs: Experte: Aiwanger-Nachfolge Zukunftsfrage für Freie Wähler",
+      "link": "https://www.zeit.de/news/2026-11/06/experte-aiwanger-nachfolge-zukunftsfrage-fuer-freie-waehler"
      },
      {
       "name": "FAZ",
@@ -551,47 +561,81 @@
      },
      {
       "name": "Handelsblatt",
-      "title": "Freie Wähler: Hubert Aiwanger ist tot – wie aus dem Mittwoch des Aufbruchs ein Tag voller Tragik wurde",
-      "link": "https://www.handelsblatt.com/politik/deutschland/hubert-aiwanger-die-tragik-seines-todes-und-die-zukunft-der-freien-waehler/100267506.html"
+      "title": "Politik: Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+      "link": "https://www.handelsblatt.com/politik/deutschland/politik-bayerns-wirtschaftsminister-hubert-aiwanger-ist-tot/100267392.html"
      }
     ]
    },
    {
-    "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
-    "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
-    "image": "https://images.tagesschau.de/image/86f7cb7c-53f7-4f94-b11f-dc56bbe00cb7/AAABoZ2pwgw/AAABnSSvrFg/16x9-big/truemmer-schule-saporischschja-100.jpg?width=1920",
+    "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
+    "link": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
+    "image": "https://images.tagesschau.de/image/4141b557-c7c8-4671-9d78-3b1a80a10857/AAABoaM1OZM/AAABnSSvrFg/16x9-big/puente-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-03T17:56:15+00:00",
+    "time": "2026-11-04T09:37:05+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html"
+      "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
+      "link": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Ukraine: 26 Tote bei russischen Angriffen auf Schulgebäude nahe Saporischschja",
-      "link": "https://www.spiegel.de/ausland/ukraine-26-tote-bei-russischen-angriffen-auf-schulgebaeude-nahe-saporischschja-a-da431ff0-9641-46e1-af7b-ac3264faf56f#ref=rss"
+      "title": "Spanien: Verkehrsminister Óscar Puente kündigt nach tödlichem Zugunglücken Rücktritt an",
+      "link": "https://www.spiegel.de/ausland/spanien-verkehrsminister-oscar-puente-kuendigt-nach-toedlichem-zugungluecken-ruecktritt-an-a-94e07b2a-3563-4419-aebd-67a4385091bc#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Krieg in der Ukraine: Mindestens 26 Tote bei russischen Luftangriffen in Saporischschja",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/russland-luftangriff-ukraine-komyschuwacha-saporischschja-humanitaere-hilfe"
+      "title": "Bahnkatastrophe: Spaniens Verkehrsminister tritt nach Zugunglück zurück",
+      "link": "https://www.zeit.de/news/2026-11/03/spanien-beschliesst-nach-zugunglueck-neue-sicherheitsmassnahmen"
      },
      {
       "name": "FAZ",
-      "title": "Ukraine: Dutzende Tote bei Angriff auf Schule",
-      "link": "https://www.faz.net/video/ukraine-dutzende-tote-bei-angriff-auf-schule-201646581.html"
+      "title": "„könne nicht im Amt bleiben“: Verkehrsminister Puente tritt nach zwei schweren Zugunglücken zurück",
+      "link": "https://www.faz.net/video/verkehrsminister-puente-tritt-nach-zwei-schweren-zugungluecken-zurueck-201650351.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Ukraine-Krieg: Auf die Waffenruhe folgt ein Massaker: Russischer Angriff auf Schulhaus tötet Dutzende Zivilisten",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russischer-angriff-auf-schulhaus-toetet-dutzende-zivilisten/100267066.html"
+      "title": "Spanien: Spaniens Verkehrsminister tritt nach Zugunglück zurück",
+      "link": "https://www.handelsblatt.com/politik/international/spanien-spaniens-verkehrsminister-tritt-nach-zugunglueck-zurueck/100267110.html"
      }
     ]
    }
   ],
   "30d": [
+   {
+    "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
+    "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html",
+    "image": "https://images.tagesschau.de/image/f44d6ac1-c09a-4c37-a1e1-86f6499d7ece/AAABoabOAVo/AAABnSSvrFg/16x9-big/trump-maga-caps-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-09T07:28:59+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Midterm-Wahlen: Können sich die Republikaner von Donald Trump lösen?",
+      "link": "https://www.spiegel.de/ausland/midterm-wahlen-koennen-sich-die-republikaner-von-donald-trump-loesen-a-8c7b35f9-52da-412c-80b5-3ddb73be5aea#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Donald Trump: Trump räumt mögliche Fehler bei Abschiebepolitik ein",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-abschiebepolitik-usa-stephen-miller-jd-vance"
+     },
+     {
+      "name": "FAZ",
+      "title": "USA unter Trump: Trump nennt seine bisherige Abschiebepolitik „zu hart“",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-nennt-seine-bisherige-abschiebepolitik-zu-hart-faz-19444916.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "USA: Trump räumt nach Midterms „zu harte Abschiebepolitik“ ein",
+      "link": "https://www.handelsblatt.com/politik/international/usa-trump-raeumt-nach-midterms-zu-harte-abschiebepolitik-ein/100268336.html"
+     }
+    ]
+   },
    {
     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
@@ -657,40 +701,6 @@
       "name": "Handelsblatt",
       "title": "Dana White: Trump will Kampfsport-Manager als Sprecher des Weißen Hauses",
       "link": "https://www.handelsblatt.com/politik/international/dana-white-trump-will-kampfsport-manager-als-sprecher-des-weissen-hauses/100268144.html"
-     }
-    ]
-   },
-   {
-    "title": "Demokraten feiern Wahlsieg bei US-Midterms",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678262.html",
-    "image": "https://images.tagesschau.de/image/ddc735c6-9139-426b-ae26-7efdf8f885b7/AAABoaf_5sg/AAABnSSvrFg/16x9-big/sendungsbild-1822460.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-08T23:55:15+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Demokraten feiern Wahlsieg bei US-Midterms",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678262.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Donald Trump weist Justizministerium an, unliebsame Demokraten zu untersuchen",
-      "link": "https://www.spiegel.de/ausland/donald-trump-weist-justizministerium-an-unliebsame-demokraten-zu-untersuchen-a-c5f98176-36ff-41ad-88a9-511276a4b746#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Nach Wahlsieg: Wichtiger Demokrat erwartet Untersuchung von Trump-Familie",
-      "link": "https://www.zeit.de/news/2026-11/09/wichtiger-demokrat-erwartet-untersuchung-von-trump-familie"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Trump beauftragt Justizministerium mit Untersuchung gegen Demokraten",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-beauftragt-justizministerium-mit-untersuchung-gegen-demokraten-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ US-Midterms +++: Demokraten kündigen Korruptionsermittlungen gegen Trump an",
-      "link": "https://www.handelsblatt.com/politik/international/nach-us-midterms-demokraten-kuendigen-korruptionsermittlungen-gegen-trump-an/29669594.html"
      }
     ]
    },
@@ -786,8 +796,8 @@
      },
      {
       "name": "FAZ",
-      "title": "Gen-Z-Demonstration: Worauf sich Bürger in Frankfurt einstellen müssen",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-demos-in-frankfurt-was-sie-am-samstag-wissen-muessen-201635656.html"
+      "title": "In Frankreich: Verdächtige nach Affendiebstahl festgenommen",
+      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/verdaechtige-nach-affendiebstahl-festgenommen-accg-201639077.html"
      },
      {
       "name": "Handelsblatt",
@@ -849,8 +859,8 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Haftbefehl erlassen: Staatskrise in Paraguay: Peña als Präsident abgesetzt",
-      "link": "https://www.zeit.de/news/2026-11/07/staatskrise-in-paraguay-pe-a-als-praesident-abgesetzt"
+      "title": "Santiago Peña: Paraguays Präsident Peña kündigt nach Bankenpleite Rücktritt an",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-ruecktritt-bankenkrise"
      },
      {
       "name": "FAZ",
@@ -865,70 +875,70 @@
     ]
    },
    {
-    "title": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-    "link": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html",
-    "image": "https://images.tagesschau.de/image/70fe0c7c-a66f-4325-8ee6-d0a3069080da/AAABoXjcJ8Y/AAABnSSvrFg/16x9-big/trump-doellner-100.jpg?width=1920",
+    "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
+    "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
+    "image": "https://images.tagesschau.de/image/58c6a5b2-091b-4fbc-a28e-4aee3f008817/AAABoYj-n3M/AAABnSSvrFg/16x9-big/lagarde-334.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-06T13:41:17+00:00",
+    "time": "2026-11-06T17:27:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-      "link": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html"
+      "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Audi-Aufsichtsrat beruft Sondersitzung ein",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/audi-aufsichtsrat-beruft-sondersitzung-ein-a-8adc16a9-5c4e-47d1-a6bd-bf3efdc45c7f#ref=rss"
+      "title": "EZB: Welche Chancen Deutschland bei der Nachfolge von Christine Lagarde hat",
+      "link": "https://www.spiegel.de/wirtschaft/ezb-welche-chancen-deutschland-bei-der-nachfolge-von-christine-lagarde-hat-a-ddb505b8-589a-42ba-b36a-41a19ce63a68#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Umfrage: Mehrheit findet Auftritt von Audi-Chef mit Trump falsch",
-      "link": "https://www.zeit.de/news/2026-10/27/mehrheit-sieht-auftritt-von-audi-chef-mit-trump-kritisch"
+      "title": "EZB-Präsidentin: Christine Lagarde hört vorzeitig als EZB-Präsidentin auf",
+      "link": "https://www.zeit.de/wirtschaft/2026-10/christine-lagarde-hoert-vorzeitig-als-ezb-praesidentin-auf"
      },
      {
       "name": "FAZ",
-      "title": "Aufsichtsrat berät: Der Auftritt bei Trump hat für Audi-Chef Döllner ein Nachspiel",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-der-trump-auftritt-von-doellner-hat-ein-nachspiel-201636095.html"
+      "title": "F.A.Z. Frühdenker: Wer folgt Christine Lagarde an der EZB-Spitze?",
+      "link": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/wer-folgt-christine-lagarde-an-der-ezb-spitze-faz-fruehdenker-accg-201657077.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Audi: Hat der Audi-Chef gegen interne Regeln verstoßen? VW stößt Untersuchung wegen Döllners Auftritt mit Trump an",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/audi-vw-stoesst-untersuchung-zu-doellners-trump-auftritt-an/100267817.html"
+      "title": "Geldpolitik: EZB-Präsidentin Christine Lagarde tritt im Februar vorzeitig ab",
+      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/christine-lagarde-ezb-praesidentin-tritt-im-februar-2027-vorzeitig-ab/100265875.html"
      }
     ]
    },
    {
-    "title": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
-    "link": "https://www.tagesschau.de/ausland/amerika/midterms-szenarien-100.html",
-    "image": "https://images.tagesschau.de/image/9e4b48cc-a1e7-4651-aa17-04dfaeec83f3/AAABoYKmqUo/AAABnSSvrFg/16x9-big/frau-wahllokal-100.jpg?width=1920",
+    "title": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html",
+    "image": "https://images.tagesschau.de/image/0c786d38-2da6-4bd4-97f4-308eff3a15d8/AAABoZrgYIE/AAABnSSvrFg/16x9-big/berlin-koalition-104.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-06T10:06:55+00:00",
+    "time": "2026-11-06T17:03:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-szenarien-100.html"
+      "title": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Donald Trump: Trump erklärt sein vergoldetes Oval Office zum Nationaldenkmal",
-      "link": "https://www.spiegel.de/ausland/donald-trump-trump-erklaert-sein-vergoldetes-oval-office-zum-nationaldenkmal-a-ed02fc73-d56a-4773-9142-68e9bb41780e#ref=rss"
+      "title": "Berlin: Warum die SPD-Spitze auf ein Scheitern von Rot-Grün-Rot hofft",
+      "link": "https://www.spiegel.de/politik/deutschland/berlin-warum-die-spd-spitze-auf-ein-scheitern-von-rot-gruen-rot-hofft-a-fc81f2f3-78ae-4d2f-9dbc-9c3eb9253b55#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Dekor als Chefsache: Trump erklärt goldverziertes Oval Office zum Nationaldenkmal",
-      "link": "https://www.zeit.de/news/2026-11/06/trump-erklaert-goldverziertes-oval-office-zum-nationaldenkmal"
+      "title": "Regierungsbildung in Berlin: In Berlin beginnen rot-grün-rote Koalitionsverhandlungen",
+      "link": "https://www.zeit.de/news/2026-11/02/in-berlin-beginnen-rot-gruen-rote-koalitionsverhandlungen"
      },
      {
       "name": "FAZ",
-      "title": "USA unter Trump: Trump macht Oval Office zum „National Monument“",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-macht-oval-office-zum-national-monument-faz-19444916.html"
+      "title": "Rot-grün-rot in berlin: Auftakt der Koalitionsgespräche",
+      "link": "https://www.faz.net/video/berlin-auftakt-der-koalitionsgespraeche-201644369.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "+++ US-Midterms +++: Trump will Oval Office als nationales Denkmal schützen lassen",
-      "link": "https://www.handelsblatt.com/politik/international/nach-us-midterms-trump-will-oval-office-als-nationales-denkmal-schuetzen-lassen/29669594.html"
+      "title": "Berlin: Weg frei für rot-grün-rote Koalitionsgespräche in Berlin",
+      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-weg-frei-fuer-rot-gruen-rote-koalitionsgespraeche-in-berlin/100266336.html"
      }
     ]
    }
@@ -936,8 +946,121 @@
  },
  "payments": {
   "de": {
-   "24h": [],
+   "24h": [
+    {
+     "title": "Unicredit macht Tempo und plant Dividendenkürzung bei der Commerzbank",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82Z20zVUNJY2d5Sm1SSy0wcVAzQTBIZ1RBc1lLVUhjQ1VXam91M2FiLXE3MXlnSmtTaXEtdjBaTmc5NjNRYTVHTzZCdGtvdHpPMzdLMGZibmFmY19jcTloWXVtZ2FzRzAtVnJGdg?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T07:12:18+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Unicredit macht Tempo und plant Dividendenkürzung bei der Commerzbank",
+       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82Z20zVUNJY2d5Sm1SSy0wcVAzQTBIZ1RBc1lLVUhjQ1VXam91M2FiLXE3MXlnSmtTaXEtdjBaTmc5NjNRYTVHTzZCdGtvdHpPMzdLMGZibmFmY19jcTloWXVtZ2FzRzAtVnJGdg?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Fadata kündigt KI-Plattform für Versicherer an",
+     "link": "https://www.it-finanzmagazin.de/fadata-kuendigt-ki-plattform-fuer-versicherer-an-253710/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T07:00:19+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Fadata kündigt KI-Plattform für Versicherer an",
+       "link": "https://www.it-finanzmagazin.de/fadata-kuendigt-ki-plattform-fuer-versicherer-an-253710/"
+      }
+     ]
+    },
+    {
+     "title": "Unicredit schafft Homeoffice ab – HVB-Belegschaft bleibt verschont",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS15Tjg5TXItNU14ckplUUJ3WFF3VFRWZXduMlFIT3E5LWk0ZWN5Nnd4ZTNVdGJTSW5PTDNTYzlaNWx6cWZqNDVDZDVSMklGejZrbHRHZ3VMekxwZmpUQ0x6RXZYYTk5SU5Sc2d5bVFMVDhiVUg0R2dtV3VINTd5QkVLQkxKY3U2VzZnenR5SEhnb19CTWNUR01XQTN2QQ?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T05:02:01+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Unicredit schafft Homeoffice ab – HVB-Belegschaft bleibt verschont",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS15Tjg5TXItNU14ckplUUJ3WFF3VFRWZXduMlFIT3E5LWk0ZWN5Nnd4ZTNVdGJTSW5PTDNTYzlaNWx6cWZqNDVDZDVSMklGejZrbHRHZ3VMekxwZmpUQ0x6RXZYYTk5SU5Sc2d5bVFMVDhiVUg0R2dtV3VINTd5QkVLQkxKY3U2VzZnenR5SEhnb19CTWNUR01XQTN2QQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Was sich die ING Deutschland ihre jüngste Prämien-Kampagne kosten lässt",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzNPZDY2OHY4akdHU0FTaUhWRUl1TGJKUFBRQWt3RG9BUV91WmRMSGozVDRkU2RIVk5sSkx2clZWaFFkaDJ1dEFxTUp6c19lM1I0Y2RvXzA5OTdERGhmNWlJMHVmRU9jZFZQZUpMc1UyTzRWOVVmaWJjYjk2Ti1QMzNoTGlneE4xaGxzbmFGTGJsaTZMeWxfUi0xVnBtQ0tzZVo3dExKaEF1WEoyd3hpLTZWYWxHZw?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T04:26:44+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Was sich die ING Deutschland ihre jüngste Prämien-Kampagne kosten lässt",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzNPZDY2OHY4akdHU0FTaUhWRUl1TGJKUFBRQWt3RG9BUV91WmRMSGozVDRkU2RIVk5sSkx2clZWaFFkaDJ1dEFxTUp6c19lM1I0Y2RvXzA5OTdERGhmNWlJMHVmRU9jZFZQZUpMc1UyTzRWOVVmaWJjYjk2Ti1QMzNoTGlneE4xaGxzbmFGTGJsaTZMeWxfUi0xVnBtQ0tzZVo3dExKaEF1WEoyd3hpLTZWYWxHZw?oc=5"
+      }
+     ]
+    }
+   ],
    "7d": [
+    {
+     "title": "Unicredit macht Tempo und plant Dividendenkürzung bei der Commerzbank",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82Z20zVUNJY2d5Sm1SSy0wcVAzQTBIZ1RBc1lLVUhjQ1VXam91M2FiLXE3MXlnSmtTaXEtdjBaTmc5NjNRYTVHTzZCdGtvdHpPMzdLMGZibmFmY19jcTloWXVtZ2FzRzAtVnJGdg?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T07:12:18+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Unicredit macht Tempo und plant Dividendenkürzung bei der Commerzbank",
+       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82Z20zVUNJY2d5Sm1SSy0wcVAzQTBIZ1RBc1lLVUhjQ1VXam91M2FiLXE3MXlnSmtTaXEtdjBaTmc5NjNRYTVHTzZCdGtvdHpPMzdLMGZibmFmY19jcTloWXVtZ2FzRzAtVnJGdg?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Fadata kündigt KI-Plattform für Versicherer an",
+     "link": "https://www.it-finanzmagazin.de/fadata-kuendigt-ki-plattform-fuer-versicherer-an-253710/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T07:00:19+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Fadata kündigt KI-Plattform für Versicherer an",
+       "link": "https://www.it-finanzmagazin.de/fadata-kuendigt-ki-plattform-fuer-versicherer-an-253710/"
+      }
+     ]
+    },
+    {
+     "title": "Unicredit schafft Homeoffice ab – HVB-Belegschaft bleibt verschont",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS15Tjg5TXItNU14ckplUUJ3WFF3VFRWZXduMlFIT3E5LWk0ZWN5Nnd4ZTNVdGJTSW5PTDNTYzlaNWx6cWZqNDVDZDVSMklGejZrbHRHZ3VMekxwZmpUQ0x6RXZYYTk5SU5Sc2d5bVFMVDhiVUg0R2dtV3VINTd5QkVLQkxKY3U2VzZnenR5SEhnb19CTWNUR01XQTN2QQ?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T05:02:01+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Unicredit schafft Homeoffice ab – HVB-Belegschaft bleibt verschont",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS15Tjg5TXItNU14ckplUUJ3WFF3VFRWZXduMlFIT3E5LWk0ZWN5Nnd4ZTNVdGJTSW5PTDNTYzlaNWx6cWZqNDVDZDVSMklGejZrbHRHZ3VMekxwZmpUQ0x6RXZYYTk5SU5Sc2d5bVFMVDhiVUg0R2dtV3VINTd5QkVLQkxKY3U2VzZnenR5SEhnb19CTWNUR01XQTN2QQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Was sich die ING Deutschland ihre jüngste Prämien-Kampagne kosten lässt",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzNPZDY2OHY4akdHU0FTaUhWRUl1TGJKUFBRQWt3RG9BUV91WmRMSGozVDRkU2RIVk5sSkx2clZWaFFkaDJ1dEFxTUp6c19lM1I0Y2RvXzA5OTdERGhmNWlJMHVmRU9jZFZQZUpMc1UyTzRWOVVmaWJjYjk2Ti1QMzNoTGlneE4xaGxzbmFGTGJsaTZMeWxfUi0xVnBtQ0tzZVo3dExKaEF1WEoyd3hpLTZWYWxHZw?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T04:26:44+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Was sich die ING Deutschland ihre jüngste Prämien-Kampagne kosten lässt",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzNPZDY2OHY4akdHU0FTaUhWRUl1TGJKUFBRQWt3RG9BUV91WmRMSGozVDRkU2RIVk5sSkx2clZWaFFkaDJ1dEFxTUp6c19lM1I0Y2RvXzA5OTdERGhmNWlJMHVmRU9jZFZQZUpMc1UyTzRWOVVmaWJjYjk2Ti1QMzNoTGlneE4xaGxzbmFGTGJsaTZMeWxfUi0xVnBtQ0tzZVo3dExKaEF1WEoyd3hpLTZWYWxHZw?oc=5"
+      }
+     ]
+    },
     {
      "title": "Harvest now, decrypt later: Kreditdaten brauchen PQC vor dem vollständigen Krypto-Inventar",
      "link": "https://www.it-finanzmagazin.de/quantensicherheit-krypto-agilitaet-im-core-banking-252723/",
@@ -1019,62 +1142,6 @@
        "name": "IT-Finanzmagazin",
        "title": "KI-Akademie: Privatkundenbank der Deutschen Bank macht Mitarbeiter fit für KI-Agenten",
        "link": "https://www.it-finanzmagazin.de/ki-akademie-privatkundenbank-der-deutschen-bank-macht-mitarbeiter-fit-fuer-ki-agenten-253580/"
-      }
-     ]
-    },
-    {
-     "title": "Inveda.net verbindet digitale Antragsstrecken mit eigener BiPRO-440 Erweiterung",
-     "link": "https://www.it-finanzmagazin.de/inveda-net-verbindet-digitale-antragsstrecken-mit-bipro-440-253591/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-06T07:00:36+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Inveda.net verbindet digitale Antragsstrecken mit eigener BiPRO-440 Erweiterung",
-       "link": "https://www.it-finanzmagazin.de/inveda-net-verbindet-digitale-antragsstrecken-mit-bipro-440-253591/"
-      }
-     ]
-    },
-    {
-     "title": "wealth-invest-abo",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQ09uV1VHbjlJWmx3WmlMQ3ZFajJHbVV2elVhalJ0WVZvU0lmcU54SmcwTmdnMTJCUTAyUGdmSi1nTHJtTkg5NjE1ZElCR1M5SFFBcA?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-06T04:47:40+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "wealth-invest-abo",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQ09uV1VHbjlJWmx3WmlMQ3ZFajJHbVV2elVhalJ0WVZvU0lmcU54SmcwTmdnMTJCUTAyUGdmSi1nTHJtTkg5NjE1ZElCR1M5SFFBcA?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Openbank Deutschland holt nächsten digitalen Topshot – und mehr Personalien",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDR3X05iVll5WG5maEc2ZUNRNTVhdkJKUnFhZGE2OHhidlFlb0pTU2Q1dmNaa3hSUF94X3Q2OExmQ3RWMERmdHB0dTJuS2VpbmhFeTJIa1pxTVd5NThzMmNDWGZ3REVxRDd0R2lfaHJRbkt0YS1rYUxxeUV6N3pqSVFFWmUtVnZJQ0tQRzRvbmc3QXdHMTMtX1prM1lCTll5WVNhUDRwdWdkWWRNNGlPWXhOejUxX3VWV3c?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-06T04:37:58+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Openbank Deutschland holt nächsten digitalen Topshot – und mehr Personalien",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDR3X05iVll5WG5maEc2ZUNRNTVhdkJKUnFhZGE2OHhidlFlb0pTU2Q1dmNaa3hSUF94X3Q2OExmQ3RWMERmdHB0dTJuS2VpbmhFeTJIa1pxTVd5NThzMmNDWGZ3REVxRDd0R2lfaHJRbkt0YS1rYUxxeUV6N3pqSVFFWmUtVnZJQ0tQRzRvbmc3QXdHMTMtX1prM1lCTll5WVNhUDRwdWdkWWRNNGlPWXhOejUxX3VWV3c?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Bei der Aareal Bank vernebelt die flotte Erzählung die triste Realität",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFVuYldMZDFrUHJZQmdVY19xcW9LQjg5QkFZak9YUVJtOEdPTi1HVUYwSHdPbHNZTWQzMXJ5QlBKWUo5QU5YSFk0Sk9ncHJsQjV5enNMSVB5VWlTRFhIZlJUX1dhcy1Jd0h2Nk9lZXd0X3d6dW9sUHlkeWR3a0hDRUVMTFpNTGpYTl9fTXhONFdKc1I0WHNXTU90ZVE0VFJGVFhxOElhRjk?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-06T04:16:26+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Bei der Aareal Bank vernebelt die flotte Erzählung die triste Realität",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFVuYldMZDFrUHJZQmdVY19xcW9LQjg5QkFZak9YUVJtOEdPTi1HVUYwSHdPbHNZTWQzMXJ5QlBKWUo5QU5YSFk0Sk9ncHJsQjV5enNMSVB5VWlTRFhIZlJUX1dhcy1Jd0h2Nk9lZXd0X3d6dW9sUHlkeWR3a0hDRUVMTFpNTGpYTl9fTXhONFdKc1I0WHNXTU90ZVE0VFJGVFhxOElhRjk?oc=5"
       }
      ]
     }
@@ -1119,6 +1186,62 @@
      ]
     },
     {
+     "title": "Unicredit macht Tempo und plant Dividendenkürzung bei der Commerzbank",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82Z20zVUNJY2d5Sm1SSy0wcVAzQTBIZ1RBc1lLVUhjQ1VXam91M2FiLXE3MXlnSmtTaXEtdjBaTmc5NjNRYTVHTzZCdGtvdHpPMzdLMGZibmFmY19jcTloWXVtZ2FzRzAtVnJGdg?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T07:12:18+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Unicredit macht Tempo und plant Dividendenkürzung bei der Commerzbank",
+       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82Z20zVUNJY2d5Sm1SSy0wcVAzQTBIZ1RBc1lLVUhjQ1VXam91M2FiLXE3MXlnSmtTaXEtdjBaTmc5NjNRYTVHTzZCdGtvdHpPMzdLMGZibmFmY19jcTloWXVtZ2FzRzAtVnJGdg?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Fadata kündigt KI-Plattform für Versicherer an",
+     "link": "https://www.it-finanzmagazin.de/fadata-kuendigt-ki-plattform-fuer-versicherer-an-253710/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T07:00:19+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Fadata kündigt KI-Plattform für Versicherer an",
+       "link": "https://www.it-finanzmagazin.de/fadata-kuendigt-ki-plattform-fuer-versicherer-an-253710/"
+      }
+     ]
+    },
+    {
+     "title": "Unicredit schafft Homeoffice ab – HVB-Belegschaft bleibt verschont",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS15Tjg5TXItNU14ckplUUJ3WFF3VFRWZXduMlFIT3E5LWk0ZWN5Nnd4ZTNVdGJTSW5PTDNTYzlaNWx6cWZqNDVDZDVSMklGejZrbHRHZ3VMekxwZmpUQ0x6RXZYYTk5SU5Sc2d5bVFMVDhiVUg0R2dtV3VINTd5QkVLQkxKY3U2VzZnenR5SEhnb19CTWNUR01XQTN2QQ?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T05:02:01+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Unicredit schafft Homeoffice ab – HVB-Belegschaft bleibt verschont",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS15Tjg5TXItNU14ckplUUJ3WFF3VFRWZXduMlFIT3E5LWk0ZWN5Nnd4ZTNVdGJTSW5PTDNTYzlaNWx6cWZqNDVDZDVSMklGejZrbHRHZ3VMekxwZmpUQ0x6RXZYYTk5SU5Sc2d5bVFMVDhiVUg0R2dtV3VINTd5QkVLQkxKY3U2VzZnenR5SEhnb19CTWNUR01XQTN2QQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Was sich die ING Deutschland ihre jüngste Prämien-Kampagne kosten lässt",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzNPZDY2OHY4akdHU0FTaUhWRUl1TGJKUFBRQWt3RG9BUV91WmRMSGozVDRkU2RIVk5sSkx2clZWaFFkaDJ1dEFxTUp6c19lM1I0Y2RvXzA5OTdERGhmNWlJMHVmRU9jZFZQZUpMc1UyTzRWOVVmaWJjYjk2Ti1QMzNoTGlneE4xaGxzbmFGTGJsaTZMeWxfUi0xVnBtQ0tzZVo3dExKaEF1WEoyd3hpLTZWYWxHZw?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T04:26:44+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Was sich die ING Deutschland ihre jüngste Prämien-Kampagne kosten lässt",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzNPZDY2OHY4akdHU0FTaUhWRUl1TGJKUFBRQWt3RG9BUV91WmRMSGozVDRkU2RIVk5sSkx2clZWaFFkaDJ1dEFxTUp6c19lM1I0Y2RvXzA5OTdERGhmNWlJMHVmRU9jZFZQZUpMc1UyTzRWOVVmaWJjYjk2Ti1QMzNoTGlneE4xaGxzbmFGTGJsaTZMeWxfUi0xVnBtQ0tzZVo3dExKaEF1WEoyd3hpLTZWYWxHZw?oc=5"
+      }
+     ]
+    },
+    {
      "title": "Harvest now, decrypt later: Kreditdaten brauchen PQC vor dem vollständigen Krypto-Inventar",
      "link": "https://www.it-finanzmagazin.de/quantensicherheit-krypto-agilitaet-im-core-banking-252723/",
      "image": "",
@@ -1173,68 +1296,48 @@
        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWUWZyNTlBV3lHc2RtdkNBYnJ5MzVGTks3b2lmZDZ1ZFJHcWNIUHowZ25IOE1ZYi1nNWw4LUJFYXZkYVVTa3FFRi1neTJpN011Q0pOcTg3a2RxT1ZYX2llWjQwOGtnSDIxb2M4dkdYaWIwbHpNRlllZl9R?oc=5"
       }
      ]
-    },
-    {
-     "title": "Sparkasse: Ein „Sparschwein“ soll den Wohlstand retten",
-     "link": "https://www.it-finanzmagazin.de/sparkasse-ein-sparschwein-soll-den-wohlstand-retten-253492/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-06T08:06:30+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Sparkasse: Ein „Sparschwein“ soll den Wohlstand retten",
-       "link": "https://www.it-finanzmagazin.de/sparkasse-ein-sparschwein-soll-den-wohlstand-retten-253492/"
-      }
-     ]
-    },
-    {
-     "title": "KI-Akademie: Privatkundenbank der Deutschen Bank macht Mitarbeiter fit für KI-Agenten",
-     "link": "https://www.it-finanzmagazin.de/ki-akademie-privatkundenbank-der-deutschen-bank-macht-mitarbeiter-fit-fuer-ki-agenten-253580/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-06T08:00:36+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "KI-Akademie: Privatkundenbank der Deutschen Bank macht Mitarbeiter fit für KI-Agenten",
-       "link": "https://www.it-finanzmagazin.de/ki-akademie-privatkundenbank-der-deutschen-bank-macht-mitarbeiter-fit-fuer-ki-agenten-253580/"
-      }
-     ]
-    },
-    {
-     "title": "Inveda.net verbindet digitale Antragsstrecken mit eigener BiPRO-440 Erweiterung",
-     "link": "https://www.it-finanzmagazin.de/inveda-net-verbindet-digitale-antragsstrecken-mit-bipro-440-253591/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-06T07:00:36+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Inveda.net verbindet digitale Antragsstrecken mit eigener BiPRO-440 Erweiterung",
-       "link": "https://www.it-finanzmagazin.de/inveda-net-verbindet-digitale-antragsstrecken-mit-bipro-440-253591/"
-      }
-     ]
-    },
-    {
-     "title": "wealth-invest-abo",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQ09uV1VHbjlJWmx3WmlMQ3ZFajJHbVV2elVhalJ0WVZvU0lmcU54SmcwTmdnMTJCUTAyUGdmSi1nTHJtTkg5NjE1ZElCR1M5SFFBcA?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-06T04:47:40+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "wealth-invest-abo",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQ09uV1VHbjlJWmx3WmlMQ3ZFajJHbVV2elVhalJ0WVZvU0lmcU54SmcwTmdnMTJCUTAyUGdmSi1nTHJtTkg5NjE1ZElCR1M5SFFBcA?oc=5"
-      }
-     ]
     }
    ]
   },
   "eu": {
-   "24h": [],
+   "24h": [
+    {
+     "title": "FCA, um zu untersuchen, wie Quantencomputer Finanzkriminalität bekämpfen können",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzQtdUJYRl9VTWpNX0pNQW9iQ1RMa2dUVDY3NjZIWW5ZLUgtMGhiYUZhZ21oVktJUzRIOTZkMjQzVXY0dEJPZUxlUWNWejZBRFMxaTVkbDM2TnJtejBzMHZUVUZSa05jTTAzWEtqYjBFRHZmVTF0NDVrSzRhc0hsT29DYlp5OXlHSFdkTUoxdmpIZzlLc0E?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-09T06:02:29+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "FCA to explore how quantum computing can tackle financial crime",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzQtdUJYRl9VTWpNX0pNQW9iQ1RMa2dUVDY3NjZIWW5ZLUgtMGhiYUZhZ21oVktJUzRIOTZkMjQzVXY0dEJPZUxlUWNWejZBRFMxaTVkbDM2TnJtejBzMHZUVUZSa05jTTAzWEtqYjBFRHZmVTF0NDVrSzRhc0hsT29DYlp5OXlHSFdkTUoxdmpIZzlLc0E?oc=5"
+      }
+     ],
+     "title_orig": "FCA to explore how quantum computing can tackle financial crime"
+    }
+   ],
    "7d": [
+    {
+     "title": "FCA untersucht Quantencomputer auf Betrug",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2t0a2tPaXMyNWhTS3dnS2lwN2NGMC1Rb2tkV3J1Mk0zSXNORGE1SWw4cm9lcHVwRzRyRWFoSzVOd0dXSzdWMUZ4WUdLQWc5SG1od1dNbUNSbU9CS2haNFhoNU5UQXRlWDc1ZWpkLTZZUFB6SVRkUzM0cUdDMVZFSnZVR0ExWGhyZ3pScmMtTDRoM0RYTldaSDNzeXpfc3Y2a2tpYThJWU1jQ2JURnc?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-09T06:02:29+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "FCA explores quantum computing for fraud",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2t0a2tPaXMyNWhTS3dnS2lwN2NGMC1Rb2tkV3J1Mk0zSXNORGE1SWw4cm9lcHVwRzRyRWFoSzVOd0dXSzdWMUZ4WUdLQWc5SG1od1dNbUNSbU9CS2haNFhoNU5UQXRlWDc1ZWpkLTZZUFB6SVRkUzM0cUdDMVZFSnZVR0ExWGhyZ3pScmMtTDRoM0RYTldaSDNzeXpfc3Y2a2tpYThJWU1jQ2JURnc?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "FCA to explore how quantum computing can tackle financial crime",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzQtdUJYRl9VTWpNX0pNQW9iQ1RMa2dUVDY3NjZIWW5ZLUgtMGhiYUZhZ21oVktJUzRIOTZkMjQzVXY0dEJPZUxlUWNWejZBRFMxaTVkbDM2TnJtejBzMHZUVUZSa05jTTAzWEtqYjBFRHZmVTF0NDVrSzRhc0hsT29DYlp5OXlHSFdkTUoxdmpIZzlLc0E?oc=5"
+      }
+     ],
+     "title_orig": "FCA explores quantum computing for fraud"
+    },
     {
      "title": "Tokenisierte Einzahlungen werden die Akzeptanz von Stablecoins beschleunigen",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFBUZk5JNllETThNVnJMY3lFazNLMzh2VHIwNWRQQTB3cFdiMGpkWGdxdkJKQU9hVmRVNmQxWWJTTTkxNVBnUmoxSjdQOExlOUxiYmJQcXI0VDJDS18yZFkwUi00MENQSDNicUJnUTZtMEh0aTk3OU4weGxzenBmX2ZDY3RwN1ZBZUJ4QXlVLW1VVkNXQkhYN0lTOG1lVy1oaDd0clE0UmlydGJBNzl4Wg?oc=5",
@@ -1414,26 +1517,6 @@
       }
      ],
      "title_orig": "EU and Canada plan to link real-time payment systems"
-    },
-    {
-     "title": "UK Fintech Navro erhält Texas Geldübertragungslizenz",
-     "link": "https://www.finextra.com/pressarticle/111527/uk-fintech-navro-receives-texas-money-transmission-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-03T13:16:45+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "UK fintech Navro receives Texas money transmission licence",
-       "link": "https://www.finextra.com/pressarticle/111527/uk-fintech-navro-receives-texas-money-transmission-licence?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "Navro secures Texas money transmitter licence for US growth",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYUE0dXhqOHJfc0JxbTRnRkhIdkd0cncya3hBdWxYRXJfMDFCUkJuZ0o3cWZmN2xUVEVSRmFNZDZDLVBHTnJDLS1JX0VmZG5Ddk90cWtLRFdkc1RzSXN4R19jZE1neUxfd2NJX0pkcnRaQm1Yb1ByUU9kQTNVRzNXYWFnbC1laWJTRDJUcEFXVEtJd0llMkFmWVZEdnFKdw?oc=5"
-      }
-     ],
-     "title_orig": "UK fintech Navro receives Texas money transmission licence"
     }
    ],
    "30d": [
@@ -1583,6 +1666,26 @@
      "title_orig": "Pliant raises USD 80 mln Series C to expand B2B payments"
     },
     {
+     "title": "FCA untersucht Quantencomputer auf Betrug",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2t0a2tPaXMyNWhTS3dnS2lwN2NGMC1Rb2tkV3J1Mk0zSXNORGE1SWw4cm9lcHVwRzRyRWFoSzVOd0dXSzdWMUZ4WUdLQWc5SG1od1dNbUNSbU9CS2haNFhoNU5UQXRlWDc1ZWpkLTZZUFB6SVRkUzM0cUdDMVZFSnZVR0ExWGhyZ3pScmMtTDRoM0RYTldaSDNzeXpfc3Y2a2tpYThJWU1jQ2JURnc?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-09T06:02:29+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "FCA explores quantum computing for fraud",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2t0a2tPaXMyNWhTS3dnS2lwN2NGMC1Rb2tkV3J1Mk0zSXNORGE1SWw4cm9lcHVwRzRyRWFoSzVOd0dXSzdWMUZ4WUdLQWc5SG1od1dNbUNSbU9CS2haNFhoNU5UQXRlWDc1ZWpkLTZZUFB6SVRkUzM0cUdDMVZFSnZVR0ExWGhyZ3pScmMtTDRoM0RYTldaSDNzeXpfc3Y2a2tpYThJWU1jQ2JURnc?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "FCA to explore how quantum computing can tackle financial crime",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzQtdUJYRl9VTWpNX0pNQW9iQ1RMa2dUVDY3NjZIWW5ZLUgtMGhiYUZhZ21oVktJUzRIOTZkMjQzVXY0dEJPZUxlUWNWejZBRFMxaTVkbDM2TnJtejBzMHZUVUZSa05jTTAzWEtqYjBFRHZmVTF0NDVrSzRhc0hsT29DYlp5OXlHSFdkTUoxdmpIZzlLc0E?oc=5"
+      }
+     ],
+     "title_orig": "FCA explores quantum computing for fraud"
+    },
+    {
      "title": "First New Mexico Bank wählt PhoenixWorx für das Kernbanking",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2VjdXhPVGJfX1VnT3AycWVEOGt2emc3M0N5UGVEYUEzNDlNeS1CZ0V5UEI2a2JZNjVVZ3hRVGJjYm1hOVVpTnN6VVBnTHU1S3Vac0ltRXhOQWNlOFVtUGlBYXpUeVAwYkdFdEpZOFpUcEhCRHZDc1JHQnZBX1N0UHZremd2RklQczBkZkdaQ3A0ZWlsdHJjZ1JDRmRBQQ?oc=5",
      "image": "",
@@ -1641,26 +1744,6 @@
       }
      ],
      "title_orig": "Segpay expands Pay by Bank service to eight European markets"
-    },
-    {
-     "title": "etoro übernimmt LB Finanzas in Argentinien",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVBRbTllMW1yUXZEOFo5U0lvclpCaG4wZGppXzduSHU2eFFVaGs4ZklZeXpKb2htT3Rjc2FSdzhHX1lqTG56RlRZTWVjaF9EREN6TlpmeGRVV3dCRHVQUW9UZjVMS1FXTDdiUWg4clQwUVd6OVYwZnJ4WVBsUnJLMkMxNmQxQ2x3T2FnZXBmNlctRGtGOXhzalZJNlFRWm85alpydE9wRFI2OWxocjh4TWRWUUtWaDg?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-06T07:03:20+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "etoro to acquire LB Finanzas in Argentina",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVBRbTllMW1yUXZEOFo5U0lvclpCaG4wZGppXzduSHU2eFFVaGs4ZklZeXpKb2htT3Rjc2FSdzhHX1lqTG56RlRZTWVjaF9EREN6TlpmeGRVV3dCRHVQUW9UZjVMS1FXTDdiUWg4clQwUVd6OVYwZnJ4WVBsUnJLMkMxNmQxQ2x3T2FnZXBmNlctRGtGOXhzalZJNlFRWm85alpydE9wRFI2OWxocjh4TWRWUUtWaDg?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "eToro agrees to acquire Argentina's LB Finanzas",
-       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QU2tVNEhsZGJGVlBBVmVpRVYwQVdJSWdLZF9ldWF1N1FTRndWSGFycjlSYll5SEVRV09teFZqcEUwc3RiVUs3SlRMRldsVXZUMEt1ZXl0cFF5WlFMbEhfekNxak9rLWxKdmJpOFA3bXI?oc=5"
-      }
-     ],
-     "title_orig": "etoro to acquire LB Finanzas in Argentina"
     }
    ]
   },
@@ -2096,6 +2179,26 @@
      "title_orig": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly"
     },
     {
+     "title": "OKX bringt Mastercard Stablecoin-Karte in den USA auf den Markt",
+     "link": "https://www.finextra.com/pressarticle/111535/okx-launches-mastercard-stablecoin-card-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/OKX-Card-Mastercard-1.jpg?w=457",
+     "n_sources": 2,
+     "time": "2026-11-02T21:19:42+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "OKX launches Mastercard stablecoin card in the US",
+       "link": "https://www.finextra.com/pressarticle/111535/okx-launches-mastercard-stablecoin-card-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "OKX and Mastercard Bring Stablecoin Card to Most US States",
+       "link": "https://www.pymnts.com/cryptocurrency/2026/okx-and-mastercard-bring-stablecoin-card-to-most-us-states/"
+      }
+     ],
+     "title_orig": "OKX launches Mastercard stablecoin card in the US"
+    },
+    {
      "title": "Stablecoin Unternehmen Gelbe Karte Ziel Brasilien durch GoMoney Akquisition",
      "link": "https://www.finextra.com/newsarticle/48710/stablecoin-firm-yellow-card-target-brazil-through-gomoney-acquisition?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Yellow-Card-stablecoins.png?w=457&quality=82",
@@ -2154,26 +2257,6 @@
       }
      ],
      "title_orig": "OCC issues supervisory framework on bank use of AI"
-    },
-    {
-     "title": "OKX bringt Mastercard Stablecoin-Karte in den USA auf den Markt",
-     "link": "https://www.finextra.com/pressarticle/111535/okx-launches-mastercard-stablecoin-card-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/OKX-Card-Mastercard-1.jpg?w=457",
-     "n_sources": 2,
-     "time": "2026-11-02T21:19:42+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "OKX launches Mastercard stablecoin card in the US",
-       "link": "https://www.finextra.com/pressarticle/111535/okx-launches-mastercard-stablecoin-card-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "OKX and Mastercard Bring Stablecoin Card to Most US States",
-       "link": "https://www.pymnts.com/cryptocurrency/2026/okx-and-mastercard-bring-stablecoin-card-to-most-us-states/"
-      }
-     ],
-     "title_orig": "OKX launches Mastercard stablecoin card in the US"
     }
    ]
   }
@@ -2185,54 +2268,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "schlägerei",
-      "link": "https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/news-streit-schlaegerei-polizei,schwer-verletzt-100.html",
+      "title": "ernährungspyramide",
+      "link": "https://www.welt.de/gesundheit/plus6aed969347b5fce02f879d4f/mehr-gemuese-noch-weniger-fleisch-warum-forscher-die-ernaehrungspyramide-auf-den-kopf-stellen.html",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "tierkreiszeichen",
-      "link": "https://www.jolie.de/horoskope/merkur-einfluss-3-sternzeichen-erwarten-bis-ende-des-jahres-grosse-veraenderungen-219419.html",
+      "title": "christopher o’neill",
+      "link": "https://www.merkur.de/boulevard/chris-neill-doppelgaenger-im-freundeskreis-verwirrt-94580236.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "hamburger sv",
-      "link": "https://www.bild.de/sport/fussball/hsv-der-beste-transfer-des-sommers-wertvoller-als-vieira-6af0a2361125adfe9365ccf4",
+      "title": "ostrowiec świętokrzyski",
+      "link": "https://wiadomosci.wp.pl/sprawca-nie-zyje-ranni-policjanci-wybudzeni-ze-spiaczki-oto-co-wiemy-po-zamachu-w-krakowie-7348890481228256a",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "jamie gittens",
-      "link": "https://motleedsnews.com/transfers/leeds-make-approach-to-sign-jamie-gittens-they-look-likely-to-beat-everton-in-transfer-chase",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "siemens energy",
-      "link": "https://www.biallo.de/fonds/news/siemens-energy-aktie-der-woche/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "borussia dortmund",
-      "link": "https://www.kicker.de/dortmund-gegen-elversberg-2026-bundesliga-5226881/spielbericht",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "switch 2",
-      "link": "https://www.wsj.com/business/earnings/nintendos-first-half-profit-rose-on-stronger-software-sales-new-mario-movie-917199b3",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "jäger",
-      "link": "https://www.zeit.de/news/2026-11/08/ein-letztes-halali-jaeger-nehmen-abschied-von-aiwanger",
-      "meta": "10000+ Suchanfragen"
-     },
-     {
-      "title": "polizei hamburg",
-      "link": "https://www.bild.de/news/bild-gleich-mehr-6aeed7da80d3a1c6aa66bede",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "kassenbon",
-      "link": "https://www1.wdr.de/wirtschaft/kassenbon-wird-digital-weniger-buerokratie-100.html",
+      "title": "alanis morissette",
+      "link": "https://www.foxnews.com/entertainment/alanis-morissette-identifies-pansexual-months-after-reflecting-sarah-jessica-parker-satc-kiss",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "9.11",
+      "link": "https://in-gl.de/newsletter/wissen-was-laeuft-der-tag-in-gl-9-11-2026/",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "spielabbruch",
+      "link": "https://www.t-online.de/sport/fussball/international/id_101518858/niederlande-kuriose-spielabsage-zwischen-vitesse-und-de-graafschap.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "грузия",
+      "link": "https://rtvi.com/news/gruziya-narastila-tempy-deportaczii-rossiyan-na-fone-novyh-migraczionnyh-pravil/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "üstra streik",
+      "link": "https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Aktuelle-Service%C2%ADin%C2%ADfor%C2%ADma%C2%ADtio%C2%ADnen-aus-Stadt-und-Re%C2%ADgion-Hannover/Am-8.-und-9.-No%C2%ADvem%C2%ADber-Regiobus-von-Streik-be%C2%ADtrof%C2%ADfen",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "magda linette",
+      "link": "https://przegladsportowy.onet.pl/tenis/magda-linette-janice-tjen-na-zywo-polka-gra-w-wielkim-finale/mcynx26",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "nicholas hoult",
+      "link": "https://www.theguardian.com/film/2026/nov/09/robert-pattinson-nicholas-hoult-josh-oconnor-new-james-bond-contenders",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2299,33 +2382,31 @@
     "lang": "fr",
     "items": [
      {
-      "title": "Polizei",
-      "link": "https://fr.news.yahoo.com/info-bfmtv-heurts-police-apr%C3%A8s-192814657.html",
+      "title": "Immobilien",
+      "link": "https://www.pap.fr/actualites/lyon-ou-acheter-le-moins-cher-ces-3-arrondissements-loin-des-5000-m/a32265",
       "meta": "200+ Suchanfragen",
-      "title_orig": "police"
+      "title_orig": "immobilier"
      },
      {
-      "title": "david lisnard",
-      "link": "https://www.lepoint.fr/politique/on-aurait-du-lui-peter-le-bras-david-lisnard-lagent-perturbateur-qui-tracasse-les-republicains-AWEA3D43FFBSNNLX6QIZPB4XXQ/",
-      "meta": "200+ Suchanfragen"
+      "title": "stefan edberg",
+      "link": "https://www.rolexparismasters.com/fr/actualites/article/40-ans-stefan-edberg-souvenirs-1990-hommage-ceremonie",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Heizung",
-      "link": "https://www.sudouest.fr/dordogne/je-ne-voudrais-pas-que-certains-viennent-se-venger-un-faux-site-de-vente-de-bois-de-chauffage-usurpe-l-identite-d-une-entreprise-de-dordogne-pour-arnaquer-les-clients-31392944.php",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "chauffage"
+      "title": "johann zarco",
+      "link": "https://www.lequipe.fr/Moto/Actualites/Marco-bezzecchi-remporte-le-gp-du-qatar-le-titre-attendra-pour-marc-marquez/1742249",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "olympique Marseille - Paris Saint-Germain im Fußball",
-      "link": "https://rmcsport.bfmtv.com/football/feminin/d1/live/2026/match-marseille-feminines-paris-sg-feminines-journee-09_FM-260704823641.html",
+      "title": "cliff booths neue missgeschicke",
+      "link": "https://www.premiere.fr/Cinema/News-Cinema/Cliff-Booth-une-nouvelle-bande-annonce-qui-en-dit-long-sur-le-film-de-David-Fincher",
       "meta": "100+ Suchanfragen",
-      "title_orig": "olympique de marseille - paris saint-germain en football"
+      "title_orig": "les nouvelles mésaventures de cliff booth"
      },
      {
-      "title": "die 12 Mittagsschläge",
-      "link": "https://fr.style.yahoo.com/jai-interpr%C3%A9t%C3%A9-d%C3%A9cor-s%C3%A9bastien-12-152547699.html",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "les 12 coups de midi"
+      "title": "jack willis",
+      "link": "https://www.rugbyrama.fr/2026/11/07/top-14-les-notes-de-toulouse-clermont-paul-mallez-sillustre-julien-marchand-se-rassure-timeo-frier-se-revele-13641463.php",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2334,31 +2415,30 @@
     "lang": "it",
     "items": [
      {
-      "title": "joão mário",
-      "link": "https://ansabrasil.com.br/brasil/noticias/esporte/2026/11/08/juventus-fica-atras-2-vezes-mas-gol-brasileiro-evita-derrota-para_b06989db-a825-4ca4-9833-3625aa1c4c0e.html",
+      "title": "oliver bearman",
+      "link": "https://www.formula1.com/en/latest/article/leclerc-hit-with-post-race-penalty-for-sao-paulo-collision-with-lawson.scK3PbeAxR70InNjz1ph3",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "axios",
+      "link": "https://www.axios.com/2026/11/08/scoop-mamdanis-bid-for-2028-kingmaker",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "mehrjähriger Schatzbrief",
-      "link": "https://24plus.ilsole24ore.com/art/inflazione-ecco-dove-puo-arrivare-e-cosa-implica-gli-investimenti-AJ5Zpy2B",
-      "meta": "10000+ Suchanfragen",
-      "title_orig": "buono del tesoro poliennale"
-     },
-     {
-      "title": "frédéric vasseur",
-      "link": "https://www.repubblica.it/en/sport/formula-one/2026/11/06/news/vasseur_leclerc_and_hamilton_don_t_have_to_be_best_mates_but_they_must_be_professionals-425705236/",
+      "title": "farouk kassam",
+      "link": "https://www.corriere.it/cronache/26_novembre_09/farouk-kassam-intervista-sequestro-7980d612-b4c0-4b8e-97de-1efa88f9bxlk.shtml",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Erbteil",
-      "link": "https://www.rai.it/ufficiostampa/assets/template/us-articolo.html?ssiPath=/articoli/2026/11/Due-appuntamenti-speciali-per-LEredita-6a7ba6b0-a58c-4b6e-bf51-b8d7bdde0fa2-ssi.html",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "eredità"
+      "title": "gta preorder",
+      "link": "https://www.chosun.com/english/industry-en/2026/11/09/ME7KYHBGNNCIXB3PPQW2ULLC4Q/",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "sigfrido ranucci",
-      "link": "https://www.donnamoderna.com/people/entertainment/report-quanta-fatica-unestate-orribile",
-      "meta": "1000+ Suchanfragen"
+      "title": "badehaus",
+      "link": "https://video.gazzetta.it/moto/moto-gp/highlights/video-bagnaia-caduta-terrificante-nella-sprint-del-gp-qatar-contatto-con-aldeguer/d5e32520-c3eb-4575-8d35-fd5d216b1xlk",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "bagnaia"
      }
     ]
    },
@@ -2367,32 +2447,33 @@
     "lang": "es",
     "items": [
      {
-      "title": "antonio rüdiger",
-      "link": "https://as.com/futbol/primera/tangana-en-el-tunel-de-vestuarios-rudiger-se-enzarza-con-un-seguridad-f202611-n/",
-      "meta": "500+ Suchanfragen"
+      "title": "unica",
+      "link": "https://www.heraldo.es/noticias/deportes/baloncesto/2026/11/08/gonzalo-garcia-vitoria-entrenador-casademont-zaragoza-como-estaba-principe-felipe-eh-2066861.html",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "unicaja"
      },
      {
-      "title": "universitätsstudium",
-      "link": "https://www.espn.com/video/clip/_/id/50428756/why-commanders-running",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "universitario"
-     },
-     {
-      "title": "shakira",
-      "link": "https://www.marca.com/co/2026/11/09/shakira-conmueve-cuidar-padre-hospital-complicaciones-salud.html",
+      "title": "daniella bustamante",
+      "link": "https://okdiario.com/cool/famosos/universidad-privada-donde-estudia-daniella-bustamante-12-000-euros-curso-hija-pequena-pedro-sanchez-sus-alumnas-20725488",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "buckets - Celtics",
-      "link": "https://www.bostonglobe.com/2026/11/08/sports/celtics-bucks-preview-november-8-2026/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "bucks - celtics"
+      "title": "online-Radio",
+      "link": "https://ramp247.com/programming/p1-reveals-americas-top-100-christmas-songs/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "radio online"
      },
      {
-      "title": "spielerstatistiken von Kolbenspielen gegen Lakers",
-      "link": "https://www.nba.com/game/mia-vs-sac-0022600202/box-score",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "estadísticas de jugadores de partidos de pistons contra lakers"
+      "title": "organisiertes Verbrechen",
+      "link": "https://www.infobae.com/mexico/2026/11/08/el-mochaorejas-recibe-condena-de-50-anos-de-prision/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "delincuencia organizada"
+     },
+     {
+      "title": "Fleischverarbeitungsindustrie",
+      "link": "https://www.elconfidencial.com/economia/2026-11-09/industria-carnica-huelga-empleo-falta-problemas-produccion-maximos_4459565/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "industria cárnica"
      }
     ]
    },
@@ -2401,30 +2482,29 @@
     "lang": "en",
     "items": [
      {
-      "title": "pak vs sl",
-      "link": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-1st-test-1550711/match-preview",
+      "title": "owain wyn evans",
+      "link": "https://www.mirror.co.uk/tv/tv-news/owain-wyn-evans-marriage-after-37852977",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "andrew mountbatten-windsor",
-      "link": "https://www.thetimes.com/uk/royal-family/article/andrew-mountbatten-windsor-friend-aliba-bellingham-jgtpj5lgn",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "i",
-      "link": "https://www.cbsnews.com/news/10-takeaways-from-trump-60-minutes-interview/",
+      "title": "magda linette",
+      "link": "https://przegladsportowy.onet.pl/tenis/magda-linette-janice-tjen-na-zywo-polka-gra-w-wielkim-finale/mcynx26",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "gta vi ps5",
-      "link": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
-      "meta": "5000+ Suchanfragen"
+      "title": "sony playstation",
+      "link": "https://www.ign.com/articles/former-playstation-boss-says-sony-doesnt-need-a-ps6-for-1200-it-needs-a-ps5-for-300",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "bären gegen Seeräuber",
-      "link": "https://www.nytimes.com/athletic/live-blogs/buccaneers-vs-bears-live-score-updates-nfl-snf-result/cwmZISTuZHoP/",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "bears vs buccaneers"
+      "title": "hollywood",
+      "link": "https://www.thetimes.com/uk/crime/article/inside-russell-brands-hollywood-bubble-where-nobody-said-no-ndr602s30",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "saab jas 39 gripen",
+      "link": "https://www.economist.com/the-americas/2026/11/02/the-war-room-newsletter-canadas-fighter-jet-dilemma",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2433,32 +2513,32 @@
     "lang": "pl",
     "items": [
      {
-      "title": "fußballer",
-      "link": "https://przegladsportowy.onet.pl/pilka-nozna/laliga/zmarl-po-brutalnym-faulu-ogromne-skutki-to-moze-byc-przelom/2s7pvez",
+      "title": "stefan horngacher",
+      "link": "https://przegladsportowy.onet.pl/sporty-zimowe/skoki-narciarskie/biznesmen-oskarza-stefana-horngachera-poszlo-o-zakazy-dla-kubackiego-i-zyly/nw99f48",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Nationaler Rundfunkrat",
+      "link": "https://wyborcza.pl/7,75398,33122703,skladam-skarge-na-tv-republika-sakiewicz-swiadomie-wprowadzal.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "piłkarz"
+      "title_orig": "krajowa rada radiofonii i telewizji"
      },
      {
-      "title": "robert kubica",
-      "link": "https://sportowefakty.wp.pl/wyscigi-samochodowe/1283284/miarka-sie-przebrala-kubica-oglosil-decyzje-ws-ferrari",
-      "meta": "100+ Suchanfragen"
+      "title": "am 11. November,",
+      "link": "https://wydarzenia.interia.pl/kraj/news-deklaracja-premiera-ws-marszu-niepodleglosci-zwykla-dezinfor,nId,23570810",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "11 listopada"
      },
      {
-      "title": "biedronka",
-      "link": "https://www.rmf.fm/styl-zycia/news,n1025353,od-jutra-w-biedronce-za-20-zl-normalnie-kosztuje-9599-zl.html",
-      "meta": "500+ Suchanfragen"
+      "title": "skeka radio",
+      "link": "https://wiadomosci.onet.pl/kielce/babcia-zamachowca-z-krakowa-opowiada-o-wnuku-to-bylo-takie-dobre-dziecko/bexnhr5",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "radio eska"
      },
      {
-      "title": "polarwirbel",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/fale-planetarne-uderzaja-w-wir-polarny-co-pokazuje-prognoza-dlugoterminowa-na-listopad-i-grudzien-kiedy-spadnie-snieg-st9326735",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "wir polarny"
-     },
-     {
-      "title": "Recht",
-      "link": "https://www.rp.pl/internet-i-prawo-autorskie/art45456551-chatbot-ai-zastepujacy-artykul-moze-oznaczac-licencje",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "prawo"
+      "title": "interia",
+      "link": "https://przegladsportowy.onet.pl/koszykowka/nba/jeremy-sochan-ujawnia-kulisy-wyrzucenia-z-klubu-nba-tak-sie-dowiedzial/yedgwdt",
+      "meta": "5000+ Suchanfragen"
      }
     ]
    },
@@ -2535,31 +2615,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "ben stiller",
-      "link": "https://www.yahoo.com/entertainment/tv/articles/ariana-grande-sings-o-christmas-020620844.html",
-      "meta": "200+ Suchanfragen"
+      "title": "elon moschus spacex telekom akquisition",
+      "link": "https://finance.yahoo.com/video/why-musks-telecom-play-is-no-hail-mary-fix-185825477.html",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "elon musk spacex telecom acquisition"
      },
      {
-      "title": "charlie kolar",
-      "link": "https://www.packers.com/video/matt-lafleur-postgame-speech-that-was-a-whole-team-win-week-9-2026",
-      "meta": "200+ Suchanfragen"
+      "title": "10",
+      "link": "https://www.espn.com/college-football/story/_/id/50408585/projecting-2026-playoff-top-12-week-10-cfp",
+      "meta": "10000+ Suchanfragen"
      },
      {
-      "title": "nCAA-Feldhockeyturnier 2026",
-      "link": "https://www.ncaa.com/news/fieldhockey/article/2026-11-01/2026-diii-field-hockey-championship-selection-show-info-bracket-schedule",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "ncaa field hockey tournament 2026"
+      "title": "joseph baena",
+      "link": "https://people.com/arnold-schwarzenegger-son-joseph-baena-places-in-top-5-pro-debut-natural-bodybuilding-competition-12243669",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "Liebe ist blind",
-      "link": "https://www.netflix.com/tudum/articles/love-is-blind-season-11-reunion-release-date-time",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "love is blind"
-     },
-     {
-      "title": "ramla ali",
-      "link": "https://www.reutersconnect.com/item/ramla-ali-and-mikiah-kreps-weigh-in-ahead-of-their-super-bantamweight-world-championship-bout/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwSEpWQVBR",
+      "title": "visionquest episode 8",
+      "link": "https://www.imdb.com/news/ni66094426/?ref_=nmnw_art_perm",
       "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "michaella liebe ist blind",
+      "link": "https://www.netflix.com/tudum/articles/love-is-blind-season-11-matt-beekeeper-michaella-interview",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "michaella love is blind"
      }
     ]
    },
@@ -2568,32 +2648,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "divis lab share",
-      "link": "https://m.economictimes.com/markets/stocks/news/divis-labs-shares-jump-8-to-fresh-52-week-high-after-q2-profit-soars-64-yoy-what-brokerages-say-after-bumper-results/articleshow/135656659.cms",
-      "meta": "100+ Suchanfragen"
+      "title": "pokhara avengers vs karnali yaks",
+      "link": "https://www.cricbuzz.com/live-cricket-scores/177740/kay-vs-poa-19th-match-nepal-premier-league-2026",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "pak vs sl",
-      "link": "https://www.cricbuzz.com/live-cricket-scores/170700/pcbpxi-vs-sl-3-day-warm-up-match-sri-lanka-tour-of-pakistan-2026",
-      "meta": "10000+ Suchanfragen"
+      "title": "arpita singh",
+      "link": "https://www.thehindu.com/entertainment/art/modernist-artist-arpita-singh-aged-89-passes-away/article71681531.ece",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "1: 1: 1",
-      "link": "https://www.indiatv.in/india/national/diwali-2026-fire-incidents-delhi-uttar-pradesh-maharashtra-factory-homes-2026-11-09-1253501",
+      "title": "* * * *",
+      "link": "https://www.aajtak.in/business/utility/photo/gold-price-outlook-india-motilal-oswal-forecast-gold-prices-increased-five-folds-in-a-decade-dpmx-2690571-2026-11-07",
       "meta": "200+ Suchanfragen",
-      "title_orig": "नजफगढ़"
+      "title_orig": "सोने चांदी का भाव"
      },
      {
-      "title": "wetterwarnung Nebel",
-      "link": "https://www.bbc.com/weather/articles/cj75p29nz6e6o",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "weather warning fog"
-     },
-     {
-      "title": "5x5,5mm",
-      "link": "https://www.eenadu.net/telugu-news/sports/general/0499/126202318",
+      "title": "* * ** *",
+      "link": "https://www.jagran.com/cricket/headlines-indian-cricketers-diwali-abhishek-sharma-ms-dhoni-zaheer-khan-40431305.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "వీరేంద్ర సెహ్వాగ్"
+      "title_orig": "महेंद्र सिंह धोनी"
+     },
+     {
+      "title": "indien neuseeland cricket score",
+      "link": "https://www.cricbuzz.com/cricket-news/140823/india-avoid-a-stinker-as-short-ball-ploy-strikes-both-sides-cricbuzzcom",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "india new zealand cricket score"
      }
     ]
    },
@@ -2602,30 +2682,31 @@
     "lang": "pt",
     "items": [
      {
-      "title": "fehlt",
-      "link": "https://www.mural.com.mx/hallan-sin-vida-a-pareja-de-novios-desaparecida/ar3310590",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "desaparecida"
+      "title": "tod",
+      "link": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/tre-mg-suspende-investigacao-da-pf-contra-deputada-eleita-apos-denuncia-de-flavio-bolsonaro.shtml",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "morte"
      },
      {
-      "title": "afropunk 2026",
-      "link": "https://gshow.globo.com/festivais/noticia/a-frente-do-afropunk-kenya-sade-destaca-missao-de-levar-a-musica-preta-a-tv-somos-potencia.ghtml",
-      "meta": "200+ Suchanfragen"
+      "title": "Zement",
+      "link": "https://www.gazetadopovo.com.br/economia/gigante-nacional-do-cimento-csn-fecha-acordo-vendida-grupo-chines/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "cimento"
      },
      {
-      "title": "paul george",
-      "link": "https://www.bostonglobe.com/2026/11/08/sports/celtics-bucks-preview-november-8-2026/",
+      "title": "liverpool football club",
+      "link": "https://www.bbc.com/sport/football/live/c6r7ydrm8xlyt",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "musiala",
-      "link": "https://www.abola.pt/noticias/estrela-do-bayern-tem-doenca-incuravel-e-clube-ja-fala-em-rescisao-2026110818334588142",
-      "meta": "200+ Suchanfragen"
+      "title": "privacy",
+      "link": "https://gwhatchet.com/2026/11/09/university-compliance-data-privacy-officer-to-retire-next-month-after-18-years-at-gw/",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "jenna ortega",
-      "link": "https://www.omelete.com.br/filmes/gallerist-natalie-portman-jenna-ortega",
-      "meta": "100+ Suchanfragen"
+      "title": "exército brasileiro",
+      "link": "https://tecnodefesa.com.br/iniciado-o-processo-de-teste-e-avaliacao-do-chivunk/",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2634,33 +2715,32 @@
     "lang": "ja",
     "items": [
      {
-      "title": "pak vs sl",
-      "link": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-1st-test-1550711/match-preview",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "Ryutaro Umeno",
-      "link": "https://news.yahoo.co.jp/articles/6a3693d84dfad378470905afff7354e842e69cf0",
+      "title": "paypay app",
+      "link": "https://news.yahoo.co.jp/articles/41fecbd8b2094b330762d01b4b0f2b093f267ad2",
       "meta": "200+ Suchanfragen",
-      "title_orig": "梅野隆太郎"
+      "title_orig": "paypayアプリ"
      },
      {
-      "title": "Shigeru Ishiba",
-      "link": "https://news.ifeng.com/c/8xszu4DRUQY",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "石破茂"
+      "title": "7011",
+      "link": "https://www.nikkei.com/article/DGXZQOUB055EF0V01C26A1000000/",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "Kobe-Marathon",
-      "link": "https://www.topics.or.jp/articles/-/1520731",
+      "title": "topix",
+      "link": "https://www.nikkei.com/article/DGXZQOUB091AYTZ01C26A1000000/",
+      "meta": "10000+ Suchanfragen"
+     },
+     {
+      "title": "Vinicius Junior",
+      "link": "https://news.yahoo.co.jp/articles/c7d9e3141a806e88a4fc8b09c2877211e616555c",
       "meta": "100+ Suchanfragen",
-      "title_orig": "神戸マラソン"
+      "title_orig": "ヴィニシウス・ジュニオール"
      },
      {
-      "title": "Quanten",
-      "link": "https://m.sohu.com/a/1098854808_123753?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "量子"
+      "title": "Naruto-Scoring-Rate",
+      "link": "https://sports.yahoo.co.jp/official/detail/2026110800058-spnaviow",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "鳴門得点率"
      }
     ]
    },
@@ -2730,32 +2810,32 @@
      {
       "title": "Top-Astrophysikerin verlässt die USA, nachdem Trumps Politik ihre Arbeit beeinflusst hat",
       "link": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
-      "meta": "The New York Times · 168 Personen teilen",
+      "meta": "The New York Times · 183 Personen teilen",
       "title_orig": "Top Astrophysicist Leaves U.S. After Trump Policies Affect Her Work"
      },
      {
       "title": "Ein 11 Tage altes Baby konnte nicht aufhören zu bluten. Stundenlang lieferte die Notaufnahme keinen kritischen Vitamin-Schuss.",
       "link": "https://www.propublica.org/article/vitamin-k-shot-texas-lonestar-emergency-room-nicole-malouf",
-      "meta": "ProPublica · 128 Personen teilen",
+      "meta": "ProPublica · 131 Personen teilen",
       "title_orig": "An 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot."
+     },
+     {
+      "title": "Solar erfüllte 75 % des weltweiten Strombedarfswachstums im Jahr 2025 und übertraf damit die Prognosen",
+      "link": "https://www.yahoo.com/news/science/articles/solar-met-75-worlds-electricity-181900763.html",
+      "meta": "Yahoo News · 91 Personen teilen",
+      "title_orig": "Solar met 75% of the world's electricity demand growth in 2025, outpacing forecasts"
      },
      {
       "title": "Rubio warnte Beamte vor der Verstrickung des Nvidia-Häuptlings mit dem chinesischen Spion",
       "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-      "meta": "The New York Times · 122 Personen teilen",
+      "meta": "The New York Times · 153 Personen teilen",
       "title_orig": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy"
      },
      {
-      "title": "Hunderttausende schließen sich Amsterdams „Rote Linie“ -Protest gegen Israel an",
-      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam",
-      "meta": "Al Jazeera · 71 Personen teilen",
-      "title_orig": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel"
-     },
-     {
-      "title": "Mit einer neuen Suchmaschine können Sie 4 Millionen Kunstwerke und historische Fotografien aus Museen und Bibliotheken auf der ganzen Welt erkunden",
-      "link": "https://www.openculture.com/2026/11/a-new-search-engine-lets-you-explore-4-million-works-of-art.html",
-      "meta": "Open Culture · 54 Personen teilen",
-      "title_orig": "A New Search Engine Lets You Explore 4 Million Works of Art & Historical Photographs from Museums and Libraries Around the World"
+      "title": "\"Ich kann es nicht ertragen\": Junge Familie sucht Zuflucht im Schlafzimmer, während der erstickende Dunst die indonesische Stadt verschlingt",
+      "link": "https://www.theguardian.com/world/2026/nov/09/indonesia-air-pollution-toxic-haze-family-takes-refuge-in-bedroom",
+      "meta": "The Guardian · 44 Personen teilen",
+      "title_orig": "‘I can’t bear it’: young family takes refuge in bedroom as choking haze engulfs Indonesian city"
      }
     ]
    }
@@ -2766,7 +2846,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 66,
+   "count": 58,
    "error": ""
   },
   {
@@ -2787,7 +2867,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 163,
+   "count": 162,
    "error": ""
   },
   {
@@ -2801,14 +2881,14 @@
    "source": "Finanz-Szene",
    "category": "pay_de",
    "ok": true,
-   "count": 20,
+   "count": 23,
    "error": ""
   },
   {
    "source": "Payment & Banking",
    "category": "pay_de",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": ""
   },
   {
@@ -2843,14 +2923,14 @@
    "source": "The Paypers",
    "category": "pay_eu",
    "ok": true,
-   "count": 79,
+   "count": 81,
    "error": ""
   },
   {
    "source": "Fintech Futures",
    "category": "pay_eu",
    "ok": true,
-   "count": 66,
+   "count": 65,
    "error": ""
   },
   {
@@ -2983,8 +3063,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 104,
-   "info": "104 von 104 Überschriften übersetzt (neu in diesem Lauf: MyMemory 43). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 106,
+   "info": "106 von 106 Überschriften übersetzt (neu in diesem Lauf: MyMemory 44). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
