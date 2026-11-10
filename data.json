@@ -1,24 +1,24 @@
 {
- "generated": "2026-11-10T01:12:39+00:00",
+ "generated": "2026-11-10T03:58:45+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
    {
-    "title": "Chef des Chipherstellers Nvidia in mögliche Spionageaffäre verwickelt",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681016.html",
-    "image": "https://images.tagesschau.de/image/2168fb03-6c1a-4386-9488-42a8ec09a57d/AAABocHZmEk/AAABnSSvrFg/16x9-big/sendungsbild-1825082.jpg?width=1920",
+    "title": "Untersuchungen nach Affäre von Nvidia-Chef Huang mit mutmaßlicher Spionin",
+    "link": "https://www.tagesschau.de/video/video-1680710.html",
+    "image": "https://images.tagesschau.de/image/be8b313e-341a-4f80-8b49-d65be114e3f4/AAABocAU8lA/AAABnSSvrFg/16x9-big/sendungsbild-1824844.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-10T00:37:17+00:00",
+    "time": "2026-11-10T01:28:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Chef des Chipherstellers Nvidia in mögliche Spionageaffäre verwickelt",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681016.html"
+      "title": "Untersuchungen nach Affäre von Nvidia-Chef Huang mit mutmaßlicher Spionin",
+      "link": "https://www.tagesschau.de/video/video-1680710.html"
      },
      {
       "name": "Spiegel",
-      "title": "Jensen Huang: Die Affäre des Nvidia-Chefs – eine Geschichte der Honigfallen",
-      "link": "https://www.spiegel.de/wirtschaft/jensen-huang-die-affaere-des-nvidia-chefs-eine-geschichte-der-honigfallen-a-e96abebf-c82b-4e15-aa6d-f56af06d5c32#ref=rss"
+      "title": "Nvidia: FBI ermittelt im Fall Jensen Huang und mutmaßlicher China-Spionin",
+      "link": "https://www.spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -27,8 +27,8 @@
      },
      {
       "name": "FAZ",
-      "title": "Jensen Huang: Er ist quasi Nvidia – aber wie lange noch?",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-ist-nun-chipkoenig-auf-abruf-von-nvidia-201665989.html"
+      "title": "Nvidia-Chef: War Jensen Huangs Affäre eine chinesische Spionin?",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-war-jensen-huangs-affaere-eine-chinesische-spionin-201664216.html"
      },
      {
       "name": "Handelsblatt",
@@ -140,6 +140,59 @@
     ]
    },
    {
+    "title": "Mindestens 20 Tote bei Schiffsunglücken vor Kreta",
+    "link": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html",
+    "image": "https://images.tagesschau.de/image/f3092d9a-98d8-4c23-a956-de5bcf0abf83/AAABob_NIJ4/AAABnSSvrFg/16x9-big/kuestenwache-griechenland-104.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-09T19:00:07+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Mindestens 20 Tote bei Schiffsunglücken vor Kreta",
+      "link": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Türkei: Mindestens 16 Tote nach Explosion in Stahlwerk bei Izmir",
+      "link": "https://www.spiegel.de/ausland/tuerkei-mindestens-16-tote-nach-explosion-in-stahlwerk-bei-izmir-a-2c5e9af6-0d3f-4496-b366-ee56778a1d6f#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Türkei: Mindestens 16 Tote bei Unglück in türkischem Stahlwerk",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/explosion-habas-stahlwerk-aliaga-izmir"
+     },
+     {
+      "name": "FAZ",
+      "title": "Türkei: Mindestens 16 Tote bei Explosion in Stahlwerk",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/explosion-in-stahlwerk-in-izmir-16-tote-201667382.html"
+     }
+    ]
+   },
+   {
+    "title": "Chef des Chipherstellers Nvidia in mögliche Spionageaffäre verwickelt",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681016.html",
+    "image": "https://images.tagesschau.de/image/2168fb03-6c1a-4386-9488-42a8ec09a57d/AAABocHZmEk/AAABnSSvrFg/16x9-big/sendungsbild-1825082.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-10T02:01:52+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Chef des Chipherstellers Nvidia in mögliche Spionageaffäre verwickelt",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681016.html"
+     },
+     {
+      "name": "FAZ",
+      "title": "Spionage-Verdacht: Anleger klagen gegen Nvidia-Chef Jensen Huang",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anleger-klagen-gegen-nvidia-chef-jensen-huang-accg-201667752.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Spionage: Die älteste Waffe der Spionage – Nvidia-Chef Jensen Huang fällt drauf rein",
+      "link": "https://www.handelsblatt.com/politik/international/honeytrapping-aelteste-waffe-der-spionage-jensen-huang-faellt-drauf-rein/100268442.html"
+     }
+    ]
+   },
+   {
     "title": "Midterms: Donald Trump zweifelt Ergebnis der Kongresswahlen an",
     "link": "https://www.spiegel.de/ausland/midterms-donald-trump-zweifelt-ergebnis-der-kongresswahlen-an-a-a0d13855-57bc-4dde-8603-8665263fee25#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/aa17b853-b7d0-427e-99ac-087115c9a199_w520_r2.08_fpx49.34_fpy50.jpg",
@@ -184,54 +237,6 @@
       "name": "FAZ",
       "title": "Deutschland Liveblog: Aigner will sich offenbar nicht der AfD-Fraktion vorstellen",
       "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bericht-aigner-will-sich-nicht-der-afd-fraktion-vorstellen-faz-110093143.html"
-     }
-    ]
-   },
-   {
-    "title": "Papst Leo in Südamerika: Kritik an Mileis Sparpolitik in Argentinien",
-    "link": "https://www.spiegel.de/ausland/papst-leo-in-suedamerika-kritik-an-mileis-sparpolitik-in-argentinien-a-8ab5667d-ab9c-42f1-afec-4cc0464d238c#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/a24d3a0e-cc4b-42f5-8f26-ddfcf2946d1f_w520_r2.08_fpx47.33_fpy44.98.jpg",
-    "n_sources": 3,
-    "time": "2026-11-09T18:22:11+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Papst Leo in Südamerika: Kritik an Mileis Sparpolitik in Argentinien",
-      "link": "https://www.spiegel.de/ausland/papst-leo-in-suedamerika-kritik-an-mileis-sparpolitik-in-argentinien-a-8ab5667d-ab9c-42f1-afec-4cc0464d238c#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Leo XIV.: Papst kritisiert bei Argentinien-Besuch indirekt Politik Javier Mileis",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/papst-leo-xiv-argentinien-javier-milei-besuch"
-     },
-     {
-      "name": "FAZ",
-      "title": "Leo XIV. in Argentinien: Milei spricht von Freiheit, der Papst von Verantwortung",
-      "link": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-in-buenos-aires-mahnungen-an-javier-milei-accg-201664318.html"
-     }
-    ]
-   },
-   {
-    "title": "Türkei: Mindestens 16 Tote nach Explosion in Stahlwerk bei Izmir",
-    "link": "https://www.spiegel.de/ausland/tuerkei-mindestens-16-tote-nach-explosion-in-stahlwerk-bei-izmir-a-2c5e9af6-0d3f-4496-b366-ee56778a1d6f#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/1b48efaa-40db-4d3d-86cb-2846161f2579_w520_r2.08_fpx66.67_fpy50.jpg",
-    "n_sources": 3,
-    "time": "2026-11-09T19:00:07+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Türkei: Mindestens 16 Tote nach Explosion in Stahlwerk bei Izmir",
-      "link": "https://www.spiegel.de/ausland/tuerkei-mindestens-16-tote-nach-explosion-in-stahlwerk-bei-izmir-a-2c5e9af6-0d3f-4496-b366-ee56778a1d6f#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Türkei: Mindestens 16 Tote bei Unglück in türkischem Stahlwerk",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/explosion-habas-stahlwerk-aliaga-izmir"
-     },
-     {
-      "name": "FAZ",
-      "title": "Türkei: Mindestens 16 Tote bei Explosion in Stahlwerk",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/explosion-in-stahlwerk-in-izmir-16-tote-201667382.html"
      }
     ]
    },
@@ -290,7 +295,7 @@
     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681016.html",
     "image": "https://images.tagesschau.de/image/2168fb03-6c1a-4386-9488-42a8ec09a57d/AAABocHZmEk/AAABnSSvrFg/16x9-big/sendungsbild-1825082.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-10T00:37:17+00:00",
+    "time": "2026-11-10T02:01:52+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -299,8 +304,42 @@
      },
      {
       "name": "Spiegel",
-      "title": "Jensen Huang: Die Affäre des Nvidia-Chefs – eine Geschichte der Honigfallen",
-      "link": "https://www.spiegel.de/wirtschaft/jensen-huang-die-affaere-des-nvidia-chefs-eine-geschichte-der-honigfallen-a-e96abebf-c82b-4e15-aa6d-f56af06d5c32#ref=rss"
+      "title": "Nvidia-Chef Jensen Huang entschuldigt sich für Affäre mit mutmaßlicher Spionin",
+      "link": "https://www.spiegel.de/ausland/nvidia-chef-jensen-huang-entschuldigt-sich-fuer-affaere-mit-mutmasslicher-spionin-a-66db6061-9340-44ba-9c9d-75726df75e3b#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Nvidia: Nvidia prüft Berichte zu ausländischer Spionage gegen Chef",
+      "link": "https://www.zeit.de/wirtschaft/2026-11/nvidia-jensen-huang-spionage-verwaltungsrat-ermittlungen"
+     },
+     {
+      "name": "FAZ",
+      "title": "Spionage-Verdacht: Anleger klagen gegen Nvidia-Chef Jensen Huang",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anleger-klagen-gegen-nvidia-chef-jensen-huang-accg-201667752.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Spionage: Die älteste Waffe der Spionage – Nvidia-Chef Jensen Huang fällt drauf rein",
+      "link": "https://www.handelsblatt.com/politik/international/honeytrapping-aelteste-waffe-der-spionage-jensen-huang-faellt-drauf-rein/100268442.html"
+     }
+    ]
+   },
+   {
+    "title": "Untersuchungen nach Affäre von Nvidia-Chef Huang mit mutmaßlicher Spionin",
+    "link": "https://www.tagesschau.de/video/video-1680710.html",
+    "image": "https://images.tagesschau.de/image/be8b313e-341a-4f80-8b49-d65be114e3f4/AAABocAU8lA/AAABnSSvrFg/16x9-big/sendungsbild-1824844.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-10T01:28:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Untersuchungen nach Affäre von Nvidia-Chef Huang mit mutmaßlicher Spionin",
+      "link": "https://www.tagesschau.de/video/video-1680710.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Nvidia: FBI ermittelt im Fall Jensen Huang und mutmaßlicher China-Spionin",
+      "link": "https://www.spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -309,8 +348,8 @@
      },
      {
       "name": "FAZ",
-      "title": "Jensen Huang: Er ist quasi Nvidia – aber wie lange noch?",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-ist-nun-chipkoenig-auf-abruf-von-nvidia-201665989.html"
+      "title": "Nvidia-Chef: War Jensen Huangs Affäre eine chinesische Spionin?",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-war-jensen-huangs-affaere-eine-chinesische-spionin-201664216.html"
      },
      {
       "name": "Handelsblatt",
@@ -320,16 +359,16 @@
     ]
    },
    {
-    "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
-    "link": "https://www.tagesschau.de/video/video-1678768.html",
-    "image": "https://images.tagesschau.de/image/3de6abfa-19f7-4167-9937-f6def80e5e48/AAABoay1ztU/AAABnSSvrFg/16x9-big/sendungsbild-1822956.jpg?width=1920",
+    "title": "Hubert Aiwanger - das Gesicht der Freien Wähler",
+    "link": "https://www.tagesschau.de/inland/regional/bayern/hubert-aiwanger-nachruf-100.html",
+    "image": "https://images.tagesschau.de/image/43e5d79d-1f86-4579-b5a4-5855deae5240/AAABoaqSgZk/AAABnSSvrFg/16x9-big/br-das-gesicht-der-freien-waehler-hubert-aiwanger-ist-tot-100.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-10T00:29:13+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
-      "link": "https://www.tagesschau.de/video/video-1678768.html"
+      "title": "Hubert Aiwanger - das Gesicht der Freien Wähler",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/hubert-aiwanger-nachruf-100.html"
      },
      {
       "name": "Spiegel",
@@ -456,36 +495,70 @@
     ]
    },
    {
-    "title": "USA: \"Es ist eine Wahl gegen Donald Trump\"",
-    "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-2026-100.html",
-    "image": "https://images.tagesschau.de/image/3f920a24-99ba-429a-97be-9c6f5987a778/AAABoaVFUXQ/AAABnSSvrFg/16x9-big/demokraten-jubel-100.jpg?width=1920",
+    "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
+    "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
+    "image": "https://images.tagesschau.de/image/1d795625-6e32-4268-8bf0-5ca4a0c10aa8/AAABobqEWvg/AAABnSSvrFg/16x9-big/dana-white-donald-trump-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-09T10:01:00+00:00",
+    "time": "2026-11-09T11:12:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "USA: \"Es ist eine Wahl gegen Donald Trump\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-2026-100.html"
+      "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "USA: Donald Trump räumt Fehler bei Abschiebepolitik ein – »war zu hart«",
-      "link": "https://www.spiegel.de/ausland/usa-donald-trump-raeumt-fehler-bei-abschiebepolitik-ein-war-zu-hart-a-1639fc22-1bc7-4081-aae3-e45202f1b355#ref=rss"
+      "title": "Donald Trump: UFC-Chef Dana White und seine politische Rolle für Trump",
+      "link": "https://www.spiegel.de/sport/donald-trump-ufc-chef-dana-white-und-seine-politische-rolle-fuer-trump-a-b6a1c2cf-45dc-4b4b-bf25-2675ac712491#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Donald Trump: Trump räumt mögliche Fehler bei Abschiebepolitik ein",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-abschiebepolitik-usa-stephen-miller-jd-vance"
+      "title": "Dana White: Trump nennt Nominierung von UFC-Chef als Sprecher einen Scherz",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-dana-white-pressesprecher-weisses-haus-ufc-gxe"
      },
      {
       "name": "FAZ",
-      "title": "USA unter Trump: Trump nennt seine bisherige Abschiebepolitik „zu hart“",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-nennt-seine-bisherige-abschiebepolitik-zu-hart-faz-19444916.html"
+      "title": "USA unter Trump: Trump: Kampfsport-Promoter soll Sprecher des Weißen Hauses werden",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-will-kampfsport-promoter-als-sprecher-vom-weissen-haus-faz-19444916.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "USA: Trump räumt nach Midterms „zu harte Abschiebepolitik“ ein",
-      "link": "https://www.handelsblatt.com/politik/international/usa-trump-raeumt-nach-midterms-zu-harte-abschiebepolitik-ein/100268336.html"
+      "title": "Dana White: Trump will Kampfsport-Manager als Sprecher des Weißen Hauses",
+      "link": "https://www.handelsblatt.com/politik/international/dana-white-trump-will-kampfsport-manager-als-sprecher-des-weissen-hauses/100268144.html"
+     }
+    ]
+   },
+   {
+    "title": "Demokraten feiern Wahlsieg bei US-Midterms",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678262.html",
+    "image": "https://images.tagesschau.de/image/ddc735c6-9139-426b-ae26-7efdf8f885b7/AAABoaf_5sg/AAABnSSvrFg/16x9-big/sendungsbild-1822460.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-09T06:54:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Demokraten feiern Wahlsieg bei US-Midterms",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678262.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Donald Trump weist Justizministerium an, unliebsame Demokraten zu untersuchen",
+      "link": "https://www.spiegel.de/ausland/donald-trump-weist-justizministerium-an-unliebsame-demokraten-zu-untersuchen-a-c5f98176-36ff-41ad-88a9-511276a4b746#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Midterms: Trump fordert Justizministerium zu Ermittlungen gegen Demokraten auf",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-justizministerium-demokraten-ermittlungen"
+     },
+     {
+      "name": "FAZ",
+      "title": "USA unter Trump: Demokraten nehmen Trumps Umfeld ins Visier",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokraten-nehmen-trumps-umfeld-ins-visier-faz-19444916.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Midterms: US-Demokraten nehmen nach Wahlsieg Musk und Trump-Vertraute ins Visier",
+      "link": "https://www.handelsblatt.com/politik/international/midterms-us-demokraten-nehmen-nach-wahlsieg-musk-und-trump-vertraute-ins-visier-01/100268255.html"
      }
     ]
    },
@@ -556,74 +629,6 @@
       "link": "https://www.handelsblatt.com/politik/deutschland/berlin-berliner-linke-fordert-mandatsverzicht-von-emde/100267960.html"
      }
     ]
-   },
-   {
-    "title": "Tote und Verletzte nach Schüssen in Krakau",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1680086.html",
-    "image": "https://images.tagesschau.de/image/6c8dc2b1-50e8-450e-ba53-27bfecbf8a15/AAABobgtFq0/AAABnSSvrFg/16x9-big/sendungsbild-1824160.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-08T06:26:27+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Tote und Verletzte nach Schüssen in Krakau",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1680086.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Krakau: Tote und Verletzte nach Schüssen in Polen",
-      "link": "https://www.spiegel.de/ausland/krakau-tote-und-verletzte-nach-schuessen-in-polen-a-706b54e1-b14f-4068-bf4d-be1aae44cf29#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Polen: Sechs Tote und mehrere Verletzte nach Schüssen in Kraków",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/fuenf-tote-und-mehrere-verletzte-nach-schuessen-in-krakau"
-     },
-     {
-      "name": "FAZ",
-      "title": "Vorfall in Polen: Sechs Tote und viele Verletzte nach Schüssen in Krakau",
-      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/polen-fuenf-tote-nach-schuessen-in-krakau-accg-201661603.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Gewaltverbrechen: Sechs Tote und mehr als fünfzehn Verletzte nach Schüssen in Krakau",
-      "link": "https://www.handelsblatt.com/politik/international/krakau-sechs-tote-und-mehr-als-fuenfzehn-verletzte-nach-schuessen/100268120.html"
-     }
-    ]
-   },
-   {
-    "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
-    "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
-    "image": "https://images.tagesschau.de/image/7bd1dc74-b219-499d-9b06-dc6fe94316da/AAABobNOoTQ/AAABnSSvrFg/16x9-big/pena-106.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-08T03:32:53+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
-      "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Paraguay: Santiago Peña als Präsident abgesetzt – Vize übernimmt",
-      "link": "https://www.spiegel.de/ausland/paraguay-santiago-pena-als-praesident-abgesetzt-vize-uebernimmt-a-f188f388-ac17-4d7f-a95c-4e9ff08eba18#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Bankenskandal in Paraguay: Paraguays abgesetzter Präsident Peña muss in Untersuchungshaft",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-untersuchungshaft-bankenskandal"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bankenaffäre: Paraguays Präsident abgesetzt",
-      "link": "https://www.faz.net/aktuell/politik/ausland/santiago-pena-abgesetzt-paraguays-praesident-scheitert-an-bankenaffaere-201660662.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Paraguay: Bankenskandal bringt Paraguays Präsidenten zu Fall",
-      "link": "https://www.handelsblatt.com/politik/international/paraguay-bankenskandal-bringt-paraguays-praesidenten-zu-fall/100267745.html"
-     }
-    ]
    }
   ],
   "30d": [
@@ -632,7 +637,7 @@
     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681016.html",
     "image": "https://images.tagesschau.de/image/2168fb03-6c1a-4386-9488-42a8ec09a57d/AAABocHZmEk/AAABnSSvrFg/16x9-big/sendungsbild-1825082.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-10T00:37:17+00:00",
+    "time": "2026-11-10T02:01:52+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -641,8 +646,42 @@
      },
      {
       "name": "Spiegel",
-      "title": "Jensen Huang: Die Affäre des Nvidia-Chefs – eine Geschichte der Honigfallen",
-      "link": "https://www.spiegel.de/wirtschaft/jensen-huang-die-affaere-des-nvidia-chefs-eine-geschichte-der-honigfallen-a-e96abebf-c82b-4e15-aa6d-f56af06d5c32#ref=rss"
+      "title": "Nvidia-Chef Jensen Huang entschuldigt sich für Affäre mit mutmaßlicher Spionin",
+      "link": "https://www.spiegel.de/ausland/nvidia-chef-jensen-huang-entschuldigt-sich-fuer-affaere-mit-mutmasslicher-spionin-a-66db6061-9340-44ba-9c9d-75726df75e3b#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Nvidia: Nvidia prüft Berichte zu ausländischer Spionage gegen Chef",
+      "link": "https://www.zeit.de/wirtschaft/2026-11/nvidia-jensen-huang-spionage-verwaltungsrat-ermittlungen"
+     },
+     {
+      "name": "FAZ",
+      "title": "Spionage-Verdacht: Anleger klagen gegen Nvidia-Chef Jensen Huang",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anleger-klagen-gegen-nvidia-chef-jensen-huang-accg-201667752.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Spionage: Die älteste Waffe der Spionage – Nvidia-Chef Jensen Huang fällt drauf rein",
+      "link": "https://www.handelsblatt.com/politik/international/honeytrapping-aelteste-waffe-der-spionage-jensen-huang-faellt-drauf-rein/100268442.html"
+     }
+    ]
+   },
+   {
+    "title": "Untersuchungen nach Affäre von Nvidia-Chef Huang mit mutmaßlicher Spionin",
+    "link": "https://www.tagesschau.de/video/video-1680710.html",
+    "image": "https://images.tagesschau.de/image/be8b313e-341a-4f80-8b49-d65be114e3f4/AAABocAU8lA/AAABnSSvrFg/16x9-big/sendungsbild-1824844.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-10T01:28:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Untersuchungen nach Affäre von Nvidia-Chef Huang mit mutmaßlicher Spionin",
+      "link": "https://www.tagesschau.de/video/video-1680710.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Nvidia: FBI ermittelt im Fall Jensen Huang und mutmaßlicher China-Spionin",
+      "link": "https://www.spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -651,8 +690,8 @@
      },
      {
       "name": "FAZ",
-      "title": "Jensen Huang: Er ist quasi Nvidia – aber wie lange noch?",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-ist-nun-chipkoenig-auf-abruf-von-nvidia-201665989.html"
+      "title": "Nvidia-Chef: War Jensen Huangs Affäre eine chinesische Spionin?",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-war-jensen-huangs-affaere-eine-chinesische-spionin-201664216.html"
      },
      {
       "name": "Handelsblatt",
@@ -662,16 +701,16 @@
     ]
    },
    {
-    "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
-    "link": "https://www.tagesschau.de/video/video-1678768.html",
-    "image": "https://images.tagesschau.de/image/3de6abfa-19f7-4167-9937-f6def80e5e48/AAABoay1ztU/AAABnSSvrFg/16x9-big/sendungsbild-1822956.jpg?width=1920",
+    "title": "Hubert Aiwanger - das Gesicht der Freien Wähler",
+    "link": "https://www.tagesschau.de/inland/regional/bayern/hubert-aiwanger-nachruf-100.html",
+    "image": "https://images.tagesschau.de/image/43e5d79d-1f86-4579-b5a4-5855deae5240/AAABoaqSgZk/AAABnSSvrFg/16x9-big/br-das-gesicht-der-freien-waehler-hubert-aiwanger-ist-tot-100.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-10T00:29:13+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
-      "link": "https://www.tagesschau.de/video/video-1678768.html"
+      "title": "Hubert Aiwanger - das Gesicht der Freien Wähler",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/hubert-aiwanger-nachruf-100.html"
      },
      {
       "name": "Spiegel",
@@ -726,6 +765,40 @@
       "name": "Handelsblatt",
       "title": "Bundespräsidentin: Merz stellt Aigner vor –„Der Bundeskanzler hat es spannend gemacht, auch für mich“",
       "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-merz-stellt-aigner-vor-der-kanzler-hat-es-spannend-gemacht/100268367.html"
+     }
+    ]
+   },
+   {
+    "title": "Wahllokale in den USA geöffnet: Richtungswahl für Donald Trump",
+    "link": "https://www.tagesschau.de/video/video-1677274.html",
+    "image": "https://images.tagesschau.de/image/5ab89321-28cf-45bf-8c0b-2f3bbdcb8233/AAABoaGJGxc/AAABnSSvrFg/16x9-big/sendungsbild-1821650.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-09T22:33:23+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Wahllokale in den USA geöffnet: Richtungswahl für Donald Trump",
+      "link": "https://www.tagesschau.de/video/video-1677274.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Donald Trump: USA wollen Israel künftig keine Militärhilfen mehr zahlen",
+      "link": "https://www.spiegel.de/ausland/donald-trump-usa-wollen-israel-kuenftig-keine-militaerhilfen-mehr-zahlen-a-ec1111e9-9854-46c8-b5f4-6e287bbc9053#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Israel: Donald Trump kündigt Ende von Milliardenhilfen für Israel an",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/us-militaerhilfe-israel-donald-trump-benjamin-netanjahu"
+     },
+     {
+      "name": "FAZ",
+      "title": "Liveblog Nahost: Trump erklärt Irankrieg militärisch für „effektiv vorüber“",
+      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-trump-erklaert-irankrieg-militaerisch-fuer-effektiv-vorueber-faz-200583539.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "USA-Israel: Trump will Militärhilfe an Israel bis Jahresende stoppen",
+      "link": "https://www.handelsblatt.com/politik/international/usa-israel-trump-will-militaerhilfe-an-israel-bis-jahresende-stoppen/100267032.html"
      }
     ]
    },
@@ -798,50 +871,50 @@
     ]
    },
    {
-    "title": "\"Beteiligung von 15.000 Beschäftigen\", Katrin Nöbauer, BR, zum IG Metall-Warnstreik bei Audi in Ingolstadt",
-    "link": "https://www.tagesschau.de/video/video-1680748.html",
-    "image": "https://images.tagesschau.de/image/23973c81-3465-4425-bed7-b33a42ad2766/AAABocByNvo/AAABnSSvrFg/16x9-big/sendungsbild-1824898.jpg?width=1920",
+    "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
+    "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
+    "image": "https://images.tagesschau.de/image/1d795625-6e32-4268-8bf0-5ca4a0c10aa8/AAABobqEWvg/AAABnSSvrFg/16x9-big/dana-white-donald-trump-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-09T13:14:48+00:00",
+    "time": "2026-11-09T11:12:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "\"Beteiligung von 15.000 Beschäftigen\", Katrin Nöbauer, BR, zum IG Metall-Warnstreik bei Audi in Ingolstadt",
-      "link": "https://www.tagesschau.de/video/video-1680748.html"
+      "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall sind angelaufen",
-      "link": "https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss"
+      "title": "Donald Trump: UFC-Chef Dana White und seine politische Rolle für Trump",
+      "link": "https://www.spiegel.de/sport/donald-trump-ufc-chef-dana-white-und-seine-politische-rolle-fuer-trump-a-b6a1c2cf-45dc-4b4b-bf25-2675ac712491#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Tarifstreit: Warnstreiks der IG Metall haben begonnen",
-      "link": "https://www.zeit.de/arbeit/2026-11/ig-metall-warnstreiks-tarifverhandlungen-metall-elektroindustrie"
+      "title": "Dana White: Trump nennt Nominierung von UFC-Chef als Sprecher einen Scherz",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-dana-white-pressesprecher-weisses-haus-ufc-gxe"
      },
      {
       "name": "FAZ",
-      "title": "Tarifkonflikt: Warnstreiks der IG Metall in Hessen",
-      "link": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/ig-metall-erste-warnstreiks-in-hessen-am-montag-accg-201637767.html"
+      "title": "USA unter Trump: Trump: Kampfsport-Promoter soll Sprecher des Weißen Hauses werden",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-will-kampfsport-promoter-als-sprecher-vom-weissen-haus-faz-19444916.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall kurz nach Mitternacht gestartet",
-      "link": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-warnstreiks-der-ig-metall-kurz-nach-mitternacht-gestartet/100266374.html"
+      "title": "Dana White: Trump will Kampfsport-Manager als Sprecher des Weißen Hauses",
+      "link": "https://www.handelsblatt.com/politik/international/dana-white-trump-will-kampfsport-manager-als-sprecher-des-weissen-hauses/100268144.html"
      }
     ]
    },
    {
-    "title": "Perspektiven der Republikaner nach Niederlage bei den US-Midterms",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1678318.html",
-    "image": "https://images.tagesschau.de/image/8784da41-601c-4475-93d2-ff604a944074/AAABoai9Zk4/AAABnSSvrFg/16x9-big/sendungsbild-1822528.jpg?width=1920",
+    "title": "\"Trump ist überrascht über das Ergebnis\"",
+    "link": "https://www.tagesschau.de/video/video-1677736.html",
+    "image": "https://images.tagesschau.de/image/ec42e48d-4deb-462e-8849-d930b099b8e3/AAABoaUgjhs/AAABnSSvrFg/16x9-big/sendungsbild-1822004.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-09T10:01:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Perspektiven der Republikaner nach Niederlage bei den US-Midterms",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1678318.html"
+      "title": "\"Trump ist überrascht über das Ergebnis\"",
+      "link": "https://www.tagesschau.de/video/video-1677736.html"
      },
      {
       "name": "Spiegel",
@@ -884,8 +957,8 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Gewalt eskaliert: Krawalle und Plünderungen nach Demo in Frankfurt",
-      "link": "https://www.zeit.de/news/2026-10/31/krawalle-und-pluenderungen-in-frankfurt"
+      "title": "Nach Eskalation: Einsatzleiter: Neue Gewalt-Dimension nach Demo in Frankfurt",
+      "link": "https://www.zeit.de/news/2026-11/01/einsatzleiter-neue-gewalt-dimension-nach-demo-in-frankfurt"
      },
      {
       "name": "FAZ",
@@ -894,76 +967,8 @@
      },
      {
       "name": "Handelsblatt",
-      "title": "„Gen Z regelt“: Bundesweite Jugendproteste in ersten Städten gestartet – Vermummte und Pyrotechnik in Stuttgart",
-      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-regelt-bundesweite-jugendproteste-in-ersten-staedten-gestartet/100266344.html"
-     }
-    ]
-   },
-   {
-    "title": "Israels Präsident Herzog erteilt Eisenkot Auftrag zur Regierungsbildung",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680462.html",
-    "image": "https://images.tagesschau.de/image/c2ed02c4-8d74-4e71-8bc0-d816bd428276/AAABobybvsk/AAABnSSvrFg/16x9-big/sendungsbild-1824538.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-08T19:21:32+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Israels Präsident Herzog erteilt Eisenkot Auftrag zur Regierungsbildung",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680462.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Israel: Gadi Eisenkot erhält Auftrag zur Regierungsbildung – eine fast unlösbare Aufgabe",
-      "link": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe-a-690ef9df-db7a-46cf-9f31-b149c6523e4a#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Regierungsbildung in Israel: Israels Präsident beauftragt Eisenkot offiziell mit Regierungsbildung",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/regierungsbildung-israel-gadi-eisenkot-isaac-herzog-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Liveblog Nahost: Israels Präsident beauftragt Eisenkot mit Regierungsbildung",
-      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-herzog-beauftragt-eisenkot-mit-regierungsbildung-faz-200583539.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Nahost: Netanjahu-Rivale Eisenkot in Israel mit Regierungsbildung beauftragt",
-      "link": "https://www.handelsblatt.com/politik/international/nahost-netanjahu-rivale-eisenkot-in-israel-mit-regierungsbildung-beauftragt/100268142.html"
-     }
-    ]
-   },
-   {
-    "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html",
-    "image": "https://images.tagesschau.de/image/bf2bb47a-b8aa-4708-89c7-cace4b8fdada/AAABobIlh28/AAABnSSvrFg/16x9-big/rbb-vanessa-emde-die-linke-100.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-08T10:59:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Linke in Berlin: Vanessa Emde will ihr Mandat »selbstverständlich« weiter ausüben",
-      "link": "https://www.spiegel.de/politik/deutschland/linke-in-berlin-vanessa-emde-will-ihr-mandat-selbstverstaendlich-weiter-ausueben-a-9bb6975c-39a9-468b-a250-32db18215b24#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Die Linke: Vanessa Emde will Mandat im Berliner Abgeordnetenhaus behalten",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/vanessa-emde-linke-neukoelln-mandat-antisemitismus-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Deutschland Liveblog: Berliner Linke fordert Mandatsverzicht von Emde",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-linke-fordert-mandatsverzicht-von-emde-faz-110093143.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Berlin: Berliner Linke fordert Mandatsverzicht von Emde",
-      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-berliner-linke-fordert-mandatsverzicht-von-emde/100267960.html"
+      "title": "„Gen Z regelt“: Bundesweite Jugendproteste – Kölner Polizei setzt Wasserwerfer am Rand der Demo ein",
+      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-regelt-koelner-polizei-setzt-wasserwerfer-am-rand-der-demo-ein/100266344.html"
      }
     ]
    }
@@ -1825,6 +1830,31 @@
      "title_orig": "EU and Canada plan to link real-time payment systems"
     },
     {
+     "title": "TEN Credit Union wählt Bankjoy für seine Corelation KeyStone-Konvertierung aus",
+     "link": "https://www.finextra.com/pressarticle/111431/ten-credit-union-selects-bankjoy-for-its-corelation-keystone-conversion?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 3,
+     "time": "2026-10-27T11:33:37+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion",
+       "link": "https://www.finextra.com/pressarticle/111431/ten-credit-union-selects-bankjoy-for-its-corelation-keystone-conversion?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "The Paypers",
+       "title": "TEN Credit Union picks Bankjoy for digital banking",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmxSYUVSb3VoNW9xbzlsUWFpU1RIR2RuRGZvYzFsSjJ1VTJNUlJBMFh3QVNURkxYR21leDZWWDFsa3NnRXI2ZS0yd1ViWXQtTTl6OFJZV0x4WUVmYldydmVtVkYtNE1vLW02QVFwLXF6bnp5UXp3SzVkeXVJc2VzMC1LbUFzWk4xY2oyN3FXYlA4QzFFZEVzRndPQ2hISDByMXc?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Sound Credit Union",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOeWlJeXc2Yzg5U2FWNlFDVlFwRjhzYkFNRXlCSVF1M1hHYklPeGxNMHBDd2x5VGlRNEdQdlhzNUVBZ3AwYzUxZ2xBeUkxdnRUbElmeV9keEoydzhXSHhRZDlOeS1oU0lD?oc=5"
+      }
+     ],
+     "title_orig": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion"
+    },
+    {
      "title": "Tech Mahindra erwirbt die Cash-Management-Sparte von Finastra",
      "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1973,26 +2003,6 @@
       }
      ],
      "title_orig": "First New Mexico Bank selects PhoenixWorx for core banking"
-    },
-    {
-     "title": "Die thailändische virtuelle Bank CLICX wählt den Tresorkern der Gedankenmaschine aus",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRi15a3dNbnZObGVaSDhUa1k4emZYTW1KN0djemJ2eTBYc0prYlBIY25ObjVHUjJMZ3pSUFRnRU9QeDM3bFNzSllNcWxhaFNXTHJhOWtJRTEtRXQ2eENvZVVVWEEtaDY4VHMwSExrWHgxbDlUU3lOZnp4NGI2dVltdW9hY0d5NU0xRG9lZFhmaWNSR0MwWnZFWnhvTQ?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-04T11:31:19+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Thai virtual bank CLICX selects Thought Machine’s Vault Core",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRi15a3dNbnZObGVaSDhUa1k4emZYTW1KN0djemJ2eTBYc0prYlBIY25ObjVHUjJMZ3pSUFRnRU9QeDM3bFNzSllNcWxhaFNXTHJhOWtJRTEtRXQ2eENvZVVVWEEtaDY4VHMwSExrWHgxbDlUU3lOZnp4NGI2dVltdW9hY0d5NU0xRG9lZFhmaWNSR0MwWnZFWnhvTQ?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Thought Machine lands core banking deal with Thailand’s CLICX",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNODdyQ1ZESFJVZU9VM2tycDZHUG1uU3ZteG1sVnN4Z3BhdGtiODhrU1R4a1FYME1TSVprZEF3X1I2OFU4WjVlS09fWEdKd2JmQ1hGbERHVGxzc0J3elpIaHIyUEFfRGI1bmMtTkp1ZlNOM0prNTNXbW9BZEVBSUxuZjMtMGlwZnExb1RCSXhvNUtRSGZuVHhrMHJBYWtYNEE?oc=5"
-      }
-     ],
-     "title_orig": "Thai virtual bank CLICX selects Thought Machine’s Vault Core"
     }
    ]
   },
@@ -2473,24 +2483,24 @@
      "title_orig": "Canada's real-time payments system launches"
     },
     {
-     "title": "Claude erhält persönliches Finanz-Tool",
-     "link": "https://www.finextra.com/newsarticle/48717/claude-gets-personal-finance-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2025/06/Anthropic-Claude-3.jpg?w=457",
+     "title": "Revolut startet mobile Pläne in Irland",
+     "link": "https://www.finextra.com/pressarticle/111617/revolut-launches-mobile-plans-in-ireland?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/01/Revolut.png?w=457&quality=82",
      "n_sources": 2,
-     "time": "2026-11-06T18:07:14+00:00",
+     "time": "2026-11-09T15:01:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Claude gets personal finance tool",
-       "link": "https://www.finextra.com/newsarticle/48717/claude-gets-personal-finance-tool?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "Revolut launches mobile plans in Ireland",
+       "link": "https://www.finextra.com/pressarticle/111617/revolut-launches-mobile-plans-in-ireland?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
        "name": "PYMNTS",
-       "title": "Anthropic Launches Claude Personal Finance Ahead of Nasdaq Listing",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-launches-claude-personal-finance-ahead-of-nasdaq-listing/"
+       "title": "Revolut Expands UK Banking Business With Personal Loans",
+       "link": "https://www.pymnts.com/personal-loans/2026/revolut-expands-united-kingdom-banking-business-with-personal-loans/"
       }
      ],
-     "title_orig": "Claude gets personal finance tool"
+     "title_orig": "Revolut launches mobile plans in Ireland"
     },
     {
      "title": "Agentic AI und Instant Payments: Wie können Banken die Fragmentierung reduzieren?",
@@ -2553,24 +2563,24 @@
      "title_orig": "Huntington National Bank launches treasury management platform"
     },
     {
-     "title": "B2B-Zahlungsunternehmen Pliant sammelt 80 $",
-     "link": "https://www.finextra.com/pressarticle/111604/b2b-payments-firm-pliant-raises-80?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2025/04/Pliant.png?w=457&quality=82",
+     "title": "Claude erhält persönliches Finanz-Tool",
+     "link": "https://www.finextra.com/newsarticle/48717/claude-gets-personal-finance-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2025/06/Anthropic-Claude-3.jpg?w=457",
      "n_sources": 2,
-     "time": "2026-11-06T14:44:00+00:00",
+     "time": "2026-11-06T18:07:14+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "B2B payments firm Pliant raises $80",
-       "link": "https://www.finextra.com/pressarticle/111604/b2b-payments-firm-pliant-raises-80?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "Claude gets personal finance tool",
+       "link": "https://www.finextra.com/newsarticle/48717/claude-gets-personal-finance-tool?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
        "name": "PYMNTS",
-       "title": "Pliant Raises $80 Million to Open B2B Payments to AI Agents",
-       "link": "https://www.pymnts.com/news/investment-tracker/2026/pliant-raises-80-million-to-open-b2b-payments-to-ai-agents/"
+       "title": "Anthropic Launches Claude Personal Finance Ahead of Nasdaq Listing",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-launches-claude-personal-finance-ahead-of-nasdaq-listing/"
       }
      ],
-     "title_orig": "B2B payments firm Pliant raises $80"
+     "title_orig": "Claude gets personal finance tool"
     }
    ]
   }
@@ -2582,54 +2592,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "crunchyroll",
-      "link": "https://www.yahoo.com/entertainment/tv/articles/crunchyroll-release-villains-november-exclusive-150000127.html",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "vollmond november 2026",
-      "link": "https://www.volksfreund.de/region/rheinland-pfalz/leoniden-sternschnuppen-2026-im-november-zu-sehen_aid-139129713",
+      "title": "schlägerei",
+      "link": "https://www.lvz.de/lokales/leipzig/hauptbahnhof-leipzig-bei-rot-ueber-die-ampel-und-kaffee-verschuettet-schlaegerei-LCXESVKSRBC43AWSHA2FFEY27I.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "sparkasse",
-      "link": "https://www.chip.de/news/geld-finanzen-recht/wichtiger-stichtag-im-november-das-aendert-sich-bei-bezahlung-mit-sparkassen-karten_07139e4d-19c5-4df2-93dd-ff9d9e43f8c7.html",
+      "title": "lotto",
+      "link": "https://www.bild.de/news/inland/zwei-neue-millionaere-im-lotto-wohin-der-gewinn-bei-6aus49-geht-6af19c12a389bc337cfcafe3",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "rockets – nuggets",
+      "link": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/09/nuggets-wanted-to-wait-and-see-how-starters-felt-this/92700267007/",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "sport1",
+      "link": "https://www.dwdl.de/nachrichten/108495/vodafone_speist_sport1_nach_ueber_einer_woche_wieder_ein/",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "der aktionär",
+      "link": "https://www.faz.net/aktuell/finanzen/tech-aktien-drei-gruende-fuer-den-ausverkauf-und-was-hoffnung-macht-201658278.html",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "gas",
+      "link": "https://www.heise.de/en/news/Anthropic-secures-gas-turbine-capacity-in-multibillion-dollar-deal-11518063.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "stade",
+      "link": "https://www.canalplus.com/sport/j10---lyontoulouse---281126/h/45940045_59999",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "kulmbach",
+      "link": "https://www.radio-plassenburg.de/zwei-jahre-nach-dem-spatenstich-wohnanlage-fuer-klinikumsmitarbeiter-eingeweiht-11827338/",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "tagesgeld zinsen",
-      "link": "https://www.morgenpost.de/ratgeber-wissen/finanzen/article413512719/tagesgeld-zinsen-ing-oder-vw-bank-erster-blick-taeuscht-vergleich.html",
+      "title": "felix nmecha",
+      "link": "https://www.bild.de/sport/fussball/bvb-homophob-nmecha-muss-sich-klar-distanzieren-6af02d4d80d3a1c6aa66ccc1",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "saturn",
-      "link": "https://www.delamar.de/deals/mediamarkt-angebote-diese-woche-kw45-smartphone-smartwatch-bluetooth-kopfhoerer-soundbar-in-ear-kopfhoerer-v2-91515/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "hawks – lakers",
-      "link": "https://soaringdownsouth.com/doncic-absence-hawks-focus-towards-meeting",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "claude",
-      "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "la bola negra",
-      "link": "https://www.newyorker.com/culture/the-current-cinema/the-insistent-monumentality-of-la-bola-negra",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "ps5 pro",
-      "link": "https://www.techpowerup.com/354626/gta-vi-game-data-suggests-pssr-update-with-120-hz-support-and-ps5-pro-high-cpu-frequency-mode",
+      "title": "vfb stuttgart",
+      "link": "https://www.bild.de/sport/fussball/vfb-stuttgart-stuttgart-bosse-in-der-kritik-so-denkt-der-vfb-ueber-die-aussagen-von-uli-hoeness-6af19136a389bc337cfcae89",
       "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "bundesregierung",
-      "link": "https://www.bild.de/politik/inland/spd-startet-die-operation-rettet-klingbeil-doch-eine-person-koennte-ihn-torpedieren-6af07ee9a389bc337cfca27b",
-      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2640,52 +2650,52 @@
      {
       "title": "Ilse Aigner",
       "link": "https://de.wikipedia.org/wiki/Ilse_Aigner",
-      "meta": "76.156 Aufrufe am 08.11."
+      "meta": "223.530 Aufrufe am 09.11."
      },
      {
-      "title": "Ronald Zehrfeld",
-      "link": "https://de.wikipedia.org/wiki/Ronald_Zehrfeld",
-      "meta": "45.277 Aufrufe am 08.11."
+      "title": "Russell Brand",
+      "link": "https://de.wikipedia.org/wiki/Russell_Brand",
+      "meta": "104.556 Aufrufe am 09.11."
      },
      {
-      "title": "Absolute Power",
-      "link": "https://de.wikipedia.org/wiki/Absolute_Power",
-      "meta": "42.031 Aufrufe am 08.11."
+      "title": "Rudolf Höß",
+      "link": "https://de.wikipedia.org/wiki/Rudolf_H%C3%B6%C3%9F",
+      "meta": "75.962 Aufrufe am 09.11."
+     },
+     {
+      "title": "The Zone of Interest (Film)",
+      "link": "https://de.wikipedia.org/wiki/The_Zone_of_Interest_(Film)",
+      "meta": "66.917 Aufrufe am 09.11."
+     },
+     {
+      "title": "Jen-Hsun Huang",
+      "link": "https://de.wikipedia.org/wiki/Jen-Hsun_Huang",
+      "meta": "58.854 Aufrufe am 09.11."
      },
      {
       "title": "Liste der größten Auslegerbrücken",
       "link": "https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6%C3%9Ften_Auslegerbr%C3%BCcken",
-      "meta": "31.780 Aufrufe am 08.11."
+      "meta": "32.935 Aufrufe am 09.11."
      },
      {
-      "title": "Clint Eastwood",
-      "link": "https://de.wikipedia.org/wiki/Clint_Eastwood",
-      "meta": "30.486 Aufrufe am 08.11."
+      "title": "Ballers in God",
+      "link": "https://de.wikipedia.org/wiki/Ballers_in_God",
+      "meta": "30.209 Aufrufe am 09.11."
      },
      {
-      "title": "Hubert Aiwanger",
-      "link": "https://de.wikipedia.org/wiki/Hubert_Aiwanger",
-      "meta": "30.304 Aufrufe am 08.11."
+      "title": "Hedwig Höß",
+      "link": "https://de.wikipedia.org/wiki/Hedwig_H%C3%B6%C3%9F",
+      "meta": "24.170 Aufrufe am 09.11."
      },
      {
-      "title": "Vanessa Emde",
-      "link": "https://de.wikipedia.org/wiki/Vanessa_Emde",
-      "meta": "29.082 Aufrufe am 08.11."
+      "title": "Blaukronenpapageichen",
+      "link": "https://de.wikipedia.org/wiki/Blaukronenpapageichen",
+      "meta": "23.112 Aufrufe am 09.11."
      },
      {
-      "title": "Roeland Wiesnekker",
-      "link": "https://de.wikipedia.org/wiki/Roeland_Wiesnekker",
-      "meta": "23.257 Aufrufe am 08.11."
-     },
-     {
-      "title": "Anna Pieri Zuercher",
-      "link": "https://de.wikipedia.org/wiki/Anna_Pieri_Zuercher",
-      "meta": "23.222 Aufrufe am 08.11."
-     },
-     {
-      "title": "Die Tribute von Panem – The Ballad of Songbirds and Snakes",
-      "link": "https://de.wikipedia.org/wiki/Die_Tribute_von_Panem_%E2%80%93_The_Ballad_of_Songbirds_and_Snakes",
-      "meta": "22.610 Aufrufe am 08.11."
+      "title": "Novemberpogrome 1938",
+      "link": "https://de.wikipedia.org/wiki/Novemberpogrome_1938",
+      "meta": "21.227 Aufrufe am 09.11."
      }
     ]
    }
@@ -2696,31 +2706,31 @@
     "lang": "fr",
     "items": [
      {
-      "title": "lotto Ziehung Ergebnisse",
-      "link": "https://www.fdj.fr/jeux-de-tirage/loto/resultats/lundi-09-novembre-2026",
+      "title": "Kraftstoff",
+      "link": "https://www.franceinfo.fr/economie/pouvoir-achat/hausse-du-smic-on-apporte-une-mauvaise-reponse-a-un-vrai-probleme-reagit-le-president-du-medef-patrick-martin_8274548.html",
+      "meta": "10000+ Suchanfragen",
+      "title_orig": "carburant"
+     },
+     {
+      "title": "rockets – nuggets",
+      "link": "https://nypost.com/2026/11/09/betting/nuggets-vs-rockets-prediction-nba-odds-picks-best-bets-monday/",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "warriors – Pelikane",
+      "link": "https://www.vavel.com/en-us/nba/2026/11/09/1278658-pelicans-vs-warriors-live-score-nba.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "tirage loto résultats"
+      "title_orig": "warriors – pelicans"
      },
      {
-      "title": "hornets – Jumper",
-      "link": "https://www.fearthesword.com/cavs-injury-report/54202/cavs-at-hornets-how-to-watch-odds-and-injury-report",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "hornets – cavaliers"
-     },
-     {
-      "title": "lakers",
-      "link": "https://www.sportingnews.com/ca/nba/los-angeles-lakers/news/lakers-predicted-trade-125m-shooting-center-back-walker-kessler-monster-deal/f16f5fa4ddbf2d41da665710",
+      "title": "mavericks – pacers",
+      "link": "https://www.actionnetwork.com/nba/nba-moneyline-parlay-2-predictions-for-monday-november-9",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "laposte",
-      "link": "https://www.ouest-france.fr/economie/entreprises/la-poste/a-saint-etienne-de-montluc-un-nouveau-rassemblement-contre-la-fermeture-du-bureau-de-poste-ce-mardi-10-novembre-d2aac7c2-dc50-11f1-a45f-49114163a350",
+      "title": "nhl",
+      "link": "https://broadstreetbuzz.com/flyers-look-to-bounce-back-against-canucks-in-second-half-of-back-to-back-01m717jrcmbk",
       "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "hawks – lakers",
-      "link": "https://soaringdownsouth.com/doncic-absence-hawks-focus-towards-meeting",
-      "meta": "500+ Suchanfragen"
      }
     ]
    },
@@ -2729,29 +2739,31 @@
     "lang": "it",
     "items": [
      {
-      "title": "campus drivers 2",
-      "link": "https://www.numerama.com/pop-culture/2370577-campus-driver-la-nouvelle-serie-prime-video-explose-tout-et-elle-a-une-specificite.html",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "tennis",
-      "link": "https://www.tennismajors.com/wta-tour-news/wta-finals/without-rybakina-gauff-and-pegula-meet-in-wta-finals-group-1-with-no-4-on-the-line-866360.html",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "jimmy ghione",
-      "link": "https://www.vanityfair.it/article/jimmy-ghione-lacrime-fine-matrimonio-moglie-tania-paragoni",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "großer Bruder",
-      "link": "https://mediasetinfinity.mediaset.it/video/grandefratellovip/alessandro-varsi-e-megan-ria-passione-o-strategia_F314747501017C15",
+      "title": "ukrainisch-Russischer Krieg",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/in-ucraina-morti-oltre-400-mila-russi-hacker-svelano-i-dati-di-mosca_1ddc6347-be4e-4839-b9b1-3ec7132351bb.html",
       "meta": "100+ Suchanfragen",
-      "title_orig": "varsi grande fratello"
+      "title_orig": "guerra ucraina russia"
      },
      {
-      "title": "hawks - lakers",
-      "link": "https://www.silverscreenandroll.com/lakers-game-previews/128614/lakers-vs-hawks-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-cj-mccolum",
+      "title": "Frankreich",
+      "link": "https://www.rainews.it/articoli/2026/11/esteri-europa-francia-attacchi-hacker-informatici-cyberattacchi-supermercati-frigoriferi-procura-parigi-indaga-su-iran-45842f59-a5e2-4b49-8b8a-8973545c8cb6.html",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "francia"
+     },
+     {
+      "title": "Sachbezug RSU",
+      "link": "https://www.tgcom24.mediaset.it/scheda/manovra-2027-tutti-i-bonus_118752650-202602k.shtml",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "fringe benefit"
+     },
+     {
+      "title": "romatoday",
+      "link": "https://www.rainews.it/articoli/2026/11/fisico-roberto-cervellati-travolto-da-monopattino-a-roma-si-e-costituito-un-51enne-3bb388d1-c2e1-4359-8a26-f2f08375e53c.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "elena sofia ricci",
+      "link": "https://www.ilfattoquotidiano.it/2026/11/09/ho-rischiato-di-morire-sul-set-ho-avuto-un-problema-molto-grave-alla-colonna-vertebrale-una-cisti-enorme-stavo-finendo-paralizzata-ma-dovevo-finire-la-serie-il-racconto-di-elena-sofia-ricci/8565359/",
       "meta": "500+ Suchanfragen"
      }
     ]
@@ -2761,34 +2773,30 @@
     "lang": "es",
     "items": [
      {
-      "title": "geschweißt",
-      "link": "https://www.elmundo.es/espana/2026/11/08/6af038e8e85ececa1c8b456f.html",
+      "title": "Inhaftierung",
+      "link": "https://www.elmundo.es/loc/2026/11/09/6af1dbe8fc6c831d048b458d.html",
       "meta": "100+ Suchanfragen",
-      "title_orig": "soldado"
+      "title_orig": "prisión"
      },
      {
-      "title": "junior - Cucuta",
-      "link": "https://as.com/apuestas/pronosticos/atletico-junior-vs-cucuta-deportivo-pronostico-10-11-2026/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "junior - cúcuta"
+      "title": "nz vs ind",
+      "link": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-3rd-odi-1539439/match-preview",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Betrug",
-      "link": "https://www.elmundo.es/internacional/2026/11/09/6af218b121efa0ef228b457a.html",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "fraude"
+      "title": "mavericks - pacers",
+      "link": "https://www.actionnetwork.com/nba/nba-moneyline-parlay-2-predictions-for-monday-november-9",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "nationaler Kern",
-      "link": "https://elpais.com/espana/2026-11-09/nucleo-nacional-reclutaba-nuevos-miembros-con-un-grupo-ultra-asturiano-que-organizaba-cacerias-contra-inmigrantes.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "núcleo nacional"
+      "title": "rockstar games gta vi",
+      "link": "https://www.rockstargames.com/newswire/article/o39o87a435a25a/grand-theft-auto-vi-the-festival",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "primitive Auslosung heute",
-      "link": "https://www.lavanguardia.com/comprobar-loteria/primitiva/primitiva-20261109/",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "sorteo primitiva hoy"
+      "title": "ziaire williams",
+      "link": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-09/ziaire-williams-returns-to-starting-lineup-monday",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2797,31 +2805,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "vikings vs rechnungen",
-      "link": "https://www.racingpost.com/sport/nfl-tips/buffalo-bills-vs-minnesota-vikings-betting-tips-bet-builder-predictions-aTB1b0S1wQ9v/",
+      "title": "krieger gegen Pelikane",
+      "link": "https://www.nytimes.com/athletic/7769305/2026/11/09/pelicans-vs-warriors-stream-how-to-watch-nov-9/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "vikings vs bills"
+      "title_orig": "warriors vs pelicans"
      },
      {
-      "title": "gala",
-      "link": "https://wwd.com/eye/parties/gallery/inside-lacma-gala-2026-photos-1239406154/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "hornissen gegen Kavaliere",
-      "link": "https://www.fearthesword.com/cavs-injury-report/54202/cavs-at-hornets-how-to-watch-odds-and-injury-report",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "hornets vs cavaliers"
-     },
-     {
-      "title": "ps5 pro",
-      "link": "https://www.techpowerup.com/354626/gta-vi-game-data-suggests-pssr-update-with-120-hz-support-and-ps5-pro-high-cpu-frequency-mode",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "doctor who",
-      "link": "https://www.radiotimes.com/audio/audiobooks/doctor-who-fan-favourite-feature-length-newsupdate/",
+      "title": "vinted",
+      "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "suns vs spurs",
+      "link": "https://www.poundingtherock.com/spurs-discussion-threads/109813/its-time-for-basketball-san-antonio-spurs-at-phoenix-suns",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Stadtpolizei",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5j5e6dpjqo",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "metropolitan police"
+     },
+     {
+      "title": "Geld",
+      "link": "https://news.sky.com/story/money-personal-finance-consumer-pension-mortgage-inheritance-tax-live-latest-13040934",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "money"
      }
     ]
    },
@@ -2830,31 +2839,32 @@
     "lang": "pl",
     "items": [
      {
-      "title": "falken – Laker",
-      "link": "https://soaringdownsouth.com/doncic-absence-hawks-focus-towards-meeting",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "hawks – lakers"
+      "title": "zabrze miner",
+      "link": "https://sportowefakty.wp.pl/pilka-nozna/1283400/podolski-ujawnil-ile-gornik-zarobil-na-transferach",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "górnik zabrze"
      },
      {
-      "title": "Trainer",
-      "link": "https://przegladsportowy.onet.pl/pilka-nozna/reprezentacja-polski/lekarz-reprezentacji-polski-ujawnia-w-sprawie-zdrowia-jana-bednarka/ndt1vgc",
+      "title": "polnische Nationalmannschaft im Männerfußball",
+      "link": "https://trends.google.com/trends/explore?geo=PL&q=reprezentacja%20polski%20w%20pi%C5%82ce%20no%C5%BCnej%20m%C4%99%C5%BCczyzn",
       "meta": "100+ Suchanfragen",
-      "title_orig": "trener"
+      "title_orig": "reprezentacja polski w piłce nożnej mężczyzn"
      },
      {
-      "title": "ps5 pro",
-      "link": "https://www.techpowerup.com/354626/gta-vi-game-data-suggests-pssr-update-with-120-hz-support-and-ps5-pro-high-cpu-frequency-mode",
+      "title": "lamine yamal",
+      "link": "https://www.standard.co.uk/sport/football/liverpool-fc-munoz-spain-call-up-b1304163.html",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "wetter",
+      "link": "https://www.nationthailand.com/news/general/40073286",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "weather"
+     },
+     {
+      "title": "google",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
       "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "gta 6",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-09/take-two-s-nba-2k-sales-miss-expectations-due-to-grand-theft-auto-vi",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "ps5",
-      "link": "https://www.purepc.pl/gta-6-pierwsze-szczegoly-wydania-na-ps5-pro",
-      "meta": "2000+ Suchanfragen"
      }
     ]
    },
@@ -2863,30 +2873,31 @@
     "lang": "fr",
     "items": [
      {
-      "title": "Jeans Reno",
-      "link": "https://fr.wikipedia.org/wiki/Jean_Reno",
-      "meta": "63.767 Aufrufe am 08.11.",
-      "title_orig": "Jean Reno"
+      "title": "Teddy Riner",
+      "link": "https://fr.wikipedia.org/wiki/Teddy_Riner",
+      "meta": "125.608 Aufrufe am 09.11."
      },
      {
-      "title": "Sophie Marceau",
-      "link": "https://fr.wikipedia.org/wiki/Sophie_Marceau",
-      "meta": "62.515 Aufrufe am 08.11."
+      "title": "Ein Affe im Winter (Film)",
+      "link": "https://fr.wikipedia.org/wiki/Un_singe_en_hiver_(film)",
+      "meta": "44.723 Aufrufe am 09.11.",
+      "title_orig": "Un singe en hiver (film)"
      },
      {
-      "title": "Johnny Depp",
-      "link": "https://fr.wikipedia.org/wiki/Johnny_Depp",
-      "meta": "48.089 Aufrufe am 08.11."
+      "title": "Liste der Umfragen zur französischen Präsidentschaftswahl 2027",
+      "link": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "meta": "42.886 Aufrufe am 09.11.",
+      "title_orig": "Liste de sondages sur l'élection présidentielle française de 2027"
      },
      {
-      "title": "Tom Laperche",
-      "link": "https://fr.wikipedia.org/wiki/Tom_Laperche",
-      "meta": "43.405 Aufrufe am 08.11."
+      "title": "Stéphane Metzger",
+      "link": "https://fr.wikipedia.org/wiki/St%C3%A9phane_Metzger",
+      "meta": "31.465 Aufrufe am 09.11."
      },
      {
       "title": "Campus Drivers",
       "link": "https://fr.wikipedia.org/wiki/Campus_Drivers",
-      "meta": "33.430 Aufrufe am 08.11."
+      "meta": "23.854 Aufrufe am 09.11."
      }
     ]
    },
@@ -2895,29 +2906,31 @@
     "lang": "it",
     "items": [
      {
-      "title": "Valentino Rossi",
-      "link": "https://it.wikipedia.org/wiki/Valentino_Rossi",
-      "meta": "21.411 Aufrufe am 08.11."
+      "title": "Rosenkranz Livatino",
+      "link": "https://it.wikipedia.org/wiki/Rosario_Livatino",
+      "meta": "71.255 Aufrufe am 09.11.",
+      "title_orig": "Rosario Livatino"
      },
      {
-      "title": "Gadi Eisenkot",
-      "link": "https://it.wikipedia.org/wiki/Gadi_Eisenkot",
-      "meta": "15.141 Aufrufe am 08.11."
+      "title": "Livatino - Der Richter und seine Mörder",
+      "link": "https://it.wikipedia.org/wiki/Livatino_-_Il_giudice_e_i_suoi_assassini",
+      "meta": "31.823 Aufrufe am 09.11.",
+      "title_orig": "Livatino - Il giudice e i suoi assassini"
      },
      {
-      "title": "Wild Horse Nine",
-      "link": "https://it.wikipedia.org/wiki/Wild_Horse_Nine",
-      "meta": "14.027 Aufrufe am 08.11."
+      "title": "Mădălina Diana Ghenea",
+      "link": "https://it.wikipedia.org/wiki/M%C4%83d%C4%83lina_Diana_Ghenea",
+      "meta": "26.665 Aufrufe am 09.11."
      },
      {
-      "title": "The Gift (film 2000)",
-      "link": "https://it.wikipedia.org/wiki/The_Gift_(film_2000)",
-      "meta": "13.439 Aufrufe am 08.11."
+      "title": "Cesare Rossi",
+      "link": "https://it.wikipedia.org/wiki/Cesare_Rossi",
+      "meta": "19.182 Aufrufe am 09.11."
      },
      {
-      "title": "Andrea Kimi Antonelli",
-      "link": "https://it.wikipedia.org/wiki/Andrea_Kimi_Antonelli",
-      "meta": "12.497 Aufrufe am 08.11."
+      "title": "Russell Brand",
+      "link": "https://it.wikipedia.org/wiki/Russell_Brand",
+      "meta": "15.139 Aufrufe am 09.11."
      }
     ]
    }
@@ -2928,31 +2941,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "randy Moos",
-      "link": "https://www.nfl.com/news/nfl-week-9-sunday-aftermath-myles-garrett-s-return-buoys-rams-jordan-love-joe-burrow-shine-again",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "randy moss"
+      "title": "purdue-Basketball",
+      "link": "https://www.foxnews.com/video/6408164202112",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "purdue basketball"
      },
      {
-      "title": "sal stewart",
-      "link": "https://www.amazinavenue.com/new-york-mets-analysis/102425/2026-nl-rookie-of-the-year-carson-benge-jj-wetherholt-sal-stewart",
+      "title": "cooper-Flagge",
+      "link": "https://www.espn.com/nba/story/_/id/50437538/cooper-flagg-peanut-butter-jelly",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "cooper flagg"
+     },
+     {
+      "title": "zion williamson",
+      "link": "https://sports.yahoo.com/nba/article/pelicans-zion-williamson-to-miss-first-game-of-2026-27-season-out-for-rest-vs-warriors-224448869.html",
       "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "nickeil alexander-walker",
-      "link": "https://www.espn.com/nba/story/_/id/50405029/wizards-trae-young-returns-atlanta-vs-hawks-says-experience-was-different",
+      "title": "dejounte murray",
+      "link": "https://www.cbssports.com/fantasy/basketball/news/pelicans-dejounte-murray-season-worst-outing-in-rout/",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "dalton kincaid",
-      "link": "https://www.si.com/nfl/bills/onsi/offense-dalton-kincaid-promises-its-coming-as-josh-allen-demands-more-week-9",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "sadie waschbecken",
-      "link": "https://ew.com/mcu-x-men-cast-character-guide-12207943",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "sadie sink"
+      "title": "ben hutton",
+      "link": "https://nhl.com/video/nyi-sjs-hutton-scores-goal-against-yaroslav-askarov-6408166005112",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2961,31 +2974,33 @@
     "lang": "en",
     "items": [
      {
-      "title": "2026",
-      "link": "https://www.aajtak.in/religion/news/story/kal-ka-rashifal-10-november-2026-horoscope-for-tomorrow-mesh-se-meen-all-zodiac-signs-prediction-tvisu-dskc-2691760-2026-11-09",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "राशिफल 2026"
-     },
-     {
-      "title": "larry page",
-      "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-praises-larry-page-for-his-accurate-predictions-the-google-co-founder-who-once-said-that-he-will-give-his-fortune-to-tesla-ceo/articleshow/135680129.cms",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "eenadu net",
-      "link": "https://www.eenadu.net/live-news/general/today-latest-news-updates10112026/6302/126204097",
+      "title": "ipl 2027",
+      "link": "https://www.cricbuzz.com/cricket-news/140825/ipl-trade-hardik-pandya-mumbai-indians-arshdeep-singh-punjab-kings-trade-nears-completion-formalities-remain-cricbuzzcom",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Öffentlicher Schuldenstand",
-      "link": "https://www.zawya.com/en/economy/egypts-government-debt-rises-8.8-in-q1-2026-2126636",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "government debt"
+      "title": "Feiertag",
+      "link": "https://navbharatlive.com/india/bank-holiday-after-diwali-banks-remain-closed-for-6-days-sdr12",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "bank holiday"
      },
      {
-      "title": "j&k bank",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/ed-attaches-properties-in-kashmir-in-misuse-of-pm-employment-generation-programme-scheme-case/article71683744.ece",
-      "meta": "100+ Suchanfragen"
+      "title": "börse heute",
+      "link": "https://www.ndtv.com/business-news/stock-market-holiday-today-november-10-nse-nifty-bse-sensex-banks-shut-when-will-trading-resume-12305778",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "stock market today"
+     },
+     {
+      "title": "aktienmarkt heute",
+      "link": "https://www.telegraphindia.com/business/sensex-nifty-close-at-eight-month-highs-as-falling-crude-prices-lift-indian-stocks-prnt/cid/2188665",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "share market today"
+     },
+     {
+      "title": "2: 1",
+      "link": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/prithvi-shaw-and-akriti-agarwal-patchup-shares-romantic-birthday-post/articleshow/135696026.cms",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "पृथ्वी शॉ"
      }
     ]
    },
@@ -2994,33 +3009,32 @@
     "lang": "pt",
     "items": [
      {
-      "title": "junior vinicius",
-      "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/11/09/com-vini-e-endrick-em-campo-ancelotti-comanda-primeiro-treino-da-selecao-em-singapura.ghtml",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "vinicius júnior"
+      "title": "die maxwell-Klinik",
+      "link": "https://oglobo.globo.com/cultura/televisao/noticia/2026/11/09/a-clinica-como-e-a-serie-da-tv-globo-que-se-debruca-sobre-instituicao-psiquiatrica-envolvida-em-polemicas-com-famosos.ghtml",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "a clínica maxwell"
      },
      {
-      "title": "kings league",
-      "link": "https://kingsleague.pro/en/mena/news/kings-league-mena-split-1-audience-100-million-views",
-      "meta": "1000+ Suchanfragen"
+      "title": "Grab",
+      "link": "https://rollingstone.com.br/musica/sepultura-ex-membro-anunciado-no-show-final-mas-nao-compareceu/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "sepultura"
      },
      {
-      "title": "doppel-Sena",
-      "link": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/11/09/dupla-sena-hoje-resultado-do-concurso-3030-e-numeros-sorteados.ghtml",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "dupla sena"
-     },
-     {
-      "title": "lotterieergebnis",
-      "link": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/11/09/lotomania-concurso-2997-sorteio-09-de-novembro.htm",
+      "title": "cooper-Flagge",
+      "link": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/63803/id-love-to-do-this-every-night-if-possible-mavericks-vs-nets-quoteboard",
       "meta": "200+ Suchanfragen",
-      "title_orig": "resultado da lotomania"
+      "title_orig": "cooper flagg"
      },
      {
-      "title": "zivilschutz ordnet die Lagerung von Lebensmitteln an",
-      "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/09/por-que-a-defesa-civil-esta-recomendando-armazenar-alimentos-e-kit-de-emergencia.htm",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "defesa civil manda estocar alimento"
+      "title": "fernanda lima",
+      "link": "https://revistaquem.globo.com/eventos/festa/noticia/2026/11/filha-de-fernanda-lima-e-rodrigo-hilbert-ganha-festa-tematica-no-aniversario-de-7-anos.ghtml",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "gta6",
+      "link": "https://www.ign.com/articles/take-two-boss-strauss-zelnick-on-gta-6-expectations-gta-online-and-the-decade-to-come",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -3029,34 +3043,33 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Policenzinssatz",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E6%94%BF%E7%AD%96%E9%87%91%E5%88%A9",
+      "title": "Cooper-Flagge",
+      "link": "https://topics.smt.docomo.ne.jp/article/sdaa/sports/sdaa-sdaa.jp-article-85067",
       "meta": "200+ Suchanfragen",
-      "title_orig": "政策金利"
+      "title_orig": "クーパー・フラッグ"
      },
      {
-      "title": "Shoko Nakagawa",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E4%B8%AD%E5%B7%9D%E7%BF%94%E5%AD%90",
+      "title": "Yutaro Itayama",
+      "link": "https://news.yahoo.co.jp/articles/6ea16f47ea313234441e940685b8d7b34b5b2678",
       "meta": "200+ Suchanfragen",
-      "title_orig": "中川翔子"
+      "title_orig": "板山祐太郎"
      },
      {
-      "title": "Bemerkung des Verdächtigen",
-      "link": "https://www.yomiuri.co.jp/national/20261110-GYT1T00042/",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "被疑者ノート"
+      "title": "Tamagawa-Rennboot",
+      "link": "https://sp.macour.jp/news/196598/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "多摩川競艇"
      },
      {
-      "title": "Gesetz zur Verhütung sexueller Gewalt gegen Kinder",
-      "link": "https://ai.watch.impress.co.jp/docs/news/2154727.html",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "こども性暴力防止法"
+      "title": "ol",
+      "link": "https://talksport.com/football/4696708/carlos-vicens-lyon-manager-man-city-set-piece-coach/",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Yosuke Eguchi",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E6%B1%9F%E5%8F%A3%20%E6%B4%8B%E4%BB%8B",
+      "title": "Bauausführung",
+      "link": "https://www.okinawatimes.co.jp/articles/-/1963057",
       "meta": "100+ Suchanfragen",
-      "title_orig": "江口 洋介"
+      "title_orig": "建設"
      }
     ]
    },
@@ -3065,59 +3078,58 @@
     "lang": "en",
     "items": [
      {
-      "title": "xyz",
-      "link": "https://en.wikipedia.org/wiki/.xyz",
-      "meta": "232.334 Aufrufe am 08.11.",
-      "title_orig": ".xyz"
+      "title": "Russell Brand",
+      "link": "https://en.wikipedia.org/wiki/Russell_Brand",
+      "meta": "1.010.049 Aufrufe am 09.11."
      },
      {
-      "title": "Abdul El-Sayed",
-      "link": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
-      "meta": "215.617 Aufrufe am 08.11."
+      "title": "Jensen Huang",
+      "link": "https://en.wikipedia.org/wiki/Jensen_Huang",
+      "meta": "733.363 Aufrufe am 09.11."
      },
      {
       "title": "Szene (Film 2026)",
       "link": "https://en.wikipedia.org/wiki/Scene_(2026_film)",
-      "meta": "168.880 Aufrufe am 08.11.",
+      "meta": "175.996 Aufrufe am 09.11.",
       "title_orig": "Scene (2026 film)"
      },
      {
-      "title": "Stephen Miller",
-      "link": "https://en.wikipedia.org/wiki/Stephen_Miller",
-      "meta": "164.875 Aufrufe am 08.11."
-     },
-     {
-      "title": "Russell Brand",
-      "link": "https://en.wikipedia.org/wiki/Russell_Brand",
-      "meta": "162.342 Aufrufe am 08.11."
+      "title": "Abdul El-Sayed",
+      "link": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+      "meta": "147.719 Aufrufe am 09.11."
      },
      {
       "title": "Godzilla Minus Null",
       "link": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
-      "meta": "145.122 Aufrufe am 08.11.",
+      "meta": "147.576 Aufrufe am 09.11.",
       "title_orig": "Godzilla Minus Zero"
      },
      {
-      "title": "2026 Schießerei in Krakau",
-      "link": "https://en.wikipedia.org/wiki/2026_Krak%C3%B3w_shooting",
-      "meta": "144.105 Aufrufe am 08.11.",
-      "title_orig": "2026 Kraków shooting"
-     },
-     {
-      "title": "James Talarico",
-      "link": "https://en.wikipedia.org/wiki/James_Talarico",
-      "meta": "136.954 Aufrufe am 08.11."
+      "title": "Nvidia",
+      "link": "https://en.wikipedia.org/wiki/Nvidia",
+      "meta": "142.333 Aufrufe am 09.11."
      },
      {
       "title": "Todesfälle im Jahr 2026",
       "link": "https://en.wikipedia.org/wiki/Deaths_in_2026",
-      "meta": "123.870 Aufrufe am 08.11.",
+      "meta": "138.732 Aufrufe am 09.11.",
       "title_orig": "Deaths in 2026"
      },
      {
-      "title": "Diwali",
-      "link": "https://en.wikipedia.org/wiki/Diwali",
-      "meta": "122.787 Aufrufe am 08.11."
+      "title": "Tommy Walsh (Baumeister)",
+      "link": "https://en.wikipedia.org/wiki/Tommy_Walsh_(builder)",
+      "meta": "134.173 Aufrufe am 09.11.",
+      "title_orig": "Tommy Walsh (builder)"
+     },
+     {
+      "title": "Stephen Miller",
+      "link": "https://en.wikipedia.org/wiki/Stephen_Miller",
+      "meta": "117.127 Aufrufe am 09.11."
+     },
+     {
+      "title": "Elizabeth Holmes",
+      "link": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+      "meta": "116.548 Aufrufe am 09.11."
      }
     ]
    },
@@ -3128,19 +3140,19 @@
      {
       "title": "Das neue Geschäftsmodell von KI: Brechen Sie das Internet auf und verkaufen Sie dann die Lösung",
       "link": "https://www.fastcompany.com/91637523/ais-new-business-model-break-the-internet-then-sell-the-fix",
-      "meta": "Fast Company · 140 Personen teilen",
+      "meta": "Fast Company · 143 Personen teilen",
       "title_orig": "AI's new business model: Break the internet, then sell the fix"
      },
      {
       "title": "Russell Brand wegen Vergewaltigung und sexueller Übergriffe zu mehr als 10 Jahren Gefängnis verurteilt",
       "link": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
-      "meta": "The Guardian · 117 Personen teilen",
+      "meta": "The Guardian · 125 Personen teilen",
       "title_orig": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault"
      },
      {
       "title": "Wir wissen, wo unsere Lebensmittel und Kleidung hergestellt werden. Warum nicht unsere Rezepte?",
       "link": "https://www.propublica.org/article/generic-prescription-drug-supply-fda-explained",
-      "meta": "ProPublica · 109 Personen teilen",
+      "meta": "ProPublica · 125 Personen teilen",
       "title_orig": "We Know Where Our Food and Clothes Are Made. Why Not Our Prescriptions?"
      },
      {
@@ -3152,7 +3164,7 @@
      {
       "title": "Ist Cop31 ein riesiger Betrug? Fragen wir die Pinguine der Zukunft",
       "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/09/is-cop31-a-huge-scam-lets-ask-the-penguins-of-the-future",
-      "meta": "The Guardian · 86 Personen teilen",
+      "meta": "The Guardian · 87 Personen teilen",
       "title_orig": "Is Cop31 a huge scam? Let’s ask the penguins of the future"
      }
     ]
@@ -3185,7 +3197,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 158,
+   "count": 159,
    "error": ""
   },
   {
@@ -3199,7 +3211,7 @@
    "source": "Finanz-Szene",
    "category": "pay_de",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "error": ""
   },
   {
@@ -3381,8 +3393,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 113,
-   "info": "113 von 113 Überschriften übersetzt (neu in diesem Lauf: MyMemory 42). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 114,
+   "info": "114 von 114 Überschriften übersetzt (neu in diesem Lauf: MyMemory 54). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
