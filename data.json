@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T07:26:25+00:00",
+ "generated": "2026-11-11T10:08:27+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
@@ -38,6 +38,35 @@
     ]
    },
    {
+    "title": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
+    "image": "https://images.tagesschau.de/image/39bd2997-338a-4abb-9647-04c1b950fc7a/AAABocWPbyU/AAABnSSvrFg/16x9-big/anthropic-132.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-11T09:23:36+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Anthropic: KI-Firma peilt Billionenbewertung beim Börsengang an",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an-a-01ee7304-2fb0-45da-a9c9-1afec33f201f#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Business-Ticker: Anthropic peilt Börsenbewertung von einer Billion Dollar an",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-anthropic-peilt-boersenbewertung-von-einer-billion-dollar-an-faz-200452404.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "IPO: Banken wollen wohl Anthropic-Bewertung auf 1,5 Billionen Dollar erhöhen",
+      "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/anthropic-banken-wollen-wohl-ipo-bewertung-auf-15-billionen-dollar-erhoehen/100269019.html"
+     }
+    ]
+   },
+   {
     "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
     "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
     "image": "https://images.tagesschau.de/image/90e033e0-defd-4b4b-bf51-40bb81c39473/AAABmQ4VB0k/AAABnSSvrFg/16x9-big/bundeswehr-jacken-100.jpg?width=1920",
@@ -63,35 +92,6 @@
       "name": "FAZ",
       "title": "Deutschland Liveblog: Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer steigt",
       "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-neuer-wehrdienst-zahl-der-kriegsdienstverweigerer-steigt-faz-110093143.html"
-     }
-    ]
-   },
-   {
-    "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
-    "link": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html",
-    "image": "https://images.tagesschau.de/image/6ca89cad-29d1-4adb-9697-a4e3fa3ddbea/AAABocdx-Ys/AAABnSSvrFg/16x9-big/aigner-168.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-11T04:50:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
-      "link": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Ilse Aigner: Mehr als jeder Dritte hält CSU-Frau für geeignete Bundespräsidentin",
-      "link": "https://www.spiegel.de/politik/ilse-aigner-mehr-als-jeder-dritte-haelt-csu-frau-fuer-geeignete-bundespraesidentin-a-9dec293e-8a34-46d3-b634-805e3bbe8566#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bundespräsidentin: Wie hält Aigner es mit der AfD?",
-      "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-wie-haelt-es-die-moegliche-bundespraesidentin-mit-der-afd-201669133.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Bundespräsidentin: Ilse Aigner stellt sich nicht AfD und Linken vor",
-      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-ilse-aigner-stellt-sich-nicht-afd-und-linken-vor/100268693.html"
      }
     ]
    },
@@ -125,60 +125,122 @@
     ]
    },
    {
-    "title": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
-    "link": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
-    "image": "https://images.tagesschau.de/image/1137857d-221d-494e-bec6-82693aa635de/AAABocZQjrk/AAABnSSvrFg/16x9-big/elbphilharmonie-204.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-10T17:27:27+00:00",
+    "title": "Berlin: Verdächtiger im Fall Lisa T. war bereits vorbestraft",
+    "link": "https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft-a-d4e4926d-e174-4fe9-984e-746d26aaad8e#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/913499e7-db0c-4085-bd53-86b6f763c21a_w520_r2.08_fpx38.04_fpy54.98.jpg",
+    "n_sources": 3,
+    "time": "2026-11-11T09:55:38+00:00",
     "sources": [
      {
-      "name": "Tagesschau",
-      "title": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html"
-     },
-     {
       "name": "Spiegel",
-      "title": "Hamburg: Großeinsatz nahe der Elbphilharmonie – zwei Verletzte",
-      "link": "https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte-a-35b60686-e12a-4b73-a71b-9c73e75ad21a#ref=rss"
+      "title": "Berlin: Verdächtiger im Fall Lisa T. war bereits vorbestraft",
+      "link": "https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft-a-d4e4926d-e174-4fe9-984e-746d26aaad8e#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Kriminalität: Schüsse in Hafencity - Tatverdächtiger tot in «Elphi»-Hotel",
-      "link": "https://www.zeit.de/news/2026-11/10/tote-bei-reutlingen-zusammenhang-mit-hamburger-schuessen"
+      "title": "Verbrechen: Getötete Lisa - Verdächtiger ist gestorben",
+      "link": "https://www.zeit.de/news/2026-11/11/getoetete-lisa-verdaechtiger-ist-gestorben"
      },
      {
       "name": "FAZ",
-      "title": "Hamburg und Eningen: Zwei Verletzte, zwei Tote – Tatverdächtiger tot aufgefunden",
-      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/nach-schuessen-in-hamburg-tatverdaechtiger-tot-aufgefunden-accg-201669087.html"
+      "title": "Berlin: Getötete Lisa T. – Verdächtiger ist gestorben",
+      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/tatverdaechtiger-im-fall-lisa-t-ist-gestorben-accg-201672261.html"
      }
     ]
    },
    {
-    "title": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
-    "image": "https://images.tagesschau.de/image/39bd2997-338a-4abb-9647-04c1b950fc7a/AAABocWPbyU/AAABnSSvrFg/16x9-big/anthropic-132.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-10T15:37:43+00:00",
+    "title": "Silke Diettrich, ARD Moskau, zum Tag zwei der Gespräche zwischen Russland und der Ukraine in Abu Dhabi",
+    "link": "https://www.tagesschau.de/video/video-1681872.html",
+    "image": "https://images.tagesschau.de/image/a71d30b1-f4ca-44e1-a94c-a168a8dabdca/AAABocoItlQ/AAABnSSvrFg/16x9-big/sendungsbild-1825864.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-11T09:55:34+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html"
+      "title": "Silke Diettrich, ARD Moskau, zum Tag zwei der Gespräche zwischen Russland und der Ukraine in Abu Dhabi",
+      "link": "https://www.tagesschau.de/video/video-1681872.html"
      },
      {
-      "name": "Spiegel",
-      "title": "Anthropic: KI-Firma peilt Billionenbewertung beim Börsengang an",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an-a-01ee7304-2fb0-45da-a9c9-1afec33f201f#ref=rss"
+      "name": "Zeit Online",
+      "title": "Verhandlungen in Abu Dhabi: Ukraine-Gespräche gehen weiter: Kommt ein Gipfeltreffen?",
+      "link": "https://www.zeit.de/news/2026-11/11/ukraine-gespraeche-gehen-weiter-kommt-ein-gipfeltreffen"
      },
      {
       "name": "FAZ",
-      "title": "Business-Ticker: Anthropic peilt Börsenbewertung von einer Billion Dollar an",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-anthropic-peilt-boersenbewertung-von-einer-billion-dollar-an-faz-200452404.html"
+      "title": "Ukraine-gespräche: Putin muss sich bewegen",
+      "link": "https://www.faz.net/aktuell/politik/ausland/friedensgespraeche-in-abu-dhabi-putin-muss-sich-bewegen-201669660.html"
+     }
+    ]
+   },
+   {
+    "title": "Energietechnik: 4,1 Milliarden: Extremer Gewinnsprung bei Siemens Energy",
+    "link": "https://www.zeit.de/news/2026-11/11/4-1-milliarden-euro-rekordgewinn-bei-siemens-energy",
+    "image": "https://img.zeit.de/news/2026-11/11/4-1-milliarden-euro-rekordgewinn-bei-siemens-energy-image-group/original__640x360",
+    "n_sources": 3,
+    "time": "2026-11-11T09:50:57+00:00",
+    "sources": [
+     {
+      "name": "Zeit Online",
+      "title": "Energietechnik: 4,1 Milliarden: Extremer Gewinnsprung bei Siemens Energy",
+      "link": "https://www.zeit.de/news/2026-11/11/4-1-milliarden-euro-rekordgewinn-bei-siemens-energy"
+     },
+     {
+      "name": "FAZ",
+      "title": "Hoher Energiebedarf: Siemens Energy strotzt vor Zuversicht",
+      "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/nach-rekordjahr-strotzt-siemens-energy-vor-zuversicht-accg-201671693.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "IPO: Anthropic will 64 Milliarden Dollar mit Börsengang einnehmen",
-      "link": "https://www.handelsblatt.com/technik/ki/ipo-anthropic-will-644-milliarden-dollar-mit-boersengang-einnehmen/100268723.html"
+      "title": "Energie: Siemens Energy kündigt weitere Aktienrückkäufe an",
+      "link": "https://www.handelsblatt.com/unternehmen/energie/energie-siemens-energy-kuendigt-weitere-aktienrueckkaeufe-an/100268889.html"
+     }
+    ]
+   },
+   {
+    "title": "Stacy Keach: US-Schauspieler und »Mike Hammer«-Darsteller ist tot",
+    "link": "https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot-a-8c72c14f-b1be-46b6-94ad-94db13418039#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/f18aa141-dae6-41c6-ab79-77b2ed8b82a5_w520_r2.08_fpx44.75_fpy52.99.jpg",
+    "n_sources": 3,
+    "time": "2026-11-11T09:30:00+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "Stacy Keach: US-Schauspieler und »Mike Hammer«-Darsteller ist tot",
+      "link": "https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot-a-8c72c14f-b1be-46b6-94ad-94db13418039#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Stacy Keach: US-Schauspieler Stacy Keach ist tot",
+      "link": "https://www.zeit.de/feuilleton/film/2026-11/stacy-keach-tot-us-schauspieler-mike-hammer-herzerkrankung-gxe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Im Alter von 85 Jahren: Schauspieler Stacy Keach gestorben",
+      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/mike-hammer-schauspieler-stacy-keach-mit-85-jahren-gestorben-accg-201671969.html"
+     }
+    ]
+   },
+   {
+    "title": "Investitionen: Chinesische Firmen halten an Deutschland fest",
+    "link": "https://www.zeit.de/news/2026-11/11/chinesische-firmen-halten-an-deutschland-fest",
+    "image": "https://img.zeit.de/news/2026-11/11/chinesische-firmen-halten-an-deutschland-fest-image-group/original__640x360",
+    "n_sources": 3,
+    "time": "2026-11-11T08:01:00+00:00",
+    "sources": [
+     {
+      "name": "Zeit Online",
+      "title": "Investitionen: Chinesische Firmen halten an Deutschland fest",
+      "link": "https://www.zeit.de/news/2026-11/11/chinesische-firmen-halten-an-deutschland-fest"
+     },
+     {
+      "name": "FAZ",
+      "title": "Produktion statt Export: Auf diese drei Branchen setzen chinesische Firmen in Deutschland",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/auf-diese-drei-branchen-setzen-chinesische-firmen-in-deutschland-accg-201668085.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Asien: Chinesische Firmen halten an Deutschland fest",
+      "link": "https://www.handelsblatt.com/unternehmen/industrie/asien-chinesische-firmen-halten-an-deutschland-fest/100268923.html"
      }
     ]
    },
@@ -205,92 +267,20 @@
       "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-steuerklasse-iii-oder-v-klingbeils-ablenkungsmanoever/100268893.html"
      }
     ]
-   },
-   {
-    "title": "Erster Tag der Ukraine-Gespräche in Abu Dhabi beendet",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1681722.html",
-    "image": "https://images.tagesschau.de/image/e712ace5-df4f-42a2-9785-f4f321d88977/AAABocdquqE/AAABnSSvrFg/16x9-big/sendungsbild-1825668.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-11T03:45:04+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Erster Tag der Ukraine-Gespräche in Abu Dhabi beendet",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1681722.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Verhandlungen in Abu Dhabi: Ukraine-Gespräche gehen weiter: Kommt ein Gipfeltreffen?",
-      "link": "https://www.zeit.de/news/2026-11/11/ukraine-gespraeche-gehen-weiter-kommt-ein-gipfeltreffen"
-     },
-     {
-      "name": "FAZ",
-      "title": "Abu Dhabi: Verhandlungen über ein Ende des Krieges",
-      "link": "https://www.faz.net/video/abu-dhabi-verhandlungen-ueber-ein-ende-des-krieges-201669565.html"
-     }
-    ]
-   },
-   {
-    "title": "Türkei: Mitarbeiterin der Böll-Stiftung wegen Spionageverdachts festgenommen",
-    "link": "https://www.spiegel.de/ausland/tuerkei-mitarbeiterin-der-boell-stiftung-wegen-spionageverdacht-festgenommen-a-bfbe2bd7-0af4-4809-8b19-6d117ea4584d#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/ea85dc81-b5c7-433f-9f91-4eaf9d3c1220_w520_r2.08_fpx62.71_fpy50.jpg",
-    "n_sources": 3,
-    "time": "2026-11-10T19:50:11+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Türkei: Mitarbeiterin der Böll-Stiftung wegen Spionageverdachts festgenommen",
-      "link": "https://www.spiegel.de/ausland/tuerkei-mitarbeiterin-der-boell-stiftung-wegen-spionageverdacht-festgenommen-a-bfbe2bd7-0af4-4809-8b19-6d117ea4584d#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Yonca Verdioglu Sik: Mitarbeiterin der Heinrich-Böll-Stiftung in Türkei festgenommen",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/yonca-verdioglu-sik-heinrich-boell-stiftung-tuerkei-ahmet-sik-spionage"
-     },
-     {
-      "name": "FAZ",
-      "title": "Spionage-Vorwurf: Türkei nimmt Mitarbeiterin der Heinrich-Böll-Stiftung fest",
-      "link": "https://www.faz.net/aktuell/politik/ausland/tuerkei-nimmt-heinrich-boell-stiftung-mitarbeiterin-wegen-spionage-fest-201671009.html"
-     }
-    ]
-   },
-   {
-    "title": "AfD in Sachsen-Anhalt: Lässt sich Ministerpräsident Ulrich Siegmund noch verhindern?",
-    "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-laesst-sich-ministerpraesident-ulrich-siegmund-noch-verhindern-a-2b76ca5c-9acb-42af-97bc-9a752329c8fe#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/ac39ee0b-38c7-4ae6-8727-32cc92f16df7_w520_r2.08_fpx41.33_fpy49.99.jpg",
-    "n_sources": 3,
-    "time": "2026-11-10T18:12:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "AfD in Sachsen-Anhalt: Lässt sich Ministerpräsident Ulrich Siegmund noch verhindern?",
-      "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-laesst-sich-ministerpraesident-ulrich-siegmund-noch-verhindern-a-2b76ca5c-9acb-42af-97bc-9a752329c8fe#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Ministerpräsidentenwahl in Sachsen-Anhalt: Linke stellt in Sachsen-Anhalt Gegenkandidatin als Ministerpräsidentin",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/ministerpraesidentenwahl-sachsen-anhalt-eva-von-angern-ulrich-siegmund-afd-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Deutschland Liveblog: Ulrich Siegmund bekommt Gegenkandidatin in Sachsen-Anhalt",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-eva-von-angern-tritt-in-sachsen-anhalt-gegen-ulrich-siegmund-auf-faz-110093143.html"
-     }
-    ]
    }
   ],
   "7d": [
    {
-    "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
-    "link": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html",
-    "image": "https://images.tagesschau.de/image/6ca89cad-29d1-4adb-9697-a4e3fa3ddbea/AAABocdx-Ys/AAABnSSvrFg/16x9-big/aigner-168.jpg?width=1920",
+    "title": "CSU-Politikerin Aigner soll Nachfolgerin von Bundespräsident Steinmeier werden",
+    "link": "https://www.tagesschau.de/video/video-1680846.html",
+    "image": "https://images.tagesschau.de/image/d975a43f-52f3-4f67-a57a-0406849234ca/AAABocEjAOc/AAABnSSvrFg/16x9-big/sendungsbild-1824996.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-11T04:50:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
-      "link": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html"
+      "title": "CSU-Politikerin Aigner soll Nachfolgerin von Bundespräsident Steinmeier werden",
+      "link": "https://www.tagesschau.de/video/video-1680846.html"
      },
      {
       "name": "Spiegel",
@@ -299,13 +289,47 @@
      },
      {
       "name": "Zeit Online",
+      "title": "Ilse Aigner: CDU und CSU wollen Ilse Aigner als Bundespräsidentin",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-union-landtagswahl-bayern-csu"
+     },
+     {
+      "name": "FAZ",
+      "title": "Steinmeier-Nachfolge: Aigner nervt nicht",
+      "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-die-csu-bekommt-doch-noch-ihre-praesidentin-accg-201659503.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Bundespräsidentin: Erste Frau im Amt – Merz schlägt Aigner als Bundespräsidentin vor",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-erste-frau-im-amt-merz-schlaegt-aigner-als-bundespraesidentin-vor/100268202.html"
+     }
+    ]
+   },
+   {
+    "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
+    "image": "https://images.tagesschau.de/image/107b49e8-ab44-43ed-b804-6def95fc2d29/AAABocbu7EA/AAABnSSvrFg/16x9-big/aigner-166.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-11T01:20:58+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ilse Aigner lehnt Vorstellung bei AfD-Fraktion im Bundestag ab",
+      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-lehnt-vorstellung-bei-afd-fraktion-im-bundestag-ab-a-b3348100-992e-4c5b-8e85-6f6223d43650#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
       "title": "Kandidatin für Bundespräsidentenwahl: Ilse Aigner lehnt Einladung der AfD-Bundestagsfraktion ab",
       "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentenwahl-cdu-csu-spd-gruene-afd"
      },
      {
       "name": "FAZ",
-      "title": "Bundespräsidentin: Wie hält Aigner es mit der AfD?",
-      "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-wie-haelt-es-die-moegliche-bundespraesidentin-mit-der-afd-201669133.html"
+      "title": "Deutschland Liveblog: Aigner will sich offenbar nicht der AfD-Fraktion vorstellen",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bericht-aigner-will-sich-nicht-der-afd-fraktion-vorstellen-faz-110093143.html"
      },
      {
       "name": "Handelsblatt",
@@ -383,16 +407,16 @@
     ]
    },
    {
-    "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html",
-    "image": "https://images.tagesschau.de/image/bf2bb47a-b8aa-4708-89c7-cace4b8fdada/AAABobIlh28/AAABnSSvrFg/16x9-big/rbb-vanessa-emde-die-linke-100.jpg?width=1920",
+    "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
+    "image": "https://images.tagesschau.de/image/6ecdf46a-cf24-4550-810d-9e72c1a23c14/AAABobqrE_s/AAABnSSvrFg/16x9-big/rbb-630259816-100.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-10T17:35:52+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html"
+      "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html"
      },
      {
       "name": "Spiegel",
@@ -451,45 +475,11 @@
     ]
    },
    {
-    "title": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1681132.html",
-    "image": "https://images.tagesschau.de/image/8489363b-c98c-40ff-b821-9151fa742078/AAABocJzo00/AAABnSSvrFg/16x9-big/sendungsbild-1825166.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-09T23:09:11+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1681132.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Ilse Aigner: Livestream zur offiziellen Vorstellung als Kandidatin für das höchste Staatsamt",
-      "link": "https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Kritik an Friedrich Merz: Friedrich Merz rechtfertigt Verfahren um Nominierung von Ilse Aigner",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentin-friedrich-merz-cdu-csu"
-     },
-     {
-      "name": "FAZ",
-      "title": "F.A.Z. Frühdenker: Wird Ilse Aigner die erste Bundespräsidentin?",
-      "link": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/merz-praesentiert-kandidatin-fuer-die-bundespraesidentenwahl-faz-fruehdenker-201664199.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Bundespräsidentin: Merz stellt Aigner vor –„Der Bundeskanzler hat es spannend gemacht, auch für mich“",
-      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-merz-stellt-aigner-vor-der-kanzler-hat-es-spannend-gemacht/100268367.html"
-     }
-    ]
-   },
-   {
     "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
     "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
     "image": "https://images.tagesschau.de/image/1d795625-6e32-4268-8bf0-5ca4a0c10aa8/AAABobqEWvg/AAABnSSvrFg/16x9-big/dana-white-donald-trump-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-09T11:12:00+00:00",
+    "time": "2026-11-10T04:32:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -498,13 +488,13 @@
      },
      {
       "name": "Spiegel",
-      "title": "Donald Trump: UFC-Chef Dana White und seine politische Rolle für Trump",
-      "link": "https://www.spiegel.de/sport/donald-trump-ufc-chef-dana-white-und-seine-politische-rolle-fuer-trump-a-b6a1c2cf-45dc-4b4b-bf25-2675ac712491#ref=rss"
+      "title": "Donald Trump tritt mit Kampfsportboss Dana White vor die Presse im Weißen Haus",
+      "link": "https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus-a-3d45812a-34ee-4b72-82ee-f26dbf9e1401#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Dana White: Donald Trump will UFC-Chef als nächsten Regierungssprecher",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/dana-white-donald-trump-weisses-haus-sprecher"
+      "title": "US-Präsident: Kampfsport-Unternehmer als Sprecher im Weißen Haus?",
+      "link": "https://www.zeit.de/news/2026-11/07/kampfsport-unternehmer-als-sprecher-im-weissen-haus"
      },
      {
       "name": "FAZ",
@@ -519,242 +509,140 @@
     ]
    },
    {
-    "title": "Israels Präsident Herzog erteilt Eisenkot Auftrag zur Regierungsbildung",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680462.html",
-    "image": "https://images.tagesschau.de/image/c2ed02c4-8d74-4e71-8bc0-d816bd428276/AAABobybvsk/AAABnSSvrFg/16x9-big/sendungsbild-1824538.jpg?width=1920",
+    "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
+    "link": "https://www.tagesschau.de/video/video-1678768.html",
+    "image": "https://images.tagesschau.de/image/3de6abfa-19f7-4167-9937-f6def80e5e48/AAABoay1ztU/AAABnSSvrFg/16x9-big/sendungsbild-1822956.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-08T19:21:32+00:00",
+    "time": "2026-11-10T00:29:13+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Israels Präsident Herzog erteilt Eisenkot Auftrag zur Regierungsbildung",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680462.html"
+      "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
+      "link": "https://www.tagesschau.de/video/video-1678768.html"
      },
      {
       "name": "Spiegel",
-      "title": "Israel: Gadi Eisenkot erhält Auftrag zur Regierungsbildung – eine fast unlösbare Aufgabe",
-      "link": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe-a-690ef9df-db7a-46cf-9f31-b149c6523e4a#ref=rss"
+      "title": "Hubert Aiwanger ist tot: Freie Wähler wollen Bundesparteitag auf 2027 verschieben",
+      "link": "https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ist-tot-freie-waehler-wollen-bundesparteitag-auf-2027-verschieben-a-621a228c-3b20-41f5-9381-1fc86587ae64#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Regierungsbildung in Israel: Israels Präsident beauftragt Eisenkot offiziell mit Regierungsbildung",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/regierungsbildung-israel-gadi-eisenkot-isaac-herzog-gxe"
+      "title": "Freie-Wähler-Chef: Aiwangers Partnerin von Todesnachricht «überrollt»",
+      "link": "https://www.zeit.de/news/2026-11/10/aiwangers-partnerin-von-todesnachricht-ueberrollt"
      },
      {
       "name": "FAZ",
-      "title": "Liveblog Nahost: Israels Präsident beauftragt Eisenkot mit Regierungsbildung",
-      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-herzog-beauftragt-eisenkot-mit-regierungsbildung-faz-200583539.html"
+      "title": "Freie-Wähler-Chef: Bayerns Wirtschaftsminister Aiwanger tot aufgefunden",
+      "link": "https://www.faz.net/video/bayerns-wirtschaftsminister-aiwanger-tot-aufgefunden-201654243.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Nahost: Netanjahu-Rivale Eisenkot in Israel mit Regierungsbildung beauftragt",
-      "link": "https://www.handelsblatt.com/politik/international/nahost-netanjahu-rivale-eisenkot-in-israel-mit-regierungsbildung-beauftragt/100268142.html"
+      "title": "Politik: Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+      "link": "https://www.handelsblatt.com/politik/deutschland/politik-bayerns-wirtschaftsminister-hubert-aiwanger-ist-tot/100267392.html"
      }
     ]
    },
    {
-    "title": "Tote und Verletzte nach Schüssen in Krakau",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1680086.html",
-    "image": "https://images.tagesschau.de/image/6c8dc2b1-50e8-450e-ba53-27bfecbf8a15/AAABobgtFq0/AAABnSSvrFg/16x9-big/sendungsbild-1824160.jpg?width=1920",
+    "title": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1681132.html",
+    "image": "https://images.tagesschau.de/image/8489363b-c98c-40ff-b821-9151fa742078/AAABocJzo00/AAABnSSvrFg/16x9-big/sendungsbild-1825166.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-08T06:26:27+00:00",
+    "time": "2026-11-09T23:09:11+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Tote und Verletzte nach Schüssen in Krakau",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1680086.html"
+      "title": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1681132.html"
      },
      {
       "name": "Spiegel",
-      "title": "Krakau: Tote und Verletzte nach Schüssen in Polen",
-      "link": "https://www.spiegel.de/ausland/krakau-tote-und-verletzte-nach-schuessen-in-polen-a-706b54e1-b14f-4068-bf4d-be1aae44cf29#ref=rss"
+      "title": "Ilse Aigner: Im CDU-Präsidium dürfte Kanzler Friedrich Merz ihre Nominierung als Bundespräsidentin verkünden",
+      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-im-cdu-praesidium-duerfte-kanzler-friedrich-merz-ihre-nominierung-als-bundespraesidentin-verkuenden-a-16d83dfb-440a-4514-a5d5-c14d660df44d#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Polen: Sechs Tote und mehrere Verletzte nach Schüssen in Kraków",
-      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/fuenf-tote-und-mehrere-verletzte-nach-schuessen-in-krakau"
+      "title": "Kritik an Friedrich Merz: Friedrich Merz rechtfertigt Verfahren um Nominierung von Ilse Aigner",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentin-friedrich-merz-cdu-csu"
      },
      {
       "name": "FAZ",
-      "title": "Vorfall in Polen: Sechs Tote und viele Verletzte nach Schüssen in Krakau",
-      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/polen-fuenf-tote-nach-schuessen-in-krakau-accg-201661603.html"
+      "title": "Merz und die CDU: Noch folgen sie dem Kanzler",
+      "link": "https://www.faz.net/aktuell/politik/inland/wie-lange-steht-die-cdu-noch-hinter-friedrich-merz-201652460.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Gewaltverbrechen: Sechs Tote und mehr als fünfzehn Verletzte nach Schüssen in Krakau",
-      "link": "https://www.handelsblatt.com/politik/international/krakau-sechs-tote-und-mehr-als-fuenfzehn-verletzte-nach-schuessen/100268120.html"
+      "title": "Bundespräsidentin: Merz stellt Aigner vor –„Der Bundeskanzler hat es spannend gemacht, auch für mich“",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-merz-stellt-aigner-vor-der-kanzler-hat-es-spannend-gemacht/100268367.html"
      }
     ]
    },
    {
-    "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
-    "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
-    "image": "https://images.tagesschau.de/image/7bd1dc74-b219-499d-9b06-dc6fe94316da/AAABobNOoTQ/AAABnSSvrFg/16x9-big/pena-106.jpg?width=1920",
+    "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
+    "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html",
+    "image": "https://images.tagesschau.de/image/f44d6ac1-c09a-4c37-a1e1-86f6499d7ece/AAABoabOAVo/AAABnSSvrFg/16x9-big/trump-maga-caps-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-08T03:32:53+00:00",
+    "time": "2026-11-09T10:01:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
-      "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html"
+      "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Paraguay: Santiago Peña als Präsident abgesetzt – Vize übernimmt",
-      "link": "https://www.spiegel.de/ausland/paraguay-santiago-pena-als-praesident-abgesetzt-vize-uebernimmt-a-f188f388-ac17-4d7f-a95c-4e9ff08eba18#ref=rss"
+      "title": "USA: Donald Trump räumt Fehler bei Abschiebepolitik ein – »war zu hart«",
+      "link": "https://www.spiegel.de/ausland/usa-donald-trump-raeumt-fehler-bei-abschiebepolitik-ein-war-zu-hart-a-1639fc22-1bc7-4081-aae3-e45202f1b355#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Bankenskandal in Paraguay: Paraguays abgesetzter Präsident Peña muss in Untersuchungshaft",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-untersuchungshaft-bankenskandal"
+      "title": "Donald Trump: Trump räumt mögliche Fehler bei Abschiebepolitik ein",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-abschiebepolitik-usa-stephen-miller-jd-vance"
      },
      {
       "name": "FAZ",
-      "title": "Bankenaffäre: Paraguays Präsident abgesetzt",
-      "link": "https://www.faz.net/aktuell/politik/ausland/santiago-pena-abgesetzt-paraguays-praesident-scheitert-an-bankenaffaere-201660662.html"
+      "title": "USA unter Trump: Trump nennt seine bisherige Abschiebepolitik „zu hart“",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-nennt-seine-bisherige-abschiebepolitik-zu-hart-faz-19444916.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Paraguay: Bankenskandal bringt Paraguays Präsidenten zu Fall",
-      "link": "https://www.handelsblatt.com/politik/international/paraguay-bankenskandal-bringt-paraguays-praesidenten-zu-fall/100267745.html"
+      "title": "USA: Trump räumt nach Midterms „zu harte Abschiebepolitik“ ein",
+      "link": "https://www.handelsblatt.com/politik/international/usa-trump-raeumt-nach-midterms-zu-harte-abschiebepolitik-ein/100268336.html"
      }
     ]
    }
   ],
   "30d": [
    {
-    "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
-    "link": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html",
-    "image": "https://images.tagesschau.de/image/6ca89cad-29d1-4adb-9697-a4e3fa3ddbea/AAABocdx-Ys/AAABnSSvrFg/16x9-big/aigner-168.jpg?width=1920",
+    "title": "Silke Diettrich, ARD Moskau, zum Tag zwei der Gespräche zwischen Russland und der Ukraine in Abu Dhabi",
+    "link": "https://www.tagesschau.de/video/video-1681872.html",
+    "image": "https://images.tagesschau.de/image/a71d30b1-f4ca-44e1-a94c-a168a8dabdca/AAABocoItlQ/AAABnSSvrFg/16x9-big/sendungsbild-1825864.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-11T04:50:00+00:00",
+    "time": "2026-11-11T09:55:34+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
-      "link": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html"
+      "title": "Silke Diettrich, ARD Moskau, zum Tag zwei der Gespräche zwischen Russland und der Ukraine in Abu Dhabi",
+      "link": "https://www.tagesschau.de/video/video-1681872.html"
      },
      {
       "name": "Spiegel",
-      "title": "Ilse Aigner: Mehr als jeder Dritte hält CSU-Frau für geeignete Bundespräsidentin",
-      "link": "https://www.spiegel.de/politik/ilse-aigner-mehr-als-jeder-dritte-haelt-csu-frau-fuer-geeignete-bundespraesidentin-a-9dec293e-8a34-46d3-b634-805e3bbe8566#ref=rss"
+      "title": "Steve Witkoff kündigt neue Gespräche mit Kyjiw und Moskau an",
+      "link": "https://www.spiegel.de/ausland/steve-witkoff-kuendigt-neue-gespraeche-mit-kyjiw-und-moskau-an-a-4d38d326-451d-496d-ac9e-f5ac4491253c#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Kandidatin für Bundespräsidentenwahl: Ilse Aigner lehnt Einladung der AfD-Bundestagsfraktion ab",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentenwahl-cdu-csu-spd-gruene-afd"
+      "title": "Verhandlungen in Abu Dhabi: Ukraine-Gespräche gehen weiter: Kommt ein Gipfeltreffen?",
+      "link": "https://www.zeit.de/news/2026-11/11/ukraine-gespraeche-gehen-weiter-kommt-ein-gipfeltreffen"
      },
      {
       "name": "FAZ",
-      "title": "Bundespräsidentin: Wie hält Aigner es mit der AfD?",
-      "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-wie-haelt-es-die-moegliche-bundespraesidentin-mit-der-afd-201669133.html"
+      "title": "Ukraine-gespräche: Putin muss sich bewegen",
+      "link": "https://www.faz.net/aktuell/politik/ausland/friedensgespraeche-in-abu-dhabi-putin-muss-sich-bewegen-201669660.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Bundespräsidentin: Ilse Aigner stellt sich nicht AfD und Linken vor",
-      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-ilse-aigner-stellt-sich-nicht-afd-und-linken-vor/100268693.html"
-     }
-    ]
-   },
-   {
-    "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
-    "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
-    "image": "https://images.tagesschau.de/image/a69ad001-e56f-402d-a036-1e793a5e93fd/AAABocfM_Cs/AAABnSSvrFg/16x9-big/us-kapitol-164.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-11T00:56:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Pete Hegseth: Republikaner lehnen Amtsenthebungsantrag im Repräsentantenhaus ab",
-      "link": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-lehnen-amtsenthebungsantrag-im-repraesentantenhaus-ab-a-a16fbebc-5f94-4266-bd4c-7b114e518b40#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "US-Verteidigungsminister: Amtsenthebung Hegseths im US-Repräsentantenhaus gestoppt",
-      "link": "https://www.zeit.de/news/2026-11/11/amtsenthebung-hegseths-im-us-repraesentantenhaus-gestoppt"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Amtsenthebung von Hegseth im US-Repräsentantenhaus gestoppt",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-amtsenthebung-von-hegseth-im-us-repraesentantenhaus-gestoppt-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "USA: US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
-      "link": "https://www.handelsblatt.com/politik/international/usa-us-repraesentantenhaus-lehnt-amtsenthebungsverfahren-gegen-hegseth-ab/100268903.html"
-     }
-    ]
-   },
-   {
-    "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
-    "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
-    "image": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-10T18:18:12+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
-      "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Frankreich droht Iran nach Cyberangriffen mit weiteren Sanktionen",
-      "link": "https://www.spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Cyberangriffe auf Kühlsysteme: Iran weist Verantwortung für Hackerangriffe in Frankreich zurück",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/cyberangriffe-frankreich-iran-revolutionsgarden-supermarkt-sabotage"
-     },
-     {
-      "name": "FAZ",
-      "title": "G-7-treffen in Paris: Frankreich macht Iran für Angriffe auf Kühlanlagen verantwortlich",
-      "link": "https://www.faz.net/aktuell/politik/ausland/frankreich-macht-iran-fuer-angriffe-auf-kuehlanlagen-verantwortlich-201667272.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Cyberangriff: „Beispielloses Ausmaß“ – Frankreich sieht Iran hinter Angriff auf Supermarkt-Kühlschränke",
-      "link": "https://www.handelsblatt.com/politik/international/cyberangriff-frankreich-sieht-iran-hinter-angriff-auf-supermarkt-kuehlschraenke/100268525.html"
-     }
-    ]
-   },
-   {
-    "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html",
-    "image": "https://images.tagesschau.de/image/bf2bb47a-b8aa-4708-89c7-cace4b8fdada/AAABobIlh28/AAABnSSvrFg/16x9-big/rbb-vanessa-emde-die-linke-100.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-10T17:35:52+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Vanessa Emde: Umstrittene Linken-Abgeordnete soll Fraktion in Berlin verlassen",
-      "link": "https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen-a-a75c900e-5aae-4a40-af0a-5c45bd86c0be#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Berliner Abgeordnetenhaus: Berliner Linke will Vanessa Emde aus Fraktion ausschließen",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/berliner-linke-will-vanessa-emde-aus-fraktion-ausschliessen"
-     },
-     {
-      "name": "FAZ",
-      "title": "Deutschland Liveblog: Berliner Linke fordert Mandatsverzicht von Emde",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-linke-fordert-mandatsverzicht-von-emde-faz-110093143.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Berlin: Berliner Linke fordert Mandatsverzicht von Emde",
-      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-berliner-linke-fordert-mandatsverzicht-von-emde/100267960.html"
+      "title": "Krieg gegen Ukraine: Vor Verhandlungen – Selenskyj besucht Merz in Berlin",
+      "link": "https://www.handelsblatt.com/politik/deutschland/ukrainekrieg-vor-verhandlungen-selenskyj-besucht-merz-in-berlin/100266875.html"
      }
     ]
    },
@@ -763,7 +651,7 @@
     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
     "image": "https://images.tagesschau.de/image/39bd2997-338a-4abb-9647-04c1b950fc7a/AAABocWPbyU/AAABnSSvrFg/16x9-big/anthropic-132.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-10T15:37:43+00:00",
+    "time": "2026-11-11T09:23:36+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -787,42 +675,212 @@
      },
      {
       "name": "Handelsblatt",
-      "title": "IPO: Anthropic will 64 Milliarden Dollar mit Börsengang einnehmen",
-      "link": "https://www.handelsblatt.com/technik/ki/ipo-anthropic-will-644-milliarden-dollar-mit-boersengang-einnehmen/100268723.html"
+      "title": "IPO: Banken wollen wohl Anthropic-Bewertung auf 1,5 Billionen Dollar erhöhen",
+      "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/anthropic-banken-wollen-wohl-ipo-bewertung-auf-15-billionen-dollar-erhoehen/100269019.html"
      }
     ]
    },
    {
-    "title": "Erneut nächtliche russische Angriffe auf die Ukraine mit zwei Toten",
-    "link": "https://www.tagesschau.de/video/video-1681432.html",
-    "image": "https://images.tagesschau.de/image/fa261e82-78b9-4f9e-9948-9fccd56611c8/AAABocXg17w/AAABnSSvrFg/16x9-big/sendungsbild-1825474.jpg?width=1920",
+    "title": "CSU-Politikerin Aigner soll Nachfolgerin von Bundespräsident Steinmeier werden",
+    "link": "https://www.tagesschau.de/video/video-1680846.html",
+    "image": "https://images.tagesschau.de/image/d975a43f-52f3-4f67-a57a-0406849234ca/AAABocEjAOc/AAABnSSvrFg/16x9-big/sendungsbild-1824996.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-10T14:33:32+00:00",
+    "time": "2026-11-11T04:50:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Erneut nächtliche russische Angriffe auf die Ukraine mit zwei Toten",
-      "link": "https://www.tagesschau.de/video/video-1681432.html"
+      "title": "CSU-Politikerin Aigner soll Nachfolgerin von Bundespräsident Steinmeier werden",
+      "link": "https://www.tagesschau.de/video/video-1680846.html"
      },
      {
       "name": "Spiegel",
-      "title": "Ukraine-Krieg: Kyjiw kämpft nach massiven russischen Angriffen mit Stromproblemen",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-kaempft-nach-massiven-russischen-angriffen-mit-stromproblemen-a-8d4aacfb-3500-4239-9b25-90fd97e43459#ref=rss"
+      "title": "Ilse Aigner: Mehr als jeder Dritte hält CSU-Frau für geeignete Bundespräsidentin",
+      "link": "https://www.spiegel.de/politik/ilse-aigner-mehr-als-jeder-dritte-haelt-csu-frau-fuer-geeignete-bundespraesidentin-a-9dec293e-8a34-46d3-b634-805e3bbe8566#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Proteste in Frankreich: Rund 780 Menschen bei Protesten in Frankreich festgenommen",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/proteste-frankreich-paris-lebenshaltungskosten-bildung-gxe"
+      "title": "Ilse Aigner: CDU und CSU wollen Ilse Aigner als Bundespräsidentin",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-union-landtagswahl-bayern-csu"
      },
      {
       "name": "FAZ",
-      "title": "Gen-Z-Demonstration: Worauf sich Bürger in Frankfurt einstellen müssen",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-demos-in-frankfurt-was-sie-am-samstag-wissen-muessen-201635656.html"
+      "title": "Steinmeier-Nachfolge: Aigner nervt nicht",
+      "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-die-csu-bekommt-doch-noch-ihre-praesidentin-accg-201659503.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Mehr als 600.000 Menschen in Ukraine nach russischem Angriff ohne Strom",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-mehr-als-600.000-ukrainer-nach-russischem-angriff-ohne-strom/27982126.html"
+      "title": "Bundespräsidentin: Erste Frau im Amt – Merz schlägt Aigner als Bundespräsidentin vor",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-erste-frau-im-amt-merz-schlaegt-aigner-als-bundespraesidentin-vor/100268202.html"
+     }
+    ]
+   },
+   {
+    "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
+    "image": "https://images.tagesschau.de/image/107b49e8-ab44-43ed-b804-6def95fc2d29/AAABocbu7EA/AAABnSSvrFg/16x9-big/aigner-166.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-11T01:20:58+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ilse Aigner lehnt Vorstellung bei AfD-Fraktion im Bundestag ab",
+      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-lehnt-vorstellung-bei-afd-fraktion-im-bundestag-ab-a-b3348100-992e-4c5b-8e85-6f6223d43650#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Kandidatin für Bundespräsidentenwahl: Ilse Aigner lehnt Einladung der AfD-Bundestagsfraktion ab",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentenwahl-cdu-csu-spd-gruene-afd"
+     },
+     {
+      "name": "FAZ",
+      "title": "Deutschland Liveblog: Aigner will sich offenbar nicht der AfD-Fraktion vorstellen",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bericht-aigner-will-sich-nicht-der-afd-fraktion-vorstellen-faz-110093143.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Bundespräsidentin: Ilse Aigner stellt sich nicht AfD und Linken vor",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-ilse-aigner-stellt-sich-nicht-afd-und-linken-vor/100268693.html"
+     }
+    ]
+   },
+   {
+    "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+    "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+    "image": "https://images.tagesschau.de/image/a69ad001-e56f-402d-a036-1e793a5e93fd/AAABocfM_Cs/AAABnSSvrFg/16x9-big/us-kapitol-164.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-11T00:56:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Pete Hegseth: Republikaner lehnen Amtsenthebungsantrag im Repräsentantenhaus ab",
+      "link": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-lehnen-amtsenthebungsantrag-im-repraesentantenhaus-ab-a-a16fbebc-5f94-4266-bd4c-7b114e518b40#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "US-Verteidigungsminister: Amtsenthebung Hegseths im US-Repräsentantenhaus gestoppt",
+      "link": "https://www.zeit.de/news/2026-11/11/amtsenthebung-hegseths-im-us-repraesentantenhaus-gestoppt"
+     },
+     {
+      "name": "FAZ",
+      "title": "USA unter Trump: Amtsenthebung von Hegseth im US-Repräsentantenhaus gestoppt",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-amtsenthebung-von-hegseth-im-us-repraesentantenhaus-gestoppt-faz-19444916.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "USA: US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+      "link": "https://www.handelsblatt.com/politik/international/usa-us-repraesentantenhaus-lehnt-amtsenthebungsverfahren-gegen-hegseth-ab/100268903.html"
+     }
+    ]
+   },
+   {
+    "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+    "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+    "image": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-10T18:18:12+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+      "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Frankreich droht Iran nach Cyberangriffen mit weiteren Sanktionen",
+      "link": "https://www.spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Cyberangriffe auf Kühlsysteme: Iran weist Verantwortung für Hackerangriffe in Frankreich zurück",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/cyberangriffe-frankreich-iran-revolutionsgarden-supermarkt-sabotage"
+     },
+     {
+      "name": "FAZ",
+      "title": "G-7-treffen in Paris: Frankreich macht Iran für Angriffe auf Kühlanlagen verantwortlich",
+      "link": "https://www.faz.net/aktuell/politik/ausland/frankreich-macht-iran-fuer-angriffe-auf-kuehlanlagen-verantwortlich-201667272.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Cyberangriff: „Beispielloses Ausmaß“ – Frankreich sieht Iran hinter Angriff auf Supermarkt-Kühlschränke",
+      "link": "https://www.handelsblatt.com/politik/international/cyberangriff-frankreich-sieht-iran-hinter-angriff-auf-supermarkt-kuehlschraenke/100268525.html"
+     }
+    ]
+   },
+   {
+    "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
+    "image": "https://images.tagesschau.de/image/6ecdf46a-cf24-4550-810d-9e72c1a23c14/AAABobqrE_s/AAABnSSvrFg/16x9-big/rbb-630259816-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-10T17:35:52+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Vanessa Emde: Umstrittene Linken-Abgeordnete soll Fraktion in Berlin verlassen",
+      "link": "https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen-a-a75c900e-5aae-4a40-af0a-5c45bd86c0be#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Berliner Abgeordnetenhaus: Berliner Linke will Vanessa Emde aus Fraktion ausschließen",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/berliner-linke-will-vanessa-emde-aus-fraktion-ausschliessen"
+     },
+     {
+      "name": "FAZ",
+      "title": "Deutschland Liveblog: Berliner Linke fordert Mandatsverzicht von Emde",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-linke-fordert-mandatsverzicht-von-emde-faz-110093143.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Berlin: Berliner Linke fordert Mandatsverzicht von Emde",
+      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-berliner-linke-fordert-mandatsverzicht-von-emde/100267960.html"
+     }
+    ]
+   },
+   {
+    "title": "Polizei zieht Bilanz zu Krawallen in Frankfurt",
+    "link": "https://www.tagesschau.de/inland/regional/hessen/krawalle-frankfurt-polizei-bilanz-100.html",
+    "image": "https://images.tagesschau.de/image/4243f3f1-0ef0-4997-a728-4b49d417be41/AAABoZfYLHc/AAABnSSvrFg/16x9-big/krawalle-randale-frankfurt-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-10T16:05:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Polizei zieht Bilanz zu Krawallen in Frankfurt",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/krawalle-frankfurt-polizei-bilanz-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Nach Demo von »Gen Z regelt«: Ausschreitungen und Plünderungen in Frankfurt und Köln",
+      "link": "https://www.spiegel.de/panorama/justiz/nach-demo-von-gen-z-regelt-ausschreitungen-und-pluenderungen-in-frankfurt-und-koeln-a-2baa26e4-2d9c-4fc2-8585-533727c4d00c#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Nach Eskalation: Einsatzleiter: Neue Gewalt-Dimension nach Demo in Frankfurt",
+      "link": "https://www.zeit.de/news/2026-11/01/einsatzleiter-neue-gewalt-dimension-nach-demo-in-frankfurt"
+     },
+     {
+      "name": "FAZ",
+      "title": "Rhein-Main-Feierabendbriefing: Krawallnacht in Frankfurt: Polizei nennt Herkunft der Tatverdächtigen",
+      "link": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/krawallnacht-in-frankfurt-polizei-nennt-herkunft-der-tatverdaechtigen-201670660.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "„Gen Z regelt“: Bundesweite Jugendproteste – Kölner Polizei setzt Wasserwerfer am Rand der Demo ein",
+      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-regelt-koelner-polizei-setzt-wasserwerfer-am-rand-der-demo-ein/100266344.html"
      }
     ]
    },
@@ -861,79 +919,11 @@
     ]
    },
    {
-    "title": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html",
-    "image": "https://images.tagesschau.de/image/0c786d38-2da6-4bd4-97f4-308eff3a15d8/AAABoZrgYIE/AAABnSSvrFg/16x9-big/berlin-koalition-104.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-10T09:06:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Umstrittene Linkenabgeordnete: Die Neuköllnerin Emde könnte die rot-grün-roten Träume in Berlin zum Platzen bringen",
-      "link": "https://www.spiegel.de/politik/deutschland/umstrittene-linkenabgeordnete-die-neukoellnerin-emde-koennte-die-rot-gruen-roten-traeume-in-berlin-zum-platzen-bringen-a-fd4d46e5-6c1c-4830-ac63-e1ace47b93f1#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Regierungsbildung in Berlin: In Berlin beginnen rot-grün-rote Koalitionsverhandlungen",
-      "link": "https://www.zeit.de/news/2026-11/02/in-berlin-beginnen-rot-gruen-rote-koalitionsverhandlungen"
-     },
-     {
-      "name": "FAZ",
-      "title": "Gespräche in Berlin: Rot-Grün-Rot mit Humboldts Segen",
-      "link": "https://www.faz.net/aktuell/politik/inland/die-rektorin-der-humboldt-uni-verhandelt-an-berlins-koalition-mit-und-missachtet-das-neutralitaetsgebot-201651855.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Berlin: Haushalt wird zur eigentlichen Bewährungsprobe für Rot-Grün-Rot",
-      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-haushalt-wird-zur-eigentlichen-bewaehrungsprobe-fuer-rot-gruen-rot/100267825.html"
-     }
-    ]
-   },
-   {
-    "title": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1681132.html",
-    "image": "https://images.tagesschau.de/image/8489363b-c98c-40ff-b821-9151fa742078/AAABocJzo00/AAABnSSvrFg/16x9-big/sendungsbild-1825166.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-09T23:09:11+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1681132.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Ilse Aigner: Livestream zur offiziellen Vorstellung als Kandidatin für das höchste Staatsamt",
-      "link": "https://www.spiegel.de/politik/ilse-aigner-livestream-zur-offiziellen-vorstellung-als-kandidatin-fuer-das-hoechste-staatsamt-a-1f193dc1-4c8c-4e97-a135-31b9c88bd2fe#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Kritik an Friedrich Merz: Friedrich Merz rechtfertigt Verfahren um Nominierung von Ilse Aigner",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentin-friedrich-merz-cdu-csu"
-     },
-     {
-      "name": "FAZ",
-      "title": "F.A.Z. Frühdenker: Wird Ilse Aigner die erste Bundespräsidentin?",
-      "link": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/merz-praesentiert-kandidatin-fuer-die-bundespraesidentenwahl-faz-fruehdenker-201664199.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Bundespräsidentin: Merz stellt Aigner vor –„Der Bundeskanzler hat es spannend gemacht, auch für mich“",
-      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-merz-stellt-aigner-vor-der-kanzler-hat-es-spannend-gemacht/100268367.html"
-     }
-    ]
-   },
-   {
     "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
     "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
     "image": "https://images.tagesschau.de/image/1d795625-6e32-4268-8bf0-5ca4a0c10aa8/AAABobqEWvg/AAABnSSvrFg/16x9-big/dana-white-donald-trump-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-09T11:12:00+00:00",
+    "time": "2026-11-10T04:32:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -942,13 +932,13 @@
      },
      {
       "name": "Spiegel",
-      "title": "Donald Trump: UFC-Chef Dana White und seine politische Rolle für Trump",
-      "link": "https://www.spiegel.de/sport/donald-trump-ufc-chef-dana-white-und-seine-politische-rolle-fuer-trump-a-b6a1c2cf-45dc-4b4b-bf25-2675ac712491#ref=rss"
+      "title": "Donald Trump tritt mit Kampfsportboss Dana White vor die Presse im Weißen Haus",
+      "link": "https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus-a-3d45812a-34ee-4b72-82ee-f26dbf9e1401#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Dana White: Donald Trump will UFC-Chef als nächsten Regierungssprecher",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/dana-white-donald-trump-weisses-haus-sprecher"
+      "title": "US-Präsident: Kampfsport-Unternehmer als Sprecher im Weißen Haus?",
+      "link": "https://www.zeit.de/news/2026-11/07/kampfsport-unternehmer-als-sprecher-im-weissen-haus"
      },
      {
       "name": "FAZ",
@@ -968,6 +958,62 @@
   "de": {
    "24h": [
     {
+     "title": "Fico-Studie zur Betrugs­prävention: KI-Wettrüsten zwischen Banken und Betrügern",
+     "link": "https://www.it-finanzmagazin.de/fico-studie-zur-betrugspraevention-ki-wettruesten-zwischen-banken-und-betruegern-253854/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T09:11:45+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Fico-Studie zur Betrugs­prävention: KI-Wettrüsten zwischen Banken und Betrügern",
+       "link": "https://www.it-finanzmagazin.de/fico-studie-zur-betrugspraevention-ki-wettruesten-zwischen-banken-und-betruegern-253854/"
+      }
+     ]
+    },
+    {
+     "title": "Die Macher:innen, die gegen den Wind bauen: Fintech des Jahres 2026 gekürt",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2VaaFFKb1owOHJveU9JTnpYTHRNbzB6ZXlzd09zWDY5UkQxU0xpbmxId01OeUZRWFBEWjY1WEU4WWMxLWNvdVFBaFpDOTlQeUotN0VGSlkwNE5UWnNlU2FBU3dDcGhteW9RaEdMQlRnbFYtSUJ5aGRSZ2xSVlRCOUYxUWU2cmtKOWROSVM2R20zNWlHU2s4TjM3WGkwQl8xRHo1RmZR?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T08:20:28+00:00",
+     "sources": [
+      {
+       "name": "Payment & Banking",
+       "title": "Die Macher:innen, die gegen den Wind bauen: Fintech des Jahres 2026 gekürt",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2VaaFFKb1owOHJveU9JTnpYTHRNbzB6ZXlzd09zWDY5UkQxU0xpbmxId01OeUZRWFBEWjY1WEU4WWMxLWNvdVFBaFpDOTlQeUotN0VGSlkwNE5UWnNlU2FBU3dDcGhteW9RaEdMQlRnbFYtSUJ5aGRSZ2xSVlRCOUYxUWU2cmtKOWROSVM2R20zNWlHU2s4TjM3WGkwQl8xRHo1RmZR?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Zahlungsschwierigkeiten: Jeder siebte junge Bankkunde spricht bei Schulden lieber mit KI",
+     "link": "https://www.it-finanzmagazin.de/zahlungsschwierigkeiten-jeder-siebte-junge-bankkunde-spricht-bei-schulden-lieber-mit-ki-253840/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T08:00:39+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Zahlungsschwierigkeiten: Jeder siebte junge Bankkunde spricht bei Schulden lieber mit KI",
+       "link": "https://www.it-finanzmagazin.de/zahlungsschwierigkeiten-jeder-siebte-junge-bankkunde-spricht-bei-schulden-lieber-mit-ki-253840/"
+      }
+     ]
+    },
+    {
+     "title": "Fronting-Bank-Modell: Wie Fintechs Kredite vergeben",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUNfWmtKSHVUYnZWY3BocGd3X1JORWRUcDJpT2lGY1lwZnBHUFUxWUFwWXgwRnFSZUtCX2p6QWpnZW5fSWtzc3p0SnczRXJHTVdNWTNqUnFpU203YkgwYTZTMEI0ZVZqMU5xWm1YMDh5UENFMjBWWWcyTHdoTnBPYl9NWWFKSmE4?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T07:30:28+00:00",
+     "sources": [
+      {
+       "name": "Payment & Banking",
+       "title": "Fronting-Bank-Modell: Wie Fintechs Kredite vergeben",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUNfWmtKSHVUYnZWY3BocGd3X1JORWRUcDJpT2lGY1lwZnBHUFUxWUFwWXgwRnFSZUtCX2p6QWpnZW5fSWtzc3p0SnczRXJHTVdNWTNqUnFpU203YkgwYTZTMEI0ZVZqMU5xWm1YMDh5UENFMjBWWWcyTHdoTnBPYl9NWWFKSmE4?oc=5"
+      }
+     ]
+    },
+    {
      "title": "Remote Expense Cards sollen zentrale Verwaltung von internationalen Geschäftsausgaben ermöglichen",
      "link": "https://www.it-finanzmagazin.de/remote-cards-ermoeglichen-zentrale-verwaltung-von-ausgaben-253846/",
      "image": "",
@@ -1048,26 +1094,68 @@
        "name": "IT-Finanzmagazin",
        "title": "Not-Aus-Schalter für alle KI-Systeme? 92 % der Deutschen wollen das",
        "link": "https://www.it-finanzmagazin.de/bitkom-umfrage-not-aus-schalter-fuer-alle-ki-systeme-253808/"
-      }
-     ]
-    },
-    {
-     "title": "Affirm übernimmt Ratepay: US-Anbieter baut BNPL-Geschäft in Europa aus",
-     "link": "https://www.it-finanzmagazin.de/affirm-uebernimmt-ratepay-us-anbieter-baut-bnpl-geschaeft-in-europa-aus-253786/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T08:00:49+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Affirm übernimmt Ratepay: US-Anbieter baut BNPL-Geschäft in Europa aus",
-       "link": "https://www.it-finanzmagazin.de/affirm-uebernimmt-ratepay-us-anbieter-baut-bnpl-geschaeft-in-europa-aus-253786/"
       }
      ]
     }
    ],
    "7d": [
     {
+     "title": "Fico-Studie zur Betrugs­prävention: KI-Wettrüsten zwischen Banken und Betrügern",
+     "link": "https://www.it-finanzmagazin.de/fico-studie-zur-betrugspraevention-ki-wettruesten-zwischen-banken-und-betruegern-253854/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T09:11:45+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Fico-Studie zur Betrugs­prävention: KI-Wettrüsten zwischen Banken und Betrügern",
+       "link": "https://www.it-finanzmagazin.de/fico-studie-zur-betrugspraevention-ki-wettruesten-zwischen-banken-und-betruegern-253854/"
+      }
+     ]
+    },
+    {
+     "title": "Die Macher:innen, die gegen den Wind bauen: Fintech des Jahres 2026 gekürt",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2VaaFFKb1owOHJveU9JTnpYTHRNbzB6ZXlzd09zWDY5UkQxU0xpbmxId01OeUZRWFBEWjY1WEU4WWMxLWNvdVFBaFpDOTlQeUotN0VGSlkwNE5UWnNlU2FBU3dDcGhteW9RaEdMQlRnbFYtSUJ5aGRSZ2xSVlRCOUYxUWU2cmtKOWROSVM2R20zNWlHU2s4TjM3WGkwQl8xRHo1RmZR?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T08:20:28+00:00",
+     "sources": [
+      {
+       "name": "Payment & Banking",
+       "title": "Die Macher:innen, die gegen den Wind bauen: Fintech des Jahres 2026 gekürt",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2VaaFFKb1owOHJveU9JTnpYTHRNbzB6ZXlzd09zWDY5UkQxU0xpbmxId01OeUZRWFBEWjY1WEU4WWMxLWNvdVFBaFpDOTlQeUotN0VGSlkwNE5UWnNlU2FBU3dDcGhteW9RaEdMQlRnbFYtSUJ5aGRSZ2xSVlRCOUYxUWU2cmtKOWROSVM2R20zNWlHU2s4TjM3WGkwQl8xRHo1RmZR?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Zahlungsschwierigkeiten: Jeder siebte junge Bankkunde spricht bei Schulden lieber mit KI",
+     "link": "https://www.it-finanzmagazin.de/zahlungsschwierigkeiten-jeder-siebte-junge-bankkunde-spricht-bei-schulden-lieber-mit-ki-253840/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T08:00:39+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Zahlungsschwierigkeiten: Jeder siebte junge Bankkunde spricht bei Schulden lieber mit KI",
+       "link": "https://www.it-finanzmagazin.de/zahlungsschwierigkeiten-jeder-siebte-junge-bankkunde-spricht-bei-schulden-lieber-mit-ki-253840/"
+      }
+     ]
+    },
+    {
+     "title": "Fronting-Bank-Modell: Wie Fintechs Kredite vergeben",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUNfWmtKSHVUYnZWY3BocGd3X1JORWRUcDJpT2lGY1lwZnBHUFUxWUFwWXgwRnFSZUtCX2p6QWpnZW5fSWtzc3p0SnczRXJHTVdNWTNqUnFpU203YkgwYTZTMEI0ZVZqMU5xWm1YMDh5UENFMjBWWWcyTHdoTnBPYl9NWWFKSmE4?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T07:30:28+00:00",
+     "sources": [
+      {
+       "name": "Payment & Banking",
+       "title": "Fronting-Bank-Modell: Wie Fintechs Kredite vergeben",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUNfWmtKSHVUYnZWY3BocGd3X1JORWRUcDJpT2lGY1lwZnBHUFUxWUFwWXgwRnFSZUtCX2p6QWpnZW5fSWtzc3p0SnczRXJHTVdNWTNqUnFpU203YkgwYTZTMEI0ZVZqMU5xWm1YMDh5UENFMjBWWWcyTHdoTnBPYl9NWWFKSmE4?oc=5"
+      }
+     ]
+    },
+    {
      "title": "Remote Expense Cards sollen zentrale Verwaltung von internationalen Geschäftsausgaben ermöglichen",
      "link": "https://www.it-finanzmagazin.de/remote-cards-ermoeglichen-zentrale-verwaltung-von-ausgaben-253846/",
      "image": "",
@@ -1148,62 +1236,6 @@
        "name": "IT-Finanzmagazin",
        "title": "Not-Aus-Schalter für alle KI-Systeme? 92 % der Deutschen wollen das",
        "link": "https://www.it-finanzmagazin.de/bitkom-umfrage-not-aus-schalter-fuer-alle-ki-systeme-253808/"
-      }
-     ]
-    },
-    {
-     "title": "Affirm übernimmt Ratepay: US-Anbieter baut BNPL-Geschäft in Europa aus",
-     "link": "https://www.it-finanzmagazin.de/affirm-uebernimmt-ratepay-us-anbieter-baut-bnpl-geschaeft-in-europa-aus-253786/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T08:00:49+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Affirm übernimmt Ratepay: US-Anbieter baut BNPL-Geschäft in Europa aus",
-       "link": "https://www.it-finanzmagazin.de/affirm-uebernimmt-ratepay-us-anbieter-baut-bnpl-geschaeft-in-europa-aus-253786/"
-      }
-     ]
-    },
-    {
-     "title": "Bitalo will die Lücke zum klassischen Bankkonto schließen",
-     "link": "https://www.it-finanzmagazin.de/bitalo-wallet-will-die-luecke-zum-klassischen-bankkonto-schliessen-253785/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T07:00:28+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Bitalo will die Lücke zum klassischen Bankkonto schließen",
-       "link": "https://www.it-finanzmagazin.de/bitalo-wallet-will-die-luecke-zum-klassischen-bankkonto-schliessen-253785/"
-      }
-     ]
-    },
-    {
-     "title": "Auslandsbanken sollen \"Abwicklungskonto\" eröffnen – aber wo denn, bitteschön???",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQek5EMWt2eEM5MnN6RTRORnFqOEgyQTl1NXlONTdzWlVXT2tXVlNhMml6WHdvN1piTFNiSFhidS1uX1ZVdHVWdUFVUE1uQm9Bc1dBaTVBUU9mR2ZMczFKc2h3RFVpeUE2U21wUDQ0b2dUOHZNVk0xS2pzbUtVdU1kZ1RmLTl5ZzVldzA5aTRFRnBsUlkwd1M4aHhZbTdHdldEQm5IbmJ2dENJQQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T05:04:34+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Auslandsbanken sollen \"Abwicklungskonto\" eröffnen – aber wo denn, bitteschön???",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQek5EMWt2eEM5MnN6RTRORnFqOEgyQTl1NXlONTdzWlVXT2tXVlNhMml6WHdvN1piTFNiSFhidS1uX1ZVdHVWdUFVUE1uQm9Bc1dBaTVBUU9mR2ZMczFKc2h3RFVpeUE2U21wUDQ0b2dUOHZNVk0xS2pzbUtVdU1kZ1RmLTl5ZzVldzA5aTRFRnBsUlkwd1M4aHhZbTdHdldEQm5IbmJ2dENJQQ?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "D-You: Was die Deutschland-Wallet alles verändert",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb01SMTRZeDBHNklkbHJucTRtMzFhdnVHNWc3UnJxVjM5Y0RfcklSWTF0NF82NzM5emx6OWdYaEJ3ZEs1b252V2ZMbm1rcWhiWTBPUWVWdXhZcEd1allwQ0llX2pEaDJmTjE3MEctX3VOOE56V2dfN3RxcHFLakhnRmRjX3c4Zw?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T05:00:50+00:00",
-     "sources": [
-      {
-       "name": "Payment & Banking",
-       "title": "D-You: Was die Deutschland-Wallet alles verändert",
-       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb01SMTRZeDBHNklkbHJucTRtMzFhdnVHNWc3UnJxVjM5Y0RfcklSWTF0NF82NzM5emx6OWdYaEJ3ZEs1b252V2ZMbm1rcWhiWTBPUWVWdXhZcEd1allwQ0llX2pEaDJmTjE3MEctX3VOOE56V2dfN3RxcHFLakhnRmRjX3c4Zw?oc=5"
       }
      ]
     }
@@ -1248,6 +1280,20 @@
      ]
     },
     {
+     "title": "Die Macher:innen, die gegen den Wind bauen: Fintech des Jahres 2026 gekürt",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2VaaFFKb1owOHJveU9JTnpYTHRNbzB6ZXlzd09zWDY5UkQxU0xpbmxId01OeUZRWFBEWjY1WEU4WWMxLWNvdVFBaFpDOTlQeUotN0VGSlkwNE5UWnNlU2FBU3dDcGhteW9RaEdMQlRnbFYtSUJ5aGRSZ2xSVlRCOUYxUWU2cmtKOWROSVM2R20zNWlHU2s4TjM3WGkwQl8xRHo1RmZR?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T08:20:28+00:00",
+     "sources": [
+      {
+       "name": "Payment & Banking",
+       "title": "Die Macher:innen, die gegen den Wind bauen: Fintech des Jahres 2026 gekürt",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2VaaFFKb1owOHJveU9JTnpYTHRNbzB6ZXlzd09zWDY5UkQxU0xpbmxId01OeUZRWFBEWjY1WEU4WWMxLWNvdVFBaFpDOTlQeUotN0VGSlkwNE5UWnNlU2FBU3dDcGhteW9RaEdMQlRnbFYtSUJ5aGRSZ2xSVlRCOUYxUWU2cmtKOWROSVM2R20zNWlHU2s4TjM3WGkwQl8xRHo1RmZR?oc=5"
+      }
+     ]
+    },
+    {
      "title": "Affirm übernimmt Ratepay: US-Anbieter baut BNPL-Geschäft in Europa aus",
      "link": "https://www.it-finanzmagazin.de/affirm-uebernimmt-ratepay-us-anbieter-baut-bnpl-geschaeft-in-europa-aus-253786/",
      "image": "",
@@ -1258,6 +1304,48 @@
        "name": "IT-Finanzmagazin",
        "title": "Affirm übernimmt Ratepay: US-Anbieter baut BNPL-Geschäft in Europa aus",
        "link": "https://www.it-finanzmagazin.de/affirm-uebernimmt-ratepay-us-anbieter-baut-bnpl-geschaeft-in-europa-aus-253786/"
+      }
+     ]
+    },
+    {
+     "title": "Fico-Studie zur Betrugs­prävention: KI-Wettrüsten zwischen Banken und Betrügern",
+     "link": "https://www.it-finanzmagazin.de/fico-studie-zur-betrugspraevention-ki-wettruesten-zwischen-banken-und-betruegern-253854/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T09:11:45+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Fico-Studie zur Betrugs­prävention: KI-Wettrüsten zwischen Banken und Betrügern",
+       "link": "https://www.it-finanzmagazin.de/fico-studie-zur-betrugspraevention-ki-wettruesten-zwischen-banken-und-betruegern-253854/"
+      }
+     ]
+    },
+    {
+     "title": "Zahlungsschwierigkeiten: Jeder siebte junge Bankkunde spricht bei Schulden lieber mit KI",
+     "link": "https://www.it-finanzmagazin.de/zahlungsschwierigkeiten-jeder-siebte-junge-bankkunde-spricht-bei-schulden-lieber-mit-ki-253840/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T08:00:39+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Zahlungsschwierigkeiten: Jeder siebte junge Bankkunde spricht bei Schulden lieber mit KI",
+       "link": "https://www.it-finanzmagazin.de/zahlungsschwierigkeiten-jeder-siebte-junge-bankkunde-spricht-bei-schulden-lieber-mit-ki-253840/"
+      }
+     ]
+    },
+    {
+     "title": "Fronting-Bank-Modell: Wie Fintechs Kredite vergeben",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUNfWmtKSHVUYnZWY3BocGd3X1JORWRUcDJpT2lGY1lwZnBHUFUxWUFwWXgwRnFSZUtCX2p6QWpnZW5fSWtzc3p0SnczRXJHTVdNWTNqUnFpU203YkgwYTZTMEI0ZVZqMU5xWm1YMDh5UENFMjBWWWcyTHdoTnBPYl9NWWFKSmE4?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T07:30:28+00:00",
+     "sources": [
+      {
+       "name": "Payment & Banking",
+       "title": "Fronting-Bank-Modell: Wie Fintechs Kredite vergeben",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUNfWmtKSHVUYnZWY3BocGd3X1JORWRUcDJpT2lGY1lwZnBHUFUxWUFwWXgwRnFSZUtCX2p6QWpnZW5fSWtzc3p0SnczRXJHTVdNWTNqUnFpU203YkgwYTZTMEI0ZVZqMU5xWm1YMDh5UENFMjBWWWcyTHdoTnBPYl9NWWFKSmE4?oc=5"
       }
      ]
     },
@@ -1300,62 +1388,6 @@
        "name": "Finanz-Szene",
        "title": "Zäsur im Onboarding: eID-Verfahren macht bei Chase fast 50% aus",
        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0RkbnJrWmpjVWZXVFRKYXAtbHRSYXlSNWlTQ2hzZlJCRDh4LVE0bmE1cHluOHBrSEVGTE9TOHNFTVN2WFc5TGdVSGYxOW1PN2pXTXM3VW5yNTAzOHF5d0lCclJnZUVkWjd0U1k4Y0lKRkQxOUtGWVhENXEyekVFSkFzcEpNZzFyWXFjTnREZzdBYWJBV1hlMHVaWjZYUjZpWXB3d3duTFhUckQtZW5ySTYxcWl0Zw?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Beispiel Consorsbank – kommt jetzt das negativ bepreiste Altersvorsorgedepot?",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSUpMODB1TDhHdGVnLWYxM3JJY2xVcGlVU2lydkFnZjZlSUVMdUdDUTFyTEEtc3ZyRHdleHdIeDctRWswdGFIQ0poVld3QTg2ZjFLY1o4d0tJckV1TS1FbWdFNmFUWTRPN2VWbi1LY05QM1oxVzFVQm0wT1J5dS16RmJKQ0JUejZWZVNkUXZpS1NVV2RtV2JETl9mWmhfclZVQ1A4TnNWMUw0cGc?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-11T04:46:02+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Beispiel Consorsbank – kommt jetzt das negativ bepreiste Altersvorsorgedepot?",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSUpMODB1TDhHdGVnLWYxM3JJY2xVcGlVU2lydkFnZjZlSUVMdUdDUTFyTEEtc3ZyRHdleHdIeDctRWswdGFIQ0poVld3QTg2ZjFLY1o4d0tJckV1TS1FbWdFNmFUWTRPN2VWbi1LY05QM1oxVzFVQm0wT1J5dS16RmJKQ0JUejZWZVNkUXZpS1NVV2RtV2JETl9mWmhfclZVQ1A4TnNWMUw0cGc?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "ATM as a Service – Bargeldversorgung neu denken [Anzeige]",
-     "link": "https://www.it-finanzmagazin.de/atm-as-a-service-bargeldversorgung-neu-denken-anzeige-253755/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-09T13:58:17+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "ATM as a Service – Bargeldversorgung neu denken [Anzeige]",
-       "link": "https://www.it-finanzmagazin.de/atm-as-a-service-bargeldversorgung-neu-denken-anzeige-253755/"
-      }
-     ]
-    },
-    {
-     "title": "Wero-Wachstum, EZB-Umbruch und neue Wege in der Finanzberatung",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTUM5U09DU25wVllKajJ1V1JlSzJ2TVQxbG9ZVXpaTFg0WTl2Y2VRRVN2a0VBLWQtZW9JYkRLM3A2YTFkXzBFeVlZLTRFN0FNLWd0SnhFaEtKdlBXenZYVjlXN0RvbjRibFEyc1Q3M25hVzF2QlVqQXN0QlFGb0h3RlcxMmYxcnB1S3gwSElVQTdPMm8tS1NJ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T11:00:50+00:00",
-     "sources": [
-      {
-       "name": "Payment & Banking",
-       "title": "Wero-Wachstum, EZB-Umbruch und neue Wege in der Finanzberatung",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTUM5U09DU25wVllKajJ1V1JlSzJ2TVQxbG9ZVXpaTFg0WTl2Y2VRRVN2a0VBLWQtZW9JYkRLM3A2YTFkXzBFeVlZLTRFN0FNLWd0SnhFaEtKdlBXenZYVjlXN0RvbjRibFEyc1Q3M25hVzF2QlVqQXN0QlFGb0h3RlcxMmYxcnB1S3gwSElVQTdPMm8tS1NJ?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Not-Aus-Schalter für alle KI-Systeme? 92 % der Deutschen wollen das",
-     "link": "https://www.it-finanzmagazin.de/bitkom-umfrage-not-aus-schalter-fuer-alle-ki-systeme-253808/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T10:49:37+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Not-Aus-Schalter für alle KI-Systeme? 92 % der Deutschen wollen das",
-       "link": "https://www.it-finanzmagazin.de/bitkom-umfrage-not-aus-schalter-fuer-alle-ki-systeme-253808/"
       }
      ]
     }
@@ -1404,6 +1436,111 @@
      "title_orig": "Morgan Stanley agrees to acquire fintech Vinyl Equity"
     },
     {
+     "title": "WasabiCard führt lokale Kartenausgabe in mehr als 100 Märkten ein",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM19KWUlnZ0NYd0JKMXhjZm9ibEZMa1kzVVZUOS1NQjQ1NDB1RGRnZmtiZ2toSEJSVm5hOTdzN0o4R0JDd2dWalY0WlptLXJEbTBxcFQ5S3Etc0drQnhUR1hXX2k2RzVVNWNEaEtVbWZETE53c3ZMUmJEWjVONDN5bGhDejlHSkQtVWhHMExPMEtWNnJYREplZGxHcElwRDBfMG1FLS03dHJ1dVRmTEp3MEZkZkg?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T09:41:01+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "WasabiCard rolls out local card issuing in 100+ markets",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM19KWUlnZ0NYd0JKMXhjZm9ibEZMa1kzVVZUOS1NQjQ1NDB1RGRnZmtiZ2toSEJSVm5hOTdzN0o4R0JDd2dWalY0WlptLXJEbTBxcFQ5S3Etc0drQnhUR1hXX2k2RzVVNWNEaEtVbWZETE53c3ZMUmJEWjVONDN5bGhDejlHSkQtVWhHMExPMEtWNnJYREplZGxHcElwRDBfMG1FLS03dHJ1dVRmTEp3MEZkZkg?oc=5"
+      }
+     ],
+     "title_orig": "WasabiCard rolls out local card issuing in 100+ markets"
+    },
+    {
+     "title": "Die Rhinebeck Bank ernennt Jeff Nowicki zum Chief Digital Banking Officer",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd3hETV9MUUlucEpWR0l3aHdGbUprNWJRUWZ5cDJrYU5UR1VPZFI4VDlSQ21QZXhHZXFzWTU2NEw4dkFqMVNCRU1hVUFkT0FlLTVmUDJaaExfM29JQTdHZXBoZC01bm80QVNNc2x2bFdJQ0FQOVp6ZU5Hb0lvUkhIaFJwbkl0QVJLZVNDUmxnSVB3SHEzdkl0N2dnNG5nY1N6NkxaUWd2c0dXZ01LZHc4YjZ5eXlmejZHTzNR?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T09:28:46+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Rhinebeck Bank names Jeff Nowicki chief digital banking officer",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd3hETV9MUUlucEpWR0l3aHdGbUprNWJRUWZ5cDJrYU5UR1VPZFI4VDlSQ21QZXhHZXFzWTU2NEw4dkFqMVNCRU1hVUFkT0FlLTVmUDJaaExfM29JQTdHZXBoZC01bm80QVNNc2x2bFdJQ0FQOVp6ZU5Hb0lvUkhIaFJwbkl0QVJLZVNDUmxnSVB3SHEzdkl0N2dnNG5nY1N6NkxaUWd2c0dXZ01LZHc4YjZ5eXlmejZHTzNR?oc=5"
+      }
+     ],
+     "title_orig": "Rhinebeck Bank names Jeff Nowicki chief digital banking officer"
+    },
+    {
+     "title": "Circle, Global Citizen-Partner für USDC-Zahlungen",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGVTQ2ItMWFMRkZ6Z25HV2M4YXM3ZWQ2RVZBUXM4V0lTTE5XX0V4Zl92QmNjRGR0cV9WelpTN2tFTGxSVmYtMDVKYzBfUGM4akNJeE8zQkIwNmpDaFhzTWROcFdQRXpYUVNWQkE3YkNhTzdQWjFra2dRWEVWZWlwc2M1S0Z5MUQ5cmpObU02TzJnNDVfeWVhR0dzbDB0M3FMYV9JQ19WbnlESFJBYnJRaDA1VWpGWVk?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T08:59:39+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Circle, Global Citizen partner on USDC payments",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGVTQ2ItMWFMRkZ6Z25HV2M4YXM3ZWQ2RVZBUXM4V0lTTE5XX0V4Zl92QmNjRGR0cV9WelpTN2tFTGxSVmYtMDVKYzBfUGM4akNJeE8zQkIwNmpDaFhzTWROcFdQRXpYUVNWQkE3YkNhTzdQWjFra2dRWEVWZWlwc2M1S0Z5MUQ5cmpObU02TzJnNDVfeWVhR0dzbDB0M3FMYV9JQ19WbnlESFJBYnJRaDA1VWpGWVk?oc=5"
+      }
+     ],
+     "title_orig": "Circle, Global Citizen partner on USDC payments"
+    },
+    {
+     "title": "Fingerabdruck startet Fraud Score zur Betrugserkennung",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFZBOUdheUZVRTNfSjFFZ2plQ09oRkstVmlRakV4X2NYR2xMcDNkaS1nQU1VMjRHY3BSOW9Rc2pxcm82V2s4Q2pwenNDeElLMTlnWExWMVFoZllJU0xUV251YjN6VDBzRWdlSUxEaTBidHpDQU5XZWltZU8tak1VZ21obFRjeEpLXy1HQ2g1cktjSW1xRUNtNnNNRXo3X0hNNWRVaFpyMlVtTFhZdWtlZmRpOA?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T08:15:08+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Fingerprint launches Fraud Score for fraud detection",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFZBOUdheUZVRTNfSjFFZ2plQ09oRkstVmlRakV4X2NYR2xMcDNkaS1nQU1VMjRHY3BSOW9Rc2pxcm82V2s4Q2pwenNDeElLMTlnWExWMVFoZllJU0xUV251YjN6VDBzRWdlSUxEaTBidHpDQU5XZWltZU8tak1VZ21obFRjeEpLXy1HQ2g1cktjSW1xRUNtNnNNRXo3X0hNNWRVaFpyMlVtTFhZdWtlZmRpOA?oc=5"
+      }
+     ],
+     "title_orig": "Fingerprint launches Fraud Score for fraud detection"
+    },
+    {
+     "title": "Das eingebettete Finanzunternehmen Synctera erhält eine Finanzierung in Höhe von 24,5 Mio. $",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHRiWW1lVWdHelp4LTNxRzBKR3B6dDJMb1lfZTZoa25QMjFndENFdndIcmNkbG5SLUpDWENDSVhJMW9YakFFMi1KaFhiWUdTTl80R2FBMnNqUV9xODdPVFZlWHhLNzZYcHJIVXZDem9uSHc3SC1ZZXRnNEhySVp4YjUtRjE5Z0hxNERhWUl1VQ?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T08:04:53+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Embedded finance firm Synctera lands $24.5m in funding",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHRiWW1lVWdHelp4LTNxRzBKR3B6dDJMb1lfZTZoa25QMjFndENFdndIcmNkbG5SLUpDWENDSVhJMW9YakFFMi1KaFhiWUdTTl80R2FBMnNqUV9xODdPVFZlWHhLNzZYcHJIVXZDem9uSHc3SC1ZZXRnNEhySVp4YjUtRjE5Z0hxNERhWUl1VQ?oc=5"
+      }
+     ],
+     "title_orig": "Embedded finance firm Synctera lands $24.5m in funding"
+    },
+    {
+     "title": "Yoco sichert sich eine Kreditfazilität in Höhe von 100 Mio. USD von Victory Park Capital",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNnB3VUZCZXNDNXRCcy04bkpYOHIwLVpxRGZHQWRtckRLOFVscVpMMVFvbndZeGpOazhfRmswc1FjX2NEdU8wenhobEE1bGY1RWVNRkhlVVZOQklobnNJR3k5SXRPQ3E1SUJkbzAtcjhBOVIwR1QySE9iMDVPVWtxUno4NDdiUlUwTnJnLUU0Q0JrNWJ1aVFaSVZtUG5NVWlnSU9mRg?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T07:59:22+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Yoco secures USD 100 mln credit facility from Victory Park Capital",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNnB3VUZCZXNDNXRCcy04bkpYOHIwLVpxRGZHQWRtckRLOFVscVpMMVFvbndZeGpOazhfRmswc1FjX2NEdU8wenhobEE1bGY1RWVNRkhlVVZOQklobnNJR3k5SXRPQ3E1SUJkbzAtcjhBOVIwR1QySE9iMDVPVWtxUno4NDdiUlUwTnJnLUU0Q0JrNWJ1aVFaSVZtUG5NVWlnSU9mRg?oc=5"
+      }
+     ],
+     "title_orig": "Yoco secures USD 100 mln credit facility from Victory Park Capital"
+    },
+    {
+     "title": "GeniosAI geht mit 19,1 Mio. $ an Startkapital und Series-A-Finanzierung aus dem Stealth-Bereich hervor",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRi1YdTNwTnVaMzZLeGU3b0xfTFFteVd5WUpHd2pwN3cyMlVCcmcxd2ZMWVJTQnVCb0VKemE0aHF6V1dGUW9TTmRnUHFRQkZ5LTBuWExySnI0WGIxSG83NEM1VUFGU0NXMXRaMzAtMTNZUTd3U3JJbjlOVjdIVF9VdmNCQWFSNU1TNy1yU0hWZTloV2Vub013?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-11T07:04:51+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "GeniosAI emerges from stealth with $19.1m in seed and Series A funding",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRi1YdTNwTnVaMzZLeGU3b0xfTFFteVd5WUpHd2pwN3cyMlVCcmcxd2ZMWVJTQnVCb0VKemE0aHF6V1dGUW9TTmRnUHFRQkZ5LTBuWExySnI0WGIxSG83NEM1VUFGU0NXMXRaMzAtMTNZUTd3U3JJbjlOVjdIVF9VdmNCQWFSNU1TNy1yU0hWZTloV2Vub013?oc=5"
+      }
+     ],
+     "title_orig": "GeniosAI emerges from stealth with $19.1m in seed and Series A funding"
+    },
+    {
      "title": "Video: BNY bei Money20/20 USA 2026",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWlFNLUFvcUtuUGlxTjlHc0gyTEVoazRRa1pCOWxxcHpwakQxUW1oVl9pWWdrT29EV0RaNjRmZFp4M0lMUWpuck9JMEdyMkhDTVhjRUIzMnJyc2hZelpTNW1Ia2hqQ3NQZmpjTmdlVFhWTkY3SHlZZnJBbnRWb2ZuczFBTEowMTFqa0Rmbng2eGJnRTUySDMyMjZ5cFB4R3N5QnZ2QkJfVFhmTEpzcWRubndubU5YamcxdFUxNzZn?oc=5",
      "image": "",
@@ -1417,114 +1554,29 @@
       }
      ],
      "title_orig": "Video: BNY at Money20/20 USA 2026"
-    },
-    {
-     "title": "MCP Insight führt ein aktualisiertes Tool zur Betrugsbekämpfung von MCP SHIELD EIN",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSjJoRTFpSFRMcGZrbXgxR0RJTDNVbTlMS3dLNzYzcWdlTDZmVVVpWjVCZWtNMmgzTlB2WnFEQVh1MnlfbWZSWlVBQWJ0dkJmZFhPZTlISTNHeGNUZ05HZzZhbTV3NzRZRTYtUTR0M1FzalNIOTZpZXVJSlNFdHNJZEZsYjNPWFBBNXdhQk1JZ3R6eHdIOXl2MWtoRkJFYWQ2YmozaXo4R2Q?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T18:05:47+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "MCP Insight launches updated MCP SHIELD anti-fraud tool",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSjJoRTFpSFRMcGZrbXgxR0RJTDNVbTlMS3dLNzYzcWdlTDZmVVVpWjVCZWtNMmgzTlB2WnFEQVh1MnlfbWZSWlVBQWJ0dkJmZFhPZTlISTNHeGNUZ05HZzZhbTV3NzRZRTYtUTR0M1FzalNIOTZpZXVJSlNFdHNJZEZsYjNPWFBBNXdhQk1JZ3R6eHdIOXl2MWtoRkJFYWQ2YmozaXo4R2Q?oc=5"
-      }
-     ],
-     "title_orig": "MCP Insight launches updated MCP SHIELD anti-fraud tool"
-    },
-    {
-     "title": "Guinea führt NimbaPay-Sofortzahlungen ein, die auf Mojaloop basieren",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlJ6ZGpacDRjUkR3UXZoOWdPeWszM3BOSzFvMVBNemZUWnhuMlc1Sy13Tms3UjN0ZXpqdFh1QzVmdnRKTlhBVVJpTmhBRGllM3J6MHVab09EYVVjaGFSOFp4TGtBN2pqVWpoWjRTaXMwNGxDTWxVaU9jZ05CZTJVakN4ZnhYeUxVVE55VXo3Vkd1TjU1VnRLR0oxRGhiNW9VekJV?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T18:05:47+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Guinea launches NimbaPay instant payments built on Mojaloop",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlJ6ZGpacDRjUkR3UXZoOWdPeWszM3BOSzFvMVBNemZUWnhuMlc1Sy13Tms3UjN0ZXpqdFh1QzVmdnRKTlhBVVJpTmhBRGllM3J6MHVab09EYVVjaGFSOFp4TGtBN2pqVWpoWjRTaXMwNGxDTWxVaU9jZ05CZTJVakN4ZnhYeUxVVE55VXo3Vkd1TjU1VnRLR0oxRGhiNW9VekJV?oc=5"
-      }
-     ],
-     "title_orig": "Guinea launches NimbaPay instant payments built on Mojaloop"
-    },
-    {
-     "title": "Ecommpay arbeitet mit Getnet für Bizum-Zahlungen in Spanien zusammen",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaE9ZRVpvcHhsSWh5X2VEejRWSzlGUlU0aHhjQks1RUdkSlVqUTJiWFk1N1BXWmx6OEtnU0FyR1BxUmNLTFpoWTJ2SkRXYmsySnAyMVhIZGdyaFo2SXZYRVcwSzlDaUZBbXNoUlQ2MXBUUDJmR0dpM1R4Qjc0QkxFeURkV2VSSFp3NHVIRTN5UWJmRUlRX29jNTZsa0phdWp3d0ZuNg?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T18:00:46+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Ecommpay partners with Getnet for Bizum payments in Spain",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaE9ZRVpvcHhsSWh5X2VEejRWSzlGUlU0aHhjQks1RUdkSlVqUTJiWFk1N1BXWmx6OEtnU0FyR1BxUmNLTFpoWTJ2SkRXYmsySnAyMVhIZGdyaFo2SXZYRVcwSzlDaUZBbXNoUlQ2MXBUUDJmR0dpM1R4Qjc0QkxFeURkV2VSSFp3NHVIRTN5UWJmRUlRX29jNTZsa0phdWp3d0ZuNg?oc=5"
-      }
-     ],
-     "title_orig": "Ecommpay partners with Getnet for Bizum payments in Spain"
-    },
-    {
-     "title": "Planky sichert sich 6,9 Mio. EUR, um KI-Kreditentscheidungen zu skalieren",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaEhnYnh4ZU1Sb0N0U0dxTC1aMzlYTWZKd09Fa0VWc0R1YW85VDZYOElybHItbjM2QXc3dVdidFNaX2dyQmxHY2ZXN1pmZElmU2FNbFJPZUF1eXJ1UGpJT1llcGFUai1CUGNxRVBDdDhoaWFQUWJPVTJxbnJiOEQ5Z09FOHBEc295YkxwVzhwSDFCNE9fVUE?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T17:35:35+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Planky secures EUR 6.9 mln to scale AI credit decisioning",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaEhnYnh4ZU1Sb0N0U0dxTC1aMzlYTWZKd09Fa0VWc0R1YW85VDZYOElybHItbjM2QXc3dVdidFNaX2dyQmxHY2ZXN1pmZElmU2FNbFJPZUF1eXJ1UGpJT1llcGFUai1CUGNxRVBDdDhoaWFQUWJPVTJxbnJiOEQ5Z09FOHBEc295YkxwVzhwSDFCNE9fVUE?oc=5"
-      }
-     ],
-     "title_orig": "Planky secures EUR 6.9 mln to scale AI credit decisioning"
-    },
-    {
-     "title": "AFS und Tabby bringen Raten an VAE-POS",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUw5QzdzZG9mb296OTZGZFVaNUdhckh5czdPakpWMWlrWDI1ZmZvSXlkalFLQkxTanlHSnE5TEVsd3VxMmVwRDVBbmY2VmZhWks0YVhsbGFOWG9keTFNQTlNNGZ5R0NTVmxxMmp5Zk9rQ0ZMUFhjWTRKM2tVcVhPSHNYTVdKTEN3a2RLQzZMTzQwNjNENlZVVWw0dXJBeXAtTktnag?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T17:25:33+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "AFS and Tabby bring instalments to UAE POS",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUw5QzdzZG9mb296OTZGZFVaNUdhckh5czdPakpWMWlrWDI1ZmZvSXlkalFLQkxTanlHSnE5TEVsd3VxMmVwRDVBbmY2VmZhWks0YVhsbGFOWG9keTFNQTlNNGZ5R0NTVmxxMmp5Zk9rQ0ZMUFhjWTRKM2tVcVhPSHNYTVdKTEN3a2RLQzZMTzQwNjNENlZVVWw0dXJBeXAtTktnag?oc=5"
-      }
-     ],
-     "title_orig": "AFS and Tabby bring instalments to UAE POS"
-    },
-    {
-     "title": "Qogita fügt Billie-Zahlungsbedingungen für B2B-Käufer hinzu",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTJQREhIS21qZGVMTUJJVW9IVGx3MGtVMmx0ODNpR2tiV2dyT3JVbEhQbWR3QjNVc25LQ3RPT01jZ2twbGtUejYyemU5VExualBHYWp5aVpJLW5uNHRhaFJJS2RKckx5WVcxVkdQVnl1QUdUbkJwMEFkazlaN3dXdnFUMFFPUVJFdFdQWA?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T17:25:33+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Qogita adds Billie payment terms for B2B buyers",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTJQREhIS21qZGVMTUJJVW9IVGx3MGtVMmx0ODNpR2tiV2dyT3JVbEhQbWR3QjNVc25LQ3RPT01jZ2twbGtUejYyemU5VExualBHYWp5aVpJLW5uNHRhaFJJS2RKckx5WVcxVkdQVnl1QUdUbkJwMEFkazlaN3dXdnFUMFFPUVJFdFdQWA?oc=5"
-      }
-     ],
-     "title_orig": "Qogita adds Billie payment terms for B2B buyers"
-    },
-    {
-     "title": "SEBESPAY tritt Swiss SRO VQF bei",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0U2VExJX0lJRnU0ZC1WLXNJdzdIYXJaTGo1dzAySTR5dElaUVA1Z0ZhQnRRVEJ5S0o0Z1VuM3hXUjRzMGZBaENmX0FvWEo1aXYzaHM2ZVV4WTV4YXRPc0lGREpVZnQ2TVlzVUxpMlQ2aXBKS092Y3gwc1FCdmNSM3Q0V0dyOWxtazNZa1RqYUxQQWs?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-10T16:35:17+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "SEBESPAY joins Swiss SRO VQF",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0U2VExJX0lJRnU0ZC1WLXNJdzdIYXJaTGo1dzAySTR5dElaUVA1Z0ZhQnRRVEJ5S0o0Z1VuM3hXUjRzMGZBaENmX0FvWEo1aXYzaHM2ZVV4WTV4YXRPc0lGREpVZnQ2TVlzVUxpMlQ2aXBKS092Y3gwc1FCdmNSM3Q0V0dyOWxtazNZa1RqYUxQQWs?oc=5"
-      }
-     ],
-     "title_orig": "SEBESPAY joins Swiss SRO VQF"
     }
    ],
    "7d": [
+    {
+     "title": "Wahda Bank wählt Backbase für digitales Banking",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVEl6cldXelc1RDRwSnU2QUx1MHF3TUVqVVFUck11alBiRzQwbVZOcjdmMGNtY25seGNONFZDOGFpRlJFeFJaRVE0clNwN3hybmxDajYxYjNkMkZEdDloZ2pMNWFfRG9zVHEwUm5hYk9DdEtaR0JCVmMwN3ZVd2tKaXowb2psWHRtYUNZREpNMUhTQzFZbXhZWTc1TlhjYWFYMzZv?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-11T09:28:46+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Wahda Bank picks Backbase for digital banking",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVEl6cldXelc1RDRwSnU2QUx1MHF3TUVqVVFUck11alBiRzQwbVZOcjdmMGNtY25seGNONFZDOGFpRlJFeFJaRVE0clNwN3hybmxDajYxYjNkMkZEdDloZ2pMNWFfRG9zVHEwUm5hYk9DdEtaR0JCVmMwN3ZVd2tKaXowb2psWHRtYUNZREpNMUhTQzFZbXhZWTc1TlhjYWFYMzZv?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Rhinebeck Bank names Jeff Nowicki chief digital banking officer",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd3hETV9MUUlucEpWR0l3aHdGbUprNWJRUWZ5cDJrYU5UR1VPZFI4VDlSQ21QZXhHZXFzWTU2NEw4dkFqMVNCRU1hVUFkT0FlLTVmUDJaaExfM29JQTdHZXBoZC01bm80QVNNc2x2bFdJQ0FQOVp6ZU5Hb0lvUkhIaFJwbkl0QVJLZVNDUmxnSVB3SHEzdkl0N2dnNG5nY1N6NkxaUWd2c0dXZ01LZHc4YjZ5eXlmejZHTzNR?oc=5"
+      }
+     ],
+     "title_orig": "Wahda Bank picks Backbase for digital banking"
+    },
     {
      "title": "Securitize verpflichtet sich, das Kreditinfrastrukturunternehmen River One zu erwerben",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2F1X1A4X1hCd1I5a3RGTHZaNzlBMDJocmNtQWp1YjAxcmdvU2pmS3o1ektTUHFIYTRMWHpCb0F1ZW5LdFVNY3pnU2xHTXpsTHRVNFhyaWZaVUdqNmZIcWpGOGlfWl80QUg5NXdqX20xVWF1YjA4T08tZWtJWTU1ckZWQzNxdnVYaWZyQnRfNmpJUXRqNGtsdHJnMkRuWHdWVzJHYzVSUWtfQlE3Ul9zTGlvSmNkTUo4UkVQY2ZvUExiNWZOQ3Z5QkJR?oc=5",
@@ -1584,26 +1636,6 @@
       }
      ],
      "title_orig": "Coinbase gets OCC approval for national trust charter"
-    },
-    {
-     "title": "Wahda Bank wählt Backbase für digitales Banking",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVEl6cldXelc1RDRwSnU2QUx1MHF3TUVqVVFUck11alBiRzQwbVZOcjdmMGNtY25seGNONFZDOGFpRlJFeFJaRVE0clNwN3hybmxDajYxYjNkMkZEdDloZ2pMNWFfRG9zVHEwUm5hYk9DdEtaR0JCVmMwN3ZVd2tKaXowb2psWHRtYUNZREpNMUhTQzFZbXhZWTc1TlhjYWFYMzZv?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-10T07:00:29+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Wahda Bank picks Backbase for digital banking",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVEl6cldXelc1RDRwSnU2QUx1MHF3TUVqVVFUck11alBiRzQwbVZOcjdmMGNtY25seGNONFZDOGFpRlJFeFJaRVE0clNwN3hybmxDajYxYjNkMkZEdDloZ2pMNWFfRG9zVHEwUm5hYk9DdEtaR0JCVmMwN3ZVd2tKaXowb2psWHRtYUNZREpNMUhTQzFZbXhZWTc1TlhjYWFYMzZv?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Backbase appoints two CTOs to lead digital and agentic banking",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmxCYWd2TW44RW45X0dvbUhCMWhuSk5hTFNWbUdQV0dWTjFGdFFJRVlSdUFDX3lNN1VKd2FHaHZLVHNBRkZuaG16NmdncF96V0dGaFp4ZVhvUnNqamF2bWJtVzEyb1NNRVp6Ml9rWE5SeUw2eW95UElNLW5TMWJPeV94SUYzM0RsUXZZSUFfRkhPYV9FVTRZMDEwaFNrQ3BEUi03amVRSTNDSFN2YmJDeUJ3?oc=5"
-      }
-     ],
-     "title_orig": "Wahda Bank picks Backbase for digital banking"
     },
     {
      "title": "Crédit Agricole schlägt Fusion von Banco BPM vor",
@@ -1753,31 +1785,6 @@
      "title_orig": "SoFi launches tokenised deposits"
     },
     {
-     "title": "EU und Kanada planen, Echtzeit-Zahlungssysteme zu verbinden",
-     "link": "https://www.finextra.com/newsarticle/48692/eu-and-canada-plan-to-link-real-time-payment-systems?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 3,
-     "time": "2026-11-04T10:59:16+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "EU and Canada plan to link real-time payment systems",
-       "link": "https://www.finextra.com/newsarticle/48692/eu-and-canada-plan-to-link-real-time-payment-systems?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "Real-time payments infrastructure and scheme evolution",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSS02ZmYwS3Vjc3hGWExsVEp5UVNobWFwSnB1eHdXeGZiT05RX3FYX0hPZzRNcGtCeG1ENnlyYnI0NTFFWHFuZXloR0pjYTFnOXVmc2xvbXFoa3VJQVVsMmZFcmJVWDdWOHhDcnpwVEI4UlVBa3hLamd6enRyMkwtbHktT1BXQ3hvWS1RZnZZWVlad0ZfN2YxNjNsazVGSnpo?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Canada and Europe to link real-time payment systems under new alliance",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGtmbEhzM0ZfUGVBOTdvZlZmdFFsM190V3RMMzF0X19wal9zakRSS29DbVVCRGRrTVdRVmFJbUhGVk1MV1BUUG52eUZqQkZIYjVRNk5KbjdsQXpPOVc3VGpiakY2eGlTYlQ0OUlzeXZkVDYwaEI0MW53ZmRtYXo5V1ZoTlc5VHhUVWRTVkxDMFd5ZHZQSmZHSVBZd3ByX180N3ZyNzY2OHppZ00?oc=5"
-      }
-     ],
-     "title_orig": "EU and Canada plan to link real-time payment systems"
-    },
-    {
      "title": "Tech Mahindra erwirbt die Cash-Management-Sparte von Finastra",
      "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1868,26 +1875,6 @@
      "title_orig": "Bank of Israel grants Revolut conditional banking licence"
     },
     {
-     "title": "Securitize verpflichtet sich, das Kreditinfrastrukturunternehmen River One zu erwerben",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2F1X1A4X1hCd1I5a3RGTHZaNzlBMDJocmNtQWp1YjAxcmdvU2pmS3o1ektTUHFIYTRMWHpCb0F1ZW5LdFVNY3pnU2xHTXpsTHRVNFhyaWZaVUdqNmZIcWpGOGlfWl80QUg5NXdqX20xVWF1YjA4T08tZWtJWTU1ckZWQzNxdnVYaWZyQnRfNmpJUXRqNGtsdHJnMkRuWHdWVzJHYzVSUWtfQlE3Ul9zTGlvSmNkTUo4UkVQY2ZvUExiNWZOQ3Z5QkJR?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-10T23:04:50+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Securitize agrees to acquire lending infrastructure firm River One",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2F1X1A4X1hCd1I5a3RGTHZaNzlBMDJocmNtQWp1YjAxcmdvU2pmS3o1ektTUHFIYTRMWHpCb0F1ZW5LdFVNY3pnU2xHTXpsTHRVNFhyaWZaVUdqNmZIcWpGOGlfWl80QUg5NXdqX20xVWF1YjA4T08tZWtJWTU1ckZWQzNxdnVYaWZyQnRfNmpJUXRqNGtsdHJnMkRuWHdWVzJHYzVSUWtfQlE3Ul9zTGlvSmNkTUo4UkVQY2ZvUExiNWZOQ3Z5QkJR?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Securitize to acquire warehouse financing start-up River One",
-       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsRGVhcG5ncFBVZTMzcHhhZnRSWHZYd0lnbkt6U3NWLWtQNHdJYlJRMWpjUC15RWR2MTVCVUVGVjZwOHpDejRlamZhODlQSnpkWUlLVF9SbGdQa1BSMnJ6bEZSWmUzNUxDd202NDRjcE9BUkRh?oc=5"
-      }
-     ],
-     "title_orig": "Securitize agrees to acquire lending infrastructure firm River One"
-    },
-    {
      "title": "Wie vergleichen sich US-amerikanische und britische Echtzeit-Zahlungsmodelle eigentlich?",
      "link": "https://www.finextra.com/videoarticle/3624/how-do-us-and-uk-real-time-payment-models-actually-compare?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1906,6 +1893,26 @@
       }
      ],
      "title_orig": "How Do US And UK Real-Time Payment Models Actually Compare?"
+    },
+    {
+     "title": "Securitize verpflichtet sich, das Kreditinfrastrukturunternehmen River One zu erwerben",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2F1X1A4X1hCd1I5a3RGTHZaNzlBMDJocmNtQWp1YjAxcmdvU2pmS3o1ektTUHFIYTRMWHpCb0F1ZW5LdFVNY3pnU2xHTXpsTHRVNFhyaWZaVUdqNmZIcWpGOGlfWl80QUg5NXdqX20xVWF1YjA4T08tZWtJWTU1ckZWQzNxdnVYaWZyQnRfNmpJUXRqNGtsdHJnMkRuWHdWVzJHYzVSUWtfQlE3Ul9zTGlvSmNkTUo4UkVQY2ZvUExiNWZOQ3Z5QkJR?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-10T23:04:50+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Securitize agrees to acquire lending infrastructure firm River One",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2F1X1A4X1hCd1I5a3RGTHZaNzlBMDJocmNtQWp1YjAxcmdvU2pmS3o1ektTUHFIYTRMWHpCb0F1ZW5LdFVNY3pnU2xHTXpsTHRVNFhyaWZaVUdqNmZIcWpGOGlfWl80QUg5NXdqX20xVWF1YjA4T08tZWtJWTU1ckZWQzNxdnVYaWZyQnRfNmpJUXRqNGtsdHJnMkRuWHdWVzJHYzVSUWtfQlE3Ul9zTGlvSmNkTUo4UkVQY2ZvUExiNWZOQ3Z5QkJR?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Securitize to acquire warehouse financing start-up River One",
+       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsRGVhcG5ncFBVZTMzcHhhZnRSWHZYd0lnbkt6U3NWLWtQNHdJYlJRMWpjUC15RWR2MTVCVUVGVjZwOHpDejRlamZhODlQSnpkWUlLVF9SbGdQa1BSMnJ6bEZSWmUzNUxDd202NDRjcE9BUkRh?oc=5"
+      }
+     ],
+     "title_orig": "Securitize agrees to acquire lending infrastructure firm River One"
     },
     {
      "title": "Morgan Stanley stimmt der Übernahme von Fintech Vinyl Equity zu",
@@ -1946,6 +1953,26 @@
       }
      ],
      "title_orig": "Banks move to limit agents' access to customer accounts"
+    },
+    {
+     "title": "Socure startet Agent Intelligence für KI-Agentenvertrauen",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSVB2ZVNYbjJUeDR5RFVhRGItaDQ4SC1Ddi1yWFhYUWhFRlIzV0IyOG15ZGg0ZVozRS1TYkNTZWgyNmN6UG9fblZrYnlwLUQ5cG9fcnhGY2RmQUxsMFpkMlBRZWVkRVJmclUyYWxnOWRuWWtuWldSTnlmODl2M0hFelM0LV93cFo3aGwtWnNQR2xKYlFYWW81VjMtOEVkU0sxSldVZ0RfaGxaeXY5ek9BZ2RDczZSMlVf?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-10T11:21:11+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Socure launches Agent Intelligence for AI agent trust",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSVB2ZVNYbjJUeDR5RFVhRGItaDQ4SC1Ddi1yWFhYUWhFRlIzV0IyOG15ZGg0ZVozRS1TYkNTZWgyNmN6UG9fblZrYnlwLUQ5cG9fcnhGY2RmQUxsMFpkMlBRZWVkRVJmclUyYWxnOWRuWWtuWldSTnlmODl2M0hFelM0LV93cFo3aGwtWnNQR2xKYlFYWW81VjMtOEVkU0sxSldVZ0RfaGxaeXY5ek9BZ2RDczZSMlVf?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Northern Trust expands collaboration with Microsoft, launches AI-powered client onboarding agent",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQREI4YzV1QmdBcWhYY2hNVUMySDREQTA1a1YyRTBfQi1DNERyb1dfV0lMV0RQRUN6YWRUaGFtMmFhaVp1b29OeTNXMS1NMW9pV2pLQkdRbXQySnJOQzZqUW04S0tjZkIzaENQbDZJNVZFX05MWDJhMGIyWkYwbUU4WjFxSHlUV0hMejFZbHpyWDlGTXRVMWVxdGZncVRKazdGYkJfQW9INlZTRERQS2F6WDV2ZHZ6a0VJanc?oc=5"
+      }
+     ],
+     "title_orig": "Socure launches Agent Intelligence for AI agent trust"
     }
    ]
   },
@@ -1992,6 +2019,51 @@
      "title_orig": "Sage partners with Adyen and Mastercard to deliver business accounts with debit cards for small busi"
     },
     {
+     "title": "Einzelhändler sehen sich einem Ausgabendruck gegenüber, der über den Kampf gegen Haushalte hinausgeht",
+     "link": "https://www.pymnts.com/consumer-insights/2026/retailers-face-a-spending-squeeze-beyond-struggling-households/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/SB3-spending-squeeze-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-11-11T09:01:18+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Retailers Face a Spending Squeeze Beyond Struggling Households",
+       "link": "https://www.pymnts.com/consumer-insights/2026/retailers-face-a-spending-squeeze-beyond-struggling-households/"
+      }
+     ],
+     "title_orig": "Retailers Face a Spending Squeeze Beyond Struggling Households"
+    },
+    {
+     "title": "52 % der CFOs priorisieren eine klarere Sicht auf den Cashflow",
+     "link": "https://www.pymnts.com/back-office/cfo/2026/52percent-chief-financial-officers-prioritize-clearer-view-cash-flow/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Cash-Flow-Forecasting-Tests-Growing-Firms.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-11-11T09:00:25+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "52% of CFOs Prioritize a Clearer View of Cash Flow",
+       "link": "https://www.pymnts.com/back-office/cfo/2026/52percent-chief-financial-officers-prioritize-clearer-view-cash-flow/"
+      }
+     ],
+     "title_orig": "52% of CFOs Prioritize a Clearer View of Cash Flow"
+    },
+    {
+     "title": "Bottomline sieht Expertise, die KI-Potenzial in Kundennutzen umwandelt",
+     "link": "https://www.pymnts.com/opinion/2026/bottomline-sees-expertise-turning-ai-potential-into-customer-value/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/2026-Q3-eBook-Bottomline.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-11-11T09:00:22+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Bottomline Sees Expertise Turning AI Potential Into Customer Value",
+       "link": "https://www.pymnts.com/opinion/2026/bottomline-sees-expertise-turning-ai-potential-into-customer-value/"
+      }
+     ],
+     "title_orig": "Bottomline Sees Expertise Turning AI Potential Into Customer Value"
+    },
+    {
      "title": "Kartennetzwerke verwenden B2B-Zahlungen, um die Regeln für Agentic Commerce zu schreiben",
      "link": "https://www.pymnts.com/news/b2b-payments/2026/card-networks-use-b2b-payments-to-write-the-rules-for-agentic-commerce/",
      "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Agentic-Commerce-rules-1.jpg?w=457",
@@ -2020,21 +2092,6 @@
       }
      ],
      "title_orig": "OpenAI Gives Businesses New Tools to Reach ChatGPT Users"
-    },
-    {
-     "title": "Fed-Daten zeigen, dass die Verschuldung der privaten Haushalte 19,1 Billionen $ erreicht, da die Rechnungszahler das Vertrauen verlieren",
-     "link": "https://www.pymnts.com/consumer-finance/2026/fed-data-shows-household-debt-hits-19-1-trillion-as-bill-payers-lose-confidence/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Fed-data-household-debt-1.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-11-10T23:14:54+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Fed Data Shows Household Debt Hits $19.1 Trillion as Bill Payers Lose Confidence",
-       "link": "https://www.pymnts.com/consumer-finance/2026/fed-data-shows-household-debt-hits-19-1-trillion-as-bill-payers-lose-confidence/"
-      }
-     ],
-     "title_orig": "Fed Data Shows Household Debt Hits $19.1 Trillion as Bill Payers Lose Confidence"
     },
     {
      "title": "Oura kauft AI Firm Counsel Health im Rahmen eines 625-Millionen $ -Deals",
@@ -2080,36 +2137,6 @@
       }
      ],
      "title_orig": "Goldman and Citi Help Fund $270 Million Stablecoin Venture"
-    },
-    {
-     "title": "Die Anteile von Online-Reisebüros sinken nach der OpenAI-Akquisition des Reise-Startups Odessia",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/online-travel-agencies-shares-drop-following-openai-acquisition-of-travel-startup-odessia/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/02/Agentic-AI-travel-1.jpg?w=457",
-     "n_sources": 1,
-     "time": "2026-11-10T23:29:31+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Online Travel Agencies’ Shares Drop Following OpenAI Acquisition of Travel Startup Odessia",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/online-travel-agencies-shares-drop-following-openai-acquisition-of-travel-startup-odessia/"
-      }
-     ],
-     "title_orig": "Online Travel Agencies’ Shares Drop Following OpenAI Acquisition of Travel Startup Odessia"
-    },
-    {
-     "title": "Mercor sammelt 750 Millionen $ für KI-Schulungsplattform",
-     "link": "https://www.pymnts.com/news/investment-tracker/2026/mercor-raises-750-million-for-ai-training-platform/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/07/AI-investments-enterprise.jpeg?w=457",
-     "n_sources": 1,
-     "time": "2026-11-10T22:04:18+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Mercor Raises $750 Million for AI Training Platform",
-       "link": "https://www.pymnts.com/news/investment-tracker/2026/mercor-raises-750-million-for-ai-training-platform/"
-      }
-     ],
-     "title_orig": "Mercor Raises $750 Million for AI Training Platform"
     }
    ],
    "7d": [
@@ -2316,31 +2343,6 @@
    ],
    "30d": [
     {
-     "title": "Agenten-KI: Wer hat wirklich die Kontrolle?",
-     "link": "https://www.finextra.com/blogposting/33274/agentic-ai-who-is-really-in-control?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/SB1-Need-to-Know-Sinclai-Toffa.png?w=457&quality=82",
-     "n_sources": 3,
-     "time": "2026-11-03T09:03:22+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Agentic AI: Who Is Really in Control?",
-       "link": "https://www.finextra.com/blogposting/33274/agentic-ai-who-is-really-in-control?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "Payments Dive",
-       "title": "Settling cross-border payments remains tough",
-       "link": "https://www.paymentsdive.com/news/settling-cross-border-payments-remains-tough/872997/"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "AI Agents Could Control 5% of Cross-Border Payments. Who Controls Them?",
-       "link": "https://www.pymnts.com/news/payments-innovation/2026/ai-agents-could-control-5percent-of-cross-border-payments-who-controls-them/"
-      }
-     ],
-     "title_orig": "Agentic AI: Who Is Really in Control?"
-    },
-    {
      "title": "Revolut erreicht Bewertung von 115 Mrd. $",
      "link": "https://www.finextra.com/newsarticle/48703/revolut-hits-115bn-valuation?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "https://www.pymnts.com/wp-content/uploads/2026/03/OpenAI-funding-1.jpg?w=457",
@@ -2399,26 +2401,6 @@
       }
      ],
      "title_orig": "Stripe and HSBC drive contactless payments for UK small businesses"
-    },
-    {
-     "title": "PNC startet Stablecoin-Zahlungen für Firmenkunden",
-     "link": "https://www.finextra.com/newsarticle/48728/pnc-launches-stablecoin-payments-for-corporate-clients?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2024/11/PNC-Bank.jpg?w=457",
-     "n_sources": 2,
-     "time": "2026-11-10T00:01:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "PNC launches stablecoin payments for corporate clients",
-       "link": "https://www.finextra.com/newsarticle/48728/pnc-launches-stablecoin-payments-for-corporate-clients?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "PNC Opens USDC Stablecoin Payments to Corporate Clients",
-       "link": "https://www.pymnts.com/news/banking/2026/pnc-opens-usdc-stablecoin-payments-to-corporate-clients/"
-      }
-     ],
-     "title_orig": "PNC launches stablecoin payments for corporate clients"
     },
     {
      "title": "Kanadas Echtzeit-Zahlungssystem startet",
@@ -2519,6 +2501,46 @@
       }
      ],
      "title_orig": "Venmo launches receipt scanning feature for bill splitting"
+    },
+    {
+     "title": "Global Payments erweitert die Plattform für adaptive Authentifizierung mit Visa",
+     "link": "https://www.finextra.com/pressarticle/111636/global-payments-expands-adaptive-authentication-platform-with-visa?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Global-Payments-Visa-1.jpg?w=457",
+     "n_sources": 2,
+     "time": "2026-11-10T14:15:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Global Payments expands Adaptive Authentication platform with Visa",
+       "link": "https://www.finextra.com/pressarticle/111636/global-payments-expands-adaptive-authentication-platform-with-visa?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Global Payments Expands Authentication Platform With Visa Data-Sharing Tool",
+       "link": "https://www.pymnts.com/authentication/2026/global-payments-expands-authentication-platform-with-visa-data-sharing-tool/"
+      }
+     ],
+     "title_orig": "Global Payments expands Adaptive Authentication platform with Visa"
+    },
+    {
+     "title": "Bottomline bringt USDC Stablecoin-Zahlungen auf die Plattform",
+     "link": "https://www.finextra.com/pressarticle/111632/bottomline-brings-usdc-stablecoin-payments-into-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2025/11/Ripple-Labs.jpg?w=457",
+     "n_sources": 2,
+     "time": "2026-11-10T13:32:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Bottomline brings USDC stablecoin payments into platform",
+       "link": "https://www.finextra.com/pressarticle/111632/bottomline-brings-usdc-stablecoin-payments-into-platform?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Ripple Brings Its Stablecoin to Coinbase’s Trading Platforms",
+       "link": "https://www.pymnts.com/cryptocurrency/2026/ripple-brings-its-stablecoin-to-coinbases-trading-platforms/"
+      }
+     ],
+     "title_orig": "Bottomline brings USDC stablecoin payments into platform"
     }
    ]
   }
@@ -2530,54 +2552,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "richard steinkamp",
-      "link": "https://www.swp.de/unterhaltung/tv/alles-was-zaehlt-seifenoper-schock-in-awz-folge-5075-bei-rtl-simone-vergisst-richard-beim-bestatter-79682139.html",
-      "meta": "200+ Suchanfragen"
+      "title": "wdr",
+      "link": "https://www.tvdigital.de/tv-programm/lokalzeit/bid_205242500/",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "gregor kobel",
-      "link": "https://www.fussballtransfers.com/a3182724285011996485-topklub-dran-kobel-hammer-beim-bvb",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "wow forever patch notes",
-      "link": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-10-2026",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "folge 5072",
-      "link": "https://www.hoerzu.de/tv-programm/alles-was-zaehlt-nur-weg-von-hier/bid_205445694/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "cole hauser",
-      "link": "https://deadline.com/2026/11/cole-hauser-sets-pale-horse-thriller-constantin-film-1237216792/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "erftstadt",
-      "link": "https://polizei.nrw/fahndung/221081",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "aaron danks",
-      "link": "https://www.n-tv.de/sport/der_sport_tag/DFB-Team-bereitet-sich-auf-Serbien-Kracher-vor-Der-Sport-Tag-auf-ntv-de-am-Mittwoch-den-11-November-2026-id31519460.html",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "grizzlybär",
-      "link": "https://www.n-tv.de/panorama/Grizzlybaeren-toeten-Mutter-und-Tochter-in-Kanada-id31519633.html",
+      "title": "logo",
+      "link": "https://www.freep.com/story/sports/pwhl/2026/11/10/pwhl-detroit-clutch-team-name-logo/91578865007/",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "kreatin",
-      "link": "https://web.de/magazine/gesundheit/mogelpackungen-tv-aerztin-warnt-longevity-produkten-42905524",
+      "title": "tickets schalke",
+      "link": "https://www1.wdr.de/sport/schalke/fans-zelten-fuer-karten100.html",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "akademiker",
-      "link": "https://www.spiegel.de/karriere/arbeitsmarkt-zahl-arbeitsloser-akademiker-erreicht-neuen-hoechststand-a-4f9b3f55-f7d7-45c5-bc71-1bffd362d903",
+      "title": "sangerhausen",
+      "link": "https://www.mdr.de/nachrichten/sachsen-anhalt/halle/mansfeld/motorrad-frau-hund,sangerhausen-motocrossmaschine-unfall-100.html",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "karneval 2026",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-kreative-kostueme-in-bonn-die-besten-last-minute-ideen-fuer-karneval-100.html",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "lisa müller",
+      "link": "https://www.t-online.de/unterhaltung/stars/id_101522894/thomas-mueller-ex-bayern-star-zeigt-erstes-foto-mit-neuer-freundin.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "remmo-clan",
+      "link": "https://www.morgenpost.de/berlin/article413637292/remmo-clan-streit-um-77-eingezogene-immobilien-koennte-nach-neun-jahren-enden.html",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "tim steidten",
+      "link": "https://www.transfermarkt.de/sportchef-suche-bei-hannover-96-lederer-top-kandidat-kind-bindet-wagner-vollkommen-quot-ein/view/news/490411",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "liebeshoroskop",
+      "link": "https://www.ndr.de/ndr1niedersachsen/service/ihr-tageshoroskop-heute-fuer-mittwoch-11-november-2026-alle-sternzeichen,horoskop104.html",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "helene fischer tonie",
+      "link": "https://stadt-bremerhaven.de/rueckruf-bei-tonies/",
+      "meta": "500+ Suchanfragen"
      }
     ]
    },
@@ -2644,30 +2666,30 @@
     "lang": "fr",
     "items": [
      {
-      "title": "Baustelle",
-      "link": "https://www.ledauphine.com/faits-divers-justice/2026/11/10/accident-mortel-sur-le-chantier-du-futur-centre-d-exploitation-des-bus-de-chambery",
+      "title": "Elektrofahrzeug",
+      "link": "https://www.autojournal.fr/environnement/voitures-electriques/personne-ne-vous-le-dit-mais-les-voitures-electriques-sont-desormais-un-vrai-probleme-pour-les-garages-et-une-benediction-pour-les-conducteurs-426111.html",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "véhicule électrique"
+     },
+     {
+      "title": "marine le pen",
+      "link": "https://www.midilibre.fr/2026/11/10/sondage-presidentielle-2027-le-pen-melenchon-philippe-glucksmann-lisnard-qui-monte-et-qui-baisse-la-courbe-qui-resume-la-dynamique-des-candidats-13643708.php",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "emmanuel macron",
+      "link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Fuchs",
+      "link": "https://www.ledauphine.com/societe/2026/11/10/renard-au-comportement-agressif-a-ruoms-l-animal-sera-epargne",
       "meta": "200+ Suchanfragen",
-      "title_orig": "chantier"
+      "title_orig": "renard"
      },
      {
-      "title": "koh-lanta 2026",
-      "link": "https://www.tf1.fr/tf1/koh-lanta/videos/koh-lanta-all-stars-emission-12-partie-1-93686862.html",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "evaluation - star academy",
-      "link": "https://www.tf1.fr/tf1/star-academy/videos/star-academy-2026-levaluation-de-lequipe-jaune-sur-encore-un-matin-de-jean-jacques-goldman-59124357.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "évaluation - star academy"
-     },
-     {
-      "title": "tatjana smith",
-      "link": "https://www.france24.com/en/live-news/20261110-south-africa-olympic-gold-medallist-smith-to-swim-for-netherlands",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "cj egan-riley",
-      "link": "https://sports.orange.fr/videos/football/marseille-egan-riley-nous-allons-beaucoup-mieux-mais-nous-devons-garder-la-tete-froide-CNT000002tD070.html",
+      "title": "meteo voiron",
+      "link": "https://www.ouest-france.fr/meteo/auvergne-rhone-alpes/voiron-38500/la-meteo-du-jour-a-voiron-64c72ed1-c22c-4094-9e79-8545ec510220",
       "meta": "100+ Suchanfragen"
      }
     ]
@@ -2677,32 +2699,34 @@
     "lang": "it",
     "items": [
      {
-      "title": "Stahl",
-      "link": "https://www.corriere.it/economia/aziende/26_novembre_10/caro-energia-le-acciaierie-italiane-fermano-la-produzione-federacciai-costi-insostenibili-9f22aee2-3ce3-438a-9c69-592cd0ed6xlk.shtml",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "acciaio"
+      "title": "Sicherheitsalarm ausgelöst",
+      "link": "https://www.bergamonews.it/2026/11/11/allarme-bomba-al-natta-studenti-evacuati-polizia-sul-posto/936290/",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "allarme bomba"
      },
      {
-      "title": "Verurteilung",
-      "link": "https://www.ilfattoquotidiano.it/2026/11/10/eternit-bis-cassazione-schmidheiny-condanna-notizie/8567476/",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "condanna"
+      "title": "Sicherheitsalarm ausgelöst",
+      "link": "https://roma.corriere.it/notizie/cronaca/26_novembre_10/hacker-gli-asset-strategici-a-rischio-attacco-1a2c7820-448c-4bfe-afbd-9b17ca164xlk.shtml",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "allarme bomba oggi"
      },
      {
-      "title": "albastar",
-      "link": "https://www.thestreet.com/travel/another-holiday-airline-cancels-all-flights-eyes-bankruptcy",
-      "meta": "100+ Suchanfragen"
+      "title": "medikament",
+      "link": "https://corrieredelveneto.corriere.it/notizie/padova/cronaca/26_novembre_11/tumore-al-pancreas-l-ultimo-appello-di-giovanni-baraldi-per-il-farmaco-non-ancora-approvato-dall-aifa-raddoppia-la-sopravvivenza-fcb1a986-ecb5-4bc1-82f3-bc3610a62xlk.shtml",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "farmaco"
      },
      {
-      "title": "penelope Cruz",
-      "link": "https://www.vanityfair.it/article/penelope-cruz-javier-bardem-trasloco-da-los-angeles-a-madrid-figli",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "penélope cruz"
+      "title": "andrea reichlich",
+      "link": "https://www.formulapassion.it/motogp/motogp-news/dovizioso-di-giannantonio-fra-marquez-spavaldo-non-se-lo-puo-permettere-vr46-contatto-bezzecchi",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "andrea dovizioso"
      },
      {
-      "title": "stacy keach",
-      "link": "https://www.cnn.com/2026/11/10/entertainment/stacy-keach-death",
-      "meta": "100+ Suchanfragen"
+      "title": "einmalige Scheckzahlung November 2026",
+      "link": "https://www.confcommercio.it/-/assegno-unico-pagamenti-novembre-2026",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "pagamento assegno unico novembre 2026"
      }
     ]
    },
@@ -2711,29 +2735,31 @@
     "lang": "es",
     "items": [
      {
-      "title": "carlos espí",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/11/11/carlos-espi-confiesa-habia-opciones-premier-describe-realidad-madrid.html",
+      "title": "isabel peralta",
+      "link": "https://elpais.com/espana/2026-11-11/nucleo-nacional-planeo-atacar-mezquitas-y-sinagogas-hay-que-empezar-con-las-incineraciones.html",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "navantia",
+      "link": "https://www.infodefensa.com/texto-diario/mostrar/6086767/gobierno-aprueba-10400-millones-nuevos-pem-modernizacion-s-80-taurus-neo-sistemas-antidron-misil-nsm-submarinos",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "stacy keach",
-      "link": "https://www.cnn.com/2026/11/10/entertainment/stacy-keach-death",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "nicole kidman",
-      "link": "https://playbill.com/article/off-broadways-a-kidman-carol-will-host-cate-blanchett-and-nicole-kidman-look-alike-contest",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "ios 27.2 1",
-      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "weer",
-      "link": "https://www.ad.nl/apeldoorn/met-of-zonder-paraplu-snoepjes-ophalen-dit-is-het-weerbericht-voor-sint-maarten~a788bd5f/",
+      "title": "murcia",
+      "link": "https://www.laopiniondemurcia.es/comunidad/2026/11/10/ultima-hora-huelga-general-11n-136283973.html",
       "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "nierga Edelstein",
+      "link": "https://www.rtve.es/noticias/20261111/huelga-general-espana-11n-directo-hoy-video-cronica/17308588.shtml",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "gemma nierga"
+     },
+     {
+      "title": "generalstreik Zaragoza",
+      "link": "https://www.elperiodicodearagon.com/aragon/2026/11/11/comienza-huelga-general-aragon-directo-dv-136297677.html",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "huelga general zaragoza"
      }
     ]
    },
@@ -2742,32 +2768,33 @@
     "lang": "en",
     "items": [
      {
-      "title": "Die Bank of England (Bank von England)",
-      "link": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+      "title": "indien vs Malediven",
+      "link": "https://sportstar.thehindu.com/football/indian-football/india-vs-maldives-live-streaming-info-where-to-watch-saff-championship-2026-telecast-tv-channel-details/article71688447.ece",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "india vs maldives"
+     },
+     {
+      "title": "Staatsbürgerschaft",
+      "link": "https://www.einpresswire.com/article/955985778/beyond-the-passport-ranking-five-questions-for-choosing-citizenship-by-investment-in-the-caribbean",
       "meta": "200+ Suchanfragen",
-      "title_orig": "bank of england"
+      "title_orig": "citizenship"
      },
      {
-      "title": "kendall jenner",
-      "link": "https://www.vogue.com/article/jacob-elordi-goes-blonde",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "sturm charles",
-      "link": "https://www.euronews.com/2026/11/09/storm-charles-to-hit-portugal-and-spain-with-torrential-rain-and-120-kmh-winds",
+      "title": "welt-Rugby",
+      "link": "https://www.theguardian.com/sport/2026/nov/10/six-nations-sanzaar-face-new-battle-with-world-rugby-bid-scrap-relegation",
       "meta": "100+ Suchanfragen",
-      "title_orig": "storm charles"
+      "title_orig": "world rugby"
      },
      {
-      "title": "żołnierz",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-zolnierz-usa-zatrzymany-w-wielkiej-brytanii-mial-szpiegowac,nId,23572073",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "birmingham Wetter",
-      "link": "https://www.blackcountryradio.co.uk/news/ldrs-stories/city-must-get-used-to-more-extreme-weather/",
+      "title": "der körper netflix",
+      "link": "https://variety.com/2026/tv/reviews/the-body-review-netflix-1236943535/",
       "meta": "100+ Suchanfragen",
-      "title_orig": "birmingham weather"
+      "title_orig": "the body netflix"
+     },
+     {
+      "title": "sarah payne",
+      "link": "https://www.bbc.co.uk/news/articles/cq78p3mlv9rjo",
+      "meta": "2000+ Suchanfragen"
      }
     ]
    },
@@ -2776,66 +2803,39 @@
     "lang": "pl",
     "items": [
      {
-      "title": "lamine diaby-fadiga",
-      "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/rakow-przekazal-zle-wiesci-gwiazdor-nie-jedzie-na-zgrupowanie-reprezentacji/1p6b3wp",
-      "meta": "100+ Suchanfragen"
+      "title": "Autobahn",
+      "link": "https://www.messinatoday.it/cronaca/chiusura-svincolo-tremestieri-percorso-alternativo-autostrada.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "autostrada"
      },
      {
-      "title": "fiat",
-      "link": "https://finance.yahoo.com/markets/stocks/article/fiats-tiny-topolino-is-a-15k-microcar-thats-tapping-into-americas-golf-cart-boom-162703060.html",
-      "meta": "100+ Suchanfragen"
+      "title": "helios kino",
+      "link": "https://www.lubin.pl/wez-udzial-w-konkursie-wygraj-bilet-do-kina/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "kino helios"
      },
      {
-      "title": "украВна",
-      "link": "https://www.vedomosti.ru/politics/articles/2026/11/11/1244255-v-chem-rossiya-ssha-ukraina-rashodyatsya",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "україна"
+      "title": "paramount skydance",
+      "link": "https://www.cnn.com/2026/11/09/media/skydance-hbo-max-paramount-plus-bundle",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "Skilaufen",
-      "link": "https://sportowefakty.wp.pl/zimowe/1283590/to-juz-dziewiata-operacja-mistrzyni-modle-sie",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "narciarstwo"
+      "title": "49",
+      "link": "https://cnevpost.com/2026/11/11/nio-es9-40000-deliveries/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "+49"
      },
      {
-      "title": "trail-Blazer – Donner",
-      "link": "https://www.blazersedge.com/gameday-coverage/118234/portland-trail-blazers-oklahoma-city-thunder-final-score-boxscore-stats-damian-lilard-shai-gilgeous-alexander",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "trail blazers – thunder"
+      "title": "weil, gotshal & manges",
+      "link": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
    {
     "name": "Wikipedia: meistgelesen (Französisch)",
     "lang": "fr",
-    "items": [
-     {
-      "title": "Teddy Riner",
-      "link": "https://fr.wikipedia.org/wiki/Teddy_Riner",
-      "meta": "89.958 Aufrufe am 10.11."
-     },
-     {
-      "title": "Liste der Umfragen zur französischen Präsidentschaftswahl 2027",
-      "link": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-      "meta": "40.454 Aufrufe am 10.11.",
-      "title_orig": "Liste de sondages sur l'élection présidentielle française de 2027"
-     },
-     {
-      "title": "Stéphane Metzger",
-      "link": "https://fr.wikipedia.org/wiki/St%C3%A9phane_Metzger",
-      "meta": "25.479 Aufrufe am 10.11."
-     },
-     {
-      "title": "Charlie Dalin",
-      "link": "https://fr.wikipedia.org/wiki/Charlie_Dalin",
-      "meta": "23.848 Aufrufe am 10.11."
-     },
-     {
-      "title": "Sarah Knafo",
-      "link": "https://fr.wikipedia.org/wiki/Sarah_Knafo",
-      "meta": "21.923 Aufrufe am 10.11."
-     }
-    ]
+    "items": []
    },
    {
     "name": "Wikipedia: meistgelesen (Italienisch)",
@@ -2878,29 +2878,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "portos",
-      "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/11/10/porto-de-santos-confirma-ataque-cibernetico-nos-sistemas-mas-nao-sabe-se-dados-foram-acessados.ghtml",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "star Wars Originaltrilogie",
-      "link": "https://collider.com/star-wars-original-trilogy-new-audiobooks-2027-release-date/",
+      "title": "saints-Tiefendiagramm",
+      "link": "https://www.panthers.com/news/panthers-release-depth-chart-ahead-of-week-10-of-the-2026-season",
       "meta": "100+ Suchanfragen",
-      "title_orig": "star wars original trilogy"
+      "title_orig": "saints depth chart"
      },
      {
-      "title": "jonbenet ramsey",
-      "link": "https://www.dailycamera.com/2026/11/10/boulder-da-jonbenet-ramsey-case/",
-      "meta": "500+ Suchanfragen"
+      "title": "Wann ist Black Friday?",
+      "link": "https://www.nytimes.com/wirecutter/money/best-early-black-friday-deals-2026/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "when is black friday 2026"
      },
      {
-      "title": "hltv",
-      "link": "https://community.skin.club/en/news/hltv-adds-economy-and-round-based-filters-to-cs2-statistics",
-      "meta": "200+ Suchanfragen"
+      "title": "Nebenwirkung",
+      "link": "https://www.foxbusiness.com/healthcare/fda-orders-new-warning-labels-ozempic-wegovy-over-rare-risk-permanent-vision-loss",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "side effect"
      },
      {
-      "title": "aldo de nigris",
-      "link": "https://www.lavozarizona.com/story/entretenimiento/2026/11/10/poncho-denigris-explota-por-baile-sexy-a-su-mam-en-la-mansin-vip/92705474007/",
+      "title": "new york times",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
+      "meta": "2000+ Suchanfragen"
+     },
+     {
+      "title": "mauricio pochettino",
+      "link": "https://www.nytimes.com/athletic/7767421/2026/11/11/mauricio-pochettino-manchester-united-manager-usmnt/",
       "meta": "200+ Suchanfragen"
      }
     ]
@@ -2910,31 +2912,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "2: 1",
-      "link": "https://www.indiatv.in/paisa/business/mother-dairy-milk-prices-increased-by-2-to-4-per-litre-to-be-effective-from-thursday-2026-11-11-1253819",
+      "title": "1: 2:2: 2:",
+      "link": "https://telugu.news18.com/photogallery/movies/prabhas-brother-prabhodh-do-you-know-about-him-here-his-asset-details-slb-3263930.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "मदर डेयरी"
+      "title_orig": "ప్రభాస్"
      },
      {
-      "title": "priya bhavani shankar",
-      "link": "https://www.eenadu.net/telugu-news/movies/priya-bhavani-shankar-tied-the-knot-with-her-longtime-boyfriend-raj-velu/0201/126204878",
-      "meta": "200+ Suchanfragen"
+      "title": "kulgam",
+      "link": "https://www.ndtv.com/india-news/security-personnel-injured-in-terror-attack-on-j-k-crpf-camp-in-kulgam-12312049",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "iPL-Auktion 2027",
-      "link": "https://www.iplt20.com/news/article/csk-and-srh-agree-to-four-player-trade",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "ipl auction 2027"
+      "title": "tV-Show",
+      "link": "https://thesource.com/2026/11/08/marco-robinson-and-rob-fitzpatrick-announce-fully-funded-tv-series-how-to-build-a-billion-dollar-brand-following-12-international-film-awards/?utm_source=rss&utm_medium=rss&utm_campaign=marco-robinson-and-rob-fitzpatrick-announce-fully-funded-tv-series-how-to-build-a-billion-dollar-brand-following-12-international-film-awards",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "television show"
      },
      {
-      "title": "1: 1:1",
-      "link": "https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/raj-bhavan-anna-university-8-lane-road-to-be-completed-in-2-months-highways-department/4372719",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "சாலை"
+      "title": "",
+      "link": "https://www.vtvgujarati.com/news-details/bhai-beej-changes-in-gold-prices---gujarati-samachar",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "કેરેટ"
      },
      {
-      "title": "ibm",
-      "link": "https://www.reuters.com/technology/ibm-end-visa-green-card-sponsorship-most-roles-its-consulting-arm-2026-11-10/",
+      "title": "sania mirza",
+      "link": "https://gulfnews.com/sport/sania-mirza-confirms-relationship-status-clears-speculation-about-her-personal-life-1.500743316",
       "meta": "200+ Suchanfragen"
      }
     ]
@@ -2944,32 +2946,30 @@
     "lang": "pt",
     "items": [
      {
-      "title": "betriebsvermessung 18",
-      "link": "https://noticiasdatv.uol.com.br/noticia/a-fazenda/enquete-a-fazenda-18-daniel-fran-murilo-e-tina-estao-na-roca-vote-159289",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "enquete fazenda 18"
-     },
-     {
-      "title": "o",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/em-2026-passa-de-8-mil-o-numero-de-empresas-que-estao-em-recuperacao-judicial-no-brasil.ghtml",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "g",
-      "link": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/11/10/fluminense-divulga-informacoes-de-ingressos-para-ultimas-rodadas-do-brasileirao.ghtml",
+      "title": "daniel rocha",
+      "link": "https://revistaquem.globo.com/entrevistas/noticia/2026/11/no-ceara-daniel-rocha-fala-sobre-expectativa-para-avenida-brasil-2-e-como-imagina-roni-hoje-em-dia.ghtml",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "globaler Stromausfall",
-      "link": "https://oglobo.globo.com/economia/noticia/2026/11/09/apagao-mundial-em-17-de-novembro-entenda-a-origem-do-boato.ghtml",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "apagão mundial"
+      "title": "john john florence",
+      "link": "https://www.espn.com/olympics/story/_/id/50433972/surfing-star-john-florence-olympics-decision",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Tennis",
-      "link": "https://elpais.com/deportes/tenis/2026-11-09/alcaraz-y-el-techo-una-relacion-que-empieza-a-fructificar-he-conseguido-ser-yo-mismo.html",
+      "title": "tom hanks",
+      "link": "https://www.omelete.com.br/filmes/mensagem-para-voce-remake-jason-orley",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "Fernsehgerät",
+      "link": "https://www.al.com/shopping/2026/11/samsungs-viral-the-frame-55-inch-smart-tv-is-300-off-at-target.html",
       "meta": "100+ Suchanfragen",
-      "title_orig": "tenis"
+      "title_orig": "tv"
+     },
+     {
+      "title": "tiempo",
+      "link": "https://trends.google.com/trends/explore?geo=BR&q=tiempo",
+      "meta": "1000+ Suchanfragen"
      }
     ]
    },
@@ -2978,32 +2978,34 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Vietnam",
-      "link": "https://www.sankei.com/article/20261111-GNNZJIGYSVLNNCEQ2MZWAIMDSU/",
+      "title": "Korakuten Ota",
+      "link": "https://news.yahoo.co.jp/articles/b23a187d4be08786dbfcc50c2522daf5438ee225",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "太田光 楽天"
+     },
+     {
+      "title": "Oricon",
+      "link": "https://news.yahoo.co.jp/articles/deb2ae722116a73dfc9dc40c0d6fe9c896a59c80",
       "meta": "200+ Suchanfragen",
-      "title_orig": "ベトナム"
+      "title_orig": "オリコン"
      },
      {
-      "title": "Kiyoshi Kato",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E5%8A%A0%E8%97%A4%E6%B8%85%E5%8F%B2%E9%83%8E",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "加藤清史郎"
+      "title": "Pochettino",
+      "link": "https://news.yahoo.co.jp/articles/a7819c08d3438df58a8e632f950845516a35c9d8",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "ポチェッティーノ"
      },
      {
-      "title": "5801",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news078.html",
-      "meta": "100+ Suchanfragen"
+      "title": "Rain Ising Spider-Man",
+      "link": "https://newsdig.tbs.co.jp/articles/-/3076695",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "雨イジングスパイダーマン"
      },
      {
-      "title": "Naruto-Rennboot",
-      "link": "https://www.nikkansports.com/public_race/news/202611100001526.html",
-      "meta": "10000+ Suchanfragen",
-      "title_orig": "鳴門競艇"
-     },
-     {
-      "title": "pixium",
-      "link": "https://www.sponichi.co.jp/society/news/2026/11/11/kiji/20261111s00042000227000c.html",
-      "meta": "200+ Suchanfragen"
+      "title": "m 3",
+      "link": "https://news.yahoo.co.jp/articles/e052a6dbe19df9c11adcb26c3f600f1ce218cc47",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "m3"
      }
     ]
    },
@@ -3072,32 +3074,32 @@
      {
       "title": "\"Reverse Engineer Anything\": KI-Unternehmen gehen hart gegen das Coolste vor, was Menschen mit KI machen",
       "link": "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/",
-      "meta": "404 Media · 287 Personen teilen",
+      "meta": "404 Media · 306 Personen teilen",
       "title_orig": "'Reverse Engineer Anything': AI Companies Crack Down on the Coolest Thing People Were Doing With AI"
      },
      {
       "title": "Der von Trump begnadigte Aktivist stürzt die Konvention der Katzenbesitzer bei der irrtümlichen Jagd nach Furries ab",
       "link": "https://www.rawstory.com/jake-lang-2678347814/",
-      "meta": "Raw Story · 151 Personen teilen",
+      "meta": "Raw Story · 152 Personen teilen",
       "title_orig": "Trump-pardoned activist crashes cat owners' convention in mistaken hunt for furries"
      },
      {
       "title": "Bill Gates will die globale Erwärmung stoppen. Er hat Milliarden von klimaschädlichen Deponien verdient.",
       "link": "https://www.propublica.org/article/bill-gates-republic-landfill-methane-pollution",
-      "meta": "ProPublica · 133 Personen teilen",
+      "meta": "ProPublica · 137 Personen teilen",
       "title_orig": "Bill Gates Wants to Stop Global Warming. He’s Earned Billions From Climate-Polluting Landfills."
+     },
+     {
+      "title": "Warum sind die Straßen Großbritanniens immer noch so verschmutzt? Denn die Dinosaurier der Autoindustrie machen, was sie wollen, und Politiker lassen sie",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/11/britain-streets-polluted-car-industry-electric-vehicles-transition",
+      "meta": "The Guardian · 79 Personen teilen",
+      "title_orig": "Why are Britain’s streets still so polluted? Because the car industry dinosaurs do what they like, and politicians let them"
      },
      {
       "title": "Die Republikaner im Repräsentantenhaus wählen Jim Jordan als Minderheitsführer im nächsten Jahr",
       "link": "https://www.washingtonpost.com/politics/2026/11/10/house-republicans-elect-jim-jordan-serve-minority-leader-next-year/",
       "meta": "The Washington Post · 160 Personen teilen",
       "title_orig": "House Republicans elect Jim Jordan to serve as minority leader next year"
-     },
-     {
-      "title": "Jeffries zog sich wegen eines \"ernsten Führungsproblems\" zurück, als Hegseths Amtsenthebungsgebot fiel 7 Stimmen knapp mit 11 Dem No-Shows | Common Dreams",
-      "link": "https://www.commondreams.org/news/hegseth-impeachment-fails",
-      "meta": "Common Dreams · 58 Personen teilen",
-      "title_orig": "Jeffries Dragged for 'Serious Leadership Problem' as Hegseth Impeachment Bid Falls 7 Votes Short With 11 Dem No-Shows | Common Dreams"
      }
     ]
    }
@@ -3143,14 +3145,14 @@
    "source": "Finanz-Szene",
    "category": "pay_de",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": ""
   },
   {
    "source": "Payment & Banking",
    "category": "pay_de",
    "ok": true,
-   "count": 6,
+   "count": 8,
    "error": ""
   },
   {
@@ -3268,9 +3270,9 @@
   {
    "source": "Wikipedia: meistgelesen (Französisch)",
    "category": "social_eu",
-   "ok": true,
-   "count": 5,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 404 Not Found – {\"detail\":\"The date(s) you used are valid, but we either do not have d"
   },
   {
    "source": "Wikipedia: meistgelesen (Italienisch)",
@@ -3325,8 +3327,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 115,
-   "info": "115 von 115 Überschriften übersetzt (neu in diesem Lauf: MyMemory 44). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 110,
+   "info": "110 von 110 Überschriften übersetzt (neu in diesem Lauf: MyMemory 51). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
