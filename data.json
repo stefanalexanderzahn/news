@@ -1,54 +1,68 @@
 {
- "generated": "2026-11-15T15:49:55+00:00",
+ "generated": "2026-11-15T18:55:15+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
    {
-    "title": "Ilanit Spinner, ARD Berlin, zur Diskussion über den SPD-Parteivorsitz und die Kandidatur von Heil",
-    "link": "https://www.tagesschau.de/video/video-1684120.html",
-    "image": "https://images.tagesschau.de/image/9d60fc66-75d3-4d55-bcb6-3083d7f05f2a/AAABod7RRxo/AAABnSSvrFg/16x9-big/sendungsbild-1827846.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-15T10:48:06+00:00",
+    "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+    "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+    "image": "https://images.tagesschau.de/image/11e09190-b5e6-46e8-a56c-d80e5758e5aa/AAABoeAPp-M/AAABnSSvrFg/16x9-big/grenze-estland-russland-104.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-15T17:51:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Ilanit Spinner, ARD Berlin, zur Diskussion über den SPD-Parteivorsitz und die Kandidatur von Heil",
-      "link": "https://www.tagesschau.de/video/video-1684120.html"
+      "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "SPD: Hubertus Heil will für Parteivorsitz kandidieren",
-      "link": "https://www.spiegel.de/politik/deutschland/spd-hubertus-heil-will-fuer-parteivorsitz-kandidieren-a-f9209fb9-0404-43be-b66d-b2207e7e6aaa#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "SPD-Vorsitz: Früherer Arbeitsminister Hubertus Heil kandidiert für den SPD-Vorsitz",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/frueherer-arbeitsminister-hubertus-heil-kandidiert-fuer-den-spd-vorsitz"
+      "title": "Estland: Regierung will Grenzen zu Russland zum 1. Dezember schließen",
+      "link": "https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen-a-e6ae48a9-aa70-4399-bcbb-b27ce32d5819#ref=rss"
      },
      {
       "name": "FAZ",
-      "title": "Deutschland Liveblog: Hubertus Heil kandidiert für den SPD-Vorsitz",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-hubertus-heil-kandidiert-fuer-den-spd-vorsitz-faz-110093143.html"
+      "title": "Liveblog Ukrainekrieg: Estland will alle Grenzübergänge zu Russland schließen",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-estland-will-alle-grenzuebergaenge-zu-russland-schliessen-faz-110683325.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "SPD-Vorsitz: Der Parteisoldat strebt an die Macht – Hubertus Heil will SPD-Chef werden",
-      "link": "https://www.handelsblatt.com/politik/deutschland/spd-vorsitz-der-parteisoldat-strebt-an-die-macht-hubertus-heil-will-spd-chef-werden/100269930.html"
+      "title": "+++ Ukraine-Krieg +++: Estland schließt ab Dezember alle Grenzübergänge zu Russland",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-estland-schliesst-ab-dezember-alle-grenzuebergaenge-zu-russland/27982126.html"
      }
     ]
    },
    {
-    "title": "Krieg gegen die Ukraine: Verletzte bei russischen Angriffen",
-    "link": "https://www.tagesschau.de/video/video-1684096.html",
-    "image": "https://images.tagesschau.de/image/2c57cfb5-ac10-49ce-8df5-0fca701e29c8/AAABod5A_-M/AAABnSSvrFg/16x9-big/sendungsbild-1827810.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-15T15:04:23+00:00",
+    "title": "Nvidia-Skandal: Mutmaßliche Spionin Alice Huang soll nicht mehr bei Megaspeed arbeiten",
+    "link": "https://www.zeit.de/politik/ausland/2026-11/alice-huang-megaspeed-spionage-nvidia-china-gxe",
+    "image": "https://img.zeit.de/politik/ausland/2026-11/alice-huang-megaspeed-spionage-nvidia-china-gxe-foto-1/original__640x360",
+    "n_sources": 3,
+    "time": "2026-11-15T18:40:16+00:00",
     "sources": [
      {
-      "name": "Tagesschau",
-      "title": "Krieg gegen die Ukraine: Verletzte bei russischen Angriffen",
-      "link": "https://www.tagesschau.de/video/video-1684096.html"
+      "name": "Zeit Online",
+      "title": "Nvidia-Skandal: Mutmaßliche Spionin Alice Huang soll nicht mehr bei Megaspeed arbeiten",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/alice-huang-megaspeed-spionage-nvidia-china-gxe"
      },
+     {
+      "name": "FAZ",
+      "title": "Business-Ticker: Mutmaßliche Tech-Spionin Alice Huang arbeitet nicht mehr für Megaspeed",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mutmassliche-tech-spionin-alice-huang-arbeitet-nicht-mehr-fuer-megaspeed-faz-200452404.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Nvidia-Skandal: Alice Huang hat Megaspeed bereits im August 2025 verlassen",
+      "link": "https://www.handelsblatt.com/technik/ki/nvidia-alice-huang-hat-megaspeed-bereits-im-august-2025-verlassen/100269993.html"
+     }
+    ]
+   },
+   {
+    "title": "Krieg gegen die Ukraine: Russische Angriffe durch Starshield-Drosselung häufiger erfolgreich",
+    "link": "https://www.zeit.de/politik/ausland/2026-11/starshield-spacex-satelliteninternet-ukraine-usa-wolodymyr-selenskyj-gxe",
+    "image": "https://img.zeit.de/politik/ausland/2026-11/starshield-spacex-satelliteninternet-ukraine-usa-wolodymyr-selenskyj-gxe-foto-1/original__640x360",
+    "n_sources": 3,
+    "time": "2026-11-15T15:04:23+00:00",
+    "sources": [
      {
       "name": "Zeit Online",
       "title": "Krieg gegen die Ukraine: Russische Angriffe durch Starshield-Drosselung häufiger erfolgreich",
@@ -63,54 +77,6 @@
       "name": "Handelsblatt",
       "title": "+++ Ukraine-Krieg +++: Selenskyj fordert USA zur Aufhebung der Starshield-Drosselung auf",
       "link": "https://www.handelsblatt.com/politik/international/ukraine-selenskyj-fordert-usa-zur-aufhebung-der-starshield-drosselung-auf/27982126.html"
-     }
-    ]
-   },
-   {
-    "title": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
-    "link": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html",
-    "image": "https://images.tagesschau.de/image/867930c5-6af5-4266-b8ff-96fdefbbb509/AAABodrlKvI/AAABnSSvrFg/16x9-big/sendungsbild-1827536.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-15T14:11:16+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Ungarn: Bei Korruptionsermittlungen gegen Ex-Minister 17,7 Millionen Euro sichergestellt",
-      "link": "https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt-a-388f3d15-9839-401e-85c8-9ae015ee2c6b#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Korruption in Ungarn: Ermittler finden Millionen Euro Bargeld in Ungarns Wäldern",
-      "link": "https://www.faz.net/aktuell/politik/ausland/ungarn-ermittler-finden-17-millionen-euro-bargeld-bei-orban-minister-accg-201684268.html"
-     }
-    ]
-   },
-   {
-    "title": "Mandy Kunze: 50-Jährige aus Sachsen gewinnt »Mensch ärgere Dich nicht«-WM",
-    "link": "https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/41b3ced5-78fc-4e57-9b99-45e00110fb50_w520_r2.08_fpx33.27_fpy49.99.jpg",
-    "n_sources": 3,
-    "time": "2026-11-15T12:00:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Mandy Kunze: 50-Jährige aus Sachsen gewinnt »Mensch ärgere Dich nicht«-WM",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/mandy-kunze-50-jaehrige-aus-sachsen-gewinnt-mensch-aergere-dich-nicht-wm-a-4a6b3dd3-4041-414f-8aa4-4a77e797c33b#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Rund 200 Teilnehmer: 50-Jährige aus Sachsen gewinnt «Mensch ärgere Dich nicht»-WM",
-      "link": "https://www.zeit.de/news/2026-11/14/mensch-aergere-dich-nicht-weltmeisterschaft-in-berlin"
-     },
-     {
-      "name": "FAZ",
-      "title": "Zum zweiten Mal: Mandy Kunze aus Sachsen gewinnt „Mensch ärgere Dich nicht“-WM",
-      "link": "https://www.faz.net/aktuell/gesellschaft/menschen/mandy-kunze-gewinnt-mensch-aergere-dich-nicht-wm-accg-201684762.html"
      }
     ]
    },
@@ -211,40 +177,59 @@
     ]
    },
    {
-    "title": "Angriffe auf beiden Seiten: Ukraine und Russland melden Tote und Verletzte",
-    "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
-    "image": "https://images.tagesschau.de/image/6ea808b8-a97e-4ce2-b799-f35e8e4cd604/AAABod5Fx4A/AAABnSSvrFg/16x9-big/ukraine-2932.jpg?width=1920",
+    "title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
+    "image": "https://images.tagesschau.de/image/f962e541-2509-42bb-a115-4ea9044ea8ec/AAABoeA8Lts/AAABnSSvrFg/16x9-big/sendungsbild-1827956.jpg?width=1920",
     "n_sources": 2,
-    "time": "2026-11-15T15:38:36+00:00",
+    "time": "2026-11-15T18:44:55+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Angriffe auf beiden Seiten: Ukraine und Russland melden Tote und Verletzte",
-      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html"
+      "title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html"
      },
      {
-      "name": "Zeit Online",
-      "title": "Russland und Ukraine melden gegenseitige Angriffe",
-      "link": "https://www.zeit.de/video/2026-11/russland-und-ukraine-melden-gegenseitige-angriffe"
+      "name": "FAZ",
+      "title": "SPD: Ex-Bundesarbeitsminister Heil will SPD-Vorsitz übernehmen",
+      "link": "https://www.faz.net/video/spd-neu-aufstellen-heil-bewirbt-sich-um-vorsitz-201684872.html"
      }
     ]
    },
    {
-    "title": "Homophober Hintergrund?: Unbekannter wirft Böller in Frankfurter Schwulenbar",
-    "link": "https://www.zeit.de/news/2026-11/15/unbekannter-wirft-boeller-in-frankfurter-schwulenbar",
-    "image": "https://img.zeit.de/news/2026-11/15/unbekannter-wirft-boeller-in-frankfurter-schwulenbar-image-group/original__640x360",
+    "title": "Amon-Ra St. Brown beim NFL-Spiel in München: Deutschland hat ein neues Football-Idol",
+    "link": "https://www.spiegel.de/sport/american-football/amon-ra-st-brown-beim-nfl-spiel-in-muenchen-deutschland-hat-ein-neues-football-idol-a-64c79fa3-60be-4541-8bc3-1394a65c485e#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/7ee1d52d-9c88-4e61-8637-481fce50b096_w520_r2.08_fpx48.65_fpy54.98.jpg",
     "n_sources": 2,
-    "time": "2026-11-15T15:24:57+00:00",
+    "time": "2026-11-15T18:15:00+00:00",
     "sources": [
      {
-      "name": "Zeit Online",
-      "title": "Homophober Hintergrund?: Unbekannter wirft Böller in Frankfurter Schwulenbar",
-      "link": "https://www.zeit.de/news/2026-11/15/unbekannter-wirft-boeller-in-frankfurter-schwulenbar"
+      "name": "Spiegel",
+      "title": "Amon-Ra St. Brown beim NFL-Spiel in München: Deutschland hat ein neues Football-Idol",
+      "link": "https://www.spiegel.de/sport/american-football/amon-ra-st-brown-beim-nfl-spiel-in-muenchen-deutschland-hat-ein-neues-football-idol-a-64c79fa3-60be-4541-8bc3-1394a65c485e#ref=rss"
      },
      {
       "name": "FAZ",
-      "title": "Frankfurt: Böllerangriff auf Schwulenbar",
-      "link": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-boellerangriff-auf-schwulenbar-zum-schwejk-accg-201684858.html"
+      "title": "Amon-Ra St. Brown: Der Auftrag des Sonnengotts",
+      "link": "https://www.faz.net/aktuell/sport/mehr-sport/amon-ra-st-brown-der-nfl-star-der-football-in-deutschland-gross-machen-soll-accg-201665276.html"
+     }
+    ]
+   },
+   {
+    "title": "»Mensch ärgere dich nicht«: Mandy Kunze spricht über ihren Weltmeistertitel",
+    "link": "https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/6064a0ef-4b9f-473c-a75c-4d2628c6b8da_w520_r2.08_fpx66.55_fpy49.99.jpg",
+    "n_sources": 2,
+    "time": "2026-11-15T17:00:00+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "»Mensch ärgere dich nicht«: Mandy Kunze spricht über ihren Weltmeistertitel",
+      "link": "https://www.spiegel.de/panorama/mensch-aergere-dich-nicht-mandy-kunze-spricht-ueber-ihren-weltmeistertitel-a-9a712d96-b9e8-436e-bc90-c71587f31b4c#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Zum zweiten Mal: Mandy Kunze aus Sachsen gewinnt „Mensch ärgere Dich nicht“-WM",
+      "link": "https://www.faz.net/aktuell/gesellschaft/menschen/mandy-kunze-gewinnt-mensch-aergere-dich-nicht-wm-accg-201684762.html"
      }
     ]
    }
@@ -285,6 +270,74 @@
     ]
    },
    {
+    "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
+    "image": "https://images.tagesschau.de/image/f3d020e0-362d-4ea6-aad7-fab6cd684d60/AAABocQLG68/AAABnSSvrFg/16x9-big/aigner-160.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-14T11:12:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ilse Aigner (CSU) als Bundespräsidentin: Ein großes Missverständnis – Kolumne",
+      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-als-bundespraesidentin-ein-grosses-missverstaendnis-kolumne-a-9a10a4b5-917f-4872-aa69-7b3b1e7c208c#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Kandidatin für Bundespräsidentenwahl: Ilse Aigner lehnt Einladung der AfD-Bundestagsfraktion ab",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentenwahl-cdu-csu-spd-gruene-afd"
+     },
+     {
+      "name": "FAZ",
+      "title": "Deutschland Liveblog: Aigner will sich offenbar nicht der AfD-Fraktion vorstellen",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bericht-aigner-will-sich-nicht-der-afd-fraktion-vorstellen-faz-110093143.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Bundespräsidentin: Ilse Aigner stellt sich nicht AfD und Linken vor",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-ilse-aigner-stellt-sich-nicht-afd-und-linken-vor/100268693.html"
+     }
+    ]
+   },
+   {
+    "title": "Weltweiter Ausfall bei Diensten von Microsoft - auch Outlook und Teams betroffen",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1683532.html",
+    "image": "https://images.tagesschau.de/image/17fe5cdc-51ad-4210-bb77-4bb01b5ae70d/AAABoda73cA/AAABnSSvrFg/16x9-big/sendungsbild-1827230.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-14T07:56:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Weltweiter Ausfall bei Diensten von Microsoft - auch Outlook und Teams betroffen",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1683532.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Outlook, Teams, Copilot: Microsoft meldet Ende von Megastörung seiner Dienste",
+      "link": "https://www.spiegel.de/netzwelt/outlook-teams-copilot-microsoft-meldet-ende-von-megastoerung-seiner-dienste-a-c728f9c1-8668-4a14-9743-d724b9772bbd#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Outlook: Microsoft meldet weltweite Störung von Outlook und Teams",
+      "link": "https://www.zeit.de/digital/internet/2026-11/outlook-stoerung-microsoft-365-teams-copilot"
+     },
+     {
+      "name": "FAZ",
+      "title": "Outlook und Teams: Was Sie über den Microsoft-Ausfall wissen müssen",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/outlook-und-teams-was-sie-ueber-die-microsoft-stoerung-wissen-muessen-accg-201680619.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Störung: Ausfall bei Microsoft beeinträchtigt Outlook und Teams",
+      "link": "https://www.handelsblatt.com/technik/it-internet/stoerung-ausfall-bei-microsoft-beeintraechtigt-outlook-und-teams/100269552.html"
+     }
+    ]
+   },
+   {
     "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
     "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
     "image": "https://images.tagesschau.de/image/c7de04a3-94b2-40c1-908c-35479fc47e03/AAABodY5obQ/AAABnSSvrFg/16x9-big/eu-dublin-100.jpg?width=1920",
@@ -315,142 +368,6 @@
       "name": "Handelsblatt",
       "title": "+++ Ukraine-Krieg +++: Europäer knüpfen Sicherheitsgespräche mit Russland an Bedingungen",
       "link": "https://www.handelsblatt.com/politik/international/ukraine-europaeer-knuepfen-sicherheitsgespraeche-mit-russland-an-bedingungen/27982126.html"
-     }
-    ]
-   },
-   {
-    "title": "Weltweite Störung bei Outlook, Teams und anderen Programmen des Software-Konzerns Microsoft",
-    "link": "https://www.tagesschau.de/video/video-1682966.html",
-    "image": "https://images.tagesschau.de/image/80c1ef5a-ef2f-4de4-ac17-2064200616d7/AAABodIXZlY/AAABnSSvrFg/16x9-big/sendungsbild-1826724.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-13T13:15:37+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Weltweite Störung bei Outlook, Teams und anderen Programmen des Software-Konzerns Microsoft",
-      "link": "https://www.tagesschau.de/video/video-1682966.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Microsoft-Störung: Was bei einem Outlook-Ausfall arbeitsrechtlich gilt",
-      "link": "https://www.spiegel.de/netzwelt/web/microsoft-stoerung-was-bei-einem-outlook-ausfall-arbeitsrechtlich-gilt-a-635a7601-74b3-4ed9-b968-7b00f5998b0b#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Outlook: Microsoft meldet weltweite Störung von Outlook und Teams",
-      "link": "https://www.zeit.de/digital/internet/2026-11/outlook-stoerung-microsoft-365-teams-copilot"
-     },
-     {
-      "name": "FAZ",
-      "title": "Outlook und Teams: Microsoft bekommt weltweite Störung nicht in den Griff",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/outlook-und-teams-weltweite-stoerung-bei-diensten-von-microsoft-accg-201679156.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Outlook und Teams: Nach rund 18 Stunden Störung: Microsoft meldet „ermutigende Fortschritte“",
-      "link": "https://www.handelsblatt.com/technik/it-internet/outlook-und-teams-microsoft-meldet-ermutigende-fortschritte-nach-rund-18-stunden-stoerung/100269552.html"
-     }
-    ]
-   },
-   {
-    "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
-    "link": "https://www.tagesschau.de/inland/bundeshauhalt-2027-100.html",
-    "image": "https://images.tagesschau.de/image/373fa2b6-9982-42ff-9ff3-e53cd0b01e8b/AAABodOV02k/AAABnSSvrFg/16x9-big/haushaltsausschuss-116.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-13T12:55:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
-      "link": "https://www.tagesschau.de/inland/bundeshauhalt-2027-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Bundeshaushalt 2027: Der Etat steht – doch die eigentlichen Probleme kommen erst",
-      "link": "https://www.spiegel.de/wirtschaft/bundeshaushalt-2027-der-etat-steht-doch-die-eigentlichen-probleme-kommen-erst-a-ac30c525-9525-4432-96c9-7d0053f94c0c#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Haushaltsausschuss: Bundeshaushalt für 2027 steht",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/bundeshaushalt-2027-bereinigungssitzung-ausgaben-neuverschuldung-stromsteuersenkung-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bereinigungssitzung: Der Bundeshaushalt für 2027 steht – zumindest vorläufig",
-      "link": "https://www.faz.net/aktuell/wirtschaft/bereinigungssitzung-im-bundestag-billigt-haushalt-klaerungsbedarf-bei-stromsteuer-accg-201679319.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Bundesfinanzen: Bundeshaushalt für 2027 steht – zumindest vorläufig",
-      "link": "https://www.handelsblatt.com/politik/deutschland/bundesfinanzen-bundeshaushalt-fuer-2027-steht-zumindest-vorlaeufig/100269596.html"
-     }
-    ]
-   },
-   {
-    "title": "Marktbericht: DAX nähert sich wieder dem Rekordhoch",
-    "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
-    "image": "https://images.tagesschau.de/image/afd0f471-6be5-49a9-ae5a-3e5ac396e211/AAABldcpwIk/AAABnSSvrFg/16x9-big/boerse-358.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-13T10:04:35+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Marktbericht: DAX nähert sich wieder dem Rekordhoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Neuer Rekord – Dax knackt erstmals Marke von 27.000 Punkten",
-      "link": "https://www.spiegel.de/wirtschaft/neuer-rekord-dax-knackt-erstmals-marke-von-27-000-punkten-a-dc114850-1845-407a-9ed4-981f12b936db#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Dax knackt erstmals 27.000-Punkte-Marke - Jahresendrally in Sicht",
-      "link": "https://www.zeit.de/video/2026-11/dax-knackt-erstmals-27-000-punkte-marke-jahresendrally-in-sicht"
-     },
-     {
-      "name": "FAZ",
-      "title": "Deutsche Börse: Dax erreicht neues Rekordhoch – und übersteigt 27.000 Punkte",
-      "link": "https://www.faz.net/aktuell/finanzen/dax-erreicht-neues-rekordhoch-und-uebersteigt-27-000-punkte-accg-201675767.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Dax aktuell: Dax entfernt sich von 27.000‑Punkte-Marke – folgt trotzdem die Jahresendrally?﻿",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-bewegt-sich-kaum-entfernt-sich-aber-vom-rekord/100269627.html"
-     }
-    ]
-   },
-   {
-    "title": "Nvidia-Chef Jensen Huang tritt nach Berichten über Affären zurück",
-    "link": "https://www.tagesschau.de/video/video-1683058.html",
-    "image": "https://images.tagesschau.de/image/c8f9a05f-ca46-46e0-8b17-f86fdcfc0a75/AAABodRU1Ak/AAABnSSvrFg/16x9-big/sendungsbild-1826874.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-13T09:55:15+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Nvidia-Chef Jensen Huang tritt nach Berichten über Affären zurück",
-      "link": "https://www.tagesschau.de/video/video-1683058.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Nvidia: Jensen Huang tritt nach Spionageaffäre zurück",
-      "link": "https://www.spiegel.de/wirtschaft/jensen-huang-nvidia-chef-tritt-nach-spionageaffaere-zurueck-a-776bb012-48a6-4c08-9939-a77fad020e47#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Nvidia-Chef: Der tiefe Fall des Jensen Huang",
-      "link": "https://www.zeit.de/wirtschaft/2026-11/nvidia-chef-ruecktritt-jensen-huang-affaere-spionage-wall-street"
-     },
-     {
-      "name": "FAZ",
-      "title": "Nvidia-Affäre: Der jähe Fall von Jensen Huang",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-geht-ein-schock-fuer-nvidia-aber-keine-katastrophe-201677508.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "KI-Chipkonzern: Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-      "link": "https://www.handelsblatt.com/technik/ki/nvidia-jensen-huang-tritt-nach-mehreren-affaeren-zurueck/100269321.html"
      }
     ]
    },
@@ -523,40 +440,6 @@
     ]
    },
    {
-    "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
-    "link": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html",
-    "image": "https://images.tagesschau.de/image/6ca89cad-29d1-4adb-9697-a4e3fa3ddbea/AAABocdx-Ys/AAABnSSvrFg/16x9-big/aigner-168.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-11T04:50:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
-      "link": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Ilse Aigner: Mehr als jeder Dritte hält CSU-Frau für geeignete Bundespräsidentin",
-      "link": "https://www.spiegel.de/politik/ilse-aigner-mehr-als-jeder-dritte-haelt-csu-frau-fuer-geeignete-bundespraesidentin-a-9dec293e-8a34-46d3-b634-805e3bbe8566#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Kandidatin für Bundespräsidentenwahl: Ilse Aigner lehnt Einladung der AfD-Bundestagsfraktion ab",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentenwahl-cdu-csu-spd-gruene-afd"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bundespräsidentin: Wie hält Aigner es mit der AfD?",
-      "link": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-wie-haelt-es-die-moegliche-bundespraesidentin-mit-der-afd-201669133.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Bundespräsidentin: Ilse Aigner stellt sich nicht AfD und Linken vor",
-      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-ilse-aigner-stellt-sich-nicht-afd-und-linken-vor/100268693.html"
-     }
-    ]
-   },
-   {
     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
     "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
     "image": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
@@ -589,20 +472,146 @@
       "link": "https://www.handelsblatt.com/politik/international/cyberangriff-frankreich-sieht-iran-hinter-angriff-auf-supermarkt-kuehlschraenke/100268525.html"
      }
     ]
+   },
+   {
+    "title": "Chef des Chipherstellers Nvidia in mögliche Spionageaffäre verwickelt",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681016.html",
+    "image": "https://images.tagesschau.de/image/2168fb03-6c1a-4386-9488-42a8ec09a57d/AAABocHZmEk/AAABnSSvrFg/16x9-big/sendungsbild-1825082.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-10T11:16:02+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Chef des Chipherstellers Nvidia in mögliche Spionageaffäre verwickelt",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681016.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Nvidia: FBI ermittelt im Fall Jensen Huang und mutmaßlicher China-Spionin",
+      "link": "https://www.spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Jensen Huang: FBI ermittelt laut Trump im Skandal um mutmaßliche Spionage bei Nvidia",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/nvidia-jensen-huang-chinesische-spionin-fbi-donald-trump"
+     },
+     {
+      "name": "FAZ",
+      "title": "Anleger klagen: FBI ermittelt wegen Spionage-Verdacht bei Nvidia-Chef Huang",
+      "link": "https://www.faz.net/video/fbi-ermittelt-wegen-spionage-verdacht-bei-nvidia-chef-huang-201669264.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Nvidia: FBI ermittelt laut Trump wegen Affäre von Nvidia-Chef Huang",
+      "link": "https://www.handelsblatt.com/politik/international/nvidia-fbi-ermittelt-laut-trump-wegen-affaere-von-nvidia-chef-huang/100268570.html"
+     }
+    ]
+   },
+   {
+    "title": "Nvidia – Jensen Huang: Wer ist Alice Huang, die Frau im Zentrum des mutmaßlichen Spionage-Falls?",
+    "link": "https://www.spiegel.de/ausland/nvidia-jensen-huang-wer-ist-alice-huang-die-frau-im-zentrum-des-mutmasslichen-spionage-falls-a-e2ac78df-b6a3-4248-a836-753b92bd7776#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/374245d4-babc-4937-ba30-22a605bb3e40_w520_r2.08_fpx46_fpy37.jpg",
+    "n_sources": 4,
+    "time": "2026-11-15T18:40:16+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "Nvidia – Jensen Huang: Wer ist Alice Huang, die Frau im Zentrum des mutmaßlichen Spionage-Falls?",
+      "link": "https://www.spiegel.de/ausland/nvidia-jensen-huang-wer-ist-alice-huang-die-frau-im-zentrum-des-mutmasslichen-spionage-falls-a-e2ac78df-b6a3-4248-a836-753b92bd7776#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Nvidia-Skandal: Mutmaßliche Spionin Alice Huang soll nicht mehr bei Megaspeed arbeiten",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/alice-huang-megaspeed-spionage-nvidia-china-gxe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Business-Ticker: Mutmaßliche Tech-Spionin Alice Huang arbeitet nicht mehr für Megaspeed",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mutmassliche-tech-spionin-alice-huang-arbeitet-nicht-mehr-fuer-megaspeed-faz-200452404.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Nvidia-Skandal: Alice Huang hat Megaspeed bereits im August 2025 verlassen",
+      "link": "https://www.handelsblatt.com/technik/ki/nvidia-alice-huang-hat-megaspeed-bereits-im-august-2025-verlassen/100269993.html"
+     }
+    ]
+   },
+   {
+    "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+    "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+    "image": "https://images.tagesschau.de/image/11e09190-b5e6-46e8-a56c-d80e5758e5aa/AAABoeAPp-M/AAABnSSvrFg/16x9-big/grenze-estland-russland-104.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-15T17:51:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Estland: Regierung will Grenzen zu Russland zum 1. Dezember schließen",
+      "link": "https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen-a-e6ae48a9-aa70-4399-bcbb-b27ce32d5819#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Liveblog Ukrainekrieg: Estland will alle Grenzübergänge zu Russland schließen",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-estland-will-alle-grenzuebergaenge-zu-russland-schliessen-faz-110683325.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Ukraine-Krieg +++: Estland schließt ab Dezember alle Grenzübergänge zu Russland",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-estland-schliesst-ab-dezember-alle-grenzuebergaenge-zu-russland/27982126.html"
+     }
+    ]
    }
   ],
   "30d": [
    {
-    "title": "Krieg gegen die Ukraine: Verletzte bei russischen Angriffen",
-    "link": "https://www.tagesschau.de/video/video-1684096.html",
-    "image": "https://images.tagesschau.de/image/2c57cfb5-ac10-49ce-8df5-0fca701e29c8/AAABod5A_-M/AAABnSSvrFg/16x9-big/sendungsbild-1827810.jpg?width=1920",
+    "title": "Angriffe auf beiden Seiten: Ukraine und Russland melden Tote und Verletzte",
+    "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
+    "image": "https://images.tagesschau.de/image/6ea808b8-a97e-4ce2-b799-f35e8e4cd604/AAABod5Fx4A/AAABnSSvrFg/16x9-big/ukraine-2932.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-15T15:53:45+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Angriffe auf beiden Seiten: Ukraine und Russland melden Tote und Verletzte",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Washington, D.C.: Tote und Verletzte nach Schüssen",
+      "link": "https://www.spiegel.de/panorama/justiz/washington-d-c-tote-und-verletzte-nach-schuessen-a-be122998-7870-4981-889f-8b6f1e785d7c#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Notfälle: Polizei: Eine tote Person nach Schüssen in Washington",
+      "link": "https://www.zeit.de/news/2026-11/12/medien-mehrere-menschen-in-washington-angeschossen"
+     },
+     {
+      "name": "FAZ",
+      "title": "Ukraine-Krieg: Angriffe auf beiden Seiten, Diplomatie sucht neuen Anlauf",
+      "link": "https://www.faz.net/video/donbass-vorschlag-der-usa-kiew-lehnt-abtretung-ab-201685470.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Ukraine-Krieg +++: 18 Tote bei Luftangriff auf Ausgabe von Hilfsgütern",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-18-tote-bei-luftangriff-auf-ausgabe-von-hilfsguetern/27982126.html"
+     }
+    ]
+   },
+   {
+    "title": "Massive Stromausfälle nach russischen Angriffen auf Ukraine",
+    "link": "https://www.tagesschau.de/video/video-1680170.html",
+    "image": "https://images.tagesschau.de/image/666c37ea-3d30-4b33-9099-85b9a0b30000/AAABobregBA/AAABnSSvrFg/16x9-big/sendungsbild-1824330.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-15T15:04:23+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Krieg gegen die Ukraine: Verletzte bei russischen Angriffen",
-      "link": "https://www.tagesschau.de/video/video-1684096.html"
+      "title": "Massive Stromausfälle nach russischen Angriffen auf Ukraine",
+      "link": "https://www.tagesschau.de/video/video-1680170.html"
      },
      {
       "name": "Spiegel",
@@ -623,6 +632,40 @@
       "name": "Handelsblatt",
       "title": "+++ Ukraine-Krieg +++: Selenskyj fordert USA zur Aufhebung der Starshield-Drosselung auf",
       "link": "https://www.handelsblatt.com/politik/international/ukraine-selenskyj-fordert-usa-zur-aufhebung-der-starshield-drosselung-auf/27982126.html"
+     }
+    ]
+   },
+   {
+    "title": "Zusammenstöße mit der Polizei nach \"GenZ\"-Protesten in mehreren Städten",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1675932.html",
+    "image": "https://images.tagesschau.de/image/af8d6663-3425-40fe-b2b6-6e964d5f31f1/AAABoZQjTq8/AAABnSSvrFg/16x9-big/sendungsbild-1820354.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-15T11:19:52+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Zusammenstöße mit der Polizei nach \"GenZ\"-Protesten in mehreren Städten",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1675932.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Nach Demo von »Gen Z regelt«: Ausschreitungen und Plünderungen in Frankfurt und Köln",
+      "link": "https://www.spiegel.de/panorama/justiz/nach-demo-von-gen-z-regelt-ausschreitungen-und-pluenderungen-in-frankfurt-und-koeln-a-2baa26e4-2d9c-4fc2-8585-533727c4d00c#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Illegales Autorennen?: Mordverdacht nach tödlichem Unfall auf der Autobahn 92",
+      "link": "https://www.zeit.de/news/2026-11/12/mordverdacht-nach-toedlichem-unfall-auf-der-autobahn-92"
+     },
+     {
+      "name": "FAZ",
+      "title": "Rhein-Main-Liveblog: Frankfurt: Polizei nimmt Raser nach Verfolgungsfahrt fest",
+      "link": "https://www.faz.net/aktuell/rhein-main/polizei-nimmt-raser-nach-verfolgungsfahrt-in-frankfurt-fest-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "„Gen Z regelt“: Bundesweite Jugendproteste in ersten Städten gestartet – Vermummte und Pyrotechnik in Stuttgart",
+      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-regelt-bundesweite-jugendproteste-in-ersten-staedten-gestartet/100266344.html"
      }
     ]
    },
@@ -695,104 +738,104 @@
     ]
    },
    {
-    "title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
-    "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
-    "image": "https://images.tagesschau.de/image/38aae710-371d-4286-9a79-325f40e6837c/AAABodm4fQE/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-284.jpg?width=1920",
+    "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
+    "image": "https://images.tagesschau.de/image/f3d020e0-362d-4ea6-aad7-fab6cd684d60/AAABocQLG68/AAABnSSvrFg/16x9-big/aigner-160.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-14T15:38:32+00:00",
+    "time": "2026-11-14T11:12:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html"
+      "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Ukraine-Verhandlungen: USA erwägen laut Selenskyj Nato-Mitgliedschaft",
-      "link": "https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel-a-f8b38fc5-a754-4ec2-bf85-3c857dbd0f96#ref=rss"
+      "title": "Ilse Aigner (CSU) als Bundespräsidentin: Ein großes Missverständnis – Kolumne",
+      "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-als-bundespraesidentin-ein-grosses-missverstaendnis-kolumne-a-9a10a4b5-917f-4872-aa69-7b3b1e7c208c#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Ukraine-Krieg: USA: Nächste Woche Verhandlungen mit Ukraine und Russland",
-      "link": "https://www.zeit.de/news/2026-11/03/usa-naechste-woche-verhandlungen-mit-ukraine-und-russland"
+      "title": "Kandidatin für Bundespräsidentenwahl: Ilse Aigner lehnt Einladung der AfD-Bundestagsfraktion ab",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentenwahl-cdu-csu-spd-gruene-afd"
      },
      {
       "name": "FAZ",
-      "title": "Liveblog Ukrainekrieg: Selenskyj: USA bringen NATO-Beitritt für Gebietsverzicht ins Spiel",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-usa-bringen-nato-beitritt-fuer-gebietsverzicht-ins-spiel-faz-110683325.html"
+      "title": "Deutschland Liveblog: Aigner will sich offenbar nicht der AfD-Fraktion vorstellen",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bericht-aigner-will-sich-nicht-der-afd-fraktion-vorstellen-faz-110093143.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Ukraine: USA schlagen laut Selenskyj Donbass-Rückzug vor – für Nato-Beitritt",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-usa-schlagen-laut-selenskyj-donbass-rueckzug-vor-fuer-nato-beitritt/100269908.html"
+      "title": "Bundespräsidentin: Ilse Aigner stellt sich nicht AfD und Linken vor",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-ilse-aigner-stellt-sich-nicht-afd-und-linken-vor/100268693.html"
      }
     ]
    },
    {
-    "title": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
-    "link": "https://www.tagesschau.de/ausland/amerika/midterms-szenarien-100.html",
-    "image": "https://images.tagesschau.de/image/9e4b48cc-a1e7-4651-aa17-04dfaeec83f3/AAABoYKmqUo/AAABnSSvrFg/16x9-big/frau-wahllokal-100.jpg?width=1920",
+    "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
+    "link": "https://www.tagesschau.de/video/video-1678768.html",
+    "image": "https://images.tagesschau.de/image/3de6abfa-19f7-4167-9937-f6def80e5e48/AAABoay1ztU/AAABnSSvrFg/16x9-big/sendungsbild-1822956.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-14T14:21:00+00:00",
+    "time": "2026-11-14T10:38:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-szenarien-100.html"
+      "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
+      "link": "https://www.tagesschau.de/video/video-1678768.html"
      },
      {
       "name": "Spiegel",
-      "title": "Republikaner nach den Midterms: Das Donald-Trump-Dilemma",
-      "link": "https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss"
+      "title": "Hubert Aiwanger: Abschied vom Chef der Freien Wähler – »ganz Bayern trauert«",
+      "link": "https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger-a-e986f8ab-d9b9-4faf-adf7-d167c63eb24b#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Midterms in den USA: Donald Trump zweifelt Ergebnis der Midterms nun doch an",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/midterms-usa-donald-trump-wahlmanipulation"
+      "title": "Freie-Wähler-Chef: Trauerbeflaggung in Bayern nach Tod von Aiwanger",
+      "link": "https://www.zeit.de/news/2026-11/05/trauerbeflaggung-in-bayern-nach-tod-von-aiwanger"
      },
      {
       "name": "FAZ",
-      "title": "USA unter Trump: Machtkampf bei den Republikanern",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-machtkampf-bei-den-republikanern-faz-19444916.html"
+      "title": "Freie-Wähler-Chef: Bayerns Wirtschaftsminister Aiwanger tot aufgefunden",
+      "link": "https://www.faz.net/video/bayerns-wirtschaftsminister-aiwanger-tot-aufgefunden-201654243.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Wahlen: Beispiellose Wahlbeobachterkampagne für Kongresswahlen in den USA",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-beispiellose-wahlbeobachterkampagne-fuer-kongresswahlen-in-den-usa/100265119.html"
+      "title": "Politik: Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+      "link": "https://www.handelsblatt.com/politik/deutschland/politik-bayerns-wirtschaftsminister-hubert-aiwanger-ist-tot/100267392.html"
      }
     ]
    },
    {
-    "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html",
-    "image": "https://images.tagesschau.de/image/bf2bb47a-b8aa-4708-89c7-cace4b8fdada/AAABobIlh28/AAABnSSvrFg/16x9-big/rbb-vanessa-emde-die-linke-100.jpg?width=1920",
+    "title": "Weltweiter Ausfall bei Diensten von Microsoft - auch Outlook und Teams betroffen",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1683532.html",
+    "image": "https://images.tagesschau.de/image/17fe5cdc-51ad-4210-bb77-4bb01b5ae70d/AAABoda73cA/AAABnSSvrFg/16x9-big/sendungsbild-1827230.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-14T06:46:00+00:00",
+    "time": "2026-11-14T07:56:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html"
+      "title": "Weltweiter Ausfall bei Diensten von Microsoft - auch Outlook und Teams betroffen",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1683532.html"
      },
      {
       "name": "Spiegel",
-      "title": "Debatte über Fraktionsausschluss: Linke-Chef Pantisano verteidigt langwieriges Verfahren zu Vanessa Emde",
-      "link": "https://www.spiegel.de/politik/debatte-ueber-fraktionsausschluss-linke-chef-pantisano-verteidigt-langwieriges-verfahren-zu-vanessa-emde-a-88fa41b6-acd7-4d25-ad08-88f9db6e9d90#ref=rss"
+      "title": "Outlook, Teams, Copilot: Microsoft meldet Ende von Megastörung seiner Dienste",
+      "link": "https://www.spiegel.de/netzwelt/outlook-teams-copilot-microsoft-meldet-ende-von-megastoerung-seiner-dienste-a-c728f9c1-8668-4a14-9743-d724b9772bbd#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Regierungsbildung in Berlin: Linke-Chef verteidigt langwieriges Verfahren zu Vanessa Emde",
-      "link": "https://www.zeit.de/news/2026-11/14/linke-chef-verteidigt-langwieriges-verfahren-zu-vanessa-emde"
+      "title": "Outlook: Microsoft meldet weltweite Störung von Outlook und Teams",
+      "link": "https://www.zeit.de/digital/internet/2026-11/outlook-stoerung-microsoft-365-teams-copilot"
      },
      {
       "name": "FAZ",
-      "title": "Deutschland Liveblog: Berliner Linke fordert Mandatsverzicht von Emde",
-      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-linke-fordert-mandatsverzicht-von-emde-faz-110093143.html"
+      "title": "Outlook und Teams: Was Sie über den Microsoft-Ausfall wissen müssen",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/outlook-und-teams-was-sie-ueber-die-microsoft-stoerung-wissen-muessen-accg-201680619.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Berlin: Berliner Linke fordert Mandatsverzicht von Emde",
-      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-berliner-linke-fordert-mandatsverzicht-von-emde/100267960.html"
+      "title": "Störung: Ausfall bei Microsoft beeinträchtigt Outlook und Teams",
+      "link": "https://www.handelsblatt.com/technik/it-internet/stoerung-ausfall-bei-microsoft-beeintraechtigt-outlook-und-teams/100269552.html"
      }
     ]
    },
@@ -831,104 +874,36 @@
     ]
    },
    {
-    "title": "Studentenliste gewinnt bei Wahl in Serbien",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1673130.html",
-    "image": "https://images.tagesschau.de/image/a0373b83-107d-46b4-9e93-40d5a93dffbc/AAABoXobgYs/AAABnSSvrFg/16x9-big/sendungsbild-1817594.jpg?width=1920",
+    "title": "USA: \"Es ist eine Wahl gegen Donald Trump\"",
+    "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-2026-100.html",
+    "image": "https://images.tagesschau.de/image/3f920a24-99ba-429a-97be-9c6f5987a778/AAABoaVFUXQ/AAABnSSvrFg/16x9-big/demokraten-jubel-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-13T22:51:00+00:00",
+    "time": "2026-11-13T16:12:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Studentenliste gewinnt bei Wahl in Serbien",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1673130.html"
+      "title": "USA: \"Es ist eine Wahl gegen Donald Trump\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-2026-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Nations League: Deutschland gewinnt in Serbien – Brajan Gruda trifft bei Debüt",
-      "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gewinnt-in-serbien-brajan-gruda-trifft-bei-debuet-a-f3e8c5e0-da5a-4d31-8711-8fc4b4dce49a#ref=rss"
+      "title": "USA: Demokraten inach den Midterms – »Trump hat uns diese Chance gegeben«",
+      "link": "https://www.spiegel.de/ausland/usa-demokraten-inach-den-midterms-trump-hat-uns-diese-chance-gegeben-a-3c2ac8e1-a183-4dad-88db-53682a6ecbbd#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Nations League, 5. Spieltag: Deutschland schlägt Serbien",
-      "link": "https://www.zeit.de/sport/2026-11/nations-league-deutschland-serbien-klopp"
+      "title": "Ergebnisse der Midterms: Und was heißt das jetzt für uns?",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/ergebnisse-midterms-bundesregierung-friedrich-merz-usa"
      },
      {
       "name": "FAZ",
-      "title": "Marathon-Debüt: Ein Schwede gewinnt in New York",
-      "link": "https://www.faz.net/aktuell/sport/mehr-sport/der-schwede-andreas-almgren-gewinnt-new-york-marathon-201641811.html"
+      "title": "Nach den Midterms: Jetzt redet Trump wie ein Demokrat",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-rudert-zurueck-eigene-deportationspolitik-zu-hart-201665936.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Wahlen in Serbien: Serbiens Präsident Vucic räumt Wahlniederlage ein",
-      "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-serbiens-praesident-vucic-raeumt-wahlniederlage-ein/100264823.html"
-     }
-    ]
-   },
-   {
-    "title": "Bundeskanzler Merz hält Deutschland bei Gesprächen über Ende des Ukraine-Krieges \"gesetzt\"",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1683544.html",
-    "image": "https://images.tagesschau.de/image/e0de9e2f-4696-4504-b8be-7d248a195b02/AAABodbQVT8/AAABnSSvrFg/16x9-big/sendungsbild-1827238.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-13T21:29:06+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Bundeskanzler Merz hält Deutschland bei Gesprächen über Ende des Ukraine-Krieges \"gesetzt\"",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1683544.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Ukraine-Krieg: Deutschland ist laut Friedrich Merz bei nächsten Gesprächen »gesetzt«",
-      "link": "https://www.spiegel.de/politik/ukraine-verhandlungen-deutschland-laut-friedrich-merz-bei-naechsten-gespraechen-gesetzt-a-846f2c06-57be-4740-9452-b750a51456a2#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Ukrainekrieg: Merz sieht deutsche Teilnahme bei Ukraine-Friedensgesprächen »gesetzt«",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/verhandlungen-ukraine-russland-europa-kaja-kallas-ursula-von-der-leyen-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Liveblog Ukrainekrieg: Merz: Deutschland ist für Friedensgespräche „gesetzt“",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-deutschland-ist-fuer-friedensgespraeche-gesetzt-faz-110683325.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Selenskyj nennt Trumps Friedensplan gefährlich",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-selenskyj-nennt-trumps-friedensplan-gefaehrlich/27982126.html"
-     }
-    ]
-   },
-   {
-    "title": "VW-Konzern meldet Milliardenverlust im dritten Quartal",
-    "link": "https://www.tagesschau.de/video/video-1674414.html",
-    "image": "https://images.tagesschau.de/image/1d52fb97-9fc4-4090-b395-b27d84c83fd6/AAABoYbNEGw/AAABnSSvrFg/16x9-big/sendungsbild-1818940.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-13T18:57:33+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "VW-Konzern meldet Milliardenverlust im dritten Quartal",
-      "link": "https://www.tagesschau.de/video/video-1674414.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Volkswagen: Umsatz und Absatz brechen ein – Milliardenverlust im dritten Quartal",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "VW: Volkswagen macht im dritten Quartal Milliardenverlust",
-      "link": "https://www.zeit.de/mobilitaet/2026-10/volkswagen-macht-im-dritten-quartal-milliardenverlust"
-     },
-     {
-      "name": "FAZ",
-      "title": "Autohersteller: Volkswagen macht 5,8 Milliarden Euro Verlust",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-meldet-milliardenverlust-im-dritten-quartal-accg-201631461.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Börsengang: Anthropics 64-Milliarden-Dollar-Wette: Das sagt Amodei zu Chancen, Profit und KI-Sicherheit",
-      "link": "https://www.handelsblatt.com/technik/it-internet/anthropic-chef-dario-amodei-spricht-ueber-chancen-profit-und-ki-sicherheit/100269790.html"
+      "title": "+++ US-Midterms +++: Demokraten kündigen Korruptionsermittlungen gegen Trump an",
+      "link": "https://www.handelsblatt.com/politik/international/nach-us-midterms-demokraten-kuendigen-korruptionsermittlungen-gegen-trump-an/29669594.html"
      }
     ]
    }
@@ -1235,6 +1210,21 @@
   "eu": {
    "24h": [
     {
+     "title": "Aktuelle Nachrichten von Databento",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EaXBCQUd6T2p1b2RKcElWdklqVFAzYnFFSnVDNl9JUk80RU53Wnh4U2ZXODNBRlRCUGw5QXI3NkppdmdxRlNwNEpIcmZYMVBvcUlTRkc0c3dvZzN4?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-15T16:28:58+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Databento recent news",
+       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EaXBCQUd6T2p1b2RKcElWdklqVFAzYnFFSnVDNl9JUk80RU53Wnh4U2ZXODNBRlRCUGw5QXI3NkppdmdxRlNwNEpIcmZYMVBvcUlTRkc0c3dvZzN4?oc=5"
+      }
+     ],
+     "title_orig": "Databento recent news"
+    },
+    {
      "title": "- FinTech-Futures",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWNyWEhuZ3BtbjhhUTAxVG5PZFFDZnZSZFdObDVxQllWVXIwWHVPRV9xZHZWV2pZam5GTmtaOU1aOWUxUWk5eXhsZzFqYUJXLVZ6amhjYkZ6cTNwbTRuNkpsZ1AzaE8yMGZzcWZQaXpQNldQOXBCcExtWVVtbGNRWFFqcHBRTEgyNWV5NDI3N055alA5UTh6UDhYbDJ2dnc?oc=5",
      "image": "",
@@ -1534,31 +1524,6 @@
      "title_orig": "German banks form financial crime fighting JV"
     },
     {
-     "title": "TEN Credit Union wählt Bankjoy für seine Corelation KeyStone-Konvertierung aus",
-     "link": "https://www.finextra.com/pressarticle/111431/ten-credit-union-selects-bankjoy-for-its-corelation-keystone-conversion?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 3,
-     "time": "2026-10-27T11:33:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion",
-       "link": "https://www.finextra.com/pressarticle/111431/ten-credit-union-selects-bankjoy-for-its-corelation-keystone-conversion?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "TEN Credit Union picks Bankjoy for digital banking",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmxSYUVSb3VoNW9xbzlsUWFpU1RIR2RuRGZvYzFsSjJ1VTJNUlJBMFh3QVNURkxYR21leDZWWDFsa3NnRXI2ZS0yd1ViWXQtTTl6OFJZV0x4WUVmYldydmVtVkYtNE1vLW02QVFwLXF6bnp5UXp3SzVkeXVJc2VzMC1LbUFzWk4xY2oyN3FXYlA4QzFFZEVzRndPQ2hISDByMXc?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Sound Credit Union",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOeWlJeXc2Yzg5U2FWNlFDVlFwRjhzYkFNRXlCSVF1M1hHYklPeGxNMHBDd2x5VGlRNEdQdlhzNUVBZ3AwYzUxZ2xBeUkxdnRUbElmeV9keEoydzhXSHhRZDlOeS1oU0lD?oc=5"
-      }
-     ],
-     "title_orig": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion"
-    },
-    {
      "title": "Tech Mahindra erwirbt die Cash-Management-Sparte von Finastra",
      "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1687,6 +1652,26 @@
       }
      ],
      "title_orig": "Northern Trust and Microsoft deploy AI agent for client onboarding"
+    },
+    {
+     "title": "Lloyds unterstützt die Kreditvergabe an KMU durch Momenta Finance",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVk5hMzlVaFBCY0VucUdfeGZzSlgzYy0xbjdxY3NQbUNjUkh5N1d6NGh0WU9ZTzRLZ3VtS2tXRnc1WXpSWWdWT0hPZlNad1J3RnJXMEp1N0NFbjA1TXRnZ2kyU2hIeW1zVGhGY0Q5ZVhKOHZZX3dGemZuUkd2TzdhUzdBUHhVbG1VS1hMNG9pZllDZGEtdVNZdU5ENm8tbGM?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-13T17:43:13+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Lloyds backs Momenta Finance SME lending",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVk5hMzlVaFBCY0VucUdfeGZzSlgzYy0xbjdxY3NQbUNjUkh5N1d6NGh0WU9ZTzRLZ3VtS2tXRnc1WXpSWWdWT0hPZlNad1J3RnJXMEp1N0NFbjA1TXRnZ2kyU2hIeW1zVGhGY0Q5ZVhKOHZZX3dGemZuUkd2TzdhUzdBUHhVbG1VS1hMNG9pZllDZGEtdVNZdU5ENm8tbGM?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Momenta Finance secures up to £200m lending facility from Lloyds",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDRlaTJGOV9BdnVHNnpwUklLLUw5YmZnZVRYa3Mxb1ktYXNGeGlzMDYwM0twZV9pc1NrTm9sZHFhNTNHT0FTRVlxd2cxM2dMYlEtV2NOeHg1bWtQSmlPMU5OTzNiTDdLam5CLVktb3JtNmthX002V1N4Q1hZRFpncDl3U213VkZvRHkycFNB?oc=5"
+      }
+     ],
+     "title_orig": "Lloyds backs Momenta Finance SME lending"
     }
    ]
   },
@@ -2115,53 +2100,53 @@
     "lang": "de",
     "items": [
      {
-      "title": "baden-baden",
-      "link": "https://www.bild.de/regional/baden-wuerttemberg/drei-tote-bei-unfall-in-baden-baden-mercedes-stuerzt-von-bruecke-6af9b2146b444af68d4ad4f7",
-      "meta": "1000+ Suchanfragen"
+      "title": "tor des monats",
+      "link": "https://fcbayern.com/de/news/2026/11/fc-bayern-tor-des-monats-oktober-2026-dayot-upamecano",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "remscheid",
-      "link": "https://www.rga.de/lokales/remscheid/tierschuetzerinnen-sind-sauer-in-remscheid-verteilt-das-ordnungsamt-zum-weihnachtsmarkt-im-tierheim-QQP7YTRJN5BAFGTCS6D3KTYUSI.html",
+      "title": "dellmensingen",
+      "link": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/zwei-tote-zwei-schwerverletzte-nach-unfall-bei-erbach-100.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "mario götze",
-      "link": "https://www.sport1.de/tv-video/video/podolski-es-klang-als-kaeme-eine-kanone-aus-seinem-fuss__e0907d11-e5df-4295-bd63-c76d2b794ff6",
+      "title": "titans – jaguars",
+      "link": "https://sports.yahoo.com/articles/week-10-inactives-jaguars-165813279.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "das traumschiff",
-      "link": "https://www.joyn.de/bts/serien/the-power/nach-traumschiff-dreh-startet-narumol-david-jetzt-eine-schauspiel-karriere-214048",
+      "title": "taiwan",
+      "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "b73",
-      "link": "https://www.tageblatt.de/Lokales/Tankbetrueger-stiehlt-Sprit-in-Buxtehude-und-fluechtet-ueber-B73-784849.html",
+      "title": "deutschland sucht den superstar",
+      "link": "https://www.joyn.de/bts/themen/stars/extrem-gefallen-pietro-lombardi-ueber-seinen-finanziellen-absturz-216786",
+      "meta": "2000+ Suchanfragen"
+     },
+     {
+      "title": "afd kandidat bundespräsident",
+      "link": "https://www.zeit.de/news/2026-11/14/afd-schickt-ex-fussballer-berthold-ins-rennen-um-bellevue",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "международный аэропорт майами",
-      "link": "https://www.interfax.ru/world/1129125",
-      "meta": "200+ Suchanfragen"
+      "title": "gta grand theft auto",
+      "link": "https://www.spiegel.de/netzwelt/games/gta-6-so-praegt-das-spiel-die-debatte-um-games-gewalt-und-kulturellen-wandel-a-628027ae-f865-411d-84e7-23c932e99803",
+      "meta": "10000+ Suchanfragen"
      },
      {
-      "title": "gefängnis",
-      "link": "https://www.zeit.de/news/2026-11/15/haeftling-bei-mrt-termin-befreit-land-besorgt-eigenes-geraet",
-      "meta": "200+ Suchanfragen"
+      "title": "promille",
+      "link": "https://www.welt.de/regionales/baden-wuerttemberg/article6af98a0d4468a1e3991a311f/mit-2-5-promille-am-steuer-frau-platzen-mehrere-reifen.html",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "aj brown",
-      "link": "https://www.patriots.com/news/inactives-analysis-patriots-wr-a-j-brown-rb-rhamondre-stevenson-officially-active-for-sunday-s-game-vs-lions-in-munich",
-      "meta": "200+ Suchanfragen"
+      "title": "kanaren",
+      "link": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "wilhelmsruh",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/wilhelmsruh-schlaegerei-verlobungsfeier.html",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "dakota johnson",
-      "link": "https://www.gala.de/beauty-fashion/fashion/justin-trudeau---katy-perry--so-unterschiedlich-machen-sie-ihre-date-night-zum-highlight_24715886-20878904.html",
+      "title": "die millionen idee",
+      "link": "https://www.ardmediathek.de/video/riverboat/ralf-duemmel-das-beste-produkt-ist-toilettenpapier/mdr/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy85MWFiNzAwZi03NWY1LTQyN2QtOTM1Yi1mZDVhMzc2MDgyODA",
       "meta": "200+ Suchanfragen"
      }
     ]
@@ -2229,33 +2214,30 @@
     "lang": "fr",
     "items": [
      {
-      "title": "Sozialbeiträge",
-      "link": "https://www.bfmtv.com/economie/entreprises/ils-representent-70-milliards-d-euros-par-an-le-gouvernement-veut-toucher-aux-allegements-de-cotisations-sur-le-travail-les-entreprises-craignent-d-etre-mises-au-tapis_AD-202611150277.html",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "cotisations sociales"
+      "title": "montiel",
+      "link": "https://chihuahua.quadratin.com.mx/politica/%F0%9F%93%8C%F0%9F%93%B0-el-cen-de-morena-comparte-el-siguiente-comunicado-de-prensa/",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Nischnekamsk",
-      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-important-site-industriel-russe-touche-par-des-frappes-attribuees-a-kiev_8283350.html",
+      "title": "Saints – Panthers",
+      "link": "https://www.mapleleaffoods.com/video/esp/video-panthers-saints-live-now_170.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "nijnekamsk"
+      "title_orig": "saints – panthers"
      },
      {
-      "title": "Sophrologin",
-      "link": "https://www.ladepeche.fr/2026/11/14/elle-propose-quatre-seances-gratuites-de-sophrologie-13652239.php",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "sophrologue"
+      "title": "msb",
+      "link": "https://www.ouest-france.fr/sport/basket/le-mans/direct-le-mans-sb-asvel-suivez-le-choc-de-la-8e-journee-delite-en-live-2e9190f5-1391-4b4d-888d-2d088f0c1245",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Wetter Caen",
-      "link": "https://www.ouest-france.fr/meteo/bretagne/fougeres-35300/la-meteo-du-jour-a-fougeres-6f25651d-2786-46f7-82dc-e2196f7934a0",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "meteo caen"
+      "title": "metz handball",
+      "link": "https://www.lequipe.fr/Handball/Actualites/Metz-ecrase-odense-au-danemark-et-passera-la-treve-invaincu-en-ligue-des-champions/1743859",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "jessica chastain",
-      "link": "https://screenrant.com/netflix-heartland-movie-rotten-tomatoes-score-jessica-chastain-streak/",
-      "meta": "500+ Suchanfragen"
+      "title": "zuriko davitashvili",
+      "link": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/norvege-pays-de-galles-live/688747",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2264,31 +2246,31 @@
     "lang": "it",
     "items": [
      {
-      "title": "Neapel - Triest",
-      "link": "https://www.rainews.it/tgr/campania/video/2026/11/napoli-basket-sfida-dalta-quota-con-trieste-tra-assenze-sogni-eurolega-e-larrivo-di-josh-hart-1cade864-d124-4f22-b9d6-9edbc35e5ea1.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "napoli - trieste"
+      "title": "domodossola",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/inseguiti-da-forze-dellordine-giovane-muore-in-un-dirupo-un-altro-ferito_7d5ced4c-5b57-476e-b719-2dd67e351999.html",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "ravenna fc",
-      "link": "https://www.repubblica.it/en/sport/2026/11/14/news/ronaldinho_sells_out_ravenna_with_serie_a-style_prices_120_in_the_grandstand_and_30_in_the_standing_section-425723311/",
+      "title": "Spanien England",
+      "link": "https://sport.sky.it/calcio/nations-league/partite/2026/giornata-6/spagna-inghilterra/risultato-gol",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "spagna inghilterra"
+     },
+     {
+      "title": "ferraratoday",
+      "link": "https://www.ferraratoday.it/cronaca/commercio-bondeno-bando-botteghe-negozi-finanziamenti.html",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "juventus next gen",
+      "link": "https://www.juventus.com/it/news/gallerie/gallery-under-17-juventus-bologna",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "vanessa scalera",
-      "link": "https://www.iodonna.it/spettacoli/tv/2026/11/12/vanessa-scalera-perche-ha-lasciato-imma-tataranni/",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "Serie A der Frauen",
-      "link": "https://www.asroma.com/it/notizie/76225/che-gara-al-tre-fontane-la-roma-batte-il-parma-6-5-e-ottiene-la-settima-vittoria-di-fila",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "serie a femminile"
-     },
-     {
-      "title": "walter sabatini",
-      "link": "https://www.virgilio.it/sport/walter-sabatini-gasperini-massara-roma-inter-malen-980245",
-      "meta": "200+ Suchanfragen"
+      "title": "Sixers – Pacers",
+      "link": "https://www.espn.com/nba/story/_/id/50484216/76ers-joel-embiid-vs-pacers-due-plantar-fascia-management",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "sixers - pacers"
      }
     ]
    },
@@ -2297,30 +2279,33 @@
     "lang": "es",
     "items": [
      {
-      "title": "macarena gómez",
-      "link": "https://www.marca.com/tiramillas/series/2026/11/14/avecina-fernando-tejero-macarena-gomez-viene-lejos.html",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "coll de banyuls",
-      "link": "https://www.lavanguardia.com/local/girona/20261115/11684702/buscan-menor-13-anos-perdido-excursion-alt-emporda.html",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "barça - obradoiro",
-      "link": "https://www.betfair.es/blog/baloncesto/liga-acb/barcelona---obradoiro-horario-donde-ver-bajas-estadisticas-y-pronosticos-151126-1377.html",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "Schottland – Australien",
-      "link": "https://www.espn.com.ar/rugby/nota/_/id/17518568/rugby-argentina-nations-championship-horario-formaciones-como-ver-en-vivo-resultado-escocia-australia",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "escocia - australia"
-     },
-     {
-      "title": "lions - patriots",
-      "link": "https://www.reutersconnect.com/item/nfl-new-england-patriots-at-detroit-lions/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTc0ODE",
+      "title": "luis garcía plaza",
+      "link": "https://www.marca.com/futbol/sevilla/2026/11/15/luis-garcia-plaza-estan-haciendo-liga-dos-equipos-tengan-superioridad-total-1.html",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Comerciantes Unidos – Sport Boys",
+      "link": "https://as.com/apuestas/pronosticos/comerciantes-unidos-vs-sport-boys-pronostico-15-11-2026/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "comerciantes unidos - sport boys"
+     },
+     {
+      "title": "Erste Frauenliga",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20261114/23854/horario-partido-ca-valencia-w-granada-cf-w-ctx.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "primera división femenina"
+     },
+     {
+      "title": "Laufflächenablösung",
+      "link": "https://www.cmmedia.es/noticias/castilla-la-mancha/un-desprendimiento-de-roca-provoca-el-corte-total-de-la-la-c.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "desprendimiento"
+     },
+     {
+      "title": "Fenerbahçe – Anadolu Efes",
+      "link": "https://www.fenerbahce.org/haberler/basketbol-erkek/2026/11/fenerbahce-tarfin-anadolu-efes-i-konuk-ediyor",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "fenerbahçe - anadolu efes"
      }
     ]
    },
@@ -2329,32 +2314,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "rugby-Weltmeisterschaft 2027",
-      "link": "https://www.ruck.co.uk/springboks-rugby-news/springboks-nightmare-2027-rugby-world-cup-route",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "rugby world cup 2027"
-     },
-     {
-      "title": "myleene klass",
-      "link": "https://www.thenews.com.pk/latest/1423521-myleene-klass-spills-huge-moment-with-king-charles",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "Wann ist „I'm a Celeb“ 2026?",
-      "link": "https://hellorayo.co.uk/clyde/entertainment/television/im-a-celeb-kiosk-kev/",
+      "title": "Spiel von England heute",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo",
       "meta": "200+ Suchanfragen",
-      "title_orig": "when is im a celeb 2026"
+      "title_orig": "england match today"
      },
      {
-      "title": "luke woodhouse",
-      "link": "https://www.thesun.co.uk/sport/41024212/luke-woodhouse-tom-sykes-grand-slam-of-darts/",
+      "title": "kirk cousins",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-is-the-first-quarterback-with-20-td-passes-to-change-teams-midseason",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "mario frick",
+      "link": "https://www.afc.co.uk/en/news/mario-frick-appointed-head-coach",
+      "meta": "5000+ Suchanfragen"
+     },
+     {
+      "title": "Russland",
+      "link": "https://news.sky.com/story/ukraine-war-latest-russia-estonia-border-sabotage-12541713",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "russia"
+     },
+     {
+      "title": "hms vengeance",
+      "link": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o",
       "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "Australien Rugby",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cm9q8l51pgeqo",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "australia rugby"
      }
     ]
    },
@@ -2363,31 +2347,31 @@
     "lang": "pl",
     "items": [
      {
-      "title": "boris johnson",
-      "link": "https://www.huffingtonpost.co.uk/entry/boris-johnson-russia-sergei-lavrov_uk_6af9acd8e4b0e2644ec84fa5",
+      "title": "rafał brzoska",
+      "link": "https://przegladsportowy.onet.pl/ofsajd/ewa-chodakowska-szalala-na-urodzinach-rafala-brzoski-spojrzcie-kto-jej-towarzyszyl/reqpc7w",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "Strg",
+      "link": "https://www.washingtonpost.com/technology/2026/11/15/meta-fined-887m-by-italy-accessing-android-users-photos/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "meta"
+     },
+     {
+      "title": "harrison ford",
+      "link": "https://www.instyle.com/harrison-ford-wyoming-estate-details-12246846",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "die Stettiner Stimme",
-      "link": "https://www.gazetaprawna.pl/praca/emerytury-i-renty/artykuly/11343769,wychowalas-dwoje-dzieci-zus-moze-doliczyc-ci-nawet-6-lat-do-stazu-emerytalnego.html",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "głos szczeciński"
+      "title": "Familie",
+      "link": "https://www.onet.pl/informacje/onetwiadomosci/rodzina-zamachowca-z-krakowa-wydala-oswiadczenie-w-sprawie-pogrzebu/bdhy526,79cfc278",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "rodzina"
      },
      {
-      "title": "Alan ist wichtig",
-      "link": "https://www.flashscore.pl/wiadomosci/alan-wazny-zdoby-swoj-pierwszy-tytu-w-karierze-w-finale-w-antalyi-nie-straci-gema/lrdrA86c/",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "alan ważny"
-     },
-     {
-      "title": "cezary kulesza",
-      "link": "https://przegladsportowy.onet.pl/pilka-nozna/reprezentacja-polski/scysja-z-cezarym-kulesza-na-lotnisku-w-rumunii-mamy-nagranie-pojawila-sie-policja/hrzs8r0",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "alexander zverev",
-      "link": "https://www.theguardian.com/sport/live/2026/nov/15/atp-finals-tennis-alexander-zverev-v-rafael-jodar-and-more-live",
-      "meta": "2000+ Suchanfragen"
+      "title": "76ers – pacers",
+      "link": "https://www.espn.com/nba/story/_/id/50484216/76ers-joel-embiid-vs-pacers-due-plantar-fascia-management",
+      "meta": "500+ Suchanfragen"
      }
     ]
    },
@@ -2465,32 +2449,30 @@
     "lang": "en",
     "items": [
      {
-      "title": "Spielplan der Denver Broncos",
-      "link": "https://www.denverbroncos.com/news/ranking-the-top-10-plays-from-the-broncos-7-2-start",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "denver broncos schedule"
+      "title": "omar cooper",
+      "link": "https://sports.yahoo.com/articles/buffalo-bills-concerning-injury-news-174952711.html",
+      "meta": "5000+ Suchanfragen"
      },
      {
-      "title": "scott bessent",
-      "link": "https://www.cnn.com/2026/11/15/politics/lutnick-jensen-alice-huang-trump-nvidia",
+      "title": "xavier hutchinson",
+      "link": "https://www.espn.com/nba/story/_/id/50426497/nuggets-starters-questionable-vs-rockets-plane-delays",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "sione vaki",
-      "link": "https://www.cbssports.com/fantasy/football/news/lions-sione-vaki-suiting-up-in-week-10/",
-      "meta": "2000+ Suchanfragen"
+      "title": "tank dell",
+      "link": "https://www.cbssports.com/fantasy/football/news/week-10-wr-preview-tank-dell-is-back-in-business/",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "\"Gibbs\"",
-      "link": "https://www.detroitlions.com/photos/lions-vs-patriots-week-10-photos",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "gibbs"
+      "title": "chloe kitts",
+      "link": "https://247sports.com/college/south-carolina/article/south-carolina-womens-basketball-transfers-freshman-dawn-staley--292448940/",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "Das geheime Leben der Ehefrauen von Mormonen",
-      "link": "https://www.cnn.com/2026/11/15/entertainment/secret-lives-mormon-wives-orange-county-reality-tv",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "the secret lives of mormon wives"
+      "title": "Travis Etienne Jr.",
+      "link": "https://www.espn.com/nfl/story/_/id/50483551/saints-rb-travis-etienne-activated-ir-game-vs-panthers",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "travis etienne jr."
      }
     ]
    },
@@ -2499,31 +2481,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "Schulferien anlässlich des Chhath Puja 2026",
-      "link": "https://www.ndtv.com/india-news/delhi-metro-to-start-services-at-4-30-am-on-chhath-pujas-final-day-12330052",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "chhath puja school holiday 2026"
+      "title": "primera división",
+      "link": "https://www.fichajes.com/a3381844320747676134-un-nuevo-destino-para-manuel-pellegrini",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "jensen huang nvidia",
-      "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-      "meta": "500+ Suchanfragen"
+      "title": "felsig",
+      "link": "https://6abc.com/post/rocky-run-takes-philadelphia/20040629/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "rocky"
      },
      {
-      "title": " ",
-      "link": "https://www.anandabazar.com/west-bengal/kolkata/depression-in-bay-of-bengal-likely-to-form-cyclonic-storm-on-monday-evening-dgtl/cid/1726473",
-      "meta": "10000+ Suchanfragen",
-      "title_orig": "আগামীকালের আবহাওয়া"
+      "title": "diljit dosanjh",
+      "link": "https://timesofindia.indiatimes.com/city/indore/agar-khilaaf-hain-hone-do-kisi-ke-baap-ka-hindustan-thodi-hai-diljit-dosanjh-takes-stage-in-indore-despite-threats-opposition/articleshow/135860821.cms",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "thrigun",
-      "link": "https://www.deccanchronicle.com/entertainment/television/double-elimination-in-bigg-boss-telugu-10-2004306",
-      "meta": "500+ Suchanfragen"
+      "title": "বাঁধ",
+      "link": "https://www.anandabazar.com/india/tamil-nadu-congress-is-not-happy-with-karnataka-cm-dk-shivkumars-comment-on-mekedatu-dam-dgtl/cid/1726412",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "ravenna fc",
-      "link": "https://www.espn.in/football/story/_/id/50489043/ronaldinho-ravenna-brazil-barcelona-serie-c",
-      "meta": "1000+ Suchanfragen"
+      "title": "wer wurde heute bei bigg boss 20 rausgeworfen",
+      "link": "https://www.deccanchronicle.com/entertainment/television/bigg-boss-20-braces-for-a-double-elimination-2004035",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "who evicted from bigg boss 20 today"
      }
     ]
    },
@@ -2532,33 +2514,32 @@
     "lang": "pt",
     "items": [
      {
-      "title": "Zyklon",
-      "link": "https://metsul.com/2026-11-14-tempo-tornado-girua/",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "tornado"
-     },
-     {
-      "title": "Gletscher",
-      "link": "https://oglobo.globo.com/blogs/clima-extremo/noticia/2026/11/15/cientistas-divulgam-atualizacao-preocupante-sobre-o-derretimento-da-geleira-do-fim-do-mundo.ghtml",
+      "title": "strenge Warnung vor starken Regenfällen",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/bh-registra-chuva-forte-e-granizo-nesta-tarde-de-domingo.ghtml",
       "meta": "200+ Suchanfragen",
-      "title_orig": "geleira"
+      "title_orig": "alerta severo de chuvas intensas"
      },
      {
-      "title": "mega-sena",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-confira-os-numeros-sorteados.ghtml",
-      "meta": "5000+ Suchanfragen"
+      "title": "ps4",
+      "link": "https://gameinformer.com/2026/11/13/god-of-war-sons-of-sparta-gets-ps4-version-and-new-content-next-monday",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Krachgeräusche",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/15/o-que-explica-os-estrondos-misteriosos-de-madrugada-em-bairro-de-barretos-defesa-civil-investiga-tres-hipoteses.ghtml",
+      "title": "eliana",
+      "link": "https://gshow.globo.com/tv/em-familia-com-eliana/video/eliana-arrasa-em-desafio-do-bambole-de-jose-loreto-15190074.ghtml",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Saints vs. Panthers",
+      "link": "https://www.mapleleaffoods.com/video/esp/video-panthers-saints-live-now_170.html",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "saints x panthers"
+     },
+     {
+      "title": "getäuscht",
+      "link": "https://noticiasdatv.uol.com.br/noticia/novelas/novela-iludida-asya-e-sequestrada-e-precisa-dividir-cativeiro-com-sua-maior-rival-159434",
       "meta": "200+ Suchanfragen",
-      "title_orig": "estrondos"
-     },
-     {
-      "title": "stehlen",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/14/mulher-e-presa-apos-furto-de-oito-pecas-de-picanha-avaliadas-em-r-11-mil-em-supermercado-de-piracicaba.ghtml",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "furto"
+      "title_orig": "iludida"
      }
     ]
    },
@@ -2567,34 +2548,34 @@
     "lang": "ja",
     "items": [
      {
-      "title": "TOHO Cinemas Shinjuku",
-      "link": "https://news.yahoo.co.jp/articles/d90478941e7b632424f710eee62407062adbc6ad",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "tohoシネマズ 新宿"
-     },
-     {
-      "title": "Film „Wie ein Stern“",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E6%B1%9D%E6%98%9F%E3%81%AE%E5%A6%82%E3%81%8F%20%E6%98%A0%E7%94%BB",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "汝星の如く 映画"
-     },
-     {
-      "title": "Hiroshi Miyama",
-      "link": "https://news.yahoo.co.jp/expert/articles/229874fc3a1b8c7c4d4da9c37ad17164d40ed65b",
+      "title": "Fukuoka Präfekturversammlung",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75955",
       "meta": "1000+ Suchanfragen",
-      "title_orig": "三山 ひろし"
+      "title_orig": "福岡県議会"
      },
      {
-      "title": "Zug",
-      "link": "https://news.yahoo.co.jp/articles/31100659cb74dcc79119beec1cfc43ef8162dc40",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "列車"
+      "title": "Momoko Tanigawa",
+      "link": "https://news.yahoo.co.jp/articles/81198fe25e1c454e5efcfa508e1516356aefec87",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "谷川萌々子"
      },
      {
-      "title": "Kanazawa-Marathon",
-      "link": "https://news.yahoo.co.jp/articles/9741609f07dabf91bd1db26c9413b0a1f5c4fe1e",
+      "title": "Profi-Baseball-Meisterschaft",
+      "link": "https://www.japan-baseball.jp/jp/team/topteam/score/20261113_2/",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "プロ野球チャンピオンシップ"
+     },
+     {
+      "title": "Nissan Skyline",
+      "link": "https://news.yahoo.co.jp/articles/68cb4eb2d9a47fae410d8b06a70d5c000b18ae24?page=2",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "日産・スカイライン"
+     },
+     {
+      "title": "Professionelle Kämpferliga",
+      "link": "https://www.jpx.co.jp/learning/tour/virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3dvcmxkY2MyMDIyLWVuZy5naXRodWIuaW8vbm92ZW1iZXIxNC1ldmVudHMtd29ybGQvMTRub3ZlbWJlci54bWwiLz48L2tycGFubz4=&id=watch-now-pfl-dubai-vadim-nemkov-vs-sergey-bilostenniy-watch-now-onliine-livvve-coverage-sfgsw4",
       "meta": "100+ Suchanfragen",
-      "title_orig": "金沢マラソン"
+      "title_orig": "professional fighters league"
      }
     ]
    },
@@ -2663,32 +2644,32 @@
      {
       "title": "NVIDIA soll angeblich durch die Finanzierung von KI-Start-ups, die seine GPUs kaufen, für Knappheit gesorgt haben",
       "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "meta": "TechPowerUp · 807 Personen teilen",
+      "meta": "TechPowerUp · 814 Personen teilen",
       "title_orig": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs"
      },
      {
       "title": "Nach 26 Jahren haben die USA ihren Status als Land, in dem die Masern ausgerottet sind, verloren",
       "link": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status",
-      "meta": "CNN · 539 Personen teilen",
+      "meta": "CNN · 544 Personen teilen",
       "title_orig": "After 26 years, the US has lost its measles elimination status"
      },
      {
       "title": "Italien verhängt gegen Meta eine Geldbuße in Höhe von 887 Mio. USD wegen des Zugriffs auf Fotos und Videos von Android-Nutzern",
       "link": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
-      "meta": "The Guardian · 176 Personen teilen",
+      "meta": "The Guardian · 184 Personen teilen",
       "title_orig": "Italy fines Meta $887m for accessing Android users’ photos and videos"
+     },
+     {
+      "title": "Lutnick setzte sich dafür ein, die Vorschriften für Chips zu lockern, die sich mit dem Familienunternehmen überschneiden",
+      "link": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html",
+      "meta": "The New York Times · 95 Personen teilen",
+      "title_orig": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business"
      },
      {
       "title": "Israel: Das Heilige Land in Flammen setzen",
       "link": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn",
-      "meta": "Al Jazeera · 83 Personen teilen",
+      "meta": "Al Jazeera · 93 Personen teilen",
       "title_orig": "Israel: Making the Holy Land burn"
-     },
-     {
-      "title": "Tausende demonstrieren in Edinburgh gegen KI-Rechenzentren",
-      "link": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
-      "meta": "BBC News · 172 Personen teilen",
-      "title_orig": "Thousands turn out in Edinburgh to protest against AI data centres"
      }
     ]
    }
@@ -2699,7 +2680,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 67,
+   "count": 63,
    "error": ""
   },
   {
@@ -2776,7 +2757,7 @@
    "source": "The Paypers",
    "category": "pay_eu",
    "ok": true,
-   "count": 91,
+   "count": 88,
    "error": ""
   },
   {
@@ -2917,7 +2898,7 @@
    "category": "translate",
    "ok": true,
    "count": 102,
-   "info": "102 von 102 Überschriften übersetzt (neu in diesem Lauf: MyMemory 41). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "info": "102 von 102 Überschriften übersetzt (neu in diesem Lauf: MyMemory 45). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
