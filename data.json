@@ -1,14 +1,48 @@
 {
- "generated": "2026-11-19T04:07:41+00:00",
+ "generated": "2026-11-19T07:29:07+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
+   {
+    "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
+    "image": "https://images.tagesschau.de/image/6962dfba-07c1-4aa0-aa94-86857f740465/AAABofETAbs/AAABnSSvrFg/16x9-big/anthropic-138.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-19T07:23:33+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Anthropic-Börsengang: Ausgabepreis von 83 Dollar je Aktie festgelegt",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-boersengang-ausgabepreis-von-83-dollar-je-aktie-festgelegt-a-816300aa-dd4b-44d5-90cd-f7f5403e3b35#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Rekord-Börsengang: Anthropic sammelt über 81 Milliarden Dollar ein",
+      "link": "https://www.zeit.de/video/2026-11/rekord-boersengang-anthropic-sammelt-ueber-81-milliarden-dollar-ein"
+     },
+     {
+      "name": "FAZ",
+      "title": "Künstliche Intelligenz: Anthropic schafft Rekord-Börsengang",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/geld-fuer-die-ki-anthropic-legt-rekord-boersengang-hin-201696457.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Erstnotiz: Historischer IPO – Anthropic sammelt 81 Milliarden Dollar ein",
+      "link": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-historischer-ipo-anthropic-sammelt-81-milliarden-dollar-ein/100270370.html"
+     }
+    ]
+   },
    {
     "title": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
     "image": "https://images.tagesschau.de/image/8a268990-afaf-46e2-a32a-b9b72c2724c1/AAABoe96oJY/AAABnSSvrFg/16x9-big/werbung-gta-vi-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-18T23:54:46+00:00",
+    "time": "2026-11-19T07:19:21+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -27,62 +61,52 @@
      },
      {
       "name": "FAZ",
-      "title": "Grand Theft Auto VI: Rettet GTA 6 die Gaming-Branche?",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gta-6-wird-nicht-floppen-wird-das-spiel-den-erwartungen-gerecht-201665027.html"
+      "title": "Grand Theft Auto VI: Wo bleibt das deutsche GTA?",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wo-bleibt-das-deutsche-gta-201687565.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "„Grand Theft Auto VI“: Computerspiel GTA 6 ist in Deutschland verfügbar",
-      "link": "https://www.handelsblatt.com/technik/grand-theft-auto-vi-computerspiel-gta-6-ist-in-deutschland-verfuegbar/100271085.html"
+      "title": "Grand Theft Auto VI: Computerspiel GTA 6 ist in Deutschland verfügbar",
+      "link": "https://www.handelsblatt.com/unternehmen/it-medien/grand-theft-auto-vi-computerspiel-gta-6-ist-in-deutschland-verfuegbar/100271085.html"
      }
     ]
    },
    {
-    "title": "Regierungskoalition einigt sich auf Stromsteuersenkung für mindestens ein Jahr",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1686192.html",
-    "image": "https://images.tagesschau.de/image/25a13520-fa59-477e-956a-8f5ec662e904/AAABofCM5Vo/AAABnSSvrFg/16x9-big/sendungsbild-1829636.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-18T21:32:06+00:00",
+    "title": "Liveblog zum APEC-Gipfel: ++ Trump und Xi loben sich gegenseitig ++",
+    "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
+    "image": "https://images.tagesschau.de/image/fa890199-5e9b-4f42-a6e7-12542b8e599f/AAABofJjYBA/AAABnSSvrFg/16x9-big/trump-xi-166.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-19T07:18:10+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Regierungskoalition einigt sich auf Stromsteuersenkung für mindestens ein Jahr",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1686192.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Koalition einigt sich auf Senkung der Stromsteuer und Spritpreisdeckel",
-      "link": "https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss"
+      "title": "Liveblog zum APEC-Gipfel: ++ Trump und Xi loben sich gegenseitig ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html"
      },
      {
       "name": "Zeit Online",
-      "title": "Stromsteuersenkung: Koalition einigt sich auf Senkung der Stromsteuer für ein Jahr",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/koalition-einigt-sich-auf-senkung-der-stromsteuer-fuer-ein-jahr"
+      "title": "Apec-Gipfel in Shenzhen: Trump und Putin sprechen vor Dreiergipfel über Ukrainekrieg",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/apec-gipfel-shenzhen-donald-trump-wladimir-putin-xi-jinping"
      },
      {
       "name": "FAZ",
-      "title": "Verabschiedung des Bundeshaushalts: Koalition einigt sich auf Senkung der Stromsteuer",
-      "link": "https://www.faz.net/video/koalition-einigt-sich-auf-senkung-der-stromsteuer-201694053.html"
+      "title": "Apec-Gipfel: Trump stärkt Chinas Macht",
+      "link": "https://www.faz.net/premium/weltwirtschaft/apec-gipfel-trump-staerkt-chinas-macht-201696942.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Bundesregierung: Koalition einigt sich auf Senkung der Stromsteuer",
-      "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-koalition-einigt-sich-auf-senkung-der-stromsteuer/100270667.html"
+      "title": "+++ Apec-Gipfel +++: Trump begrüßt Putin mit der Frage: „Wer ist er?“",
+      "link": "https://www.handelsblatt.com/politik/international/apec-gipfel-trump-begruesst-putin-mit-wer-ist-er/100270890.html"
      }
     ]
    },
    {
-    "title": "Chinas Staatschef Xi begrüßt Trump und Putin zum APEC-Gipfel in Shenzhen",
-    "link": "https://www.tagesschau.de/video/video-1685944.html",
-    "image": "https://images.tagesschau.de/image/1fadacca-220a-4252-96a9-fcc7ec85f219/AAABoe94egE/AAABnSSvrFg/16x9-big/sendungsbild-1829454.jpg?width=1920",
-    "n_sources": 5,
+    "title": "Apec in China: Wird das Treffen zwischen Xi Jinping, Wladimir Putin und Donald Trump ein »Jalta 2.0«?",
+    "link": "https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/cc968eb6-c4b5-4ecb-954c-5464bf2fc2ac_w520_r2.08_fpx33.32_fpy49.98.jpg",
+    "n_sources": 4,
     "time": "2026-11-18T18:47:00+00:00",
     "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Chinas Staatschef Xi begrüßt Trump und Putin zum APEC-Gipfel in Shenzhen",
-      "link": "https://www.tagesschau.de/video/video-1685944.html"
-     },
      {
       "name": "Spiegel",
       "title": "Apec in China: Wird das Treffen zwischen Xi Jinping, Wladimir Putin und Donald Trump ein »Jalta 2.0«?",
@@ -106,31 +130,98 @@
     ]
    },
    {
-    "title": "Kompany vor Rückkehr auf die Bayern-Bank",
-    "link": "https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html",
-    "image": "https://images.sportschau.de/image/163eb71b-2eab-439b-b272-e7a64408b0b7/AAABoe7NP3g/AAABnSSvrFg/16x9-big/kompany-300.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-18T19:38:00+00:00",
+    "title": "Einigung über Stromsteuersenkung: Die Koalition ist in eine neue Phase eingetreten",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html",
+    "image": "https://images.tagesschau.de/image/24e569d6-ab8d-4fbb-8251-377c8131cf0c/AAABoe8uGwQ/AAABnSSvrFg/16x9-big/friedrich-merz-546.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-19T06:48:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Kompany vor Rückkehr auf die Bayern-Bank",
-      "link": "https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html"
+      "title": "Einigung über Stromsteuersenkung: Die Koalition ist in eine neue Phase eingetreten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "FC Bayern München: Vincent Kompany kehrt gegen FC Köln an die Seitenlinie zurück",
-      "link": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-kehrt-gegen-fc-koeln-an-die-seitenlinie-zurueck-a-665ce2cb-d4d3-4209-a182-79a2bb850911#ref=rss"
+      "title": "Bundesregierung: Michael Kretschmer rügt Koalition für Umgang mit Stromsteuer-Streit",
+      "link": "https://www.spiegel.de/politik/deutschland/bundesregierung-michael-kretschmer-ruegt-koalition-fuer-umgang-mit-stromsteuer-streit-a-3dc6a8c7-65fa-4056-92a1-8c4571bba0b2#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "FC Bayern München: Vincent Kompany gegen Köln zurück auf Bayern-Bank",
-      "link": "https://www.zeit.de/sport/2026-11/vincent-kompany-fc-bayern-muenchen-hirnhautreizung-gxe"
+      "title": "Koalitionsausschuss: Stromsteuersenkung – wie zukunftsfähig ist die Einigung?",
+      "link": "https://www.zeit.de/politik/2026-11/koalitionsausschuss-stromsteuer-spritpreisdeckel-bundesregierung-nachrichtenpodcast"
+     }
+    ]
+   },
+   {
+    "title": "Nach Datenleak: Deutsche-Bank-Papiere weiter unter Druck",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-146.html",
+    "image": "https://images.tagesschau.de/image/8300fb2f-0268-43ec-99da-a181d56cfa58/AAABoe7sBTk/AAABnSSvrFg/16x9-big/christian-sewing-126.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-19T06:24:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Nach Datenleak: Deutsche-Bank-Papiere weiter unter Druck",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-146.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Deutsche-Bank-Leak: Grüne verlangen Einberufung des Nationalen Sicherheitsrats",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-leak-gruene-verlangen-einberufung-des-nationalen-sicherheitsrats-a-2f07df9d-87d1-440d-9f24-1e90751c2883#ref=rss"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Sicherheit: Datenleck bei der Deutschen Bank soll Fall für Nationalen Sicherheitsrat werden",
+      "link": "https://www.handelsblatt.com/politik/deutschland/deutsche-bank-datenleck-soll-fall-fuer-nationalen-sicherheitsrat-werden/100270853.html"
+     }
+    ]
+   },
+   {
+    "title": "Zunächst nur Handelsfragen bei Treffen zwischen Staatschefs Trump, Putin und Xi",
+    "link": "https://www.tagesschau.de/video/video-1686240.html",
+    "image": "https://images.tagesschau.de/image/643eed95-9d1b-4ecc-81e2-6820fe3e188e/AAABofInM0s/AAABnSSvrFg/16x9-big/sendungsbild-1829688.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-19T04:54:03+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Zunächst nur Handelsfragen bei Treffen zwischen Staatschefs Trump, Putin und Xi",
+      "link": "https://www.tagesschau.de/video/video-1686240.html"
      },
      {
       "name": "FAZ",
-      "title": "auktionen in Köln: Zurück zur Natur",
-      "link": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/van-ham-in-koeln-wiederentdeckter-michiel-sweerts-fuehrt-fine-art-auktion-an-accg-201681635.html"
+      "title": "USA unter Trump: Trump dämpft Erwartungen vor Treffen mit Xi und Putin",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-daempft-erwartungen-vor-treffen-mit-xi-und-putin-faz-19444916.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Apec-Gipfel +++: Trump dämpft Erwartungen vor Treffen mit Xi und Putin",
+      "link": "https://www.handelsblatt.com/politik/international/apec-gipfel-trump-daempft-erwartungen-vor-treffen-mit-xi-und-putin/100270890.html"
+     }
+    ]
+   },
+   {
+    "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
+    "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html",
+    "image": "https://images.tagesschau.de/image/e5afe867-7f3c-4c20-8747-547d04171022/AAABofJDxFU/AAABnSSvrFg/16x9-big/krim-bruecke-144.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-19T04:28:24+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
+      "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Ukrainekrieg: Krim-Brücke nach drittem Angriff in einer Woche erneut gesperrt",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/krim-bruecke-kertsch-bruecke-russland-ukraine-angriffe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Liveblog Ukrainekrieg: Neuer Angriff auf Krim-Brücke",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-krim-bruecke-nach-neuem-angriff-gesperrt-faz-110683325.html"
      }
     ]
    },
@@ -159,30 +250,6 @@
     ]
    },
    {
-    "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
-    "image": "https://images.tagesschau.de/image/6962dfba-07c1-4aa0-aa94-86857f740465/AAABofETAbs/AAABnSSvrFg/16x9-big/anthropic-138.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-19T03:24:28+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Anthropic-Börsengang: Ausgabepreis von 83 Dollar je Aktie festgelegt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-boersengang-ausgabepreis-von-83-dollar-je-aktie-festgelegt-a-816300aa-dd4b-44d5-90cd-f7f5403e3b35#ref=rss"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Anthropic: Jeder Mitarbeiter erhält im Schnitt 72 Millionen Dollar: Fünf kuriose Fakten zum Rekord-Börsengang",
-      "link": "https://www.handelsblatt.com/finanzen/anthropic-fuenf-kuriose-fakten-zum-rekord-boersengang/100270457.html"
-     }
-    ]
-   },
-   {
     "title": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
     "link": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
     "image": "https://images.tagesschau.de/image/0c11c42d-43e1-4c3c-83bc-84d0c7b69f5d/AAABofGRwZ0/AAABnSSvrFg/16x9-big/hegseth-192.jpg?width=1920",
@@ -205,87 +272,49 @@
       "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-usa-und-venezuela-vereinbaren-militaerpartnerschaft-faz-19444916.html"
      }
     ]
-   },
-   {
-    "title": "Künstliche Intelligenz: KI-Firma Anthropic schafft Rekord-Börsengang",
-    "link": "https://www.zeit.de/news/2026-11/19/ki-firma-anthropic-schafft-rekord-boersengang",
-    "image": "https://img.zeit.de/news/2026-11/19/ki-firma-anthropic-schafft-rekord-boersengang-image-group/original__640x360",
-    "n_sources": 3,
-    "time": "2026-11-19T00:54:28+00:00",
-    "sources": [
-     {
-      "name": "Zeit Online",
-      "title": "Künstliche Intelligenz: KI-Firma Anthropic schafft Rekord-Börsengang",
-      "link": "https://www.zeit.de/news/2026-11/19/ki-firma-anthropic-schafft-rekord-boersengang"
-     },
-     {
-      "name": "FAZ",
-      "title": "Künstliche Intelligenz: Anthropic setzt Messlatte für Börsengang höher",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-aktie-soll-laut-berichten-83-dollar-kosten-201696457.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Börsengang: Anthropic knackt den IPO-Rekord von SpaceX",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-anthropic-knackt-den-ipo-rekord-von-spacex/100270370.html"
-     }
-    ]
-   },
-   {
-    "title": "André Thierig: Strafbefehl gegen Tesla-Werksleiter in Grünheide erlassen",
-    "link": "https://www.spiegel.de/wirtschaft/andre-thierig-strafbefehl-gegen-tesla-werksleiter-in-gruenheide-erlassen-a-eb920848-0f46-4d31-a3b9-91447b5764ae#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/39701154-3a19-47c2-822c-65187719b1af_w520_r2.08_fpx45.28_fpy50.jpg",
-    "n_sources": 3,
-    "time": "2026-11-18T23:44:08+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "André Thierig: Strafbefehl gegen Tesla-Werksleiter in Grünheide erlassen",
-      "link": "https://www.spiegel.de/wirtschaft/andre-thierig-strafbefehl-gegen-tesla-werksleiter-in-gruenheide-erlassen-a-eb920848-0f46-4d31-a3b9-91447b5764ae#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Tesla: Gericht erlässt Strafbefehl gegen Tesla-Werksleiter André Thierig",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/andre-thierig-tesla-gruenheide-strafbefehl-ig-metall"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Tesla: Amtsgericht erlässt Strafbefehl gegen Leiter der Gigafabrik in Grünheide",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-gericht-erlaesst-strafbefehl-gegen-leiter-der-gigafabrik-in-gruenheide/100270988.html"
-     }
-    ]
-   },
-   {
-    "title": "Nürnberg: Technische Störung legt Hauptbahnhof lahm",
-    "link": "https://www.spiegel.de/panorama/nuernberg-technische-stoerung-legt-hauptbahnhof-lahm-a-ffe95dda-7236-4278-8746-e4c846a8b053#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/106752aa-7d67-4083-a92d-61fe3644f80f_w520_r2.08_fpx49.33_fpy50.jpg",
-    "n_sources": 3,
-    "time": "2026-11-18T20:15:52+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Nürnberg: Technische Störung legt Hauptbahnhof lahm",
-      "link": "https://www.spiegel.de/panorama/nuernberg-technische-stoerung-legt-hauptbahnhof-lahm-a-ffe95dda-7236-4278-8746-e4c846a8b053#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Nürnberg Hauptbahnhof: Bahnverkehr rund um Nürnberg wegen Störung vorübergehend gestoppt",
-      "link": "https://www.zeit.de/mobilitaet/2026-11/nuernberg-hauptbahnhof-stoerung-gsm-r-zugfunk-bahn"
-     },
-     {
-      "name": "FAZ",
-      "title": "im Feierabendverkehr: Störung am Nürnberger Hauptbahnhof behoben",
-      "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/stoerung-am-nuernberger-hauptbahnhof-behoben-201696186.html"
-     }
-    ]
    }
   ],
   "7d": [
+   {
+    "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
+    "image": "https://images.tagesschau.de/image/6962dfba-07c1-4aa0-aa94-86857f740465/AAABofETAbs/AAABnSSvrFg/16x9-big/anthropic-138.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-19T07:23:33+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Anthropic-Börsengang: Ausgabepreis von 83 Dollar je Aktie festgelegt",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-boersengang-ausgabepreis-von-83-dollar-je-aktie-festgelegt-a-816300aa-dd4b-44d5-90cd-f7f5403e3b35#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Rekord-Börsengang: Anthropic sammelt über 81 Milliarden Dollar ein",
+      "link": "https://www.zeit.de/video/2026-11/rekord-boersengang-anthropic-sammelt-ueber-81-milliarden-dollar-ein"
+     },
+     {
+      "name": "FAZ",
+      "title": "Künstliche Intelligenz: Anthropic schafft Rekord-Börsengang",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/geld-fuer-die-ki-anthropic-legt-rekord-boersengang-hin-201696457.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Erstnotiz: Historischer IPO – Anthropic sammelt 81 Milliarden Dollar ein",
+      "link": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-historischer-ipo-anthropic-sammelt-81-milliarden-dollar-ein/100270370.html"
+     }
+    ]
+   },
    {
     "title": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
     "image": "https://images.tagesschau.de/image/8a268990-afaf-46e2-a32a-b9b72c2724c1/AAABoe96oJY/AAABnSSvrFg/16x9-big/werbung-gta-vi-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-18T23:54:46+00:00",
+    "time": "2026-11-19T07:19:21+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -304,13 +333,13 @@
      },
      {
       "name": "FAZ",
-      "title": "Grand Theft Auto VI: Rettet GTA 6 die Gaming-Branche?",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gta-6-wird-nicht-floppen-wird-das-spiel-den-erwartungen-gerecht-201665027.html"
+      "title": "Grand Theft Auto VI: Wo bleibt das deutsche GTA?",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wo-bleibt-das-deutsche-gta-201687565.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "„Grand Theft Auto VI“: Computerspiel GTA 6 ist in Deutschland verfügbar",
-      "link": "https://www.handelsblatt.com/technik/grand-theft-auto-vi-computerspiel-gta-6-ist-in-deutschland-verfuegbar/100271085.html"
+      "title": "Grand Theft Auto VI: Computerspiel GTA 6 ist in Deutschland verfügbar",
+      "link": "https://www.handelsblatt.com/unternehmen/it-medien/grand-theft-auto-vi-computerspiel-gta-6-ist-in-deutschland-verfuegbar/100271085.html"
      }
     ]
    },
@@ -345,74 +374,6 @@
       "name": "Handelsblatt",
       "title": "Bundesregierung: Koalition einigt sich auf Senkung der Stromsteuer",
       "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-koalition-einigt-sich-auf-senkung-der-stromsteuer/100270667.html"
-     }
-    ]
-   },
-   {
-    "title": "Chinas Staatschef Xi begrüßt Trump und Putin zum APEC-Gipfel in Shenzhen",
-    "link": "https://www.tagesschau.de/video/video-1685944.html",
-    "image": "https://images.tagesschau.de/image/1fadacca-220a-4252-96a9-fcc7ec85f219/AAABoe94egE/AAABnSSvrFg/16x9-big/sendungsbild-1829454.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-18T18:47:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Chinas Staatschef Xi begrüßt Trump und Putin zum APEC-Gipfel in Shenzhen",
-      "link": "https://www.tagesschau.de/video/video-1685944.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Apec in China: Wird das Treffen zwischen Xi Jinping, Wladimir Putin und Donald Trump ein »Jalta 2.0«?",
-      "link": "https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Shenzhen: Xi Jinping empfängt Donald Trump persönlich in Shenzhen",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-china-apec-gipfel-xi-jinping-wladimir-putin-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Xi empfängt Trump persönlich am Flughafen",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-xi-empfaengt-trump-persoenlich-am-flughafen-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ Apec-Gipfel +++: Treffen bestätigt: Trump und Putin planen für Donnerstag bilaterales Gespäch in China",
-      "link": "https://www.handelsblatt.com/politik/international/apec-gipfel-trump-und-putin-planen-bilaterales-treffen-in-china/100270890.html"
-     }
-    ]
-   },
-   {
-    "title": "Weißes Haus kündigt Treffen von Trump, Xi und Putin an",
-    "link": "https://www.tagesschau.de/video/video-1683696.html",
-    "image": "https://images.tagesschau.de/image/9b28b7d9-10f1-4d21-ad08-59daeaf81742/AAABodnYBtw/AAABnSSvrFg/16x9-big/sendungsbild-1827422.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-18T18:14:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Weißes Haus kündigt Treffen von Trump, Xi und Putin an",
-      "link": "https://www.tagesschau.de/video/video-1683696.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Donald Trump trifft Wladimir Putin offenbar auch für Zweiergespräch",
-      "link": "https://www.spiegel.de/ausland/donald-trump-trifft-wladimir-putin-offenbar-auch-fuer-zweiergespraech-a-c1a1e3ed-11c8-42dc-956d-613e94778ec2#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Gipfel in China: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
-      "link": "https://www.zeit.de/news/2026-11/14/weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an"
-     },
-     {
-      "name": "FAZ",
-      "title": "Liveblog Ukrainekrieg: Trump plant Zweiergespräch mit Putin",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-plant-zweiergespraech-mit-putin-faz-110683325.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Ukraine: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an/100269831.html"
      }
     ]
    },
@@ -447,6 +408,40 @@
       "name": "Handelsblatt",
       "title": "BSW: Karlsruhe lehnt Wahlbeschwerde des BSW ab – Keine Neuauszählung",
       "link": "https://www.handelsblatt.com/politik/deutschland/bsw-karlsruhe-lehnt-wahlbeschwerde-ab/100270854.html"
+     }
+    ]
+   },
+   {
+    "title": "Nvidia will Huang nicht zurück als Firmenchef",
+    "link": "https://www.tagesschau.de/video/video-1685752.html",
+    "image": "https://images.tagesschau.de/image/9e47c38e-1bd2-4840-a713-344abcf6a66d/AAABoe3ml30/AAABnSSvrFg/16x9-big/sendungsbild-1829200.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-18T11:52:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Nvidia will Huang nicht zurück als Firmenchef",
+      "link": "https://www.tagesschau.de/video/video-1685752.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Nvidia – Jensen Huang: Konzern verkauft keine KI-Chips mehr nach China",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-konzern-verkauft-keine-ki-chips-mehr-nach-china-a-e59ab63e-68d8-48c0-9f9b-5621595d27a2#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Nvidia-Skandal: Nvidia soll keine Pläne für eine Rückkehr von Jensen Huang haben",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-rueckkehr-verwaltungsrat-gxe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Ohne Huang: Nvidia trotzt der Krise",
+      "link": "https://www.faz.net/premium/digitalwirtschaft/transformation/nvidia-mit-75-prozent-wachstum-colette-kress-ueberzeugt-die-wall-street-201690669.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Künstliche Intelligenz: Nvidia-Verwaltungsrat schließt Rückkehr von Ex-Chef Huang aus",
+      "link": "https://www.handelsblatt.com/technik/it-internet/ki-nvidia-verwaltungsrat-schliesst-rueckkehr-von-ex-chef-huang-aus/100270044.html"
      }
     ]
    },
@@ -519,74 +514,6 @@
     ]
    },
    {
-    "title": "Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
-    "link": "https://www.tagesschau.de/ausland/europa/selenskyj-teilzerstoerung-krim-bruecke-100.html",
-    "image": "https://images.tagesschau.de/image/e5afe867-7f3c-4c20-8747-547d04171022/AAABoekZm3E/AAABnSSvrFg/16x9-big/krim-bruecke-144.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-18T06:45:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
-      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-teilzerstoerung-krim-bruecke-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Wolodymyr Selenskyj sieht Ukraine bei Waffenentwicklung als Nummer eins in Europa",
-      "link": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-sieht-ukraine-bei-waffenentwicklung-als-nummer-eins-in-europa-a-0c71c772-bbb1-4278-a9d6-a9bd0aa7f5a8#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Nach Angriff auf Krim-Brücke: Selenskyj: Sind bei Waffenentwicklung Nummer eins in Europa",
-      "link": "https://www.zeit.de/news/2026-11/18/selenskyj-sind-bei-waffenentwicklung-nummer-eins-in-europa"
-     },
-     {
-      "name": "FAZ",
-      "title": "Liveblog Ukrainekrieg: Selenskyj bestätigt teilweisen Einsturz der Krim-Brücke",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-bestaetigt-teilweisen-einsturz-der-krim-bruecke-faz-110683325.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Russland bestätigt Beschädigungen an Krim-Brücke – Selenskyj postet Video von Angriff",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-krim-bruecke-nach-zweitem-angriff-teilweise-eingestuerzt/27982126.html"
-     }
-    ]
-   },
-   {
-    "title": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
-    "image": "https://images.tagesschau.de/image/4a858e23-bcda-4313-9038-e71adab94873/AAABoeqt048/AAABnSSvrFg/16x9-big/jensen-huang-118.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-17T19:35:49+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Nvidia: Ex-CEO Jensen Huang ist bereit, zu Chiphersteller zurückzukehren",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-ex-ceo-jensen-huang-ist-bereit-zu-chiphersteller-zurueckzukehren-a-bc20dd25-f830-42e0-a404-de9743ecaf95#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Chip-Konzern: Bericht: Jensen Huang spricht über Rückkehr an Nvidia-Spitze",
-      "link": "https://www.zeit.de/news/2026-11/15/bericht-jensen-huang-spricht-ueber-rueckkehr-an-nvidia-spitze"
-     },
-     {
-      "name": "FAZ",
-      "title": "Business-Ticker: Mutmaßliche Tech-Spionin Alice Huang arbeitet nicht mehr für Megaspeed",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mutmassliche-tech-spionin-alice-huang-arbeitet-nicht-mehr-fuer-megaspeed-faz-200452404.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Chipkonzern: Jensen Huang zeigt sich bereit zur Rückkehr an Nvidia-Spitze",
-      "link": "https://www.handelsblatt.com/technik/ki/chipkonzern-jensen-huang-zeigt-sich-bereit-zur-rueckkehr-an-die-nvidia-spitze/100270714.html"
-     }
-    ]
-   },
-   {
     "title": "Kalifornien verklagt Chat-GPT-Entwickler OpenAI wegen KI-Hacking-Attacken",
     "link": "https://www.tagesschau.de/video/video-1685152.html",
     "image": "https://images.tagesschau.de/image/25c942c4-d115-429e-a804-af9accdc77ea/AAABoejRE4g/AAABnSSvrFg/16x9-big/sendungsbild-1828656.jpg?width=1920",
@@ -619,40 +546,108 @@
       "link": "https://www.handelsblatt.com/politik/international/chatgpt-entwickler-kalifornien-verklagt-openai-wegen-hacking-attacken/100270358.html"
      }
     ]
+   },
+   {
+    "title": "Tesla investiert 3. Mrd. Euro in Werk in Grünheide",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684958.html",
+    "image": "https://images.tagesschau.de/image/fb374571-dfb9-473c-b0ad-b31661a94a15/AAABoei3zyQ/AAABnSSvrFg/16x9-big/tesla-cybercab-106.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-17T09:13:07+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Tesla investiert 3. Mrd. Euro in Werk in Grünheide",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684958.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Tesla will Milliardensumme für Robotaxi-Bau in Deutschland investieren",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-investiert-milliardensumme-fuer-robotaxi-bau-in-deutschland-a-65132952-1c63-4862-b2ce-f82c5def838f#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
+      "link": "https://www.zeit.de/news/2026-11/16/tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken"
+     },
+     {
+      "name": "FAZ",
+      "title": "Automobilindustrie: Tesla investiert drei Milliarden Euro in Grünheide",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-investiert-drei-milliarden-euro-in-gigafactory-gruenheide-accg-201687612.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Tesla: US-Autobauer investiert drei Milliarden Euro in Grünheide",
+      "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-us-autobauer-investiert-drei-milliarden-euro-in-gruenheide/100270267.html"
+     }
+    ]
+   },
+   {
+    "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
+    "image": "https://images.tagesschau.de/image/5cdff6b6-d243-40c2-bc41-897b5aab9b1a/AAABodmGHmQ/AAABnSSvrFg/16x9-big/hubertus-heil-210.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-17T02:52:08+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "SPD-Vorsitz: Franziska Giffey unterstützt Hubertus Heil",
+      "link": "https://www.spiegel.de/politik/deutschland/spd-vorsitz-franziska-giffey-unterstuetzt-hubertus-heil-a-7e0da726-a2cf-45ef-8c8b-8b775e25468b#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Kandidaten-Suche: Der Machtkampf ist eröffnet: Heil tritt für SPD-Vorsitz an",
+      "link": "https://www.zeit.de/news/2026-11/15/der-machtkampf-ist-eroeffnet-heil-tritt-fuer-spd-vorsitz-an"
+     },
+     {
+      "name": "FAZ",
+      "title": "Deutschland Liveblog: Franziska Giffey erwägt offenbar gemeinsame Kandidatur mit Heil",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-franziska-giffey-erwaegt-offenbar-bewerbung-fuer-spd-vorsitz-faz-110093143.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Bundespolitik +++: Hubertus Heil will für SPD-Vorsitz kandidieren",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-hubertus-heil-will-fuer-spd-vorsitz-kandidieren/100137034.html"
+     }
+    ]
    }
   ],
   "30d": [
    {
-    "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
-    "image": "https://images.tagesschau.de/image/0a8267b7-a2da-4eb4-bb5a-b7fda46a2e11/AAABoJ9akT0/AAABnSSvrFg/16x9-big/commerzbank-270.jpg?width=1920",
+    "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
+    "image": "https://images.tagesschau.de/image/6962dfba-07c1-4aa0-aa94-86857f740465/AAABofETAbs/AAABnSSvrFg/16x9-big/anthropic-138.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-19T03:30:00+00:00",
+    "time": "2026-11-19T07:23:33+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html"
+      "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Commerzbank: UniCredit möchte ab 2027 neue Strategie umsetzen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen-a-ab6c6747-ebcc-4d11-8be9-ac31272446e0#ref=rss"
+      "title": "Anthropic-Börsengang: Ausgabepreis von 83 Dollar je Aktie festgelegt",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-boersengang-ausgabepreis-von-83-dollar-je-aktie-festgelegt-a-816300aa-dd4b-44d5-90cd-f7f5403e3b35#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "EU macht Weg frei für Commerzbank-Übernahme durch Unicredit",
-      "link": "https://www.zeit.de/geld/2026-11/eu-macht-weg-frei-fuer-commerzbank-uebernahme-durch-unicredit"
+      "title": "Rekord-Börsengang: Anthropic sammelt über 81 Milliarden Dollar ein",
+      "link": "https://www.zeit.de/video/2026-11/rekord-boersengang-anthropic-sammelt-ueber-81-milliarden-dollar-ein"
      },
      {
       "name": "FAZ",
-      "title": "Business-Ticker: Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bundesregierung-und-unicredit-einigen-sich-bei-commerzbank-uebernahme-faz-200452404.html"
+      "title": "Künstliche Intelligenz: Anthropic schafft Rekord-Börsengang",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/geld-fuer-die-ki-anthropic-legt-rekord-boersengang-hin-201696457.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Banken: Bundesregierung und Unicredit einigen sich bei Commerzbank-Übernahme",
-      "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bundesregierung-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html"
+      "title": "Erstnotiz: Historischer IPO – Anthropic sammelt 81 Milliarden Dollar ein",
+      "link": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-historischer-ipo-anthropic-sammelt-81-milliarden-dollar-ein/100270370.html"
      }
     ]
    },
@@ -661,7 +656,7 @@
     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
     "image": "https://images.tagesschau.de/image/8a268990-afaf-46e2-a32a-b9b72c2724c1/AAABoe96oJY/AAABnSSvrFg/16x9-big/werbung-gta-vi-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-18T23:54:46+00:00",
+    "time": "2026-11-19T07:19:21+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -680,13 +675,47 @@
      },
      {
       "name": "FAZ",
-      "title": "Grand Theft Auto VI: Rettet GTA 6 die Gaming-Branche?",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gta-6-wird-nicht-floppen-wird-das-spiel-den-erwartungen-gerecht-201665027.html"
+      "title": "Grand Theft Auto VI: Wo bleibt das deutsche GTA?",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wo-bleibt-das-deutsche-gta-201687565.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "„Grand Theft Auto VI“: Computerspiel GTA 6 ist in Deutschland verfügbar",
-      "link": "https://www.handelsblatt.com/technik/grand-theft-auto-vi-computerspiel-gta-6-ist-in-deutschland-verfuegbar/100271085.html"
+      "title": "Grand Theft Auto VI: Computerspiel GTA 6 ist in Deutschland verfügbar",
+      "link": "https://www.handelsblatt.com/unternehmen/it-medien/grand-theft-auto-vi-computerspiel-gta-6-ist-in-deutschland-verfuegbar/100271085.html"
+     }
+    ]
+   },
+   {
+    "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
+    "link": "https://www.tagesschau.de/video/video-1678768.html",
+    "image": "https://images.tagesschau.de/image/3de6abfa-19f7-4167-9937-f6def80e5e48/AAABoay1ztU/AAABnSSvrFg/16x9-big/sendungsbild-1822956.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-19T07:16:54+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
+      "link": "https://www.tagesschau.de/video/video-1678768.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Hubert Aiwanger ist tot: Freie Wähler wollen Bundesparteitag auf 2027 verschieben",
+      "link": "https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ist-tot-freie-waehler-wollen-bundesparteitag-auf-2027-verschieben-a-621a228c-3b20-41f5-9381-1fc86587ae64#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Nach Tod von Freie-Wähler-Chef: Aiwanger-Trauerfeier: Polizei erwartet großen Andrang",
+      "link": "https://www.zeit.de/news/2026-11/19/aiwanger-trauerfeier-polizei-erwartet-grossen-andrang"
+     },
+     {
+      "name": "FAZ",
+      "title": "Freie-Wähler-Chef: Bayerns Wirtschaftsminister Aiwanger tot aufgefunden",
+      "link": "https://www.faz.net/video/bayerns-wirtschaftsminister-aiwanger-tot-aufgefunden-201654243.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Politik: Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+      "link": "https://www.handelsblatt.com/politik/deutschland/politik-bayerns-wirtschaftsminister-hubert-aiwanger-ist-tot/100267392.html"
      }
     ]
    },
@@ -725,142 +754,6 @@
     ]
    },
    {
-    "title": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
-    "link": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html",
-    "image": "https://images.tagesschau.de/image/3f79ecb3-1431-4762-a7ce-4a9ec7f56719/AAABoe_Bh9Q/AAABnSSvrFg/16x9-big/jeffries-110.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-18T19:32:25+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
-      "link": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Pete Hegseth: Republikaner lehnen Amtsenthebungsantrag im Repräsentantenhaus ab",
-      "link": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-lehnen-amtsenthebungsantrag-im-repraesentantenhaus-ab-a-a16fbebc-5f94-4266-bd4c-7b114e518b40#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "US-Repräsentantenhaus: Jeffries soll erster schwarzer Chef des Repräsentantenhauses werden",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/us-repraesentantenhaus-speaker-hakeem-jeffries-demokraten-schwarzer"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Demokraten nominieren Hakeem Jeffries als Chef des US-Repräsentantenhauses",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokraten-nominieren-hakeem-jeffries-als-chef-des-us-repraesentantenhauses-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "USA: Republikaner bremsen Amtsenthebungsverfahren gegen Hegseth",
-      "link": "https://www.handelsblatt.com/politik/international/usa-republikaner-bremsen-amtsenthebungsverfahren-gegen-hegseth/100268903.html"
-     }
-    ]
-   },
-   {
-    "title": "Chinas Staatschef Xi begrüßt Trump und Putin zum APEC-Gipfel in Shenzhen",
-    "link": "https://www.tagesschau.de/video/video-1685944.html",
-    "image": "https://images.tagesschau.de/image/1fadacca-220a-4252-96a9-fcc7ec85f219/AAABoe94egE/AAABnSSvrFg/16x9-big/sendungsbild-1829454.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-18T18:47:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Chinas Staatschef Xi begrüßt Trump und Putin zum APEC-Gipfel in Shenzhen",
-      "link": "https://www.tagesschau.de/video/video-1685944.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Apec in China: Wird das Treffen zwischen Xi Jinping, Wladimir Putin und Donald Trump ein »Jalta 2.0«?",
-      "link": "https://www.spiegel.de/geschichte/apec-in-china-wird-das-treffen-zwischen-xi-jinping-wladimir-putin-und-donald-trump-ein-jalta-2-0-a-311fefbd-39b7-4a8d-bbe7-5a23fbe55323#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Shenzhen: Xi Jinping empfängt Donald Trump persönlich in Shenzhen",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-china-apec-gipfel-xi-jinping-wladimir-putin-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Xi empfängt Trump persönlich am Flughafen",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-xi-empfaengt-trump-persoenlich-am-flughafen-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ Apec-Gipfel +++: Treffen bestätigt: Trump und Putin planen für Donnerstag bilaterales Gespäch in China",
-      "link": "https://www.handelsblatt.com/politik/international/apec-gipfel-trump-und-putin-planen-bilaterales-treffen-in-china/100270890.html"
-     }
-    ]
-   },
-   {
-    "title": "Weißes Haus kündigt Treffen von Trump, Xi und Putin an",
-    "link": "https://www.tagesschau.de/video/video-1683696.html",
-    "image": "https://images.tagesschau.de/image/9b28b7d9-10f1-4d21-ad08-59daeaf81742/AAABodnYBtw/AAABnSSvrFg/16x9-big/sendungsbild-1827422.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-18T18:14:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Weißes Haus kündigt Treffen von Trump, Xi und Putin an",
-      "link": "https://www.tagesschau.de/video/video-1683696.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Donald Trump trifft Wladimir Putin offenbar auch für Zweiergespräch",
-      "link": "https://www.spiegel.de/ausland/donald-trump-trifft-wladimir-putin-offenbar-auch-fuer-zweiergespraech-a-c1a1e3ed-11c8-42dc-956d-613e94778ec2#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Gipfel in China: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
-      "link": "https://www.zeit.de/news/2026-11/14/weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an"
-     },
-     {
-      "name": "FAZ",
-      "title": "Liveblog Ukrainekrieg: Trump plant Zweiergespräch mit Putin",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-plant-zweiergespraech-mit-putin-faz-110683325.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Ukraine: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an/100269831.html"
-     }
-    ]
-   },
-   {
-    "title": "Nvidia will Huang nicht zurück als Firmenchef",
-    "link": "https://www.tagesschau.de/video/video-1685752.html",
-    "image": "https://images.tagesschau.de/image/9e47c38e-1bd2-4840-a713-344abcf6a66d/AAABoe3ml30/AAABnSSvrFg/16x9-big/sendungsbild-1829200.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-18T13:38:42+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Nvidia will Huang nicht zurück als Firmenchef",
-      "link": "https://www.tagesschau.de/video/video-1685752.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Nvidia will Jensen Huang nicht als Chef zurückholen",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-will-jensen-huang-nicht-als-chef-zurueckholen-a-f28605ac-ea1f-421b-afd9-4649bc8b91e6#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Jensen Huang: Geht KI ohne ihn?",
-      "link": "https://www.zeit.de/digital/internet/2026-11/jensen-huang-nvidia-affaere-spionage-kuenstliche-intelligenz-nachfolge"
-     },
-     {
-      "name": "FAZ",
-      "title": "Former CEO: Put-Downs, Parties and a ‚Royal Family‘: The Culture Inside Jensen Huang’s Nvidia",
-      "link": "https://www.faz.net/aktuell/wall-street-journal/nvidia-employees-described-a-company-culture-built-around-jensen-huang-and-his-adult-children-201695182.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Geldanlage: Was wäre die Nvidia-Aktie ohne CEO Jensen Huang wert?",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-was-waere-die-nvidia-aktie-ohne-ceo-jensen-huang-wert/100268777.html"
-     }
-    ]
-   },
-   {
     "title": "Keine Neuauszählung: BSW scheitert mit Wahlprüfungsbeschwerde",
     "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-beschwerde-abgelehnt-bundestagswahl-100.html",
     "image": "https://images.tagesschau.de/image/d1e05f6d-a426-4d3a-bdf4-ee7d2d1a8241/AAABmvnG4RI/AAABnSSvrFg/16x9-big/bsw-parteitag-106.jpg?width=1920",
@@ -891,6 +784,40 @@
       "name": "Handelsblatt",
       "title": "BSW: Karlsruhe lehnt Wahlbeschwerde des BSW ab – Keine Neuauszählung",
       "link": "https://www.handelsblatt.com/politik/deutschland/bsw-karlsruhe-lehnt-wahlbeschwerde-ab/100270854.html"
+     }
+    ]
+   },
+   {
+    "title": "Nvidia will Huang nicht zurück als Firmenchef",
+    "link": "https://www.tagesschau.de/video/video-1685752.html",
+    "image": "https://images.tagesschau.de/image/9e47c38e-1bd2-4840-a713-344abcf6a66d/AAABoe3ml30/AAABnSSvrFg/16x9-big/sendungsbild-1829200.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-18T11:52:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Nvidia will Huang nicht zurück als Firmenchef",
+      "link": "https://www.tagesschau.de/video/video-1685752.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Nvidia – Jensen Huang: Konzern verkauft keine KI-Chips mehr nach China",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-konzern-verkauft-keine-ki-chips-mehr-nach-china-a-e59ab63e-68d8-48c0-9f9b-5621595d27a2#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Nvidia-Skandal: Nvidia soll keine Pläne für eine Rückkehr von Jensen Huang haben",
+      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-rueckkehr-verwaltungsrat-gxe"
+     },
+     {
+      "name": "FAZ",
+      "title": "Ohne Huang: Nvidia trotzt der Krise",
+      "link": "https://www.faz.net/premium/digitalwirtschaft/transformation/nvidia-mit-75-prozent-wachstum-colette-kress-ueberzeugt-die-wall-street-201690669.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Künstliche Intelligenz: Nvidia-Verwaltungsrat schließt Rückkehr von Ex-Chef Huang aus",
+      "link": "https://www.handelsblatt.com/technik/it-internet/ki-nvidia-verwaltungsrat-schliesst-rueckkehr-von-ex-chef-huang-aus/100270044.html"
      }
     ]
    },
@@ -961,6 +888,74 @@
       "link": "https://www.handelsblatt.com/technik/ki/prognose-boom-um-ki-gelder-fuer-deutsche-start-ups-fast-verdoppelt/100270756.html"
      }
     ]
+   },
+   {
+    "title": "US-Midterms: Demokraten gewinnen auch Senatssitz in Alaska",
+    "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html",
+    "image": "https://images.tagesschau.de/image/a98fd657-816a-4787-80ee-53fe8b868468/AAABoey0P54/AAABnSSvrFg/16x9-big/mary-peltola-104.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-18T06:56:21+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "US-Midterms: Demokraten gewinnen auch Senatssitz in Alaska",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Midterms in den USA - Alaska: Demokratin Mary Peltola gewinnt Senatssitz",
+      "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-alaska-demokratin-mary-peltola-gewinnt-senatssitz-a-b554031e-e4d7-4cee-8cd5-fdc85ce23d63#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Senatswahl in Alaska: Demokratin nimmt Republikanern Senatssitz in Alaska ab",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/senatswahl-alaska-mary-peltola-dan-sullivan-demokraten"
+     },
+     {
+      "name": "FAZ",
+      "title": "USA unter Trump: Demokraten gewinnen auch noch Senatssitz in Alaska",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokraten-gewinnen-auch-noch-senatssitz-in-alaska-faz-19444916.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ USA unter Trump +++: Demokraten gewinnen Senatssitz in Alaska",
+      "link": "https://www.handelsblatt.com/politik/international/usa-demokraten-gewinnen-senatssitz-in-alaska/29669594.html"
+     }
+    ]
+   },
+   {
+    "title": "Kalifornien verklagt Chat-GPT-Entwickler OpenAI wegen KI-Hacking-Attacken",
+    "link": "https://www.tagesschau.de/video/video-1685152.html",
+    "image": "https://images.tagesschau.de/image/25c942c4-d115-429e-a804-af9accdc77ea/AAABoejRE4g/AAABnSSvrFg/16x9-big/sendungsbild-1828656.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-17T09:23:03+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Kalifornien verklagt Chat-GPT-Entwickler OpenAI wegen KI-Hacking-Attacken",
+      "link": "https://www.tagesschau.de/video/video-1685152.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Hackingangriffen",
+      "link": "https://www.spiegel.de/ausland/kuenstliche-intelligenz-kalifornien-verklagt-openai-wegen-hackingangriffen-a-eb18b1dc-9d01-43c5-9e5f-4ab60320c872#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Hackerangriffen durch KI",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/kalifornien-openai-klage-rob-bonta-ki-hacking-hugging-face"
+     },
+     {
+      "name": "FAZ",
+      "title": "Cyberangriffe: Kalifornien verklagt OpenAI wegen Hacking-Attacken",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kalifornien-verklagt-openai-wegen-ki-hacking-attacken-201689398.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "ChatGPT-Entwickler: Kalifornien verklagt OpenAI wegen Hacking-Attacken",
+      "link": "https://www.handelsblatt.com/politik/international/chatgpt-entwickler-kalifornien-verklagt-openai-wegen-hacking-attacken/100270358.html"
+     }
+    ]
    }
   ]
  },
@@ -968,6 +963,118 @@
   "de": {
    "24h": [
     {
+     "title": "Willbe App: Digital in physische Edelmetalle investieren",
+     "link": "https://www.it-finanzmagazin.de/willbe-app-digital-in-physische-edelmetalle-investieren-254425/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T07:00:39+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Willbe App: Digital in physische Edelmetalle investieren",
+       "link": "https://www.it-finanzmagazin.de/willbe-app-digital-in-physische-edelmetalle-investieren-254425/"
+      }
+     ]
+    },
+    {
+     "title": "„Gemeinsame Basis“ – Berlin und Unicredit bei Commerzbank-Übernahme einig",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXBMdlRGTWlJRlY0Ynp3RFJXSjczX3ZIbDEzZzJzOUI5Q3B2X1kzSWY5WXdqN3Y4TzBZcmlHbjJSbDNqaXdNVjFpMHpCbnRmTXdFWlRXRXRad0dpVm9vaWNza3JFQU1uY0FXOWtCU1A2b2Z0ZjZnMDFlTy0yZVVNdE9JeDdqRjNrb3RlaWgxNGRPMVFaTEtSdmk4bkJadi1LTlB2QVNB?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T05:37:29+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "„Gemeinsame Basis“ – Berlin und Unicredit bei Commerzbank-Übernahme einig",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXBMdlRGTWlJRlY0Ynp3RFJXSjczX3ZIbDEzZzJzOUI5Q3B2X1kzSWY5WXdqN3Y4TzBZcmlHbjJSbDNqaXdNVjFpMHpCbnRmTXdFWlRXRXRad0dpVm9vaWNza3JFQU1uY0FXOWtCU1A2b2Z0ZjZnMDFlTy0yZVVNdE9JeDdqRjNrb3RlaWgxNGRPMVFaTEtSdmk4bkJadi1LTlB2QVNB?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Immobilien: Bezahlbarkeit bei Mieten: Das sind die Top- und Flop-Kreise in Deutschland",
+     "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-das-sind-die-top-und-die-flop-kreise-fuer-mieter-in-deutschland/100269131.html",
+     "image": "https://images.handelsblatt.com/KrsceBm7fYB2/cover/900/506/0/0/313/312/0.5/0.5/archiv-12.06.2026-rheinland-pfalz-mainz-hausfassaden-von-mietwohnungen-reihen-sich-aneinander..jpg",
+     "n_sources": 1,
+     "time": "2026-11-19T05:20:48+00:00",
+     "sources": [
+      {
+       "name": "Handelsblatt",
+       "title": "Immobilien: Bezahlbarkeit bei Mieten: Das sind die Top- und Flop-Kreise in Deutschland",
+       "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-das-sind-die-top-und-die-flop-kreise-fuer-mieter-in-deutschland/100269131.html"
+      }
+     ]
+    },
+    {
+     "title": "Der nächste Einlagen-Schock? Naja, zumindest ein sehr auffälliger Datenpunkt …",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hMEdKYW1VSi00UnRlSHd6QVc0Uzg3Q0w1dnU1YUd3WTBLVFRoUkVTdVFuRUs2bG5GcHJMU08xVnROdlRxakstZERwNGM2ODhVcGxjaTBYUUZXQnhnVHl1aGR4Q1piQVdu?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:57:21+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Der nächste Einlagen-Schock? Naja, zumindest ein sehr auffälliger Datenpunkt …",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hMEdKYW1VSi00UnRlSHd6QVc0Uzg3Q0w1dnU1YUd3WTBLVFRoUkVTdVFuRUs2bG5GcHJMU08xVnROdlRxakstZERwNGM2ODhVcGxjaTBYUUZXQnhnVHl1aGR4Q1piQVdu?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Volksbank Brawo baut nach Abgangswelle ihr Private Banking um",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX3VfdjBIaWhYNFlyaEpoeFhvVTl4TTAzYzE0Z2dlYy1Zc0MwVmtTdjlMRGhZSlVMMnBSS19jSGlzVkh6Zm1UYjNPZFZhb25kc3hQS0Vfb0dENmdKNUlyVldWTFgwVXlSSGJEakF4R0NqS1BnM2lhLUhvTGlGMy1uZHFGWldpRnNSMm9sMTJPOUctbmVwN2czUkFB?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:52:20+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Volksbank Brawo baut nach Abgangswelle ihr Private Banking um",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX3VfdjBIaWhYNFlyaEpoeFhvVTl4TTAzYzE0Z2dlYy1Zc0MwVmtTdjlMRGhZSlVMMnBSS19jSGlzVkh6Zm1UYjNPZFZhb25kc3hQS0Vfb0dENmdKNUlyVldWTFgwVXlSSGJEakF4R0NqS1BnM2lhLUhvTGlGMy1uZHFGWldpRnNSMm9sMTJPOUctbmVwN2czUkFB?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "„Nicht zu halten“ – (ausgerechnet) die FAZ stimmt den Abgesang auf Sewing an",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTE5QQk1ub1ZadTVBTWF5YkFtcWhUM1VpNldENkN3STY3d2k5Qjlzd20yb24ydlBmblhpVXZ2RWJ4MUhoY09rT1E5d3ZxZ0ZwTlg4R3I0N2NmVVY0bWstaEdCUUd3RHZnOFI0S05vOXRZSUxCNHFWbWdGbTBNNmdPY0UycEZxbU13MUdEMm1VcTRtLUMtSmx6cE9PYVdKZmd1Qzc4YXB3?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:52:20+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "„Nicht zu halten“ – (ausgerechnet) die FAZ stimmt den Abgesang auf Sewing an",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTE5QQk1ub1ZadTVBTWF5YkFtcWhUM1VpNldENkN3STY3d2k5Qjlzd20yb24ydlBmblhpVXZ2RWJ4MUhoY09rT1E5d3ZxZ0ZwTlg4R3I0N2NmVVY0bWstaEdCUUd3RHZnOFI0S05vOXRZSUxCNHFWbWdGbTBNNmdPY0UycEZxbU13MUdEMm1VcTRtLUMtSmx6cE9PYVdKZmd1Qzc4YXB3?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Saalesparkasse muss bis Jahresende auf Feststellung ihres Abschlusses warten",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFozZzg3WHFCQzJIWUZoby1nZGJ2TXlUWDRFR252YzFhczlERlUwc0Mtd2dsVXdPMXhKVDhUdFd1ajdFemJCODFINVdCNmlnQ2phQmxRbW1sLS0wR3RBZXlDX1JwQlJ2aklNNEtROFV1YkNkcDJMeHRrQTFqcUp6bThxbE5Sb3JILUd1YnVnN1F0aEIzMy0wd1FMSjRqY2pEYmNnWFVmbzlzZXFTVWc?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:47:19+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Saalesparkasse muss bis Jahresende auf Feststellung ihres Abschlusses warten",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFozZzg3WHFCQzJIWUZoby1nZGJ2TXlUWDRFR252YzFhczlERlUwc0Mtd2dsVXdPMXhKVDhUdFd1ajdFemJCODFINVdCNmlnQ2phQmxRbW1sLS0wR3RBZXlDX1JwQlJ2aklNNEtROFV1YkNkcDJMeHRrQTFqcUp6bThxbE5Sb3JILUd1YnVnN1F0aEIzMy0wd1FMSjRqY2pEYmNnWFVmbzlzZXFTVWc?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Bafin lässt Auslandsbanken weiter rätseln. Und: Ein Update zur Einlagensicherung",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp6Q1JiZVdPdXo1Z0syY2VSdjVLeVRvOVFndi1qUUdzRzF0Sk9ILTE1dC1Fd1NNTWtZeEo4RFVSa3FtS0pWQUhZSXBMUmZ2eGJBUExKZkNpWWFhVng1ZU80eEU4UnhkVVEtZXRrOUZkNENoMlRXbllQMFVsS0NzSzhMcDZaNDhXM3pTSElBWnBJUWkwSDlrMGdZanZwa0tYN2R1TjlmcHdoLThQcllwYldxaw?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:42:18+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Bafin lässt Auslandsbanken weiter rätseln. Und: Ein Update zur Einlagensicherung",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp6Q1JiZVdPdXo1Z0syY2VSdjVLeVRvOVFndi1qUUdzRzF0Sk9ILTE1dC1Fd1NNTWtZeEo4RFVSa3FtS0pWQUhZSXBMUmZ2eGJBUExKZkNpWWFhVng1ZU80eEU4UnhkVVEtZXRrOUZkNENoMlRXbllQMFVsS0NzSzhMcDZaNDhXM3pTSElBWnBJUWkwSDlrMGdZanZwa0tYN2R1TjlmcHdoLThQcllwYldxaw?oc=5"
+      }
+     ]
+    },
+    {
      "title": "BaFin verhängt Bußgelder gegen KT Bank, Nect bindet zehn EUDI-Wallet-Partner an",
      "link": "https://www.it-finanzmagazin.de/kurz-notiert-kt-bank-geldwaesche-eudi-wallet-254414/",
      "image": "",
@@ -992,124 +1099,124 @@
        "name": "Heise",
        "title": "DAZN droht Rückzahlung nach unzulässigen Preiserhöhungen",
        "link": "https://www.heise.de/news/DAZN-droht-Rueckzahlung-nach-unzulaessigen-Preiserhoehungen-11529888.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "title": "CVE-2024-49138: Ungepatchte POS-Terminals liefern Angreifern mindestens eine Million Kartendaten",
-     "link": "https://www.it-finanzmagazin.de/cve-2024-49138-ungepatchte-pos-terminals-254361/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T14:06:07+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "CVE-2024-49138: Ungepatchte POS-Terminals liefern Angreifern mindestens eine Million Kartendaten",
-       "link": "https://www.it-finanzmagazin.de/cve-2024-49138-ungepatchte-pos-terminals-254361/"
-      }
-     ]
-    },
-    {
-     "title": "KI-Welle in der Banking-IT: Die Rückkehr nach Westeuropa bleibt (bisher) aus",
-     "link": "https://www.it-finanzmagazin.de/ki-welle-im-banking-it-die-rueckkehr-nach-westeuropa-bleibt-bisher-aus-253768/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T13:08:26+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "KI-Welle in der Banking-IT: Die Rückkehr nach Westeuropa bleibt (bisher) aus",
-       "link": "https://www.it-finanzmagazin.de/ki-welle-im-banking-it-die-rueckkehr-nach-westeuropa-bleibt-bisher-aus-253768/"
-      }
-     ]
-    },
-    {
-     "title": "Baufi-Challenger Bilthouse holt Ex-Paypal-Deutschland-Chef als CEO",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWtpMWt0R1lXNXZ1TG9oQ0FZeHRhY3hHVzlkZVo4cnlNUTEwZ2M5UG1qQk04VUdmYzNQYWNUZjdNLWJ6M25xOTg4dzZyTHZab2g2elEwYi1jQUFXb2lUdWZnVEowb1VhQ2VER1FJOW1kNDlxYXR1NGxMVmtLSDNkZVR6aUp2djc5b21GSmhjVklhMkFDenJ1aHNmTDJPbHZj?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T11:07:42+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Baufi-Challenger Bilthouse holt Ex-Paypal-Deutschland-Chef als CEO",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWtpMWt0R1lXNXZ1TG9oQ0FZeHRhY3hHVzlkZVo4cnlNUTEwZ2M5UG1qQk04VUdmYzNQYWNUZjdNLWJ6M25xOTg4dzZyTHZab2g2elEwYi1jQUFXb2lUdWZnVEowb1VhQ2VER1FJOW1kNDlxYXR1NGxMVmtLSDNkZVR6aUp2djc5b21GSmhjVklhMkFDenJ1aHNmTDJPbHZj?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Nächtlicher Unload: Warum der Kopier-Reflex die KI‑Strategie ausbremst",
-     "link": "https://www.it-finanzmagazin.de/naechtlicher-data-unload-warum-der-kopier-reflex-die-ki-strategie-ausbremst-253110/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T11:04:06+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Nächtlicher Unload: Warum der Kopier-Reflex die KI‑Strategie ausbremst",
-       "link": "https://www.it-finanzmagazin.de/naechtlicher-data-unload-warum-der-kopier-reflex-die-ki-strategie-ausbremst-253110/"
-      }
-     ]
-    },
-    {
-     "title": "ChatGPT Wallet: Die Wallet ist tot. Lang lebe die Wallet.",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0J5dU1nb291THJ6TDNpWU5ieUhHN2NDa1BmLVcwM2xZRm82T21VT1p4dWxLbnBIWWotaVB0aWkzZ21IZEZkTWRvRTBMWDdnejR6Wk5qaUhBX2pKcnRHTEQtbGlud3VJelY1Y2pHS25IQkxIVGlsNThVY2ozVzBrSUNNV2NFdWF2cjR5aEdn?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T10:04:14+00:00",
-     "sources": [
-      {
-       "name": "Payment & Banking",
-       "title": "ChatGPT Wallet: Die Wallet ist tot. Lang lebe die Wallet.",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0J5dU1nb291THJ6TDNpWU5ieUhHN2NDa1BmLVcwM2xZRm82T21VT1p4dWxLbnBIWWotaVB0aWkzZ21IZEZkTWRvRTBMWDdnejR6Wk5qaUhBX2pKcnRHTEQtbGlud3VJelY1Y2pHS25IQkxIVGlsNThVY2ozVzBrSUNNV2NFdWF2cjR5aEdn?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Premiere: NRW.Bank und DZ Bank wickeln Blockchain-Anleihe über EZB Pontes ab",
-     "link": "https://www.it-finanzmagazin.de/premiere-nrw-bank-und-dz-bank-wickeln-blockchain-anleihe-ueber-ezb-pontes-ab-254317/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T08:53:21+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Premiere: NRW.Bank und DZ Bank wickeln Blockchain-Anleihe über EZB Pontes ab",
-       "link": "https://www.it-finanzmagazin.de/premiere-nrw-bank-und-dz-bank-wickeln-blockchain-anleihe-ueber-ezb-pontes-ab-254317/"
-      }
-     ]
-    },
-    {
-     "title": "ChatGPT Wallet lässt KI-Agenten mit Kreditkarten bezahlen – die Revolution hat begonnen",
-     "link": "https://www.it-finanzmagazin.de/chatgpt-wallet-openai-laesst-ki-agenten-mit-kreditkarten-bezahlen-254269/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T08:00:47+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "ChatGPT Wallet lässt KI-Agenten mit Kreditkarten bezahlen – die Revolution hat begonnen",
-       "link": "https://www.it-finanzmagazin.de/chatgpt-wallet-openai-laesst-ki-agenten-mit-kreditkarten-bezahlen-254269/"
-      }
-     ]
-    },
-    {
-     "title": "Holvi: MCP-Server verbindet Geschäftskonten per API mit ChatGPT und Claude",
-     "link": "https://www.it-finanzmagazin.de/holvi-mcp-server-verbindet-geschaeftskonten-per-api-mit-chatgpt-und-claude-254199/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T07:00:32+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Holvi: MCP-Server verbindet Geschäftskonten per API mit ChatGPT und Claude",
-       "link": "https://www.it-finanzmagazin.de/holvi-mcp-server-verbindet-geschaeftskonten-per-api-mit-chatgpt-und-claude-254199/"
       }
      ]
     }
    ],
    "7d": [
     {
+     "title": "Willbe App: Digital in physische Edelmetalle investieren",
+     "link": "https://www.it-finanzmagazin.de/willbe-app-digital-in-physische-edelmetalle-investieren-254425/",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T07:00:39+00:00",
+     "sources": [
+      {
+       "name": "IT-Finanzmagazin",
+       "title": "Willbe App: Digital in physische Edelmetalle investieren",
+       "link": "https://www.it-finanzmagazin.de/willbe-app-digital-in-physische-edelmetalle-investieren-254425/"
+      }
+     ]
+    },
+    {
+     "title": "„Gemeinsame Basis“ – Berlin und Unicredit bei Commerzbank-Übernahme einig",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXBMdlRGTWlJRlY0Ynp3RFJXSjczX3ZIbDEzZzJzOUI5Q3B2X1kzSWY5WXdqN3Y4TzBZcmlHbjJSbDNqaXdNVjFpMHpCbnRmTXdFWlRXRXRad0dpVm9vaWNza3JFQU1uY0FXOWtCU1A2b2Z0ZjZnMDFlTy0yZVVNdE9JeDdqRjNrb3RlaWgxNGRPMVFaTEtSdmk4bkJadi1LTlB2QVNB?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T05:37:29+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "„Gemeinsame Basis“ – Berlin und Unicredit bei Commerzbank-Übernahme einig",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXBMdlRGTWlJRlY0Ynp3RFJXSjczX3ZIbDEzZzJzOUI5Q3B2X1kzSWY5WXdqN3Y4TzBZcmlHbjJSbDNqaXdNVjFpMHpCbnRmTXdFWlRXRXRad0dpVm9vaWNza3JFQU1uY0FXOWtCU1A2b2Z0ZjZnMDFlTy0yZVVNdE9JeDdqRjNrb3RlaWgxNGRPMVFaTEtSdmk4bkJadi1LTlB2QVNB?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Immobilien: Bezahlbarkeit bei Mieten: Das sind die Top- und Flop-Kreise in Deutschland",
+     "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-das-sind-die-top-und-die-flop-kreise-fuer-mieter-in-deutschland/100269131.html",
+     "image": "https://images.handelsblatt.com/KrsceBm7fYB2/cover/900/506/0/0/313/312/0.5/0.5/archiv-12.06.2026-rheinland-pfalz-mainz-hausfassaden-von-mietwohnungen-reihen-sich-aneinander..jpg",
+     "n_sources": 1,
+     "time": "2026-11-19T05:20:48+00:00",
+     "sources": [
+      {
+       "name": "Handelsblatt",
+       "title": "Immobilien: Bezahlbarkeit bei Mieten: Das sind die Top- und Flop-Kreise in Deutschland",
+       "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-das-sind-die-top-und-die-flop-kreise-fuer-mieter-in-deutschland/100269131.html"
+      }
+     ]
+    },
+    {
+     "title": "Der nächste Einlagen-Schock? Naja, zumindest ein sehr auffälliger Datenpunkt …",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hMEdKYW1VSi00UnRlSHd6QVc0Uzg3Q0w1dnU1YUd3WTBLVFRoUkVTdVFuRUs2bG5GcHJMU08xVnROdlRxakstZERwNGM2ODhVcGxjaTBYUUZXQnhnVHl1aGR4Q1piQVdu?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:57:21+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Der nächste Einlagen-Schock? Naja, zumindest ein sehr auffälliger Datenpunkt …",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hMEdKYW1VSi00UnRlSHd6QVc0Uzg3Q0w1dnU1YUd3WTBLVFRoUkVTdVFuRUs2bG5GcHJMU08xVnROdlRxakstZERwNGM2ODhVcGxjaTBYUUZXQnhnVHl1aGR4Q1piQVdu?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Volksbank Brawo baut nach Abgangswelle ihr Private Banking um",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX3VfdjBIaWhYNFlyaEpoeFhvVTl4TTAzYzE0Z2dlYy1Zc0MwVmtTdjlMRGhZSlVMMnBSS19jSGlzVkh6Zm1UYjNPZFZhb25kc3hQS0Vfb0dENmdKNUlyVldWTFgwVXlSSGJEakF4R0NqS1BnM2lhLUhvTGlGMy1uZHFGWldpRnNSMm9sMTJPOUctbmVwN2czUkFB?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:52:20+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Volksbank Brawo baut nach Abgangswelle ihr Private Banking um",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX3VfdjBIaWhYNFlyaEpoeFhvVTl4TTAzYzE0Z2dlYy1Zc0MwVmtTdjlMRGhZSlVMMnBSS19jSGlzVkh6Zm1UYjNPZFZhb25kc3hQS0Vfb0dENmdKNUlyVldWTFgwVXlSSGJEakF4R0NqS1BnM2lhLUhvTGlGMy1uZHFGWldpRnNSMm9sMTJPOUctbmVwN2czUkFB?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "„Nicht zu halten“ – (ausgerechnet) die FAZ stimmt den Abgesang auf Sewing an",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTE5QQk1ub1ZadTVBTWF5YkFtcWhUM1VpNldENkN3STY3d2k5Qjlzd20yb24ydlBmblhpVXZ2RWJ4MUhoY09rT1E5d3ZxZ0ZwTlg4R3I0N2NmVVY0bWstaEdCUUd3RHZnOFI0S05vOXRZSUxCNHFWbWdGbTBNNmdPY0UycEZxbU13MUdEMm1VcTRtLUMtSmx6cE9PYVdKZmd1Qzc4YXB3?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:52:20+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "„Nicht zu halten“ – (ausgerechnet) die FAZ stimmt den Abgesang auf Sewing an",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTE5QQk1ub1ZadTVBTWF5YkFtcWhUM1VpNldENkN3STY3d2k5Qjlzd20yb24ydlBmblhpVXZ2RWJ4MUhoY09rT1E5d3ZxZ0ZwTlg4R3I0N2NmVVY0bWstaEdCUUd3RHZnOFI0S05vOXRZSUxCNHFWbWdGbTBNNmdPY0UycEZxbU13MUdEMm1VcTRtLUMtSmx6cE9PYVdKZmd1Qzc4YXB3?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Saalesparkasse muss bis Jahresende auf Feststellung ihres Abschlusses warten",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFozZzg3WHFCQzJIWUZoby1nZGJ2TXlUWDRFR252YzFhczlERlUwc0Mtd2dsVXdPMXhKVDhUdFd1ajdFemJCODFINVdCNmlnQ2phQmxRbW1sLS0wR3RBZXlDX1JwQlJ2aklNNEtROFV1YkNkcDJMeHRrQTFqcUp6bThxbE5Sb3JILUd1YnVnN1F0aEIzMy0wd1FMSjRqY2pEYmNnWFVmbzlzZXFTVWc?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:47:19+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Saalesparkasse muss bis Jahresende auf Feststellung ihres Abschlusses warten",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFozZzg3WHFCQzJIWUZoby1nZGJ2TXlUWDRFR252YzFhczlERlUwc0Mtd2dsVXdPMXhKVDhUdFd1ajdFemJCODFINVdCNmlnQ2phQmxRbW1sLS0wR3RBZXlDX1JwQlJ2aklNNEtROFV1YkNkcDJMeHRrQTFqcUp6bThxbE5Sb3JILUd1YnVnN1F0aEIzMy0wd1FMSjRqY2pEYmNnWFVmbzlzZXFTVWc?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Bafin lässt Auslandsbanken weiter rätseln. Und: Ein Update zur Einlagensicherung",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp6Q1JiZVdPdXo1Z0syY2VSdjVLeVRvOVFndi1qUUdzRzF0Sk9ILTE1dC1Fd1NNTWtZeEo4RFVSa3FtS0pWQUhZSXBMUmZ2eGJBUExKZkNpWWFhVng1ZU80eEU4UnhkVVEtZXRrOUZkNENoMlRXbllQMFVsS0NzSzhMcDZaNDhXM3pTSElBWnBJUWkwSDlrMGdZanZwa0tYN2R1TjlmcHdoLThQcllwYldxaw?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:42:18+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Bafin lässt Auslandsbanken weiter rätseln. Und: Ein Update zur Einlagensicherung",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp6Q1JiZVdPdXo1Z0syY2VSdjVLeVRvOVFndi1qUUdzRzF0Sk9ILTE1dC1Fd1NNTWtZeEo4RFVSa3FtS0pWQUhZSXBMUmZ2eGJBUExKZkNpWWFhVng1ZU80eEU4UnhkVVEtZXRrOUZkNENoMlRXbllQMFVsS0NzSzhMcDZaNDhXM3pTSElBWnBJUWkwSDlrMGdZanZwa0tYN2R1TjlmcHdoLThQcllwYldxaw?oc=5"
+      }
+     ]
+    },
+    {
      "title": "BaFin verhängt Bußgelder gegen KT Bank, Nect bindet zehn EUDI-Wallet-Partner an",
      "link": "https://www.it-finanzmagazin.de/kurz-notiert-kt-bank-geldwaesche-eudi-wallet-254414/",
      "image": "",
@@ -1134,118 +1241,6 @@
        "name": "Heise",
        "title": "DAZN droht Rückzahlung nach unzulässigen Preiserhöhungen",
        "link": "https://www.heise.de/news/DAZN-droht-Rueckzahlung-nach-unzulaessigen-Preiserhoehungen-11529888.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "title": "CVE-2024-49138: Ungepatchte POS-Terminals liefern Angreifern mindestens eine Million Kartendaten",
-     "link": "https://www.it-finanzmagazin.de/cve-2024-49138-ungepatchte-pos-terminals-254361/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T14:06:07+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "CVE-2024-49138: Ungepatchte POS-Terminals liefern Angreifern mindestens eine Million Kartendaten",
-       "link": "https://www.it-finanzmagazin.de/cve-2024-49138-ungepatchte-pos-terminals-254361/"
-      }
-     ]
-    },
-    {
-     "title": "KI-Welle in der Banking-IT: Die Rückkehr nach Westeuropa bleibt (bisher) aus",
-     "link": "https://www.it-finanzmagazin.de/ki-welle-im-banking-it-die-rueckkehr-nach-westeuropa-bleibt-bisher-aus-253768/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T13:08:26+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "KI-Welle in der Banking-IT: Die Rückkehr nach Westeuropa bleibt (bisher) aus",
-       "link": "https://www.it-finanzmagazin.de/ki-welle-im-banking-it-die-rueckkehr-nach-westeuropa-bleibt-bisher-aus-253768/"
-      }
-     ]
-    },
-    {
-     "title": "Baufi-Challenger Bilthouse holt Ex-Paypal-Deutschland-Chef als CEO",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWtpMWt0R1lXNXZ1TG9oQ0FZeHRhY3hHVzlkZVo4cnlNUTEwZ2M5UG1qQk04VUdmYzNQYWNUZjdNLWJ6M25xOTg4dzZyTHZab2g2elEwYi1jQUFXb2lUdWZnVEowb1VhQ2VER1FJOW1kNDlxYXR1NGxMVmtLSDNkZVR6aUp2djc5b21GSmhjVklhMkFDenJ1aHNmTDJPbHZj?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T11:07:42+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Baufi-Challenger Bilthouse holt Ex-Paypal-Deutschland-Chef als CEO",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWtpMWt0R1lXNXZ1TG9oQ0FZeHRhY3hHVzlkZVo4cnlNUTEwZ2M5UG1qQk04VUdmYzNQYWNUZjdNLWJ6M25xOTg4dzZyTHZab2g2elEwYi1jQUFXb2lUdWZnVEowb1VhQ2VER1FJOW1kNDlxYXR1NGxMVmtLSDNkZVR6aUp2djc5b21GSmhjVklhMkFDenJ1aHNmTDJPbHZj?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Nächtlicher Unload: Warum der Kopier-Reflex die KI‑Strategie ausbremst",
-     "link": "https://www.it-finanzmagazin.de/naechtlicher-data-unload-warum-der-kopier-reflex-die-ki-strategie-ausbremst-253110/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T11:04:06+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Nächtlicher Unload: Warum der Kopier-Reflex die KI‑Strategie ausbremst",
-       "link": "https://www.it-finanzmagazin.de/naechtlicher-data-unload-warum-der-kopier-reflex-die-ki-strategie-ausbremst-253110/"
-      }
-     ]
-    },
-    {
-     "title": "ChatGPT Wallet: Die Wallet ist tot. Lang lebe die Wallet.",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0J5dU1nb291THJ6TDNpWU5ieUhHN2NDa1BmLVcwM2xZRm82T21VT1p4dWxLbnBIWWotaVB0aWkzZ21IZEZkTWRvRTBMWDdnejR6Wk5qaUhBX2pKcnRHTEQtbGlud3VJelY1Y2pHS25IQkxIVGlsNThVY2ozVzBrSUNNV2NFdWF2cjR5aEdn?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T10:04:14+00:00",
-     "sources": [
-      {
-       "name": "Payment & Banking",
-       "title": "ChatGPT Wallet: Die Wallet ist tot. Lang lebe die Wallet.",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0J5dU1nb291THJ6TDNpWU5ieUhHN2NDa1BmLVcwM2xZRm82T21VT1p4dWxLbnBIWWotaVB0aWkzZ21IZEZkTWRvRTBMWDdnejR6Wk5qaUhBX2pKcnRHTEQtbGlud3VJelY1Y2pHS25IQkxIVGlsNThVY2ozVzBrSUNNV2NFdWF2cjR5aEdn?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Premiere: NRW.Bank und DZ Bank wickeln Blockchain-Anleihe über EZB Pontes ab",
-     "link": "https://www.it-finanzmagazin.de/premiere-nrw-bank-und-dz-bank-wickeln-blockchain-anleihe-ueber-ezb-pontes-ab-254317/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T08:53:21+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Premiere: NRW.Bank und DZ Bank wickeln Blockchain-Anleihe über EZB Pontes ab",
-       "link": "https://www.it-finanzmagazin.de/premiere-nrw-bank-und-dz-bank-wickeln-blockchain-anleihe-ueber-ezb-pontes-ab-254317/"
-      }
-     ]
-    },
-    {
-     "title": "ChatGPT Wallet lässt KI-Agenten mit Kreditkarten bezahlen – die Revolution hat begonnen",
-     "link": "https://www.it-finanzmagazin.de/chatgpt-wallet-openai-laesst-ki-agenten-mit-kreditkarten-bezahlen-254269/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T08:00:47+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "ChatGPT Wallet lässt KI-Agenten mit Kreditkarten bezahlen – die Revolution hat begonnen",
-       "link": "https://www.it-finanzmagazin.de/chatgpt-wallet-openai-laesst-ki-agenten-mit-kreditkarten-bezahlen-254269/"
-      }
-     ]
-    },
-    {
-     "title": "Holvi: MCP-Server verbindet Geschäftskonten per API mit ChatGPT und Claude",
-     "link": "https://www.it-finanzmagazin.de/holvi-mcp-server-verbindet-geschaeftskonten-per-api-mit-chatgpt-und-claude-254199/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T07:00:32+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Holvi: MCP-Server verbindet Geschäftskonten per API mit ChatGPT und Claude",
-       "link": "https://www.it-finanzmagazin.de/holvi-mcp-server-verbindet-geschaeftskonten-per-api-mit-chatgpt-und-claude-254199/"
       }
      ]
     }
@@ -1290,114 +1285,114 @@
      ]
     },
     {
-     "title": "BaFin verhängt Bußgelder gegen KT Bank, Nect bindet zehn EUDI-Wallet-Partner an",
-     "link": "https://www.it-finanzmagazin.de/kurz-notiert-kt-bank-geldwaesche-eudi-wallet-254414/",
+     "title": "„Gemeinsame Basis“ – Berlin und Unicredit bei Commerzbank-Übernahme einig",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXBMdlRGTWlJRlY0Ynp3RFJXSjczX3ZIbDEzZzJzOUI5Q3B2X1kzSWY5WXdqN3Y4TzBZcmlHbjJSbDNqaXdNVjFpMHpCbnRmTXdFWlRXRXRad0dpVm9vaWNza3JFQU1uY0FXOWtCU1A2b2Z0ZjZnMDFlTy0yZVVNdE9JeDdqRjNrb3RlaWgxNGRPMVFaTEtSdmk4bkJadi1LTlB2QVNB?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-11-18T17:39:07+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "BaFin verhängt Bußgelder gegen KT Bank, Nect bindet zehn EUDI-Wallet-Partner an",
-       "link": "https://www.it-finanzmagazin.de/kurz-notiert-kt-bank-geldwaesche-eudi-wallet-254414/"
-      }
-     ]
-    },
-    {
-     "title": "DAZN droht Rückzahlung nach unzulässigen Preiserhöhungen",
-     "link": "https://www.heise.de/news/DAZN-droht-Rueckzahlung-nach-unzulaessigen-Preiserhoehungen-11529888.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-     "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/4/0/0/3/Bildschirmfoto_2021-06-01_um_11-e076a763c6a69e50-08e913ffcfd02e90.png",
-     "n_sources": 1,
-     "time": "2026-11-18T16:51:00+00:00",
-     "sources": [
-      {
-       "name": "Heise",
-       "title": "DAZN droht Rückzahlung nach unzulässigen Preiserhöhungen",
-       "link": "https://www.heise.de/news/DAZN-droht-Rueckzahlung-nach-unzulaessigen-Preiserhoehungen-11529888.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      }
-     ]
-    },
-    {
-     "title": "CVE-2024-49138: Ungepatchte POS-Terminals liefern Angreifern mindestens eine Million Kartendaten",
-     "link": "https://www.it-finanzmagazin.de/cve-2024-49138-ungepatchte-pos-terminals-254361/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T14:06:07+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "CVE-2024-49138: Ungepatchte POS-Terminals liefern Angreifern mindestens eine Million Kartendaten",
-       "link": "https://www.it-finanzmagazin.de/cve-2024-49138-ungepatchte-pos-terminals-254361/"
-      }
-     ]
-    },
-    {
-     "title": "KI-Welle in der Banking-IT: Die Rückkehr nach Westeuropa bleibt (bisher) aus",
-     "link": "https://www.it-finanzmagazin.de/ki-welle-im-banking-it-die-rueckkehr-nach-westeuropa-bleibt-bisher-aus-253768/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T13:08:26+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "KI-Welle in der Banking-IT: Die Rückkehr nach Westeuropa bleibt (bisher) aus",
-       "link": "https://www.it-finanzmagazin.de/ki-welle-im-banking-it-die-rueckkehr-nach-westeuropa-bleibt-bisher-aus-253768/"
-      }
-     ]
-    },
-    {
-     "title": "Baufi-Challenger Bilthouse holt Ex-Paypal-Deutschland-Chef als CEO",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWtpMWt0R1lXNXZ1TG9oQ0FZeHRhY3hHVzlkZVo4cnlNUTEwZ2M5UG1qQk04VUdmYzNQYWNUZjdNLWJ6M25xOTg4dzZyTHZab2g2elEwYi1jQUFXb2lUdWZnVEowb1VhQ2VER1FJOW1kNDlxYXR1NGxMVmtLSDNkZVR6aUp2djc5b21GSmhjVklhMkFDenJ1aHNmTDJPbHZj?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T11:07:42+00:00",
+     "time": "2026-11-19T05:37:29+00:00",
      "sources": [
       {
        "name": "Finanz-Szene",
-       "title": "Baufi-Challenger Bilthouse holt Ex-Paypal-Deutschland-Chef als CEO",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWtpMWt0R1lXNXZ1TG9oQ0FZeHRhY3hHVzlkZVo4cnlNUTEwZ2M5UG1qQk04VUdmYzNQYWNUZjdNLWJ6M25xOTg4dzZyTHZab2g2elEwYi1jQUFXb2lUdWZnVEowb1VhQ2VER1FJOW1kNDlxYXR1NGxMVmtLSDNkZVR6aUp2djc5b21GSmhjVklhMkFDenJ1aHNmTDJPbHZj?oc=5"
+       "title": "„Gemeinsame Basis“ – Berlin und Unicredit bei Commerzbank-Übernahme einig",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXBMdlRGTWlJRlY0Ynp3RFJXSjczX3ZIbDEzZzJzOUI5Q3B2X1kzSWY5WXdqN3Y4TzBZcmlHbjJSbDNqaXdNVjFpMHpCbnRmTXdFWlRXRXRad0dpVm9vaWNza3JFQU1uY0FXOWtCU1A2b2Z0ZjZnMDFlTy0yZVVNdE9JeDdqRjNrb3RlaWgxNGRPMVFaTEtSdmk4bkJadi1LTlB2QVNB?oc=5"
       }
      ]
     },
     {
-     "title": "Nächtlicher Unload: Warum der Kopier-Reflex die KI‑Strategie ausbremst",
-     "link": "https://www.it-finanzmagazin.de/naechtlicher-data-unload-warum-der-kopier-reflex-die-ki-strategie-ausbremst-253110/",
+     "title": "Willbe App: Digital in physische Edelmetalle investieren",
+     "link": "https://www.it-finanzmagazin.de/willbe-app-digital-in-physische-edelmetalle-investieren-254425/",
      "image": "",
      "n_sources": 1,
-     "time": "2026-11-18T11:04:06+00:00",
+     "time": "2026-11-19T07:00:39+00:00",
      "sources": [
       {
        "name": "IT-Finanzmagazin",
-       "title": "Nächtlicher Unload: Warum der Kopier-Reflex die KI‑Strategie ausbremst",
-       "link": "https://www.it-finanzmagazin.de/naechtlicher-data-unload-warum-der-kopier-reflex-die-ki-strategie-ausbremst-253110/"
+       "title": "Willbe App: Digital in physische Edelmetalle investieren",
+       "link": "https://www.it-finanzmagazin.de/willbe-app-digital-in-physische-edelmetalle-investieren-254425/"
       }
      ]
     },
     {
-     "title": "ChatGPT Wallet: Die Wallet ist tot. Lang lebe die Wallet.",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0J5dU1nb291THJ6TDNpWU5ieUhHN2NDa1BmLVcwM2xZRm82T21VT1p4dWxLbnBIWWotaVB0aWkzZ21IZEZkTWRvRTBMWDdnejR6Wk5qaUhBX2pKcnRHTEQtbGlud3VJelY1Y2pHS25IQkxIVGlsNThVY2ozVzBrSUNNV2NFdWF2cjR5aEdn?oc=5",
-     "image": "",
+     "title": "Immobilien: Bezahlbarkeit bei Mieten: Das sind die Top- und Flop-Kreise in Deutschland",
+     "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-das-sind-die-top-und-die-flop-kreise-fuer-mieter-in-deutschland/100269131.html",
+     "image": "https://images.handelsblatt.com/KrsceBm7fYB2/cover/900/506/0/0/313/312/0.5/0.5/archiv-12.06.2026-rheinland-pfalz-mainz-hausfassaden-von-mietwohnungen-reihen-sich-aneinander..jpg",
      "n_sources": 1,
-     "time": "2026-11-18T10:04:14+00:00",
+     "time": "2026-11-19T05:20:48+00:00",
      "sources": [
       {
-       "name": "Payment & Banking",
-       "title": "ChatGPT Wallet: Die Wallet ist tot. Lang lebe die Wallet.",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0J5dU1nb291THJ6TDNpWU5ieUhHN2NDa1BmLVcwM2xZRm82T21VT1p4dWxLbnBIWWotaVB0aWkzZ21IZEZkTWRvRTBMWDdnejR6Wk5qaUhBX2pKcnRHTEQtbGlud3VJelY1Y2pHS25IQkxIVGlsNThVY2ozVzBrSUNNV2NFdWF2cjR5aEdn?oc=5"
+       "name": "Handelsblatt",
+       "title": "Immobilien: Bezahlbarkeit bei Mieten: Das sind die Top- und Flop-Kreise in Deutschland",
+       "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-das-sind-die-top-und-die-flop-kreise-fuer-mieter-in-deutschland/100269131.html"
       }
      ]
     },
     {
-     "title": "Premiere: NRW.Bank und DZ Bank wickeln Blockchain-Anleihe über EZB Pontes ab",
-     "link": "https://www.it-finanzmagazin.de/premiere-nrw-bank-und-dz-bank-wickeln-blockchain-anleihe-ueber-ezb-pontes-ab-254317/",
+     "title": "Der nächste Einlagen-Schock? Naja, zumindest ein sehr auffälliger Datenpunkt …",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hMEdKYW1VSi00UnRlSHd6QVc0Uzg3Q0w1dnU1YUd3WTBLVFRoUkVTdVFuRUs2bG5GcHJMU08xVnROdlRxakstZERwNGM2ODhVcGxjaTBYUUZXQnhnVHl1aGR4Q1piQVdu?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-11-18T08:53:21+00:00",
+     "time": "2026-11-19T04:57:21+00:00",
      "sources": [
       {
-       "name": "IT-Finanzmagazin",
-       "title": "Premiere: NRW.Bank und DZ Bank wickeln Blockchain-Anleihe über EZB Pontes ab",
-       "link": "https://www.it-finanzmagazin.de/premiere-nrw-bank-und-dz-bank-wickeln-blockchain-anleihe-ueber-ezb-pontes-ab-254317/"
+       "name": "Finanz-Szene",
+       "title": "Der nächste Einlagen-Schock? Naja, zumindest ein sehr auffälliger Datenpunkt …",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hMEdKYW1VSi00UnRlSHd6QVc0Uzg3Q0w1dnU1YUd3WTBLVFRoUkVTdVFuRUs2bG5GcHJMU08xVnROdlRxakstZERwNGM2ODhVcGxjaTBYUUZXQnhnVHl1aGR4Q1piQVdu?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Volksbank Brawo baut nach Abgangswelle ihr Private Banking um",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX3VfdjBIaWhYNFlyaEpoeFhvVTl4TTAzYzE0Z2dlYy1Zc0MwVmtTdjlMRGhZSlVMMnBSS19jSGlzVkh6Zm1UYjNPZFZhb25kc3hQS0Vfb0dENmdKNUlyVldWTFgwVXlSSGJEakF4R0NqS1BnM2lhLUhvTGlGMy1uZHFGWldpRnNSMm9sMTJPOUctbmVwN2czUkFB?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:52:20+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Volksbank Brawo baut nach Abgangswelle ihr Private Banking um",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX3VfdjBIaWhYNFlyaEpoeFhvVTl4TTAzYzE0Z2dlYy1Zc0MwVmtTdjlMRGhZSlVMMnBSS19jSGlzVkh6Zm1UYjNPZFZhb25kc3hQS0Vfb0dENmdKNUlyVldWTFgwVXlSSGJEakF4R0NqS1BnM2lhLUhvTGlGMy1uZHFGWldpRnNSMm9sMTJPOUctbmVwN2czUkFB?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "„Nicht zu halten“ – (ausgerechnet) die FAZ stimmt den Abgesang auf Sewing an",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTE5QQk1ub1ZadTVBTWF5YkFtcWhUM1VpNldENkN3STY3d2k5Qjlzd20yb24ydlBmblhpVXZ2RWJ4MUhoY09rT1E5d3ZxZ0ZwTlg4R3I0N2NmVVY0bWstaEdCUUd3RHZnOFI0S05vOXRZSUxCNHFWbWdGbTBNNmdPY0UycEZxbU13MUdEMm1VcTRtLUMtSmx6cE9PYVdKZmd1Qzc4YXB3?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:52:20+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "„Nicht zu halten“ – (ausgerechnet) die FAZ stimmt den Abgesang auf Sewing an",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTE5QQk1ub1ZadTVBTWF5YkFtcWhUM1VpNldENkN3STY3d2k5Qjlzd20yb24ydlBmblhpVXZ2RWJ4MUhoY09rT1E5d3ZxZ0ZwTlg4R3I0N2NmVVY0bWstaEdCUUd3RHZnOFI0S05vOXRZSUxCNHFWbWdGbTBNNmdPY0UycEZxbU13MUdEMm1VcTRtLUMtSmx6cE9PYVdKZmd1Qzc4YXB3?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Saalesparkasse muss bis Jahresende auf Feststellung ihres Abschlusses warten",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFozZzg3WHFCQzJIWUZoby1nZGJ2TXlUWDRFR252YzFhczlERlUwc0Mtd2dsVXdPMXhKVDhUdFd1ajdFemJCODFINVdCNmlnQ2phQmxRbW1sLS0wR3RBZXlDX1JwQlJ2aklNNEtROFV1YkNkcDJMeHRrQTFqcUp6bThxbE5Sb3JILUd1YnVnN1F0aEIzMy0wd1FMSjRqY2pEYmNnWFVmbzlzZXFTVWc?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:47:19+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Saalesparkasse muss bis Jahresende auf Feststellung ihres Abschlusses warten",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFozZzg3WHFCQzJIWUZoby1nZGJ2TXlUWDRFR252YzFhczlERlUwc0Mtd2dsVXdPMXhKVDhUdFd1ajdFemJCODFINVdCNmlnQ2phQmxRbW1sLS0wR3RBZXlDX1JwQlJ2aklNNEtROFV1YkNkcDJMeHRrQTFqcUp6bThxbE5Sb3JILUd1YnVnN1F0aEIzMy0wd1FMSjRqY2pEYmNnWFVmbzlzZXFTVWc?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Bafin lässt Auslandsbanken weiter rätseln. Und: Ein Update zur Einlagensicherung",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp6Q1JiZVdPdXo1Z0syY2VSdjVLeVRvOVFndi1qUUdzRzF0Sk9ILTE1dC1Fd1NNTWtZeEo4RFVSa3FtS0pWQUhZSXBMUmZ2eGJBUExKZkNpWWFhVng1ZU80eEU4UnhkVVEtZXRrOUZkNENoMlRXbllQMFVsS0NzSzhMcDZaNDhXM3pTSElBWnBJUWkwSDlrMGdZanZwa0tYN2R1TjlmcHdoLThQcllwYldxaw?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T04:42:18+00:00",
+     "sources": [
+      {
+       "name": "Finanz-Szene",
+       "title": "Bafin lässt Auslandsbanken weiter rätseln. Und: Ein Update zur Einlagensicherung",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp6Q1JiZVdPdXo1Z0syY2VSdjVLeVRvOVFndi1qUUdzRzF0Sk9ILTE1dC1Fd1NNTWtZeEo4RFVSa3FtS0pWQUhZSXBMUmZ2eGJBUExKZkNpWWFhVng1ZU80eEU4UnhkVVEtZXRrOUZkNENoMlRXbllQMFVsS0NzSzhMcDZaNDhXM3pTSElBWnBJUWkwSDlrMGdZanZwa0tYN2R1TjlmcHdoLThQcllwYldxaw?oc=5"
       }
      ]
     }
@@ -1424,6 +1419,51 @@
       }
      ],
      "title_orig": "Charity Bank selects Temenos SaaS for core banking and payments"
+    },
+    {
+     "title": "Das Paytech-Start-up Codex sammelt 30 Mio. USD in einer Finanzierungsrunde der Serie A ein",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFRFelFaa1NnNUJpVThWWXdlVzNMQVlFSjhUN3BRel9QMXJacU1kVnhBUFk3clRoMm40Vkk5Q0xpcHlCOEpLbDcxbm4wN0lxNXVfMWFJMmlwTE1MLTVMeGludkF4dVFod3RnSGNiWVZpSXhTQmYzSThDUHU4REFuQVpwcXJPd00?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T07:00:57+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Paytech start-up Codex raises $30m in Series A funding",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFRFelFaa1NnNUJpVThWWXdlVzNMQVlFSjhUN3BRel9QMXJacU1kVnhBUFk3clRoMm40Vkk5Q0xpcHlCOEpLbDcxbm4wN0lxNXVfMWFJMmlwTE1MLTVMeGludkF4dVFod3RnSGNiWVZpSXhTQmYzSThDUHU4REFuQVpwcXJPd00?oc=5"
+      }
+     ],
+     "title_orig": "Paytech start-up Codex raises $30m in Series A funding"
+    },
+    {
+     "title": "Die Bank of Ceylon geht mit der iCashpro-Plattform von Aurionpro live",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQllKX3FhRVNIMWFabmEzdjBxalgwUzI2eUNaV3VuU0M0NWNvU19OMTZsY0VpUGR2YmNuTlR4dHYyNXFhYlE3dV9kd0FuZUVuX19ZMkpZaXdnMDAzcFZuMTNVQk5ZbzJJRTF1Q2xPMnpDcE1uVTV1ak15TXg2SVQ5eGNEcTF1MTI4aEU2d01ybFkxV1NNLTlLSTNtd1RWc3RUOGdSbjdmQkp5UQ?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T06:00:55+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Bank of Ceylon goes live with Aurionpro’s iCashpro platform",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQllKX3FhRVNIMWFabmEzdjBxalgwUzI2eUNaV3VuU0M0NWNvU19OMTZsY0VpUGR2YmNuTlR4dHYyNXFhYlE3dV9kd0FuZUVuX19ZMkpZaXdnMDAzcFZuMTNVQk5ZbzJJRTF1Q2xPMnpDcE1uVTV1ak15TXg2SVQ5eGNEcTF1MTI4aEU2d01ybFkxV1NNLTlLSTNtd1RWc3RUOGdSbjdmQkp5UQ?oc=5"
+      }
+     ],
+     "title_orig": "Bank of Ceylon goes live with Aurionpro’s iCashpro platform"
+    },
+    {
+     "title": "Cowboys und behördliche Genehmigungen",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XMUlZZVpPV0NEYWk2dkl1NVlrMzE4S3BReEtOZjNhZE9WcWpGQW5QRTRWZVRKTFRoTE9GU0tmdkZEci1kdmNsUlhVUV81OHp2MG4tbEdCRmlxSnVkZGd2djNxSzlDSHh3T092TVhfWXZSeWRVUi03WlF3QQ?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-19T05:31:18+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Cowboys and regulatory approvals",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XMUlZZVpPV0NEYWk2dkl1NVlrMzE4S3BReEtOZjNhZE9WcWpGQW5QRTRWZVRKTFRoTE9GU0tmdkZEci1kdmNsUlhVUV81OHp2MG4tbEdCRmlxSnVkZGd2djNxSzlDSHh3T092TVhfWXZSeWRVUi03WlF3QQ?oc=5"
+      }
+     ],
+     "title_orig": "Cowboys and regulatory approvals"
     },
     {
      "title": "Visa führt Threat Intelligence Platform für Banken im asiatisch-pazifischen Raum ein",
@@ -1514,51 +1554,6 @@
       }
      ],
      "title_orig": "Thunes and PayerMax expand partnership on cross-border payouts"
-    },
-    {
-     "title": "Pliant als Lieferant für Payment Solutions 3 der britischen Regierung benannt",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2JiTzVFY2V0b1haRzZzNTM1aXBmeDVwNUxmMGV1ZHhVV3B4YnZzTUl1ekR5c2gtQmJoZnRYUDNldFJTank4YURyV0Q1djFYRWtfaldhczJjbV9OVC1oYlh5LWlMQ19lSDREempUODJyYnU5MXQtLUlSUnF1aENvWHBob2YwcHZYTjRKOU5xck5zRDFRZHJWa3IxQ0RZZFk?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T16:48:38+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Pliant named supplier on UK government Payment Solutions 3",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2JiTzVFY2V0b1haRzZzNTM1aXBmeDVwNUxmMGV1ZHhVV3B4YnZzTUl1ekR5c2gtQmJoZnRYUDNldFJTank4YURyV0Q1djFYRWtfaldhczJjbV9OVC1oYlh5LWlMQ19lSDREempUODJyYnU5MXQtLUlSUnF1aENvWHBob2YwcHZYTjRKOU5xck5zRDFRZHJWa3IxQ0RZZFk?oc=5"
-      }
-     ],
-     "title_orig": "Pliant named supplier on UK government Payment Solutions 3"
-    },
-    {
-     "title": "Kartenprüfungen von iDenfy erhalten PCI-DSS-Zertifizierung",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdkVIdjNSSDNSbzVWSlVfNjlURXY1eHFwMllqNHdRUWY3TUZqUG1kR2dJbVZUcGYxTGNkVGtQVE1KSEc0eTBJeERIYWhIME00X2FpYjNIUE5aU2hZNzBIT2NUd3RUOWlaUml1d2xjZExIUzAxbGtkaW53WHUxSHNHRnB5OGtIN2JzS3NWb1dGemRzZW9NNDhqbERXQ1hvVDBtcG0wZzJIcVloZzVKdUE?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T16:34:15+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "iDenfy card checks gain PCI DSS attestation",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdkVIdjNSSDNSbzVWSlVfNjlURXY1eHFwMllqNHdRUWY3TUZqUG1kR2dJbVZUcGYxTGNkVGtQVE1KSEc0eTBJeERIYWhIME00X2FpYjNIUE5aU2hZNzBIT2NUd3RUOWlaUml1d2xjZExIUzAxbGtkaW53WHUxSHNHRnB5OGtIN2JzS3NWb1dGemRzZW9NNDhqbERXQ1hvVDBtcG0wZzJIcVloZzVKdUE?oc=5"
-      }
-     ],
-     "title_orig": "iDenfy card checks gain PCI DSS attestation"
-    },
-    {
-     "title": "Paysafe führt die Wallet-Lösung PaysafeGo ein",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXlZdUZheXZtVW1ncm5LQ3JrWkdfUXJaRzNrS3RhVEx5eW40NWZZamJYSzk1Z1Ffc2dtSXl0WHhUYlFINy1mN2kwREstcTNhT0szQnpTUTVNdXNxcjBRV3p0blRDdEJ3bFlTQnV5azlJOGZOZkItblJrOVlrQkpwcHRWdWxMVm5QQjJxeWx2cHhxQnI2bGFxY3o5dHJsSkhlMHc?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-18T16:19:45+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Paysafe launches PaysafeGo wallet solution",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXlZdUZheXZtVW1ncm5LQ3JrWkdfUXJaRzNrS3RhVEx5eW40NWZZamJYSzk1Z1Ffc2dtSXl0WHhUYlFINy1mN2kwREstcTNhT0szQnpTUTVNdXNxcjBRV3p0blRDdEJ3bFlTQnV5azlJOGZOZkItblJrOVlrQkpwcHRWdWxMVm5QQjJxeWx2cHhxQnI2bGFxY3o5dHJsSkhlMHc?oc=5"
-      }
-     ],
-     "title_orig": "Paysafe launches PaysafeGo wallet solution"
     }
    ],
    "7d": [
@@ -1586,6 +1581,26 @@
       }
      ],
      "title_orig": "German banks form financial crime fighting JV"
+    },
+    {
+     "title": "Beacon Bank führt Finastra Payments To Go ein",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeV9KbWtTUmo0MENnMjA3ZkNBN1BiTEI3RXl5TTlObmU3TkplZ1diNlhxQ3JwRGFiQW5OR0dUVUhZWVFpWlFrTTNtOTRpbkxOakZxSGRreWhrcUtFQTdaLXJHWkI4bW9CWkg2Y1dkaHlua3gwQjZpMlR5MzBxdjNVRDRqQmh4bkdXUHloeEdjUl92bGxOeTNWejdPdER3Uk0?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-19T06:00:55+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Beacon Bank adopts Finastra Payments To Go",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeV9KbWtTUmo0MENnMjA3ZkNBN1BiTEI3RXl5TTlObmU3TkplZ1diNlhxQ3JwRGFiQW5OR0dUVUhZWVFpWlFrTTNtOTRpbkxOakZxSGRreWhrcUtFQTdaLXJHWkI4bW9CWkg2Y1dkaHlua3gwQjZpMlR5MzBxdjNVRDRqQmh4bkdXUHloeEdjUl92bGxOeTNWejdPdER3Uk0?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Bank of Ceylon goes live with Aurionpro’s iCashpro platform",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQllKX3FhRVNIMWFabmEzdjBxalgwUzI2eUNaV3VuU0M0NWNvU19OMTZsY0VpUGR2YmNuTlR4dHYyNXFhYlE3dV9kd0FuZUVuX19ZMkpZaXdnMDAzcFZuMTNVQk5ZbzJJRTF1Q2xPMnpDcE1uVTV1ak15TXg2SVQ5eGNEcTF1MTI4aEU2d01ybFkxV1NNLTlLSTNtd1RWc3RUOGdSbjdmQkp5UQ?oc=5"
+      }
+     ],
+     "title_orig": "Beacon Bank adopts Finastra Payments To Go"
     },
     {
      "title": "Charity Bank wählt Temenos SaaS für Core Banking und Zahlungsverkehr",
@@ -1666,26 +1681,6 @@
       }
      ],
      "title_orig": "AI-powered issuer processor txn launches in the UK and Europe"
-    },
-    {
-     "title": "Beacon Bank führt Finastra Payments To Go ein",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeV9KbWtTUmo0MENnMjA3ZkNBN1BiTEI3RXl5TTlObmU3TkplZ1diNlhxQ3JwRGFiQW5OR0dUVUhZWVFpWlFrTTNtOTRpbkxOakZxSGRreWhrcUtFQTdaLXJHWkI4bW9CWkg2Y1dkaHlua3gwQjZpMlR5MzBxdjNVRDRqQmh4bkdXUHloeEdjUl92bGxOeTNWejdPdER3Uk0?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-17T11:42:40+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Beacon Bank adopts Finastra Payments To Go",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeV9KbWtTUmo0MENnMjA3ZkNBN1BiTEI3RXl5TTlObmU3TkplZ1diNlhxQ3JwRGFiQW5OR0dUVUhZWVFpWlFrTTNtOTRpbkxOakZxSGRreWhrcUtFQTdaLXJHWkI4bW9CWkg2Y1dkaHlua3gwQjZpMlR5MzBxdjNVRDRqQmh4bkdXUHloeEdjUl92bGxOeTNWejdPdER3Uk0?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Beacon Bank goes live with Finastra’s Payments To Go",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DemNIZ25Mb1l5Q3B4UUN4WF9WZXZpR0Q5UzFQVEM3S3Noa0NCbVNPY3IyVjV3TkY5Yy1OQnl5Y3ZkV3ByZTRseW5MYXJFV0hlajh1bUNUeE9HYUpZWmVraWFlUDZNckVtWWNnbjZGSEhNYlNBTnkybzIzUUhGbjg?oc=5"
-      }
-     ],
-     "title_orig": "Beacon Bank adopts Finastra Payments To Go"
     },
     {
      "title": "OpenAI führt ChatGPT Wallet für Zahlungen von Agenten in den USA ein",
@@ -1845,31 +1840,6 @@
      "title_orig": "EU and Canada plan to link real-time payment systems"
     },
     {
-     "title": "TEN Credit Union wählt Bankjoy für seine Corelation KeyStone-Konvertierung aus",
-     "link": "https://www.finextra.com/pressarticle/111431/ten-credit-union-selects-bankjoy-for-its-corelation-keystone-conversion?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 3,
-     "time": "2026-10-27T11:33:37+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion",
-       "link": "https://www.finextra.com/pressarticle/111431/ten-credit-union-selects-bankjoy-for-its-corelation-keystone-conversion?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "TEN Credit Union picks Bankjoy for digital banking",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmxSYUVSb3VoNW9xbzlsUWFpU1RIR2RuRGZvYzFsSjJ1VTJNUlJBMFh3QVNURkxYR21leDZWWDFsa3NnRXI2ZS0yd1ViWXQtTTl6OFJZV0x4WUVmYldydmVtVkYtNE1vLW02QVFwLXF6bnp5UXp3SzVkeXVJc2VzMC1LbUFzWk4xY2oyN3FXYlA4QzFFZEVzRndPQ2hISDByMXc?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Sound Credit Union",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOeWlJeXc2Yzg5U2FWNlFDVlFwRjhzYkFNRXlCSVF1M1hHYklPeGxNMHBDd2x5VGlRNEdQdlhzNUVBZ3AwYzUxZ2xBeUkxdnRUbElmeV9keEoydzhXSHhRZDlOeS1oU0lD?oc=5"
-      }
-     ],
-     "title_orig": "TEN Credit Union selects Bankjoy for its Corelation KeyStone conversion"
-    },
-    {
      "title": "Tech Mahindra erwirbt die Cash-Management-Sparte von Finastra",
      "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1978,6 +1948,26 @@
       }
      ],
      "title_orig": "Payhawk raises USD 280 mln in Series C"
+    },
+    {
+     "title": "Beacon Bank führt Finastra Payments To Go ein",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeV9KbWtTUmo0MENnMjA3ZkNBN1BiTEI3RXl5TTlObmU3TkplZ1diNlhxQ3JwRGFiQW5OR0dUVUhZWVFpWlFrTTNtOTRpbkxOakZxSGRreWhrcUtFQTdaLXJHWkI4bW9CWkg2Y1dkaHlua3gwQjZpMlR5MzBxdjNVRDRqQmh4bkdXUHloeEdjUl92bGxOeTNWejdPdER3Uk0?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-19T06:00:55+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Beacon Bank adopts Finastra Payments To Go",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeV9KbWtTUmo0MENnMjA3ZkNBN1BiTEI3RXl5TTlObmU3TkplZ1diNlhxQ3JwRGFiQW5OR0dUVUhZWVFpWlFrTTNtOTRpbkxOakZxSGRreWhrcUtFQTdaLXJHWkI4bW9CWkg2Y1dkaHlua3gwQjZpMlR5MzBxdjNVRDRqQmh4bkdXUHloeEdjUl92bGxOeTNWejdPdER3Uk0?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Bank of Ceylon goes live with Aurionpro’s iCashpro platform",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQllKX3FhRVNIMWFabmEzdjBxalgwUzI2eUNaV3VuU0M0NWNvU19OMTZsY0VpUGR2YmNuTlR4dHYyNXFhYlE3dV9kd0FuZUVuX19ZMkpZaXdnMDAzcFZuMTNVQk5ZbzJJRTF1Q2xPMnpDcE1uVTV1ak15TXg2SVQ5eGNEcTF1MTI4aEU2d01ybFkxV1NNLTlLSTNtd1RWc3RUOGdSbjdmQkp5UQ?oc=5"
+      }
+     ],
+     "title_orig": "Beacon Bank adopts Finastra Payments To Go"
     },
     {
      "title": "OpenAI führt ChatGPT Wallet für Zahlungen von Agenten in den USA ein",
@@ -2597,53 +2587,53 @@
     "lang": "de",
     "items": [
      {
-      "title": "lakers – jazz",
-      "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70812/preview-jazz-look-to-build-momentum-against-la-lakers",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "verfolgungsjagd",
-      "link": "https://www.br.de/nachrichten/bayern/getoetete-13-jaehrige-in-sailauf-fahrer-wegen-mordverdachts-in-haft,VbFmaDH",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "bornheim",
-      "link": "https://www1.wdr.de/nrw/rheinland/rhein-sieg-kreis/bornheim-unfall-toedlich-spendenaufruf-100.html",
-      "meta": "5000+ Suchanfragen"
-     },
-     {
-      "title": "thriller",
-      "link": "https://www.netflix.com/tudum/articles/heartland-cast-guide",
+      "title": "b466",
+      "link": "https://www.swp.de/lokales/geislingen/unfall-auf-der-b466-vw-kollidiert-frontal-mit-lkw-79715073.html",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "ben steinkamp",
-      "link": "https://www.bild.de/unterhaltung/tv-fernsehformate/alles-was-zaehlt-im-tv-bringt-simone-charlie-zurueck-aufs-eis-6af417ed42c2bfde5b993a2c",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "automobilzulieferer",
-      "link": "https://www.bild.de/regional/mecklenburg-vorpommern/automobilzulieferer-schliesst-261-mitarbeiter-teilen-sich-3-millionen-euro-abfindung-6afd7b4b4e6cd4bac15cefde",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "ulm",
-      "link": "https://www.zeit.de/news/2026-11/18/grosse-razzia-in-ulmer-hochhaus",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "straßenbahn",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-citybahn-essen-mit-dem-advent-kommt-eine-neue-strassenbahn-linie-100.html",
+      "title": "larry poindexter",
+      "link": "https://deadline.com/2026/11/larry-poindexter-dead-swat-jag-days-of-our-lives-actor-1237228697/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "heat – bucks",
-      "link": "https://www.casino.org/news/nba-insider-eric-pincus-the-bucks-will-win-the-giannis-trade/",
+      "title": "karin rådström",
+      "link": "https://www.it-boltwise.de/daimler-truck-chefin-kritisiert-eu-co2-ziele-fuer-lkw-als-wettbewerbsrisiko.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "kernkraftwerk tschernobyl",
+      "link": "https://www.futurezone.de/science/article761350/tschernobyl-neue-erkenntnisse-werfen-fragen-auf-wildhunde-arbeiten.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "oliver bearman",
+      "link": "https://www.the-race.com/formula-1/ollie-bearman-strange-ferrari-f1-contract-situation-2027/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "biberdamm",
+      "link": "https://www.br.de/nachrichten/bayern/landwirt-zerstoert-ohne-erlaubnis-biberdamm-mit-radlader,VbLwPrN",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "sparkassen karten",
+      "link": "https://www.chip.de/news/geld-finanzen-recht/sparkassen-kunden-muessen-handeln-sonst-klappt-die-kartenzahlung-bald-nicht-mehr_dedd4dc0-3a7f-46e8-ba5c-52e88a7141a7.html",
+      "meta": "2000+ Suchanfragen"
+     },
+     {
+      "title": "super mond",
+      "link": "https://www.br.de/nachrichten/wissen/supermond-im-november-groesster-vollmond-2026,VWo5efG",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "cma awards 2026",
+      "link": "https://www.foxnews.com/entertainment/ella-langley-dominates-cma-awards-major-wins-taylor-swift-makes-stunning-return-stage",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "mavericks – warriors",
-      "link": "https://www.espn.com/nba/recap?gameId=401910016",
+      "title": "blühende kastanienbäume",
+      "link": "https://www.zeit.de/feuilleton/kunst/2026-11/van-gogh-bluehende-kastanienbaeume-auktion-sothebys-ns-raubkunst",
       "meta": "200+ Suchanfragen"
      }
     ]
@@ -2711,31 +2701,32 @@
     "lang": "fr",
     "items": [
      {
-      "title": "lakers – jazz",
-      "link": "https://utahjazz.com/news/preview-utah-jazz-end-back-to-back-with-matchup-against-lakers",
+      "title": "Vorauszahlung",
+      "link": "https://www.leparisien.fr/economie/votre-argent/ca-permet-de-vivre-jusqua-la-fin-du-mois-plus-sereinement-de-plus-en-plus-de-francais-ont-recours-a-lacompte-sur-salaire-19-11-2026-BFXHMDTWQNAGLANYM5AHB5D4BQ.php",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "acompte"
+     },
+     {
+      "title": "israelische Siedlungen",
+      "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/produits-importes-des-colonies-israeliennes-scandale-dans-nos-rayons_8288924.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "colonies israéliennes"
+     },
+     {
+      "title": "James-Bond-Girl",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4263752-images-paris-lances-pourrait-devenir-prochaine-james-bond-girl",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "james bond girl"
+     },
+     {
+      "title": "sanofi",
+      "link": "https://investir.lesechos.fr/marches-indices/les-points-bourse/le-cac-40-retombe-sous-les-8200-points-accor-en-plus-forte-baisse-stmicroelectronics-rebondit-2263369",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "la courneuve",
-      "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-garagiste-mis-en-examen-et-ecroue-pour-feminicide-en-seine-saint-denis_8288963.html",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "Bahrein",
-      "link": "https://www.arte.tv/fr/videos/129042-231-A/arte-journal-18-11-2026/",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "bahreïn"
-     },
-     {
-      "title": "BLACK FRIDAY WEEK",
-      "link": "https://www.lesnumeriques.com/societe-numerique/black-friday-2026-en-direct-j-8-une-nouvelle-vague-d-offres-massives-deferle-ce-jeudi-19-novembre-285-e263919.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "black friday"
-     },
-     {
-      "title": "air france",
-      "link": "https://www.solutions-numeriques.com/zoom-cnn-ikea178-grandes-marques-touchees-par-le-piratage-doptimizely/",
-      "meta": "2000+ Suchanfragen"
+      "title": "golfech",
+      "link": "https://www.ladepeche.fr/2026/11/18/centrale-nucleaire-de-golfech-un-pilote-dulm-dagen-interpelle-apres-avoir-filme-son-survol-du-site-et-diffuse-les-images-sur-instagram-13659160.php",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2744,32 +2735,33 @@
     "lang": "it",
     "items": [
      {
-      "title": "lakers - jazz",
-      "link": "https://utahjazz.com/news/preview-utah-jazz-end-back-to-back-with-matchup-against-lakers",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "Neuseeland vs. Indien",
-      "link": "https://theopenpress.in/article/india-vs-new-zealand-1st-test-tea-nicholls-phillips-140-for-5-19-november",
+      "title": "Wetter Bologna",
+      "link": "https://www.ilmeteo.it/giornale/meteo-bologna-emilia-romagna-oggi-pioggia-schiarite-venerdi-20-sabato-21-poco-nuvoloso",
       "meta": "500+ Suchanfragen",
-      "title_orig": "new zealand vs india"
+      "title_orig": "meteo bologna"
      },
      {
-      "title": "Genau wie in der Gesamtwertung der Show",
-      "link": "https://www.rai.it/ufficiostampa/assets/template/us-articolo.html?ssiPath=/articoli/2026/11/Tale-e-Quale-Show-La-Finale-73ee4cc4-0000-4884-afb6-6fd15899f863-ssi.html",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "tale e quale show classifica generale"
+      "title": "van gogh",
+      "link": "https://nos.nl/artikel/2639993-veiling-van-gogh-kan-toch-doorgaan-na-akkoord-erfgenamen-recordbedrag-verwacht",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Kicker",
-      "link": "https://www.corriere.it/sport/calcio/26_novembre_18/conte-juventus-intervista-2462cfb1-3b67-4a0d-8bcc-a3dec87adxlk.shtml",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "calcio"
+      "title": "Pacers – Rockets",
+      "link": "https://www.rotowire.com/basketball/headlines/kevin-durant-news-efficient-21-points-in-wednesdays-win-539862",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "pacers - rockets"
      },
      {
-      "title": "sisal",
-      "link": "https://www.ilmonferrato.it/articolo/0P1OiA0BFU6RBHWtSc6BhQ/superenalotto-a-casale-monferrato-centrato-un-5-da-oltre-10mila-euro",
-      "meta": "200+ Suchanfragen"
+      "title": "Wasserträger",
+      "link": "https://www.ilfattoquotidiano.it/2026/11/18/inchiesta-sisma-terremoto-pistarelli-fdi-marche-acquaroli-intercettazioni-notizie/8576392/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "acquaroli"
+     },
+     {
+      "title": "Bahnstreik am 20. November 2026",
+      "link": "https://www.repubblica.it/economia/2026/11/19/news/sciopero_generale_del_20_novembre_orari_e_modalita_tutto_quello_che_c_e_da_sapere-425733104/",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "sciopero treni 20 novembre 2026"
      }
     ]
    },
@@ -2778,32 +2770,31 @@
     "lang": "es",
     "items": [
      {
-      "title": "lakers - jazz",
-      "link": "https://www.slcdunk.com/utah-jazz-game-coverage/70812/preview-jazz-look-to-build-momentum-against-la-lakers",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "RÄUMUNG ",
-      "link": "https://www.elmundo.es/economia/empresas/2026/11/19/6afc8b0efc6c83920e8b45b1.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "desalojo"
-     },
-     {
-      "title": "thunder - hawks",
-      "link": "https://www.nba.com/news/atlanta-hawks-dort-wiggins-face-oklahoma-city-thunder",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "Tagesgutschein, einmal überprüfen",
-      "link": "https://elpais.com/sorteos/2026-11-18/cupon-diario-de-la-once-comprobar-sorteo-del-miercoles-18-de-noviembre.html",
+      "title": "Méndez Ferrín",
+      "link": "https://www.huffingtonpost.es/sociedad/muere-mendez-ferrin-88nos-expresidente-real-academia-galega-poeta-sembro-magnolias-polvora-f202611.html",
       "meta": "100+ Suchanfragen",
-      "title_orig": "cupón diario once comprobar"
+      "title_orig": "mendez ferrin"
      },
      {
-      "title": "Corinthians – Botafogo",
-      "link": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/18-11-2026/corinthians-botafogo.ghtml",
+      "title": "movistar plus+",
+      "link": "https://www.adslzone.net/noticias/streaming-tv/movistar-plus-mas-canales-hd/",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "nicholas hoult",
+      "link": "https://www.theguardian.com/film/2026/nov/18/readers-casting-robert-pattinson-bond-007",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "Öffentlicher Sektor",
+      "link": "https://www.marketscreener.com/news/evroc-and-telia-cygate-launch-swedish-cloud-service-for-public-sector-ce785eddd18df526",
       "meta": "100+ Suchanfragen",
-      "title_orig": "corinthians - botafogo"
+      "title_orig": "sector públic"
+     },
+     {
+      "title": "gta 6 ultimate edition",
+      "link": "https://en.as.com/meristation/news/gta-6-buyers-guide-standard-vs-ultimate-pricing-perks-and-contents-f202611-n/",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2812,33 +2803,33 @@
     "lang": "en",
     "items": [
      {
-      "title": "Lakers gegen Jazz",
-      "link": "https://www.espn.co.uk/nba/story/_/id/50506501/lakers-rule-austin-reaves-walker-kessler-vs-hornets",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "lakers vs jazz"
-     },
-     {
-      "title": "GTA 6 Geländer reparieren",
-      "link": "https://www.gamespot.com/articles/how-to-fix-all-projects-at-jasons-house-in-gta-6/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "gta 6 fix railing"
-     },
-     {
-      "title": "palmeiras",
-      "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/18/flamengo-pode-ser-campeao-brasileiro-no-proximo-sabado-contra-o-palmeiras-entenda-cenario.ghtml",
+      "title": "silo",
+      "link": "https://decider.com/2026/11/18/silo-season-4-release-date-when-is-season-4-of-silo-coming-out/",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Wie man GTA 6 rettet",
-      "link": "https://www.ign.com/articles/gta-6-doesnt-let-you-replay-story-missions-heres-why",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "how to save gta 6"
+      "title": "di",
+      "link": "https://www.reuters.com/business/aerospace-defense/russian-military-aircraft-deployment-sends-potent-message-asia-2026-11-18/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "tu"
      },
      {
-      "title": "Nets – Bulls",
-      "link": "https://www.espn.com/nba/recap?gameId=401910011",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "nets vs bulls"
+      "title": "Einreise-/Ausreisesystem",
+      "link": "https://www.bbc.co.uk/news/articles/cv702w933jddo",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "entry/exit system"
+     },
+     {
+      "title": "Die weiteren Missgeschicke von Cliff Booth",
+      "link": "https://variety.com/2026/film/news/cliff-booth-first-reactions-brad-pitt-fincher-tarantino-1236948975/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "the further mis-adventures of cliff booth"
+     },
+     {
+      "title": "Wann ist Black Friday?",
+      "link": "https://www.forbes.com/sites/pamdanziger/2026/11/18/amazons-black-friday-deals-are-real-understanding-them-is-the-hard-part/",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "when is black friday"
      }
     ]
    },
@@ -2847,31 +2838,32 @@
     "lang": "pl",
     "items": [
      {
-      "title": "a2",
-      "link": "https://tvn24.pl/lubuskie/pniow-seria-zdarzen-na-autostradzie-a2-ruch-w-kierunku-warszawy-pasem-awaryjnym-st9342993",
+      "title": "shenzhen",
+      "link": "https://www.reuters.com/live/trump-xi-putin-live-leaders-hold-unprecedented-summit-shenzhen-2026-11-18/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "tauron liga",
-      "link": "https://www.polsatsport.pl/wiadomosc/2026-11-18/tauron-liga-energa-trefl-gdansk-aluron-cmc-warta-zawiercie-relacja-live-i-wynik-na-zywo/",
-      "meta": "100+ Suchanfragen"
+      "title": "anthropisch",
+      "link": "https://www.bbc.com/news/articles/c6742m39xgzxo",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "anthropic"
      },
      {
-      "title": "fc porto",
-      "link": "https://www.record.pt/modalidades/hoquei-em-patins/detalhe/fc-porto-vence-em-tomar-e-continua-100-vitorioso-na-temporada",
+      "title": "an der Grenze",
+      "link": "https://www.fakt.pl/polityka/rosyjska-dywersja-powstrzymana-eksperci-kreml-bedzie-eskalowal/llw66q8",
+      "meta": "10000+ Suchanfragen",
+      "title_orig": "na granicy"
+     },
+     {
+      "title": "UKRAINE",
+      "link": "https://wiadomosci.wp.pl/realizm-mocarstw-dlaczego-shenzhen-to-ani-jalta-ani-przelom-7352333583128608a",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "ukraina"
+     },
+     {
+      "title": "sanae takaichi",
+      "link": "https://tvn24.pl/swiat/doniesienia-ze-szczytu-w-chinach-wladimir-putin-na-kolacji-mial-uslyszec-dwa-zadania-st9346270",
       "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "Trocknen",
-      "link": "https://trends.google.com/trends/explore?geo=PL&q=suszenie",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "suszenie"
-     },
-     {
-      "title": "Promotion",
-      "link": "https://wyborcza.pl/7,111390,33138931,swiateczna-lista-prezentow-na-black-friday.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "promocja"
      }
     ]
    },
@@ -2949,32 +2941,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "matt rife",
-      "link": "https://www.barstoolsports.com/blog/3581261/porn-wars-ii-kendra-lust-mocked-her-mortal-enemy-lisa-ann-by-posing-with-matt",
-      "meta": "1000+ Suchanfragen"
+      "title": "san diego",
+      "link": "https://www.sandiegouniontribune.com/2026/11/18/scouting-report-aztecs-host-texas-southern-before-nonconference-competition-stiffens/",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "Connections-Tipp 18. Nov.",
-      "link": "https://mashable.com/entertainment/nyt-connections-hints-meanings-november-19-2026",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "connections hint nov 18"
-     },
-     {
-      "title": "Männlicher Sänger des Jahres",
-      "link": "https://theboot.com/ixp/204/p/zach-top-chris-stapleton-text-offended/",
+      "title": "Unerwünschte Aufmerksamkeit GTA 6",
+      "link": "https://www.videogameschronicle.com/guide/gta-6-unwanted-attention-mission-walkthrough/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "male vocalist of the year"
+      "title_orig": "unwanted attention gta 6"
      },
      {
-      "title": "red dead redemption",
-      "link": "https://variety.com/2026/gaming/news/gta-6-movie-grand-theft-auto-games-adapted-1236952350/",
+      "title": "Anwalt für Lkw-Unfälle",
+      "link": "https://lawyer-monthly.com/2026/11/best-car-accident-lawyers-sacramento/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "truck accident lawyer"
+     },
+     {
+      "title": "qatar airways",
+      "link": "https://wgntv.com/news/chicago-news/qatar-airways-flight-lands-safely-in-chicago-after-altercation-breaks-out-between-2-passengers/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Chicago P.D. – Besetzung",
-      "link": "https://www.imdb.com/de/news/ni66117761/?ref_=nm_nwr_1",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "chicago pd cast"
+      "title": "tv",
+      "link": "https://www.bbc.com/culture/article/20261117-10-of-the-best-tv-shows-to-watch-this-december",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2983,29 +2974,29 @@
     "lang": "en",
     "items": [
      {
-      "title": "gold mcx",
-      "link": "https://www.cnbc.com/2026/11/18/gold-slides-to-over-one-year-low-on-firm-dollar-us-rate-outlook.html",
-      "meta": "5000+ Suchanfragen"
-     },
-     {
-      "title": "rte",
-      "link": "https://energy.economictimes.indiatimes.com/news/renewable/cop31s-draft-cover-decision-sparks-outrage-as-developing-nations-push-back-on-climate-action-plans/135945874",
+      "title": "జీవిత భీమా",
+      "link": "https://www.eenadu.net/telugu-news/telangana/indiramma-bhima-to-be-launched-today/1899/126210215",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "pooja hegde",
-      "link": "https://in.eventfaqs.com/2026/11/18/comic-con-india-to-host-gta-6-launch-day-gaming-gatherings-in-delhi-and-navi-mumbai/",
-      "meta": "100+ Suchanfragen"
+      "title": "रीनियम",
+      "link": "https://navbharatlive.com/business/cag-report-on-bis-hallmark-gold-purity-inspection-questions-maa19",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "watrana rentals ipo gmp",
-      "link": "https://ipowatch.in/watrana-rentals-ipo-details/",
-      "meta": "100+ Suchanfragen"
+      "title": "एकादशी",
+      "link": "https://www.aajtak.in/religion/news/story/dev-uthani-ekadashi-2026-rashifal-dhan-yog-lucky-zodiac-signs-prediction-tvisu-dskc-2699808-2026-11-18",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "javokhir sindarov",
-      "link": "https://www.chess.com/news/view/gukesh-pressure-sindarov-world-championship",
-      "meta": "500+ Suchanfragen"
+      "title": "kospi",
+      "link": "https://finance.biggo.com/news/ca576661-1629-46c8-9a4d-98ce93d4270f",
+      "meta": "2000+ Suchanfragen"
+     },
+     {
+      "title": "kospi moneycontrol",
+      "link": "https://hi.investing.com/news/stock-market-news/article-771623",
+      "meta": "1000+ Suchanfragen"
      }
     ]
    },
@@ -3014,31 +3005,32 @@
     "lang": "pt",
     "items": [
      {
-      "title": "ziaire williams",
-      "link": "https://www.cbssports.com/fantasy/basketball/news/lakers-ziaire-williams-starting-wednesday/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "Dorf",
-      "link": "https://www.bbc.com/portuguese/articles/cmx29j0v4lnwo",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "aldeia"
-     },
-     {
-      "title": "cooper-Flagge",
-      "link": "https://www.espn.com/nba/recap?gameId=401910016",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "cooper flagg"
-     },
-     {
-      "title": "josh green",
-      "link": "https://www.cbssports.com/fantasy/basketball/news/jazzs-josh-green-efficient-shooting-in-limited-minutes/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "xbox cloud gaming",
-      "link": "https://www.rockstargames.com/br/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+      "title": "binance",
+      "link": "https://www.fbi.gov/investigate/cyber/facestealer-cryptocurrency-theft-scheme",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "betriebsbefragungen 18",
+      "link": "https://record.r7.com/a-fazenda/a-fazenda-18/novidades/peoes-encaram-corrida-do-ouro-na-disputa-pelo-chapeu-em-a-fazenda-18-18112026/",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "enquetes a fazenda 18"
+     },
+     {
+      "title": "red Dead Erlösung 2",
+      "link": "https://tech.yahoo.com/gaming/articles/games-red-dead-redemption-2-115049998.html",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "red dead redemption 2"
+     },
+     {
+      "title": "manni perez",
+      "link": "https://www.yahoo.com/entertainment/celebrity/article/the-lead-actress-in-grand-theft-auto-vi-has-finally-been-revealed-what-to-know-about-the-woman-behind-lucia-185317472.html",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "Wann ist Black Friday?",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/19/black-friday-por-que-comprar-com-desconto-da-prazer-mesmo-quando-gastamos-mais.ghtml",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "quando é a black friday"
      }
     ]
    },
@@ -3047,34 +3039,34 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Jūryō",
-      "link": "https://news.yahoo.co.jp/articles/330ece9db6410fbfa32b35d33b5588b35978e5bb",
+      "title": "Japan Tobacco Inc.",
+      "link": "https://news.yahoo.co.jp/pickup/6603167",
       "meta": "1000+ Suchanfragen",
-      "title_orig": "十両"
+      "title_orig": "日本たばこ産業"
      },
      {
-      "title": "Sittich",
-      "link": "https://news.yahoo.co.jp/pickup/6603143",
+      "title": "Saeko",
+      "link": "https://www.oricon.co.jp/news/2492761/photo/7/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "インコ"
+      "title_orig": "紗栄子"
      },
      {
-      "title": "Yotsuya Yagi",
-      "link": "https://news.yahoo.co.jp/articles/b292dfd876c9a00107d6a754ad5655a269dd7271",
+      "title": "Liam Lawson",
+      "link": "https://sports.yahoo.co.jp/column/detail/2026111900001-spnavi?p=2",
       "meta": "200+ Suchanfragen",
-      "title_orig": "四ツ谷 ヤギ"
+      "title_orig": "リアム・ローソン"
      },
      {
-      "title": "Polizei der Präfektur Tochigi",
-      "link": "https://newsdig.tbs.co.jp/articles/-/3096131",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "栃木県警察"
+      "title": "Beaujolais",
+      "link": "https://news.yahoo.co.jp/pickup/6603114",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "ボジョレー"
      },
      {
-      "title": "Stimmenthaltung",
-      "link": "https://news.yahoo.co.jp/pickup/6603126",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "棄権"
+      "title": "Hiromoto Okubo",
+      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E5%A4%A7%E4%B9%85%E4%BF%9D%E5%8D%9A%E5%85%83",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "大久保博元"
      }
     ]
    },
@@ -3144,22 +3136,22 @@
     "lang": "en",
     "items": [
      {
+      "title": "Elon Musk behauptet: „Ich bin kein MAGA-Anhänger“ und sagt, er bedauere die hohen Summen, mit denen er die Republikaner unterstützt hat.",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
+      "meta": "The Guardian · 120 Personen teilen",
+      "title_orig": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans"
+     },
+     {
       "title": "Copilot ist „das neue Betriebssystem für die Arbeit“, und jetzt läuft Office darin",
       "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "meta": "Ars Technica · 157 Personen teilen",
+      "meta": "Ars Technica · 178 Personen teilen",
       "title_orig": "Copilot is \"the new OS for work,\" and now Office runs inside of it"
      },
      {
       "title": "Könnte man für das Zeichnen eines Bildes eines Rechenzentrums in Australien sieben Jahre ins Gefängnis kommen?",
       "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/18/could-drawing-a-picture-of-a-datacentre-in-australia-land-you-in-jail-for-seven-years",
-      "meta": "The Guardian · 110 Personen teilen",
+      "meta": "The Guardian · 113 Personen teilen",
       "title_orig": "Could drawing a picture of a datacentre in Australia land you in jail for seven years?"
-     },
-     {
-      "title": "Elon Musk behauptet: „Ich bin kein MAGA-Anhänger“ und sagt, er bedauere die hohen Summen, mit denen er die Republikaner unterstützt hat.",
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
-      "meta": "The Guardian · 83 Personen teilen",
-      "title_orig": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans"
      },
      {
       "title": "Mary Peltola besiegt den Republikaner Dan Sullivan in Alaska und verschafft den Demokraten 56 Sitze im Senat",
@@ -3170,7 +3162,7 @@
      {
       "title": "Macron hat Smartphones in Schulen verboten. Einen Monat später stand Frankreich in Flammen. Könnte es einen Zusammenhang geben?",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/18/macron-banned-smartphones-in-schools-a-month-later-france-was-ablaze-could-they-be-connected",
-      "meta": "The Guardian · 101 Personen teilen",
+      "meta": "The Guardian · 113 Personen teilen",
       "title_orig": "Macron banned smartphones in schools. A month later, France was ablaze. Could they be connected?"
      }
     ]
@@ -3203,28 +3195,28 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 162,
+   "count": 157,
    "error": ""
   },
   {
    "source": "Handelsblatt",
    "category": "news",
    "ok": true,
-   "count": 24,
+   "count": 27,
    "error": ""
   },
   {
    "source": "Finanz-Szene",
    "category": "pay_de",
    "ok": true,
-   "count": 31,
+   "count": 32,
    "error": ""
   },
   {
    "source": "Payment & Banking",
    "category": "pay_de",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": ""
   },
   {
@@ -3238,7 +3230,7 @@
    "source": "Handelsblatt",
    "category": "pay_de",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": ""
   },
   {
@@ -3266,7 +3258,7 @@
    "source": "Fintech Futures",
    "category": "pay_eu",
    "ok": true,
-   "count": 71,
+   "count": 75,
    "error": ""
   },
   {
@@ -3399,8 +3391,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 115,
-   "info": "115 von 115 Überschriften übersetzt (neu in diesem Lauf: MyMemory 50). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 114,
+   "info": "114 von 114 Überschriften übersetzt (neu in diesem Lauf: MyMemory 38). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
