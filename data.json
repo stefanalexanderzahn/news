@@ -1,42 +1,8 @@
 {
- "generated": "2026-11-19T21:59:12+00:00",
+ "generated": "2026-11-20T01:18:49+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
-   {
-    "title": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1686802.html",
-    "image": "https://images.tagesschau.de/image/05e7f25d-f5bf-4797-9d28-54989d396a0d/AAABofXCFpM/AAABnSSvrFg/16x9-big/sendungsbild-1830204.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-19T21:41:43+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1686802.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Anthropic-Börsengang: Ausgabepreis von 83 Dollar je Aktie festgelegt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-boersengang-ausgabepreis-von-83-dollar-je-aktie-festgelegt-a-816300aa-dd4b-44d5-90cd-f7f5403e3b35#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Rekord-Börsengang: Anthropic sammelt über 81 Milliarden Dollar ein",
-      "link": "https://www.zeit.de/video/2026-11/rekord-boersengang-anthropic-sammelt-ueber-81-milliarden-dollar-ein"
-     },
-     {
-      "name": "FAZ",
-      "title": "Künstliche Intelligenz: Anthropic setzt Messlatte für Börsengang höher",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-aktie-soll-laut-berichten-83-dollar-kosten-201696457.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Erstnotiz: Historischer IPO – Anthropic sammelt 81 Milliarden Dollar ein",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-historischer-ipo-anthropic-sammelt-81-milliarden-dollar-ein/100270370.html"
-     }
-    ]
-   },
    {
     "title": "Jörg Endriss, ARD Peking, zzt. Shenzhen/China, zu den Gesprächen zwischen Trump, Putin und Xi über die Ukraine und Atomwaffen",
     "link": "https://www.tagesschau.de/video/video-1686490.html",
@@ -101,6 +67,35 @@
     ]
    },
    {
+    "title": "BASF bläst Evonik-Übernahme ab",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
+    "image": "https://images.tagesschau.de/image/b5fd0634-2e70-4351-9916-50d3c401a857/AAABofRTPTA/AAABnSSvrFg/16x9-big/basf-178.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-19T16:51:55+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "BASF bläst Evonik-Übernahme ab",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "BASF: Chemieriese sagt Evonik-Übernahme ab",
+      "link": "https://www.spiegel.de/wirtschaft/basf-sagt-evonik-uebernahme-ab-a-8ac0a370-d80e-4f40-834b-6ebbaec30a90#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Gespräche gescheitert: BASF sagt Evonik-Übernahme ab",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gespraeche-gescheitert-basf-sagt-evonik-uebernahme-ab-201699067.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Kommentar: Blaues Auge für BASF und eine schwere Bürde für Evonik",
+      "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-blaues-auge-fuer-basf-und-eine-schwere-buerde-fuer-evonik/100271350.html"
+     }
+    ]
+   },
+   {
     "title": "18-jähriger Schüler soll Anschlag auf Moschee geplant haben",
     "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schueler-anschlagsplan-moschee-100.html",
     "image": "https://images.tagesschau.de/image/96165e1c-3459-4458-97fe-8a02b57d59d2/AAABofMZk4w/AAABnSSvrFg/16x9-big/wdr-auch-diese-pistole-stammt-zumindest-teilweise-aus-dem-3d-drucker-100.jpg?width=1920",
@@ -130,60 +125,26 @@
     ]
    },
    {
-    "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
-    "image": "https://images.tagesschau.de/image/0a8267b7-a2da-4eb4-bb5a-b7fda46a2e11/AAABoJ9akT0/AAABnSSvrFg/16x9-big/commerzbank-270.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-19T11:34:33+00:00",
+    "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+    "image": "https://images.tagesschau.de/image/daf543ea-b8c4-46bc-8df5-327236c4b94a/AAABofRDns8/AAABnSSvrFg/16x9-big/anthropic-142.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-19T21:20:13+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Bundesregierung und UniCredit bei Commerzbank-Übernahme einig",
-      "link": "https://www.zeit.de/video/2026-11/bundesregierung-und-unicredit-bei-commerzbank-uebernahme-einig"
+      "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html"
      },
      {
       "name": "FAZ",
-      "title": "übernahme durch Unicredit: Bundesregierung stimmt für Commerzbank-Übernahme",
-      "link": "https://www.faz.net/video/bundesregierung-stimmt-fuer-commerzbank-uebernahme-201697940.html"
+      "title": "Börsengang von Anthropic: Der Weckruf für Deutschland",
+      "link": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/anthropic-boersengang-warum-deutschland-aufwachen-muss-201698877.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Banken: Bund und Unicredit einigen sich bei Commerzbank-Übernahme",
-      "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bund-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html"
-     }
-    ]
-   },
-   {
-    "title": "GTA 6: Erste Eindrücke von der neuen Version von Grand Theft Auto",
-    "link": "https://www.spiegel.de/netzwelt/gta-6-erste-eindruecke-von-der-neuen-version-von-grand-theft-auto-a-7f156a50-18dd-4f36-be77-4a0623b8c5c1#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/9e182123-8cea-428c-9b41-5bf9b89c3d2c_w520_r2.08_fpx50_fpy70.84.jpg",
-    "n_sources": 4,
-    "time": "2026-11-19T07:19:21+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "GTA 6: Erste Eindrücke von der neuen Version von Grand Theft Auto",
-      "link": "https://www.spiegel.de/netzwelt/gta-6-erste-eindruecke-von-der-neuen-version-von-grand-theft-auto-a-7f156a50-18dd-4f36-be77-4a0623b8c5c1#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Nach langem Warten: Computerspiel GTA 6 ist in Deutschland verfügbar",
-      "link": "https://www.zeit.de/news/2026-11/19/computerspiel-gta-6-ist-in-deutschland-verfuegbar"
-     },
-     {
-      "name": "FAZ",
-      "title": "Grand Theft Auto VI: Wo bleibt das deutsche GTA?",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wo-bleibt-das-deutsche-gta-201687565.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Grand Theft Auto VI: Computerspiel GTA 6 ist in Deutschland verfügbar",
-      "link": "https://www.handelsblatt.com/unternehmen/it-medien/grand-theft-auto-vi-computerspiel-gta-6-ist-in-deutschland-verfuegbar/100271085.html"
+      "title": "Rekord-Börsengang: Anthropic-Aktie schließt 17 Prozent im Plus – Deutlicher Kursrückgang im Handelsverlauf",
+      "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boersengang-anthropic-schliesst-17-prozent-im-plus-kursrueckgang-im-handelsverlauf/100270027.html"
      }
     ]
    },
@@ -212,26 +173,26 @@
     ]
    },
    {
-    "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
-    "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html",
-    "image": "https://images.tagesschau.de/image/e5afe867-7f3c-4c20-8747-547d04171022/AAABofJDxFU/AAABnSSvrFg/16x9-big/krim-bruecke-144.jpg?width=1920",
+    "title": "Donald Trump warnt Elon Musk vor Absprung bei MAGA",
+    "link": "https://www.spiegel.de/ausland/donald-trump-warnt-elon-musk-vor-absprung-bei-maga-a-86e0a6f3-18e4-477d-8bd8-e7396533f0c5#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/2cb868d6-b103-4d7e-938f-2ba8f8b6b354_w520_r2.08_fpx33.34_fpy50.jpg",
     "n_sources": 3,
-    "time": "2026-11-19T18:55:10+00:00",
+    "time": "2026-11-19T21:48:24+00:00",
     "sources": [
      {
-      "name": "Tagesschau",
-      "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
-      "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
+      "name": "Spiegel",
+      "title": "Donald Trump warnt Elon Musk vor Absprung bei MAGA",
+      "link": "https://www.spiegel.de/ausland/donald-trump-warnt-elon-musk-vor-absprung-bei-maga-a-86e0a6f3-18e4-477d-8bd8-e7396533f0c5#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Ukrainekrieg: Krim-Brücke nach drittem Angriff in einer Woche erneut gesperrt",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/krim-bruecke-kertsch-bruecke-russland-ukraine-angriffe"
+      "title": "Elon Musk: Donald Trump warnt Musk vor Distanzierung von der MAGA-Bewegung",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/elon-musk-maga-donald-trump-midterms-spenden"
      },
      {
-      "name": "FAZ",
-      "title": "Neue Angriffe: Warum Russland die Krim-Brücke nicht mehr verteidigen kann",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/warum-russland-die-krim-bruecke-nicht-mehr-verteidigen-kann-201697484.html"
+      "name": "Handelsblatt",
+      "title": "+++ USA unter Trump +++: Trump warnt Musk vor MAGA-Absprung",
+      "link": "https://www.handelsblatt.com/politik/international/usa-trump-warnt-musk-vor-maga-absprung/29669594.html"
      }
     ]
    },
@@ -260,130 +221,86 @@
     ]
    },
    {
-    "title": "BASF: Chemieriese sagt Evonik-Übernahme ab",
-    "link": "https://www.spiegel.de/wirtschaft/basf-sagt-evonik-uebernahme-ab-a-8ac0a370-d80e-4f40-834b-6ebbaec30a90#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/47f3604e-d0ae-4ed7-b71f-53470245bba8_w520_r2.08_fpx38.66_fpy50.jpg",
+    "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
+    "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html",
+    "image": "https://images.tagesschau.de/image/e5afe867-7f3c-4c20-8747-547d04171022/AAABofJDxFU/AAABnSSvrFg/16x9-big/krim-bruecke-144.jpg?width=1920",
     "n_sources": 3,
-    "time": "2026-11-19T15:46:38+00:00",
+    "time": "2026-11-19T18:55:10+00:00",
     "sources": [
      {
-      "name": "Spiegel",
-      "title": "BASF: Chemieriese sagt Evonik-Übernahme ab",
-      "link": "https://www.spiegel.de/wirtschaft/basf-sagt-evonik-uebernahme-ab-a-8ac0a370-d80e-4f40-834b-6ebbaec30a90#ref=rss"
+      "name": "Tagesschau",
+      "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
+      "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
      },
      {
       "name": "Zeit Online",
-      "title": "Chemiebranche: BASF beendet Übernahmepoker um Evonik - Zuvor zwei Angebote",
-      "link": "https://www.zeit.de/news/2026-11/19/basf-beenden-bemuehungen-um-uebernahme-von-evonik"
+      "title": "Ukrainekrieg: Krim-Brücke nach drittem Angriff in einer Woche erneut gesperrt",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/krim-bruecke-kertsch-bruecke-russland-ukraine-angriffe"
      },
      {
       "name": "FAZ",
-      "title": "Gespräche gescheitert: BASF sagt Evonik-Übernahme ab",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gespraeche-gescheitert-basf-sagt-evonik-uebernahme-ab-201699067.html"
+      "title": "Neue Angriffe: Warum Russland die Krim-Brücke nicht mehr verteidigen kann",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/warum-russland-die-krim-bruecke-nicht-mehr-verteidigen-kann-201697484.html"
+     }
+    ]
+   },
+   {
+    "title": "Erstmals weltweit mehr Energie zum Kühlen als zum Heizen verbraucht",
+    "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energieverbrauch-weltweit-heizen-kuehlen-100.html",
+    "image": "https://images.tagesschau.de/image/6022361d-8c39-4bd2-b014-8254b62c7981/AAABldrZF4k/AAABnSSvrFg/16x9-big/indien-klimaanlage-100.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-19T14:51:14+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Erstmals weltweit mehr Energie zum Kühlen als zum Heizen verbraucht",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energieverbrauch-weltweit-heizen-kuehlen-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Klimawandel: Weltweit geht erstmals mehr Energie fürs Kühlen als fürs Heizen drauf",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/iea-weltweit-geht-erstmals-mehr-energie-fuers-kuehlen-als-fuers-heizen-drauf-a-3c4f8dbc-6656-429d-98b8-23fb232111be#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Folge des Klimawandels: IEA: Weltweit erstmals mehr Energie fürs Kühlen als fürs Heizen benötigt",
+      "link": "https://www.faz.net/aktuell/wirtschaft/iea-weltweit-erstmals-mehr-energie-fuers-kuehlen-als-fuers-heizen-benoetigt-accg-201697349.html"
      }
     ]
    }
   ],
   "7d": [
    {
-    "title": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1686802.html",
-    "image": "https://images.tagesschau.de/image/05e7f25d-f5bf-4797-9d28-54989d396a0d/AAABofXCFpM/AAABnSSvrFg/16x9-big/sendungsbild-1830204.jpg?width=1920",
+    "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+    "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
+    "image": "https://images.tagesschau.de/image/c7de04a3-94b2-40c1-908c-35479fc47e03/AAABodY5obQ/AAABnSSvrFg/16x9-big/eu-dublin-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-19T21:41:43+00:00",
+    "time": "2026-11-19T17:35:38+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1686802.html"
+      "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+      "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Anthropic-Börsengang: Ausgabepreis von 83 Dollar je Aktie festgelegt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-boersengang-ausgabepreis-von-83-dollar-je-aktie-festgelegt-a-816300aa-dd4b-44d5-90cd-f7f5403e3b35#ref=rss"
+      "title": "Ukraine-Krieg: So wollen die Europäer helfen",
+      "link": "https://www.spiegel.de/politik/ukraine-krieg-so-wollen-die-europaeer-helfen-a-0b6924f4-bc2e-4413-a7f8-dbc8b1c5fd57#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Rekord-Börsengang: Anthropic sammelt über 81 Milliarden Dollar ein",
-      "link": "https://www.zeit.de/video/2026-11/rekord-boersengang-anthropic-sammelt-ueber-81-milliarden-dollar-ein"
+      "title": "Ukraine-Friedensgespräche: EU einigt sich auf Verhandlungsteam für Gespräche mit Russland",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/ukraine-friedensgespraeche-beteiligung-europa-deutschland"
      },
      {
       "name": "FAZ",
-      "title": "Künstliche Intelligenz: Anthropic setzt Messlatte für Börsengang höher",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-aktie-soll-laut-berichten-83-dollar-kosten-201696457.html"
+      "title": "Liveblog Ukrainekrieg: Trump drängt die Europäer, Putin anzurufen",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-draengt-die-europaeer-putin-anzurufen-faz-110683325.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Erstnotiz: Historischer IPO – Anthropic sammelt 81 Milliarden Dollar ein",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-historischer-ipo-anthropic-sammelt-81-milliarden-dollar-ein/100270370.html"
-     }
-    ]
-   },
-   {
-    "title": "Erstmals gemeinsames Treffen von Putin, Trump und Xi im Rahmen eines Gipfels in Shenzhen",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1686796.html",
-    "image": "https://images.tagesschau.de/image/5e15f65b-c958-4cb0-8433-c47309016994/AAABofWz7Ok/AAABnSSvrFg/16x9-big/sendungsbild-1830198.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-19T21:26:15+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Erstmals gemeinsames Treffen von Putin, Trump und Xi im Rahmen eines Gipfels in Shenzhen",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1686796.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Dreiergipfel in Shenzhen: Einschätzungen zum Treffen von Xi, Trump und Putin",
-      "link": "https://www.spiegel.de/ausland/dreiergipfel-in-shenzhen-einschaetzungen-zum-treffen-von-xi-trump-und-putin-a-ce122610-4006-4cd4-9a1f-ccc15e4eff20#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Gipfel in China: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
-      "link": "https://www.zeit.de/news/2026-11/14/weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an"
-     },
-     {
-      "name": "FAZ",
-      "title": "Treffen in Shenzhen: Drei Männer, vier Gemeinsamkeiten",
-      "link": "https://www.faz.net/aktuell/politik/ausland/putin-trump-und-xi-in-shenzhen-gipfel-mit-vagen-ergebnissen-201697032.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Ukraine: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an/100269831.html"
-     }
-    ]
-   },
-   {
-    "title": "Israels Parlamentspräsident gewählt",
-    "link": "https://www.tagesschau.de/video/video-1685798.html",
-    "image": "https://images.tagesschau.de/image/7beba225-ac8e-4b96-ab5f-6798d5b837a3/AAABoe5NTUE/AAABnSSvrFg/16x9-big/sendungsbild-1829262.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-19T18:48:54+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Israels Parlamentspräsident gewählt",
-      "link": "https://www.tagesschau.de/video/video-1685798.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Vertrauter von Eisenkot: Israels Opposition übernimmt Parlamentsvorsitz",
-      "link": "https://www.spiegel.de/ausland/vertrauter-von-eisenkot-israels-opposition-uebernimmt-parlamentsvorsitz-a-4c2a71d7-9f3b-4447-95bc-80236caf905e#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Parlamentarisches Kontrollgremium: AfD-Politiker in Kontrollgremium für Verfassungsschutz gewählt",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/parlamentarisches-kontrollgremium-sachsen-anhalt-verfassungsschutz-afd-bsw-cdu"
-     },
-     {
-      "name": "FAZ",
-      "title": "Parlamentarischer Rat: Eine Verfassung ohne Volk",
-      "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/das-grundgesetz-wie-ein-provisorium-zur-erfolgsgeschichte-wurde-201317643.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Israel: Neuer Knesset-Sprecher – Netanjahu verliert das Parlament",
-      "link": "https://www.handelsblatt.com/politik/international/israel-neuer-knesset-sprecher-netanjahu-verliert-das-parlament/100270558.html"
+      "title": "Putin-Gespräche: Die EU hat sich für ein Ukraine-Team entschieden – Deutschland ist dabei",
+      "link": "https://www.handelsblatt.com/politik/international/putin-gespraeche-die-eu-hat-sich-fuer-ein-ukraine-team-entschieden-deutschland-ist-dabei/100268657.html"
      }
     ]
    },
@@ -520,6 +437,40 @@
       "name": "Handelsblatt",
       "title": "BSW: Karlsruhe lehnt Wahlbeschwerde des BSW ab – Keine Neuauszählung",
       "link": "https://www.handelsblatt.com/politik/deutschland/bsw-karlsruhe-lehnt-wahlbeschwerde-ab/100270854.html"
+     }
+    ]
+   },
+   {
+    "title": "Israels Knesset: Eisenkot-Verbündeter als Parlamentspräsident gewählt",
+    "link": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html",
+    "image": "https://images.tagesschau.de/image/a65ffd42-8668-4426-aae9-7c3278c8f863/AAABoew78DU/AAABnSSvrFg/16x9-big/kahana-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-18T08:29:03+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Israels Knesset: Eisenkot-Verbündeter als Parlamentspräsident gewählt",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Vertrauter von Eisenkot: Israels Opposition übernimmt Parlamentsvorsitz",
+      "link": "https://www.spiegel.de/ausland/vertrauter-von-eisenkot-israels-opposition-uebernimmt-parlamentsvorsitz-a-4c2a71d7-9f3b-4447-95bc-80236caf905e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Parlamentspräsident in Israel: Knesset wählt Eisenkot-Verbündeten zum Parlamentspräsidenten",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/matan-kahana-parlamentspraesident-knesset-israel-benjamin-netanjahu"
+     },
+     {
+      "name": "FAZ",
+      "title": "Liveblog Nahost: Eisenkot-Vertrauter zum israelischen Parlamentspräsidenten gewählt",
+      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-eisenkot-vertrauter-zum-israelischen-parlamentspraesidenten-gewaehlt-faz-200583539.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Israel: Neuer Knesset-Sprecher – Netanjahu verliert das Parlament",
+      "link": "https://www.handelsblatt.com/politik/international/israel-neuer-knesset-sprecher-netanjahu-verliert-das-parlament/100270558.html"
      }
     ]
    },
@@ -562,7 +513,7 @@
     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-chefposten-100.html",
     "image": "https://images.tagesschau.de/image/aa0f8d48-38c2-4005-a1bc-2376cee7f6ef/AAABoeMV4y8/AAABnSSvrFg/16x9-big/jensen-huang-110.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-17T17:42:45+00:00",
+    "time": "2026-11-17T22:57:26+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -576,18 +527,52 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Nvidia-Skandal: Nvidia soll keine Pläne für eine Rückkehr von Jensen Huang haben",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-rueckkehr-verwaltungsrat-gxe"
+      "title": "Chip-Konzern: Nvidia verdoppelt erneut Umsatz und Gewinn",
+      "link": "https://www.zeit.de/news/2026-11/17/nvidia-verdoppelt-erneut-umsatz-und-gewinn"
      },
      {
       "name": "FAZ",
-      "title": "Nvidia-Skandal: Jensen Huang: „Ich würde zurückkehren“",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-ruecktritt-nvidia-gruender-huang-erwaegt-rueckkehr-auf-ceo-posten-201692517.html"
+      "title": "Business-Ticker: Mutmaßliche Tech-Spionin Alice Huang arbeitet nicht mehr für Megaspeed",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mutmassliche-tech-spionin-alice-huang-arbeitet-nicht-mehr-fuer-megaspeed-faz-200452404.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Künstliche Intelligenz: Nvidia-Verwaltungsrat schließt Rückkehr von Ex-Chef Huang aus",
-      "link": "https://www.handelsblatt.com/technik/it-internet/ki-nvidia-verwaltungsrat-schliesst-rueckkehr-von-ex-chef-huang-aus/100270044.html"
+      "title": "Chip-Konzern: Nvidia verdoppelt erneut Umsatz und Gewinn – keine Pläne für Rückkehr Huangs",
+      "link": "https://www.handelsblatt.com/technik/it-internet/chip-konzern-nvidia-verdoppelt-erneut-umsatz-und-gewinn-keine-plaene-fuer-rueckkehr-huangs/100268998.html"
+     }
+    ]
+   },
+   {
+    "title": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
+    "image": "https://images.tagesschau.de/image/4a858e23-bcda-4313-9038-e71adab94873/AAABoeqt048/AAABnSSvrFg/16x9-big/jensen-huang-118.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-17T19:35:49+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Nvidia: Ex-CEO Jensen Huang ist bereit, zu Chiphersteller zurückzukehren",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-ex-ceo-jensen-huang-ist-bereit-zu-chiphersteller-zurueckzukehren-a-bc20dd25-f830-42e0-a404-de9743ecaf95#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Jensen Huang: Geht KI ohne ihn?",
+      "link": "https://www.zeit.de/digital/internet/2026-11/jensen-huang-nvidia-affaere-spionage-kuenstliche-intelligenz-nachfolge"
+     },
+     {
+      "name": "FAZ",
+      "title": "Jensen Huang: Der Sturz eines Rockstars",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-aufstieg-und-fall-des-nvidia-gruenders-accg-201669719.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Chipkonzern: Jensen Huang zeigt sich bereit zur Rückkehr an Nvidia-Spitze",
+      "link": "https://www.handelsblatt.com/technik/ki/chipkonzern-jensen-huang-zeigt-sich-bereit-zur-rueckkehr-an-die-nvidia-spitze/100270714.html"
      }
     ]
    },
@@ -628,70 +613,104 @@
   ],
   "30d": [
    {
-    "title": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1686802.html",
-    "image": "https://images.tagesschau.de/image/05e7f25d-f5bf-4797-9d28-54989d396a0d/AAABofXCFpM/AAABnSSvrFg/16x9-big/sendungsbild-1830204.jpg?width=1920",
+    "title": "Arbeitskampf: IG Metall startet 24-Stunden-Warnstreiks",
+    "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html",
+    "image": "https://images.tagesschau.de/image/04bf49bc-e6a4-487a-bbef-fcb909596702/AAABofZbVKE/AAABnSSvrFg/16x9-big/ig-metall-streik-110.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-19T21:41:43+00:00",
+    "time": "2026-11-20T00:41:04+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1686802.html"
+      "title": "Arbeitskampf: IG Metall startet 24-Stunden-Warnstreiks",
+      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html"
      },
      {
       "name": "Spiegel",
-      "title": "Anthropic-Börsengang: Ausgabepreis von 83 Dollar je Aktie festgelegt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-boersengang-ausgabepreis-von-83-dollar-je-aktie-festgelegt-a-816300aa-dd4b-44d5-90cd-f7f5403e3b35#ref=rss"
+      "title": "IG Metall startet Ganztages-Streiks",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-startet-ganztages-streiks-a-b4346d94-7de0-4764-ad94-2a4eb5f9342f#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Rekord-Börsengang: Anthropic sammelt über 81 Milliarden Dollar ein",
-      "link": "https://www.zeit.de/video/2026-11/rekord-boersengang-anthropic-sammelt-ueber-81-milliarden-dollar-ein"
+      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
+      "link": "https://www.zeit.de/news/2026-11/01/warnstreiks-der-ig-metall-kurz-nach-mitternacht-gestartet"
      },
      {
       "name": "FAZ",
-      "title": "Künstliche Intelligenz: Anthropic setzt Messlatte für Börsengang höher",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-aktie-soll-laut-berichten-83-dollar-kosten-201696457.html"
+      "title": "Tarifkonflikt: IG Metall Mitte will 24-Stunden-Streiks",
+      "link": "https://www.faz.net/aktuell/rhein-main/wirtschaft/hessen-ig-metall-mitte-fordert-24-stunden-streiks-201657783.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Erstnotiz: Historischer IPO – Anthropic sammelt 81 Milliarden Dollar ein",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-historischer-ipo-anthropic-sammelt-81-milliarden-dollar-ein/100270370.html"
+      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall kurz nach Mitternacht gestartet",
+      "link": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-warnstreiks-der-ig-metall-kurz-nach-mitternacht-gestartet/100266374.html"
      }
     ]
    },
    {
-    "title": "Erstmals gemeinsames Treffen von Putin, Trump und Xi im Rahmen eines Gipfels in Shenzhen",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1686796.html",
-    "image": "https://images.tagesschau.de/image/5e15f65b-c958-4cb0-8433-c47309016994/AAABofWz7Ok/AAABnSSvrFg/16x9-big/sendungsbild-1830198.jpg?width=1920",
+    "title": "Midterms in den USA: \"MAGA-Bewegung wird nicht über Nacht verschwinden\"",
+    "link": "https://www.tagesschau.de/politikwissenschaftler-mueller-midterms-100.html",
+    "image": "https://images.tagesschau.de/image/bef93b4e-7b5f-4609-9234-599b72d651c9/AAABoasbz0Q/AAABnSSvrFg/16x9-big/trump-5420.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-19T21:26:15+00:00",
+    "time": "2026-11-19T21:48:24+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Erstmals gemeinsames Treffen von Putin, Trump und Xi im Rahmen eines Gipfels in Shenzhen",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1686796.html"
+      "title": "Midterms in den USA: \"MAGA-Bewegung wird nicht über Nacht verschwinden\"",
+      "link": "https://www.tagesschau.de/politikwissenschaftler-mueller-midterms-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Dreiergipfel in Shenzhen: Einschätzungen zum Treffen von Xi, Trump und Putin",
-      "link": "https://www.spiegel.de/ausland/dreiergipfel-in-shenzhen-einschaetzungen-zum-treffen-von-xi-trump-und-putin-a-ce122610-4006-4cd4-9a1f-ccc15e4eff20#ref=rss"
+      "title": "Donald Trump warnt Elon Musk vor Absprung bei MAGA",
+      "link": "https://www.spiegel.de/ausland/donald-trump-warnt-elon-musk-vor-absprung-bei-maga-a-86e0a6f3-18e4-477d-8bd8-e7396533f0c5#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Gipfel in China: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
-      "link": "https://www.zeit.de/news/2026-11/14/weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an"
+      "title": "Elon Musk: Donald Trump warnt Musk vor Distanzierung von der MAGA-Bewegung",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/elon-musk-maga-donald-trump-midterms-spenden"
      },
      {
       "name": "FAZ",
-      "title": "Treffen in Shenzhen: Drei Männer, vier Gemeinsamkeiten",
-      "link": "https://www.faz.net/aktuell/politik/ausland/putin-trump-und-xi-in-shenzhen-gipfel-mit-vagen-ergebnissen-201697032.html"
+      "title": "Liveblog Ukrainekrieg: Putin: „Elon Musk ist ein Genie“",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wladimir-putin-nennt-elon-musk-ein-genie-faz-110683325.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Ukraine: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an/100269831.html"
+      "title": "+++ USA unter Trump +++: Trump warnt Musk vor MAGA-Absprung",
+      "link": "https://www.handelsblatt.com/politik/international/usa-trump-warnt-musk-vor-maga-absprung/29669594.html"
+     }
+    ]
+   },
+   {
+    "title": "Die neue Gefahr durch Künstliche Intelligenz",
+    "link": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html",
+    "image": "https://images.tagesschau.de/image/a53e5f61-ab9a-45c0-b9dc-8296a114c5ee/AAABocrXM0c/AAABnSSvrFg/16x9-big/banken-152.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-19T21:19:42+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Die neue Gefahr durch Künstliche Intelligenz",
+      "link": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Anthropic: KI-Firma peilt Billionenbewertung beim Börsengang an",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an-a-01ee7304-2fb0-45da-a9c9-1afec33f201f#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Künstliche Intelligenz: Anthropic-Aktie rutscht bei Debüt vom hohen Startkurs ab",
+      "link": "https://www.zeit.de/news/2026-11/19/anthropic-startet-mit-deutlichem-kursplus-an-der-boerse"
+     },
+     {
+      "name": "FAZ",
+      "title": "Künstliche Intelligenz: Warum Anthropic nicht zu abhängig von Nvidia werden will",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-und-nvidia-wie-jensen-huangs-abgang-die-partnerschaft-veraendert-accg-201694752.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Künstliche Intelligenz: Wer vom Rekord-Börsengang von Anthropic am meisten profitiert",
+      "link": "https://www.handelsblatt.com/technik/ki/anthropic-wer-vom-rekord-boersengang-am-meisten-profitiert/100270337.html"
      }
     ]
    },
@@ -709,8 +728,8 @@
      },
      {
       "name": "Spiegel",
-      "title": "Ukraine-Krieg: Kyjiw versucht Russlands Raketenindustrie zu treffen",
-      "link": "https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-versucht-russlands-raketenindustrie-zu-treffen-a-f840c7b8-a053-4dd0-a514-da9e7b06012d#ref=rss"
+      "title": "Frankreich: Rund 600.000 Menschen gehen auf die Straße",
+      "link": "https://www.spiegel.de/ausland/frankreich-rund-600-000-menschen-gehen-auf-die-strasse-a-2619f68b-6061-40c5-969d-3ec16f0bd6a1#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -724,42 +743,42 @@
      },
      {
       "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Ukraine greift Krim-Brücke mit Drohnen an – Kreml meldet geringe Schäden",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-ukraine-greift-krim-bruecke-mit-drohnen-an-kreml-meldet-geringe-schaeden/27982126.html"
+      "title": "+++ Ukraine-Krieg +++: Russland bestätigt Beschädigungen an Krim-Brücke – Selenskyj postet Video von Angriff",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-krim-bruecke-nach-zweitem-angriff-teilweise-eingestuerzt/27982126.html"
      }
     ]
    },
    {
-    "title": "Israels Parlamentspräsident gewählt",
-    "link": "https://www.tagesschau.de/video/video-1685798.html",
-    "image": "https://images.tagesschau.de/image/7beba225-ac8e-4b96-ab5f-6798d5b837a3/AAABoe5NTUE/AAABnSSvrFg/16x9-big/sendungsbild-1829262.jpg?width=1920",
+    "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+    "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
+    "image": "https://images.tagesschau.de/image/c7de04a3-94b2-40c1-908c-35479fc47e03/AAABodY5obQ/AAABnSSvrFg/16x9-big/eu-dublin-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-19T18:48:54+00:00",
+    "time": "2026-11-19T17:35:38+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Israels Parlamentspräsident gewählt",
-      "link": "https://www.tagesschau.de/video/video-1685798.html"
+      "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+      "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Vertrauter von Eisenkot: Israels Opposition übernimmt Parlamentsvorsitz",
-      "link": "https://www.spiegel.de/ausland/vertrauter-von-eisenkot-israels-opposition-uebernimmt-parlamentsvorsitz-a-4c2a71d7-9f3b-4447-95bc-80236caf905e#ref=rss"
+      "title": "Ukraine-Krieg: So wollen die Europäer helfen",
+      "link": "https://www.spiegel.de/politik/ukraine-krieg-so-wollen-die-europaeer-helfen-a-0b6924f4-bc2e-4413-a7f8-dbc8b1c5fd57#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Parlamentarisches Kontrollgremium: AfD-Politiker in Kontrollgremium für Verfassungsschutz gewählt",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/parlamentarisches-kontrollgremium-sachsen-anhalt-verfassungsschutz-afd-bsw-cdu"
+      "title": "Ukraine-Friedensgespräche: EU einigt sich auf Verhandlungsteam für Gespräche mit Russland",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/ukraine-friedensgespraeche-beteiligung-europa-deutschland"
      },
      {
       "name": "FAZ",
-      "title": "Parlamentarischer Rat: Eine Verfassung ohne Volk",
-      "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/das-grundgesetz-wie-ein-provisorium-zur-erfolgsgeschichte-wurde-201317643.html"
+      "title": "Liveblog Ukrainekrieg: Trump drängt die Europäer, Putin anzurufen",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-draengt-die-europaeer-putin-anzurufen-faz-110683325.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Israel: Neuer Knesset-Sprecher – Netanjahu verliert das Parlament",
-      "link": "https://www.handelsblatt.com/politik/international/israel-neuer-knesset-sprecher-netanjahu-verliert-das-parlament/100270558.html"
+      "title": "Putin-Gespräche: Die EU hat sich für ein Ukraine-Team entschieden – Deutschland ist dabei",
+      "link": "https://www.handelsblatt.com/politik/international/putin-gespraeche-die-eu-hat-sich-fuer-ein-ukraine-team-entschieden-deutschland-ist-dabei/100268657.html"
      }
     ]
    },
@@ -798,36 +817,36 @@
     ]
    },
    {
-    "title": "Warnstreiks der IG Metall",
-    "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-124.html",
-    "image": "https://images.tagesschau.de/image/b9363aa4-b8c9-45c2-897a-e6f995aa0dde/AAABofNxxKg/AAABnSSvrFg/16x9-big/ig-metall-278.jpg?width=1920",
+    "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+    "image": "https://images.tagesschau.de/image/0a8267b7-a2da-4eb4-bb5a-b7fda46a2e11/AAABoJ9akT0/AAABnSSvrFg/16x9-big/commerzbank-270.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-19T13:18:20+00:00",
+    "time": "2026-11-19T11:34:33+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Warnstreiks der IG Metall",
-      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-124.html"
+      "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "IG Metall startet Ganztages-Streiks",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-startet-ganztages-streiks-a-b4346d94-7de0-4764-ad94-2a4eb5f9342f#ref=rss"
+      "title": "Mediamarkt-Saturn: EU-Kommission genehmigt Übernahme durch chinesischen Techriesen JD.com",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/mediamarkt-saturn-eu-kommission-genehmigt-uebernahme-durch-chinesischen-techriesen-jd-com-a-72d1e702-9517-4dd9-a124-16d050f8e556#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Metall- und Elektroindustrie: IG Metall ruft in NRW zu Warnstreiks auf",
-      "link": "https://www.zeit.de/news/2026-11/19/ig-metall-ruft-in-nrw-zu-warnstreiks-auf"
+      "title": "Bundesregierung und UniCredit bei Commerzbank-Übernahme einig",
+      "link": "https://www.zeit.de/video/2026-11/bundesregierung-und-unicredit-bei-commerzbank-uebernahme-einig"
      },
      {
       "name": "FAZ",
-      "title": "Business-Ticker: IG Metall beschließt ganztägige Warnstreiks",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-beschliesst-ganztaegige-warnstreiks-faz-200452404.html"
+      "title": "übernahme durch Unicredit: Bundesregierung stimmt für Commerzbank-Übernahme",
+      "link": "https://www.faz.net/video/bundesregierung-stimmt-fuer-commerzbank-uebernahme-201697940.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall kurz nach Mitternacht gestartet",
-      "link": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-warnstreiks-der-ig-metall-kurz-nach-mitternacht-gestartet/100266374.html"
+      "title": "Banken: Bund und Unicredit einigen sich bei Commerzbank-Übernahme",
+      "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bund-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html"
      }
     ]
    },
@@ -930,40 +949,6 @@
       "name": "Handelsblatt",
       "title": "BSW: Karlsruhe lehnt Wahlbeschwerde des BSW ab – Keine Neuauszählung",
       "link": "https://www.handelsblatt.com/politik/deutschland/bsw-karlsruhe-lehnt-wahlbeschwerde-ab/100270854.html"
-     }
-    ]
-   },
-   {
-    "title": "US-Midterms: Demokraten gewinnen auch Senatssitz in Alaska",
-    "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html",
-    "image": "https://images.tagesschau.de/image/a98fd657-816a-4787-80ee-53fe8b868468/AAABoey0P54/AAABnSSvrFg/16x9-big/mary-peltola-104.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-18T06:56:21+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "US-Midterms: Demokraten gewinnen auch Senatssitz in Alaska",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Midterms in den USA - Alaska: Demokratin Mary Peltola gewinnt Senatssitz",
-      "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-alaska-demokratin-mary-peltola-gewinnt-senatssitz-a-b554031e-e4d7-4cee-8cd5-fdc85ce23d63#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Senatswahl in Alaska: Demokratin nimmt Republikanern Senatssitz in Alaska ab",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/senatswahl-alaska-mary-peltola-dan-sullivan-demokraten"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Demokraten gewinnen auch noch Senatssitz in Alaska",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokraten-gewinnen-auch-noch-senatssitz-in-alaska-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ USA unter Trump +++: Demokraten gewinnen Senatssitz in Alaska",
-      "link": "https://www.handelsblatt.com/politik/international/usa-demokraten-gewinnen-senatssitz-in-alaska/29669594.html"
      }
     ]
    }
@@ -1820,6 +1805,31 @@
      "title_orig": "German banks form financial crime fighting JV"
     },
     {
+     "title": "EU und Kanada planen, Echtzeit-Zahlungssysteme zu verbinden",
+     "link": "https://www.finextra.com/newsarticle/48692/eu-and-canada-plan-to-link-real-time-payment-systems?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 3,
+     "time": "2026-11-04T10:59:16+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "EU and Canada plan to link real-time payment systems",
+       "link": "https://www.finextra.com/newsarticle/48692/eu-and-canada-plan-to-link-real-time-payment-systems?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "The Paypers",
+       "title": "Real-time payments infrastructure and scheme evolution",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSS02ZmYwS3Vjc3hGWExsVEp5UVNobWFwSnB1eHdXeGZiT05RX3FYX0hPZzRNcGtCeG1ENnlyYnI0NTFFWHFuZXloR0pjYTFnOXVmc2xvbXFoa3VJQVVsMmZFcmJVWDdWOHhDcnpwVEI4UlVBa3hLamd6enRyMkwtbHktT1BXQ3hvWS1RZnZZWVlad0ZfN2YxNjNsazVGSnpo?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Canada and Europe to link real-time payment systems under new alliance",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGtmbEhzM0ZfUGVBOTdvZlZmdFFsM190V3RMMzF0X19wal9zakRSS29DbVVCRGRrTVdRVmFJbUhGVk1MV1BUUG52eUZqQkZIYjVRNk5KbjdsQXpPOVc3VGpiakY2eGlTYlQ0OUlzeXZkVDYwaEI0MW53ZmRtYXo5V1ZoTlc5VHhUVWRTVkxDMFd5ZHZQSmZHSVBZd3ByX180N3ZyNzY2OHppZ00?oc=5"
+      }
+     ],
+     "title_orig": "EU and Canada plan to link real-time payment systems"
+    },
+    {
      "title": "Tech Mahindra erwirbt die Cash-Management-Sparte von Finastra",
      "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1963,26 +1973,6 @@
       }
      ],
      "title_orig": "New Zealand banks join BioCatch Trust fraud-sharing network"
-    },
-    {
-     "title": "OpenAI führt ChatGPT Wallet für Zahlungen von Agenten in den USA ein",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHYwXzhlQTVGTG5tS0xMcGozWnlVYTVJSV9yTFlwcXAxVFJWbE04ejZsY256d1p3SUZpN0NWcXU0QS00QU5WTzd5UVFvNGxuNmU1TjR2S0tVa3VjZ0tTM0NFWHJ5UXFzUGZnZGdBRkVscDk2UEJNRV94R3VEc2tQZ1FQM19rb0Z0bmt0QWNxWm1Fd0FSMTlBa3VWLUd1Y1k?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-17T09:27:51+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "OpenAI launches ChatGPT Wallet for agentic payments in the US",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHYwXzhlQTVGTG5tS0xMcGozWnlVYTVJSV9yTFlwcXAxVFJWbE04ejZsY256d1p3SUZpN0NWcXU0QS00QU5WTzd5UVFvNGxuNmU1TjR2S0tVa3VjZ0tTM0NFWHJ5UXFzUGZnZGdBRkVscDk2UEJNRV94R3VEc2tQZ1FQM19rb0Z0bmt0QWNxWm1Fd0FSMTlBa3VWLUd1Y1k?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "OpenAI launches ChatGPT Wallet for agentic commerce",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQmxHZTMydHlfcjBoaGJtS2NCT3BTN1ctYlpYMnNja1ZOUDJLMEZ2cW5Uc29BX1hYWDdmWENCMFpqMTVZOTZUNDFiT2Z1Zi0xRHg4dTNuTThpZlhaamlGcWdqOVM2WXl2S0hZaF9uUFV5cW9ENHEyRUFLNzZ3X0VJbjhn?oc=5"
-      }
-     ],
-     "title_orig": "OpenAI launches ChatGPT Wallet for agentic payments in the US"
     }
    ]
   },
@@ -2069,94 +2059,94 @@
      "title_orig": "Alipay+ connects global e-wallets with Brazil's Pix"
     },
     {
-     "title": "Panel erörtert, wer zahlt, wenn KI-Agenten die Anweisungen der Verbraucher überschreiten",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/panel-weighs-who-pays-when-ai-agents-exceed-consumers-instructions/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/AI-agents-shopping-banks.jpeg?w=457",
+     "title": "Meta-Tarife mit einem Preisschild von 300 $ und kostenlosem 5G für das Muse-Charm-AI-Gerät",
+     "link": "https://www.pymnts.com/news/wearables/2026/meta-plans-300-price-tag-and-free-5g-for-muse-charm-ai-device/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Meta-Muse-Charm.jpeg?w=457",
      "n_sources": 1,
-     "time": "2026-11-19T21:17:19+00:00",
+     "time": "2026-11-20T00:58:51+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Panel Weighs Who Pays When AI Agents Exceed Consumers’ Instructions",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/panel-weighs-who-pays-when-ai-agents-exceed-consumers-instructions/"
+       "title": "Meta Plans $300 Price Tag and Free 5G for Muse Charm AI Device",
+       "link": "https://www.pymnts.com/news/wearables/2026/meta-plans-300-price-tag-and-free-5g-for-muse-charm-ai-device/"
       }
      ],
-     "title_orig": "Panel Weighs Who Pays When AI Agents Exceed Consumers’ Instructions"
+     "title_orig": "Meta Plans $300 Price Tag and Free 5G for Muse Charm AI Device"
     },
     {
-     "title": "MoonPay schließt sich der Welle von Krypto-Unternehmen an, die Banklizenzen beantragen",
-     "link": "https://www.pymnts.com/cryptocurrency/2026/moonpay-joins-wave-of-crypto-firms-seeking-banking-licenses/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/MoonPay-bank-1.jpg?w=457",
+     "title": "FDIC-Vorschlag erläutert, wie Banken FinTechs bei Einlagengeschäften bezahlen können",
+     "link": "https://www.pymnts.com/legal/bank-regulation/2026/fdic-proposal-details-how-banks-can-pay-fintechs-in-deposit-deals/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/04/FDIC-AML-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-11-19T21:03:23+00:00",
+     "time": "2026-11-20T00:22:12+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "MoonPay Joins Wave of Crypto Firms Seeking Banking Licenses",
-       "link": "https://www.pymnts.com/cryptocurrency/2026/moonpay-joins-wave-of-crypto-firms-seeking-banking-licenses/"
+       "title": "FDIC Proposal Details How Banks Can Pay FinTechs in Deposit Deals",
+       "link": "https://www.pymnts.com/legal/bank-regulation/2026/fdic-proposal-details-how-banks-can-pay-fintechs-in-deposit-deals/"
       }
      ],
-     "title_orig": "MoonPay Joins Wave of Crypto Firms Seeking Banking Licenses"
+     "title_orig": "FDIC Proposal Details How Banks Can Pay FinTechs in Deposit Deals"
     },
     {
-     "title": "Target setzt bei 90 % seiner Einkaufs- und Nachschubprozesse auf KI",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/target-puts-ai-behind-90percent-of-its-buying-and-restocking/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/09/Target-AI-11.jpg?w=457",
+     "title": "Mitarbeiter von Meta berichten, dass der KI-Agent Muse eine nicht autorisierte Buchung vorgenommen und auf private Apps zugegriffen hat",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-staffers-say-muse-ai-agent-made-unauthorized-booking-and-accessed-private-apps/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Meta-Muse.jpeg?w=457",
      "n_sources": 1,
-     "time": "2026-11-19T21:03:21+00:00",
+     "time": "2026-11-20T00:08:33+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Target Puts AI Behind 90% of Its Buying and Restocking",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/target-puts-ai-behind-90percent-of-its-buying-and-restocking/"
+       "title": "Meta Staffers Say Muse AI Agent Made Unauthorized Booking and Accessed Private Apps",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-staffers-say-muse-ai-agent-made-unauthorized-booking-and-accessed-private-apps/"
       }
      ],
-     "title_orig": "Target Puts AI Behind 90% of Its Buying and Restocking"
+     "title_orig": "Meta Staffers Say Muse AI Agent Made Unauthorized Booking and Accessed Private Apps"
     },
     {
-     "title": "Anthropic bietet Rabatte, um mit neuen Produkten Fuß zu fassen",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-offers-discounts-to-gain-ground-with-new-products/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Anthropic-IPO.jpeg?w=457",
+     "title": "FCA eröffnet das KI-Observatorium „AI Spotlight“",
+     "link": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
      "n_sources": 1,
-     "time": "2026-11-19T20:41:35+00:00",
+     "time": "2026-11-20T00:01:00+00:00",
      "sources": [
       {
-       "name": "PYMNTS",
-       "title": "Anthropic Offers Discounts to Gain Ground With New Products",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-offers-discounts-to-gain-ground-with-new-products/"
+       "name": "Finextra",
+       "title": "FCA opens AI Spotlight Observatory",
+       "link": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "Anthropic Offers Discounts to Gain Ground With New Products"
+     "title_orig": "FCA opens AI Spotlight Observatory"
     },
     {
-     "title": "SEC erhebt Anklage gegen 8 Unternehmen wegen Krypto-Betrugs in Höhe von 37 Millionen US-Dollar",
-     "link": "https://www.pymnts.com/cryptocurrency/2026/sec-charges-8-companies-in-37-million-crypto-scam/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/crypto-scam-SEC-1.jpg?w=457",
+     "title": "Coinbase plant die Einführung eigener Prediction Markets für 2027",
+     "link": "https://www.pymnts.com/economy/markets/2026/coinbase-eyes-2027-launch-for-in-house-prediction-markets/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Coinbase-prediction-markets.jpeg?w=457",
      "n_sources": 1,
-     "time": "2026-11-19T20:40:13+00:00",
+     "time": "2026-11-19T23:40:05+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "SEC Charges 8 Companies in $37 Million Crypto Scam",
-       "link": "https://www.pymnts.com/cryptocurrency/2026/sec-charges-8-companies-in-37-million-crypto-scam/"
+       "title": "Coinbase Eyes 2027 Launch for In-House Prediction Markets",
+       "link": "https://www.pymnts.com/economy/markets/2026/coinbase-eyes-2027-launch-for-in-house-prediction-markets/"
       }
      ],
-     "title_orig": "SEC Charges 8 Companies in $37 Million Crypto Scam"
+     "title_orig": "Coinbase Eyes 2027 Launch for In-House Prediction Markets"
     },
     {
-     "title": "Uber Eats nimmt AutoParts.Com in sein Liefermenü auf",
-     "link": "https://www.pymnts.com/news/delivery/2026/uber-eats-adds-autoparts-delivery-menu/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Uber-Eats.jpg?w=457",
+     "title": "OpenAI erschließt Cyber-Power, während Google die KI-Kosten senkt",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-unlocks-cyber-power-as-google-slashes-ai-costs/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/OpenAI-unlocks-cybersecurity-1.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-11-19T20:28:58+00:00",
+     "time": "2026-11-19T23:28:06+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Uber Eats Adds AutoParts.Com to Its Delivery Menu",
-       "link": "https://www.pymnts.com/news/delivery/2026/uber-eats-adds-autoparts-delivery-menu/"
+       "title": "OpenAI Unlocks Cyber Power as Google Slashes AI Costs",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-unlocks-cyber-power-as-google-slashes-ai-costs/"
       }
      ],
-     "title_orig": "Uber Eats Adds AutoParts.Com to Its Delivery Menu"
+     "title_orig": "OpenAI Unlocks Cyber Power as Google Slashes AI Costs"
     }
    ],
    "7d": [
@@ -2577,54 +2567,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "fussball weltmeister",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/afd-thomas-berthold-bundespraesident-bernd-neuendorf",
+      "title": "kaffee",
+      "link": "https://www.welt.de/gesundheit/article6af4386bdb4e2fa8f6eb7119/darm-was-kaffee-im-koerper-bewirkt-forscher-stossen-auf-ueberraschende-unterschiede.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "nike",
+      "link": "https://about.nike.com/en/newsroom/releases/nike-and-formula-1-join-forces-in-long-term-global-partnership",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "spital thun",
+      "link": "https://www.20min.ch/story/spital-thun-nach-27-jahren-spital-thun-wirft-chefarzt-rolf-hess-raus-103670119",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "sport",
+      "link": "https://sportbild.bild.de/fussball/1-bundesliga/moderator-opdenhoevel-fast-alle-fussballer-sind-padelsuechtig-6afad488172b587f4434d69b",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "frau tv",
-      "link": "https://www.ardmediathek.de/video/frau-tv/gaensehaut-momente-bei-frau-tv/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWFmMzZlMDAtZWJhNC00ZmNlLTkzOTktOWNhNDJhMTNjMzgz",
+      "title": "spiele",
+      "link": "https://www.hessenschau.de/hessen-am-morgen/wegen-gta-6-internetknoten-in-frankfurt-erwartet-hohen-datenverkehr--hessen-am-morgen,hessen-am-morgen-donnerstag-1040.html",
+      "meta": "10000+ Suchanfragen"
+     },
+     {
+      "title": "flüssigerdgas",
+      "link": "https://www.berliner-zeitung.de/article/europas-preiskampf-um-lng-kippt-vier-us-tanker-aendern-ploetzlich-ihren-kurs-10615287",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "biermösl blosn",
+      "link": "https://www.ardmediathek.de/tv-programm/6afb2a6c7784b4be2425a7f3",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "carlo masala",
-      "link": "https://www.welt.de/politik/ausland/article6af6f68e84c7128d8f27e197/putin-stirbt-naechstes-jahr-russland-greift-die-nato-an.html",
+      "title": "bayern",
+      "link": "https://www.bild.de/sport/fussball/vincent-kompany-spricht-erstmals-ueber-seinen-zusammenbruch-6afeaa5bed542f4c39176e14",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "rtl spendenmarathon",
-      "link": "https://www.soester-anzeiger.de/lokales/werl/werler-galerist-bringt-ueber-200-000-euro-zum-rtl-spendenmarathon-94598453.html",
-      "meta": "200+ Suchanfragen"
+      "title": "micky beisenherz",
+      "link": "https://koeln.t-online.de/region/koeln/id_101529774/micky-beisenherz-moderator-unterlaeuft-fehler-im-koelner-treff-.html",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "joshua kimmich",
-      "link": "https://muenchen.t-online.de/region/muenchen/id_101360638/rtl-spendenmarathon-kimmich-ueber-unfassbaren-missbrauchsfall-in-muenchen.html",
+      "title": "kreuzfahrtschiff",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/tanker-atlantic-asphalt-american-heritage-new-orleans-schiffsunfall",
       "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "sandra maischberger",
-      "link": "https://www.n-tv.de/panorama/Sandra-Maischberger-und-der-Schluessel-zur-Seele-id31543512.html",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "wladimir putin",
-      "link": "https://www.bild.de/politik/ausland-und-internationales/wladimir-putin-in-shenzhen-am-katzentisch-xi-zeigte-ihm-wer-der-boss-ist-6afee91539a3e8110f0e2283",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "jan böhmermann",
-      "link": "https://www.spiegel.de/kultur/sebastian-kurz-auftritt-in-zuerich-mit-zitaten-von-jan-boehmermann-gestoert-a-662f33e9-2423-4023-8ad0-a27eec84c7c8",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "us open",
-      "link": "https://www.nittoatpfinals.com/en/news/shelton-jodar-nitto-atp-finals-2026-thursday",
-      "meta": "5000+ Suchanfragen"
-     },
-     {
-      "title": "us open zverev",
-      "link": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
-      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2691,31 +2681,33 @@
     "lang": "fr",
     "items": [
      {
-      "title": "Wetten auf Basketball",
-      "link": "https://www.leparisien.fr/sports/basket/paris-basketball-hapoel-tel-aviv-a-quelle-heure-et-sur-quelle-chaine-tv-voir-le-match-deuroleague-19-11-2026-C4KAONR52NHR7BPWIPIMFGSGIQ.php",
+      "title": "Fabrik",
+      "link": "https://www.usinenouvelle.com/quotidien-des-usines/malgre-50-millions-deuros-investis-en-quatre-ans-le-groupe-owens-illinois-confirme-la-fermeture-de-la-verrerie-de-vayres-plombee-par-un-marche-du-vin-deficitaire.UYFZTXBAKRBZ5FLXCOCGWRQFYQ.html",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "usine"
+     },
+     {
+      "title": "Zahlung",
+      "link": "https://www.20minutes.fr/economie/4263543-20261118-autorisations-montants-change-concretement-decouverts-autorises-vendredi",
       "meta": "100+ Suchanfragen",
-      "title_orig": "paris basketball"
+      "title_orig": "paiement"
      },
      {
-      "title": "angelina jolie",
-      "link": "https://people.com/angelina-jolie-jodie-foster-maura-higgins-quince-tote-bag-november-2026-12263501",
-      "meta": "200+ Suchanfragen"
+      "title": "Spurs – Clippers",
+      "link": "https://www.reutersconnect.com/item/nba-los-angeles-clippers-at-san-antonio-spurs/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzODAxMzc",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "spurs – clippers"
      },
      {
-      "title": "ambulance car",
-      "link": "https://www.ouest-france.fr/faits-divers/accidents/en-pleine-nuit-un-pieton-est-mortellement-fauche-par-une-ambulance-en-intervention-qui-roulait-sans-gyrophare-3a47712c-e292-11f1-a3b1-0c6de532ce7d",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "ambulance"
+      "title": "Black-Friday-Datum",
+      "link": "https://www.lesnumeriques.com/societe-numerique/black-friday-2026-en-direct-j-7-la-derniere-ligne-droite-s-ouvre-ce-vendredi-20-novembre-288-e263919.html",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "black friday date"
      },
      {
-      "title": "nitto atp finals",
-      "link": "https://en.tennistemple.com/video/daniil-medvedev-defeats-flavio-cobolli-at-nitto/Fc88D",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "cyberleek",
-      "link": "https://www.videogameschronicle.com/news/cyberleek-claims-to-release-development-build-of-gta-6/",
-      "meta": "100+ Suchanfragen"
+      "title": "portugal",
+      "link": "https://www.motogp.com/pt/videos/2026/11/19/coletiva-de-imprensa-gp-do-portugal-2026-marc-marquez-martin-bezzecchi/1186519",
+      "meta": "500+ Suchanfragen"
      }
     ]
    },
@@ -2724,32 +2716,30 @@
     "lang": "it",
     "items": [
      {
-      "title": "grand theft auto",
-      "link": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
-      "meta": "2000+ Suchanfragen"
+      "title": "sports",
+      "link": "https://www.espn.com/nfl/story/_/id/50524109/ravens-humphrey-apologizes-criminals-quip-podcast",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "doc in deinen Händen 4 wann es endet",
-      "link": "https://www.iodonna.it/spettacoli/tv/2026/11/19/doc-nelle-tue-mani-4-anticipazioni-puntata-19-novembre-trama/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "doc nelle tue mani 4 quando finisce"
+      "title": "montebelluna",
+      "link": "https://www.ansa.it/veneto/notizie/2026/11/19/incidente-tra-due-auto-nel-trevigiano-morto-un-ragazzo-di-19-anni_47ab54bd-ab2e-4b05-935f-c7faef7f177d.html",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Schulen",
-      "link": "https://www.washingtonpost.com/education/2026/11/19/virginia-school-district-shuts-after-finding-500-staff-werent-properly-screened/",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "schools"
+      "title": "epic games",
+      "link": "https://www.everyeye.it/notizie/epic-games-store-gioco-gratis-disponibile-alien-isolation-912613.html",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "giacomo calò x factor",
-      "link": "https://www.ilmessaggero.it/persone/giacomo_calo_a_un_passo_da_te_testo_significato_inedito_x_factor_giuliano_sangiorgi-9900728.html",
+      "title": "Filme",
+      "link": "https://www.nytimes.com/2026/11/17/movies/the-hunger-games-sunrise-on-the-reaping-review.html",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "movies"
+     },
+     {
+      "title": "time",
+      "link": "https://www.ksl.com/article/51645219/3-stresses-to-get-organized-now-so-your-december-can-be-for-celebrating",
       "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "Warthin Tumor",
-      "link": "https://www.rainews.it/tgr/puglia/articoli/2026/11/traguardo-storico-al-fazzi-di-lecce-prima-dimissione-dopo-il-trattamento-con-cellule-car-t-76f7e879-d4ee-4307-b64d-a0f35b8b3014.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "linfoma"
      }
     ]
    },
@@ -2758,32 +2748,32 @@
     "lang": "es",
     "items": [
      {
-      "title": "die Welt",
-      "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6aff2a9afc6c83886c8b459b.html",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "el mundo"
+      "title": "Wie viele Kapitel hat GTA 6?",
+      "link": "https://www.redbull.com/cl-es/gta-6-lista-completa-de-misiones-y-guia-de-capitulos",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "cuantos capitulos tiene gta 6"
      },
      {
-      "title": "indra",
-      "link": "https://www.democrata.es/en/economy/indra-secures-a-contract-of-nearly-5-million-for-a-system-that-detects-enemy-radar-emissions/",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "abc",
-      "link": "https://www.abc.net.au/news/2026-11-20/central-coast-local-news-briefing/107407276",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "der Plural",
-      "link": "https://www.eldiario.es/politica/feijoo-senala-gamarra-responsable-politica-reuniones-abogado-pp-koldo_1_13671009.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "el plural"
-     },
-     {
-      "title": "Geierfonds",
-      "link": "https://www.rtpa.es/noticias-asturias/2026-11-19/Podemos-apuesta-por-prohibir-la-compra-de-casas-que-no-sean-para-vivienda-habitual_111795112962.html",
+      "title": "Spiele",
+      "link": "https://vandal.elespanol.com/noticia/2026323048/en-gta-6-hay-una-consola-con-varios-juegos-completos-entre-ellos-una-parodia-de-the-witness/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "fondos buitre"
+      "title_orig": "juegos"
+     },
+     {
+      "title": "Flugreisen",
+      "link": "https://www.lavanguardia.com/local/andalucia/20261119/11688152/andalucia-busca-avion-salida-crisis-ferroviaria-wizz-air-conectara-almeria-jerez-madrid.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "vuelos"
+     },
+     {
+      "title": "tomas gomez",
+      "link": "https://www.abc.es/play/television/noticias/tomas-gomez-pedro-sanchez-intenta-transmitir-falsa-20261117172453-nt.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "pipi estrada",
+      "link": "https://www.elperiodico.com/es/tele/yotele/20261118/pipi-estrada-despide-chiringuito-lanza-mensaje-belen-esteban-antes-entrar-gh-vip-9-pesada-136572281",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2792,31 +2782,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "chloe burrows",
-      "link": "https://www.independent.co.uk/bulletin/culture/what-time-is-im-a-celebrity-on-tonight-b3086745.html",
-      "meta": "5000+ Suchanfragen"
+      "title": "Timberwolves gegen Knicks",
+      "link": "https://www.startribune.com/minnesota-timberwolves-new-york-knicks-karl-anthony-towns-anthony-edwards-injury-wolves-roster-26-27/601921524",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "timberwolves vs knicks"
      },
      {
-      "title": "coleen rooney",
-      "link": "https://www.thesun.co.uk/tv/41075829/wayne-rooney-im-a-celeb-toilet-revelation-coleen/",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "jamie vardy",
-      "link": "https://www.broadcastnow.co.uk/broadcasting/jamie-vardys-having-a-party-to-stream-bayern-munich-v-fc-koln/5222594.article",
+      "title": "patrick stewart",
+      "link": "https://www.tmz.com/2026/11/19/patrick-stewart-cause-of-death/",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "aj ich bin ein Promi",
-      "link": "https://www.express.co.uk/showbiz/tv-radio/2267456/im-celeb-sparks-fury-star-quits-trial",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "aj im a celeb"
+      "title": "stuttgarter",
+      "link": "https://www.stuttgarter-zeitung.de/lokales/stuttgart/stuttgart-auf-waldau-zwei-buergermeister-erhalten-ehrung-mit-strassennamen-79720158.html",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "jan und julia",
-      "link": "https://deadline.com/2026/11/my-next-guest-needs-no-introduction-season-7-release-date-1237225583/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "julia roberts"
+      "title": "boeing 747",
+      "link": "https://www.topgear.com/car-news/suvs/denza-towed-a-boeing-747-using-its-new-bao-5-two-wheels",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Wayne Rooney",
+      "link": "https://www.dailystar.co.uk/sport/football/wayne-rooney-kai-request-coach-37888607",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "kai wayne rooney"
      }
     ]
    },
@@ -2825,30 +2815,29 @@
     "lang": "pl",
     "items": [
      {
+      "title": "black friday",
+      "link": "https://www.theguardian.com/thefilter/2026/nov/19/best-early-black-friday-deals-2026-tested-uk",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "stanisław piotrowicz",
+      "link": "https://wydarzenia.interia.pl/kraj/news-dlaczego-nie-wyrazono-zgody-na-areszt-dla-swieczkowskiego-ko,nId,23575740",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "star starachowice",
+      "link": "https://www.sport.pl/pilka/7,64946,33141457,strajk-w-polskim-klubie-pilkarze-odmowili-wyjscia-na-trening.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
       "title": "jakub kiwior",
       "link": "https://przegladsportowy.onet.pl/pilka-nozna/reprezentacja-polski/wichniarek-nie-chce-go-widziec-w-polskiej-kadrze-dwuletni-zakaz-zblizania/5prjetm",
-      "meta": "100+ Suchanfragen"
+      "meta": "200+ Suchanfragen"
      },
      {
       "title": "cyberleek",
       "link": "https://usmfreepress.org/2899/arts-culture/a-history-of-the-disastrous-leaks-that-threatened-grand-theft-auto-vis-development/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "gta 3",
-      "link": "https://www.businessinsider.com/gta-6-gaming-as-dad-work-parenting-responsibilities-2026-11",
       "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "Attentäter",
-      "link": "https://wydarzenia.interia.pl/kraj/news-zamach-w-krakowie-ranny-brytyjczyk-opuscil-szpital-wraca-do,nId,23576274",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "zamach"
-     },
-     {
-      "title": "toni golem",
-      "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/toni-golem-przejal-slask-wroclaw-ekstraklasa-czeka-na-pierwsze-decyzje/n9gqx9s",
-      "meta": "2000+ Suchanfragen"
      }
     ]
    },
@@ -2926,31 +2915,30 @@
     "lang": "en",
     "items": [
      {
-      "title": "pete rose",
-      "link": "https://bleacherreport.com/articles/25535443-pete-rose-posthumously-pardoned-trump-after-baseballs-career-hits-leader-was-reinstated-mlb",
+      "title": "daniel jones",
+      "link": "https://www.espn.com/nfl/story/_/id/50521994/colts-anthony-richardson-daniel-jones-quarterback",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "tank dell",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/50510451/fantasy-playbook-projections-lineup-locks-week-11-shadow",
       "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "ps5 gta6",
-      "link": "https://www.digitalfoundry.net/features/gta-6-ps5-vs-ps5-pro-xbox-series-x-and-series-s-which-console-plays-best",
-      "meta": "10000+ Suchanfragen"
+      "title": "tcu basketball",
+      "link": "https://sports.yahoo.com/articles/watch-texas-m-vs-tcu-000000591.html",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "Kenneth Walker Verletzung",
-      "link": "https://arizonasports.com/arizona-cardinals-injury-report/cardinals-chiefs-injury-report",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "kenneth walker injury"
+      "title": "laquon treadwell",
+      "link": "https://www.rotoballer.com/player-news/laquon-treadwell-an-intriguing-low-level-fantasy-option/1997404",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "Prognose Auburn vs. Notre Dame",
-      "link": "https://sports.yahoo.com/articles/auburn-vs-notre-dame-live-210049658.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "auburn vs notre dame prediction"
-     },
-     {
-      "title": "jim cramer",
-      "link": "https://www.cnbc.com/video/2026/11/19/firstmarkas-rick-heitzmann-on-anthropic-this-is-the-beginning-of-the-next-wave-of-ipos.html",
-      "meta": "1000+ Suchanfragen"
+      "title": "Ducks gegen Avalanche",
+      "link": "https://www.nhl.com/news/anaheim-ducks-colorado-avalanche-game-preview-november-19-2026",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "ducks vs avalanche"
      }
     ]
    },
@@ -2959,30 +2947,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "Donald Trump Iran-Krieg",
-      "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "donald trump iran war"
+      "title": "Überschwemmung in San Francisco heute",
+      "link": "https://www.sfchronicle.com/weather/article/live-storm-updates-22536019.php",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "san francisco flooding today"
      },
      {
-      "title": "aditya roy kapoor",
-      "link": "https://www.ndtv.com/lifestyle/enjoying-singlehood-ananya-panday-opens-up-about-love-marriage-and-self-love-on-koffee-with-karan-12347418",
-      "meta": "200+ Suchanfragen"
+      "title": "Grizzlies gegen Warriors",
+      "link": "https://warriors.com/news/gameday-preview-20261119",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "grizzlies vs warriors"
      },
      {
-      "title": "qazi touqeer",
-      "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-20-manish-goels-wife-poonam-goel-slams-qazi-touqeer-for-constantly-provoking-her-husband-says-you-may-love-qazi-but-dont-be-so-blinded-by-that-support/articleshow/135901283.cms",
-      "meta": "200+ Suchanfragen"
+      "title": "ధన్రాజ్",
+      "link": "https://www.ap7am.com/tn/887343/dhanraj-wife-supported-when-he-had-no-money-for-mothers-funeral-tragedy-in-life",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "arthur fils",
-      "link": "https://www.lequipe.fr/Tennis/Actualites/A-quelle-heure-et-sur-quelle-chaine-suivre-la-rencontre-entre-arthur-fils-et-alexander-zverev-a-l-atp-finals/1744393",
-      "meta": "200+ Suchanfragen"
+      "title": "vaibhav sooryavanshi",
+      "link": "https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-abhishek-sharma-india-a-nepal-rising-stars-asia-cup-2026-bmsp-dskc-2700757-2026-11-19",
+      "meta": "5000+ Suchanfragen"
      },
      {
-      "title": "sydney sweeney",
-      "link": "https://www.imdb.com/es/news/ni66119500/?ref_=nwc_art_perm",
-      "meta": "200+ Suchanfragen"
+      "title": "Nikkei 225 Index",
+      "link": "https://m.economictimes.com/markets/us-stocks/news/south-korean-shares-close-at-over-9-month-low-on-nvidia-caution/articleshow/135914599.cms",
+      "meta": "10000+ Suchanfragen",
+      "title_orig": "nikkei index"
      }
     ]
    },
@@ -2991,32 +2981,33 @@
     "lang": "pt",
     "items": [
      {
-      "title": "Vasco gegen Internacional",
-      "link": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/19-11-2026/vasco-internacional.ghtml",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "vasco vs internacional"
+      "title": "são paulo",
+      "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/adriana-lessa-denuncia-racismo-em-shopping-de-luxo-no-cidade-matarazzo-policia-abre-inquerito.shtml",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "natália guimarães",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/miss-universo-veja-as-candidatas-mais-cotadas-ao-titulo/",
-      "meta": "5000+ Suchanfragen"
+      "title": "Tabelle der brasilianischen Série A",
+      "link": "https://ge.globo.com/rs/blogs/vida-real/post/2026/11/19/temos-um-campeao-brasileiro.ghtml",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "classificação do brasileirão série a"
      },
      {
-      "title": "Vasco da Gama – International",
-      "link": "https://www.sportsgambler.com/betting-tips/football/vasco-da-gama-vs-internacional-prediction-lineups-odds-2026-11-19/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "vasco da gama - internacional"
+      "title": "São Paulo",
+      "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17527577/sao-paulo-fluminense-onde-assistir-ao-vivo-escalacoes-jogo-brasileirao",
+      "meta": "20000+ Suchanfragen",
+      "title_orig": "sao paulo"
      },
      {
-      "title": "São Paulo vs. Fluminense",
-      "link": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2026/11/19/sao-paulo-x-fluminense-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+      "title": "São Paulo",
+      "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/11/19/julio-baptista-causa-incomodo-no-sao-paulo-por-deixar-jogadores-do-profissional-no-banco-do-sub-20.ghtml",
       "meta": "10000+ Suchanfragen",
-      "title_orig": "são paulo x fluminense"
+      "title_orig": "sao paulo x"
      },
      {
-      "title": "orlando city",
-      "link": "https://www.nytimes.com/athletic/7788242/2026/11/17/antoine-griezmann-orlando-city-mls-cup-playoffs/",
-      "meta": "100+ Suchanfragen"
+      "title": "Südamerikanerin",
+      "link": "https://ge.globo.com/mg/futebol/copa-sul-americana/jogo/21-11-2026/atletico-mg-boca-juniors.ghtml",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "sulamericana"
      }
     ]
    },
@@ -3025,34 +3016,34 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Japanische Meisterschaften im Tischtennis",
-      "link": "https://news.yahoo.co.jp/articles/6bc16a725c83540396ca44011132835984d952b5",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "全日本卓球選手権大会"
+      "title": "Magnitude",
+      "link": "https://news.yahoo.co.jp/articles/5e528b47f8034a7c9974d7e0ac236cde20e35f30",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "マグニチュード"
      },
      {
-      "title": "Kazuya Kamenashi",
-      "link": "https://news.yahoo.co.jp/articles/bea716cebad9ed2fccff29f929b2ece7e921efc1",
+      "title": "Eisenbahn",
+      "link": "https://www.sanyonews.jp/article/2024057",
       "meta": "200+ Suchanfragen",
-      "title_orig": "亀梨和也"
+      "title_orig": "鉄道"
      },
      {
-      "title": "Wetterfühligkeit",
-      "link": "https://weathernews.jp/news/202611/180051/",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "天気痛"
+      "title": "Nikkei 225-Futures-Handel",
+      "link": "https://kabutan.jp/news/marketnews/?b=n202611200186",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "日経225先物取引"
      },
      {
-      "title": "Der Mond schaut zu",
-      "link": "https://news.yahoo.co.jp/articles/bc77be5b6457774ee7dab7754123ed9855305fd6",
+      "title": "Ichiro Tamura",
+      "link": "https://news.yahoo.co.jp/articles/9b6b02877ad6c11d96ff35f9b7ef28c31d4d897a",
       "meta": "100+ Suchanfragen",
-      "title_orig": "月がみている"
+      "title_orig": "田村伊知郎"
      },
      {
-      "title": "Wetter in Kagoshima",
-      "link": "https://tver.jp/episodes/epwh2jmara",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "鹿児島市天気"
+      "title": "Nikkei-Index Aktienkurse",
+      "link": "https://news.yahoo.co.jp/articles/6b3d684c12d2e089aa6b46bbf70edc15bfe420d0",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "日経平均 株価"
      }
     ]
    },
@@ -3124,31 +3115,31 @@
      {
       "title": "Kaufen Sie keine Smart Glasses, rät die niederländische Datenschutzbehörde",
       "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
-      "meta": "BBC News · 211 Personen teilen",
+      "meta": "BBC News · 240 Personen teilen",
       "title_orig": "Don't buy smart glasses, Dutch data watchdog advises"
      },
      {
       "title": "Elon Musk behauptet: „Ich bin kein MAGA-Anhänger“ und sagt, er bedauere die hohen Summen, mit denen er die Republikaner unterstützt hat.",
       "link": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
-      "meta": "The Guardian · 184 Personen teilen",
+      "meta": "The Guardian · 187 Personen teilen",
       "title_orig": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans"
+     },
+     {
+      "title": "Trumps peinlicher, bedeutungsloser Gipfel",
+      "link": "https://www.theatlantic.com/ideas/2026/11/trump-xi-putin-summit/689503/",
+      "meta": "The Atlantic · 187 Personen teilen",
+      "title_orig": "Trump’s Embarrassing, Inconsequential Summit"
      },
      {
       "title": "Wir veröffentlichen die Tarifrückerstattungen, deren Offenlegung die Regierung verweigert hat",
       "link": "https://www.propublica.org/article/tariff-refund-database-cash-back",
-      "meta": "ProPublica · 119 Personen teilen",
+      "meta": "ProPublica · 140 Personen teilen",
       "title_orig": "We’re Publishing the Tariff Refunds the Government Has Refused to Disclose"
-     },
-     {
-      "title": "Das Justizministerium von Trump hat still und heimlich interveniert, um eine riesige Auszahlung an einen Golfprofi von Trump zu veranlassen",
-      "link": "https://www.propublica.org/article/irs-settlement-golf-pro-shelby-lowman",
-      "meta": "ProPublica · 112 Personen teilen",
-      "title_orig": "The Trump DOJ Quietly Intervened to Ink a Huge Payout to a Trump Golf Pro"
      },
      {
       "title": "ICE zahlt AT&T dafür, einen Berg von Anrufprotokollen zu durchforsten",
       "link": "https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/",
-      "meta": "404 Media · 111 Personen teilen",
+      "meta": "404 Media · 149 Personen teilen",
       "title_orig": "ICE Is Paying AT&T to Dig Through a Mountain of Call Records"
      }
     ]
@@ -3160,7 +3151,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 70,
+   "count": 61,
    "error": ""
   },
   {
@@ -3181,7 +3172,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 160,
+   "count": 161,
    "error": ""
   },
   {
@@ -3377,8 +3368,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 112,
-   "info": "112 von 112 Überschriften übersetzt (neu in diesem Lauf: MyMemory 51). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 113,
+   "info": "113 von 113 Überschriften übersetzt (neu in diesem Lauf: MyMemory 46). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
