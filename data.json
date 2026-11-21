@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T09:56:36+00:00",
+ "generated": "2026-11-21T13:07:43+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
@@ -81,6 +81,30 @@
     ]
    },
    {
+    "title": "Nach Anthropic-Börsengang: Warum die KI-Euphorie bröckelt",
+    "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
+    "image": "https://images.tagesschau.de/image/41a92787-d98e-47ef-93d5-91607061a7e1/AAABofimfZU/AAABnSSvrFg/16x9-big/nyse-476.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-20T23:28:24+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Nach Anthropic-Börsengang: Warum die KI-Euphorie bröckelt",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Börsengang in den USA: Anthropic-Aktie rutscht am zweiten Handelstag deutlich ab",
+      "link": "https://www.zeit.de/wirtschaft/2026-11/anthropic-boersengang-ki-unternehmen-aktie-nasdaq"
+     },
+     {
+      "name": "FAZ",
+      "title": "Verpuffter Börsengang: Anthropic-Aktie verliert 11 Prozent",
+      "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/anthropic-10-prozent-im-minus-nach-rekord-boersengang-accg-201700660.html"
+     }
+    ]
+   },
+   {
     "title": "Katar: Friedrich Merz begrüßt Milliarden-Investitionen in Deutschland",
     "link": "https://www.spiegel.de/wirtschaft/katar-friedrich-merz-begruesst-milliarden-investitionen-in-deutschland-a-43570797-3fed-4b48-91a3-5bcd3d31d2d0#ref=rss",
     "image": "https://cdn.prod.www.spiegel.de/images/6a9e0df3-5a95-4f32-9c89-3ecd5c579844_w520_r2.08_fpx43.41_fpy45.jpg",
@@ -105,141 +129,97 @@
     ]
    },
    {
-    "title": "Nach Anthropic-Börsengang: Warum die KI-Euphorie bröckelt",
-    "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
-    "image": "https://images.tagesschau.de/image/41a92787-d98e-47ef-93d5-91607061a7e1/AAABofimfZU/AAABnSSvrFg/16x9-big/nyse-476.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-20T15:28:47+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Nach Anthropic-Börsengang: Warum die KI-Euphorie bröckelt",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Anthropic kann den Negativtrend an den Börsen nicht aufhalten",
-      "link": "https://www.spiegel.de/wirtschaft/anthropic-kann-den-negativtrend-an-den-boersen-nicht-aufhalten-a-2ebc6562-4f98-4fe9-9efe-f4a8a0b805fe#ref=rss"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "US-Börsen: Anthropic-Euphorie währt nur kurz: Tech-Index Nasdaq notiert deutlich im Minus",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-nasdaq-startet-deutlich-im-minus-anthropic-verliert-zweistellig/100271593.html"
-     }
-    ]
-   },
-   {
-    "title": "Protest von \"Gen Z regelt\": Eine zersplitterte Bewegung",
-    "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-106.html",
-    "image": "https://images.tagesschau.de/image/c0eb75bc-d932-4a5f-aa58-dc178aedd3fc/AAABofflCnM/AAABnSSvrFg/16x9-big/demonstration-generation-z-104.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-20T16:32:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Protest von \"Gen Z regelt\": Eine zersplitterte Bewegung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-106.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Gen Z regelt: Jugendliche protestieren für Bildung, Klima und bezahlbares Leben",
-      "link": "https://www.spiegel.de/politik/deutschland/gen-z-regelt-jugendliche-protestieren-fuer-bildung-klima-und-bezahlbares-leben-a-e88fe963-e880-4004-9043-c7d84ca70e6e#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Jugendprotest: «Gen Z regelt»: Tausende protestieren in Berlin",
-      "link": "https://www.zeit.de/news/2026-11/20/gen-z-regelt-tausende-protestieren-in-berlin"
-     }
-    ]
-   },
-   {
-    "title": "Nations League: Deutschland trifft im Viertelfinale auf Belgien",
-    "link": "https://www.sportschau.de/fussball/nationsleague/deutschland-trifft-im-viertelfinale-auf-belgien,nations-league-auslosung-104.html",
-    "image": "https://images.sportschau.de/image/b6e3f081-4925-4b79-8dbb-d6966fb74ac1/AAABofhdD1E/AAABnSSvrFg/16x9-big/dfb-team-232.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-20T14:54:08+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Nations League: Deutschland trifft im Viertelfinale auf Belgien",
-      "link": "https://www.sportschau.de/fussball/nationsleague/deutschland-trifft-im-viertelfinale-auf-belgien,nations-league-auslosung-104.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Nations League: Deutschland trifft auf Belgien und Kevin De Bruyne",
-      "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-trifft-auf-belgien-und-kevin-de-bruyne-a-c92fa99f-e865-4c42-901d-9bb1e0dfa622#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Nations League: Der nächste deutsche Level wartet in Belgien",
-      "link": "https://www.faz.net/aktuell/sport/fussball/dfb-team-von-juergen-klopp-in-nations-league-viertelfinale-gegen-belgien-201701959.html"
-     }
-    ]
-   },
-   {
-    "title": "Polen meldet Absturz von drei russischen Flugobjekten",
-    "link": "https://www.spiegel.de/ausland/polen-meldet-absturz-von-drei-russischen-flugobjekten-a-590c07a8-aff7-45f3-bc77-38cc81cffb65#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/f5790d59-8f4d-4356-be7c-ccef68705058_w520_r2.08_fpx66.65_fpy49.99.jpg",
-    "n_sources": 3,
-    "time": "2026-11-20T13:10:39+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Polen meldet Absturz von drei russischen Flugobjekten",
-      "link": "https://www.spiegel.de/ausland/polen-meldet-absturz-von-drei-russischen-flugobjekten-a-590c07a8-aff7-45f3-bc77-38cc81cffb65#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Krieg gegen die Ukraine: Russische Marschflugkörper stürzen in Polen ab",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/russland-raketen-luftraumverletzung-polen-ukraine-gxe"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Ukraine-Krieg: Drei russische Flugobjekte in Polen abgestürzt",
-      "link": "https://www.handelsblatt.com/politik/international/polen-drei-russische-flugobjekte-abgestuerzt/100271566.html"
-     }
-    ]
-   },
-   {
-    "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html",
-    "image": "https://images.tagesschau.de/image/d4ef0009-4ed9-4034-8b0d-4c38ac03a907/AAABofi4fic/AAABnSSvrFg/16x9-big/bundesrat-sitzung-102.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-20T12:49:27+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Bundesrat bremst Kita-Startchancengesetz aus",
-      "link": "https://www.spiegel.de/politik/bundesrat-bremst-kita-startchancengesetz-aus-a-72acea8a-58a8-422b-a41e-c627d7af1acd#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Bildung in Kitas: Priens wichtigstes Projekt scheitert vorerst im Bundesrat",
-      "link": "https://www.faz.net/aktuell/politik/inland/bundesrat-stoppt-startchancen-und-qualitaetsentwicklungsgesetz-accg-201701241.html"
-     }
-    ]
-   },
-   {
-    "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
-    "link": "https://www.sportschau.de/fussball/bundesliga/harry-kane-erleidet-syndesmoseriss,kane-verletzung-100.html",
-    "image": "https://images.sportschau.de/image/2471a6e5-8d62-4dd7-b0f6-f274e1d181df/AAABofsJhVY/AAABnSSvrFg/16x9-big/harry-kane-verletzt-102.jpg?width=1920",
+    "title": "Hausärzte beklagen Mangel an Grippe-Impfstoff",
+    "link": "https://www.tagesschau.de/inland/gesellschaft/grippe-impfstoff-hausaerzte-100.html",
+    "image": "https://images.tagesschau.de/image/3a989699-6525-473b-bcda-95fb3b5a3f4a/AAABof3Ts0M/AAABnSSvrFg/16x9-big/impfausweis-120.jpg?width=1920",
     "n_sources": 2,
-    "time": "2026-11-21T08:14:12+00:00",
+    "time": "2026-11-21T12:13:27+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
-      "link": "https://www.sportschau.de/fussball/bundesliga/harry-kane-erleidet-syndesmoseriss,kane-verletzung-100.html"
+      "title": "Hausärzte beklagen Mangel an Grippe-Impfstoff",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/grippe-impfstoff-hausaerzte-100.html"
      },
      {
       "name": "FAZ",
-      "title": "FC Bayern München: Kompany nach Kane-Schock: „Kämpfen können wir noch“",
-      "link": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-verletzungsschock-durch-harry-kane-und-michael-olise-accg-201704300.html"
+      "title": "Grippewelle: Hausärzte klagen über zu wenig Grippe-Impfstoff",
+      "link": "https://www.faz.net/aktuell/gesellschaft/gesundheit/grippe-impfstoff-hausaerzte-klagen-ueber-lieferengpaesse-accg-201704531.html"
+     }
+    ]
+   },
+   {
+    "title": "Gen-Z-Proteste: Wird das noch eine Bewegung?",
+    "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/gen-z-proteste-schueler-berlin-leipzig-frankfurt",
+    "image": "https://img.zeit.de/politik/deutschland/2026-11/gen-z-proteste-schueler-berlin-leipzig-frankfurt-bild-bild-01/original__640x360",
+    "n_sources": 2,
+    "time": "2026-11-21T10:25:39+00:00",
+    "sources": [
+     {
+      "name": "Zeit Online",
+      "title": "Gen-Z-Proteste: Wird das noch eine Bewegung?",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/gen-z-proteste-schueler-berlin-leipzig-frankfurt"
+     },
+     {
+      "name": "FAZ",
+      "title": "Proteste: Gen Z auf der Straße: Wehrpflicht, Bildung und Sozialkürzungen im Fokus",
+      "link": "https://www.faz.net/video/gen-z-auf-der-strasse-wehrpflicht-bildung-und-sozialkuerzungen-im-fokus-201704456.html"
+     }
+    ]
+   },
+   {
+    "title": "Formel 1 in Las Vegas: Max Verstappen zeigt George Russell den Mittelfinger",
+    "link": "https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/7fbed178-e2f3-4f25-8cde-504314fb7770_w520_r2.08_fpx55_fpy19.jpg",
+    "n_sources": 2,
+    "time": "2026-11-21T12:41:00+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "Formel 1 in Las Vegas: Max Verstappen zeigt George Russell den Mittelfinger",
+      "link": "https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Formel 1 in Las Vegas: Ziemlich beste Feinde: Verstappen und Russell in Reihe eins",
+      "link": "https://www.zeit.de/news/2026-11/21/verstappen-und-russell-in-las-vegas-aus-startreihe-eins"
+     }
+    ]
+   },
+   {
+    "title": "AfD in Thüringen: Höcke bleibt Thüringer AfD-Landesparteichef",
+    "link": "https://www.zeit.de/politik/deutschland/2026-11/afd-thueringen-bjoern-hoecke-landesparteitag-stefan-moeller-gxe",
+    "image": "https://img.zeit.de/politik/deutschland/2026-11/afd-thueringen-bjoern-hoecke-landesparteitag-stefan-moeller-gxe-foto-1/original__640x360",
+    "n_sources": 2,
+    "time": "2026-11-21T12:30:35+00:00",
+    "sources": [
+     {
+      "name": "Zeit Online",
+      "title": "AfD in Thüringen: Höcke bleibt Thüringer AfD-Landesparteichef",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/afd-thueringen-bjoern-hoecke-landesparteitag-stefan-moeller-gxe"
+     },
+     {
+      "name": "FAZ",
+      "title": "AfD: Höcke holt seinen Getreuen nach Thüringen",
+      "link": "https://www.faz.net/aktuell/politik/inland/thueringen-hoecke-vertrauter-thorsten-weiss-wird-afd-geschaeftsfuehrer-201700967.html"
+     }
+    ]
+   },
+   {
+    "title": "TikTok bezeichnet Verkaufspläne von Wolfram Weimer als »Unsinn«",
+    "link": "https://www.spiegel.de/netzwelt/netzpolitik/tiktok-bezeichnet-verkaufsplaene-von-wolfram-weimer-als-unsinn-a-824dc8bd-b7be-4e5c-a139-73ab61a6da3c#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/eea44a66-15b6-4e59-ac98-3b90d9c66f7a_w520_r2.08_fpx43.32_fpy55.jpg",
+    "n_sources": 2,
+    "time": "2026-11-21T10:40:00+00:00",
+    "sources": [
+     {
+      "name": "Spiegel",
+      "title": "TikTok bezeichnet Verkaufspläne von Wolfram Weimer als »Unsinn«",
+      "link": "https://www.spiegel.de/netzwelt/netzpolitik/tiktok-bezeichnet-verkaufsplaene-von-wolfram-weimer-als-unsinn-a-824dc8bd-b7be-4e5c-a139-73ab61a6da3c#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Business-Ticker: „Unsinn“: Tiktok kritisiert Verkaufspläne vom Kulturstaatsminister Weimer",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unsinn-tiktok-kritisiert-verkaufsplaene-vom-kulturstaatsminister-weimer-faz-200452404.html"
      }
     ]
    }
@@ -280,16 +260,16 @@
     ]
    },
    {
-    "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
-    "image": "https://images.tagesschau.de/image/6c5f0fb3-0dfc-40b8-94b6-a4d1726e4ad5/AAABofe1ZKM/AAABnSSvrFg/16x9-big/anthropic-146.jpg?width=1920",
+    "title": "Nach Anthropic-Börsengang: Warum die KI-Euphorie bröckelt",
+    "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
+    "image": "https://images.tagesschau.de/image/41a92787-d98e-47ef-93d5-91607061a7e1/AAABofimfZU/AAABnSSvrFg/16x9-big/nyse-476.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-20T23:28:24+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html"
+      "title": "Nach Anthropic-Börsengang: Warum die KI-Euphorie bröckelt",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html"
      },
      {
       "name": "Spiegel",
@@ -310,40 +290,6 @@
       "name": "Handelsblatt",
       "title": "Rekord-Börsengang: Anthropic-Aktie schließt 17 Prozent im Plus – Deutlicher Kursrückgang im Handelsverlauf",
       "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boersengang-anthropic-schliesst-17-prozent-im-plus-kursrueckgang-im-handelsverlauf/100270027.html"
-     }
-    ]
-   },
-   {
-    "title": "Die neue Gefahr durch Künstliche Intelligenz",
-    "link": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html",
-    "image": "https://images.tagesschau.de/image/a53e5f61-ab9a-45c0-b9dc-8296a114c5ee/AAABocrXM0c/AAABnSSvrFg/16x9-big/banken-152.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-20T19:15:12+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Die neue Gefahr durch Künstliche Intelligenz",
-      "link": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Donald Trump will US-Konzernen verbieten, Rechenzentren im Ausland zu bauen",
-      "link": "https://www.spiegel.de/wirtschaft/donald-trump-will-us-konzernen-verbieten-rechenzentren-im-ausland-zu-bauen-a-e4b558c4-d9b8-4e7c-95c5-5a1c3ed2388f#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Künstliche Intelligenz: Trump droht US-Firmen wegen Rechenzentren im Ausland",
-      "link": "https://www.zeit.de/news/2026-11/20/trump-droht-us-firmen-wegen-rechenzentren-im-ausland"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Trump droht KI-Unternehmen mit enormen Strafen",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-droht-ki-unternehmen-mit-enormen-strafen-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "KI-Industrie: Trump warnt US-Konzerne vor Bau von KI-Rechenzentren im Ausland und droht mit „enormen Strafen“",
-      "link": "https://www.handelsblatt.com/politik/international/ki-industrie-trump-warnt-us-konzerne-vor-bau-von-ki-rechenzentren-im-ausland/100271667.html"
      }
     ]
    },
@@ -484,6 +430,74 @@
     ]
    },
    {
+    "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+    "image": "https://images.tagesschau.de/image/0a8267b7-a2da-4eb4-bb5a-b7fda46a2e11/AAABoJ9akT0/AAABnSSvrFg/16x9-big/commerzbank-270.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-19T11:34:33+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Commerzbank: EU genehmigt Übernahme durch Unicredit",
+      "link": "https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Bundesregierung und UniCredit bei Commerzbank-Übernahme einig",
+      "link": "https://www.zeit.de/video/2026-11/bundesregierung-und-unicredit-bei-commerzbank-uebernahme-einig"
+     },
+     {
+      "name": "FAZ",
+      "title": "übernahme durch Unicredit: Bundesregierung stimmt für Commerzbank-Übernahme",
+      "link": "https://www.faz.net/video/bundesregierung-stimmt-fuer-commerzbank-uebernahme-201697940.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Banken: Bund und Unicredit einigen sich bei Commerzbank-Übernahme",
+      "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bund-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html"
+     }
+    ]
+   },
+   {
+    "title": "Ukraine beschädigt offenbar bei Luftangriffen die Krim-Brücke",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1685576.html",
+    "image": "https://images.tagesschau.de/image/a77fce5e-b608-4418-abaf-59a1dd33da47/AAABoesMeXI/AAABnSSvrFg/16x9-big/sendungsbild-1828994.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-19T01:50:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Ukraine beschädigt offenbar bei Luftangriffen die Krim-Brücke",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1685576.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ukraine-Krieg: Nach erneutem Angriff steht Zugverkehr auf Krimbrücke still",
+      "link": "https://www.spiegel.de/ausland/ukraine-krieg-nach-erneutem-angriff-steht-zugverkehr-auf-krimbruecke-still-a-9e01117c-8373-480f-ad57-6c08a2bd1af7#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Ukraine-Krieg: Krim-Brücke: Zugverkehr nach erneutem Angriff eingestellt",
+      "link": "https://www.zeit.de/news/2026-11/19/krim-bruecke-zugverkehr-nach-erneutem-angriff-eingestellt"
+     },
+     {
+      "name": "FAZ",
+      "title": "Teileinsturz: Nun ist Putins Brücke eingestürzt – zumindest teilweise",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/kertsch-bruecke-nach-ukrainenangriff-teilweise-eingestuerzt-accg-201689956.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Ukraine-Krieg +++: Russland bestätigt Beschädigungen an Krim-Brücke – Selenskyj postet Video von Angriff",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-krim-bruecke-nach-zweitem-angriff-teilweise-eingestuerzt/27982126.html"
+     }
+    ]
+   },
+   {
     "title": "Koalition einigt sich auf Stromsteuersenkung für alle",
     "link": "https://www.tagesschau.de/video/video-1685738.html",
     "image": "https://images.tagesschau.de/image/96636337-27c0-4e90-a239-d937e8e80089/AAABoe4VyQ0/AAABnSSvrFg/16x9-big/wohnhaus-134.jpg?width=1920",
@@ -550,40 +564,6 @@
       "link": "https://www.handelsblatt.com/politik/deutschland/bsw-karlsruhe-lehnt-wahlbeschwerde-ab/100270854.html"
      }
     ]
-   },
-   {
-    "title": "US-Midterms: Demokraten gewinnen auch Senatssitz in Alaska",
-    "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html",
-    "image": "https://images.tagesschau.de/image/a98fd657-816a-4787-80ee-53fe8b868468/AAABoey0P54/AAABnSSvrFg/16x9-big/mary-peltola-104.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-18T06:56:21+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "US-Midterms: Demokraten gewinnen auch Senatssitz in Alaska",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Midterms in den USA - Alaska: Demokratin Mary Peltola gewinnt Senatssitz",
-      "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-alaska-demokratin-mary-peltola-gewinnt-senatssitz-a-b554031e-e4d7-4cee-8cd5-fdc85ce23d63#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Senatswahl in Alaska: Demokratin nimmt Republikanern Senatssitz in Alaska ab",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/senatswahl-alaska-mary-peltola-dan-sullivan-demokraten"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Demokraten gewinnen auch noch Senatssitz in Alaska",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokraten-gewinnen-auch-noch-senatssitz-in-alaska-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ USA unter Trump +++: Demokraten gewinnen Senatssitz in Alaska",
-      "link": "https://www.handelsblatt.com/politik/international/usa-demokraten-gewinnen-senatssitz-in-alaska/29669594.html"
-     }
-    ]
    }
   ],
   "30d": [
@@ -622,16 +602,16 @@
     ]
    },
    {
-    "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
-    "image": "https://images.tagesschau.de/image/6c5f0fb3-0dfc-40b8-94b6-a4d1726e4ad5/AAABofe1ZKM/AAABnSSvrFg/16x9-big/anthropic-146.jpg?width=1920",
+    "title": "Nach Anthropic-Börsengang: Warum die KI-Euphorie bröckelt",
+    "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
+    "image": "https://images.tagesschau.de/image/41a92787-d98e-47ef-93d5-91607061a7e1/AAABofimfZU/AAABnSSvrFg/16x9-big/nyse-476.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-20T23:28:24+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html"
+      "title": "Nach Anthropic-Börsengang: Warum die KI-Euphorie bröckelt",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html"
      },
      {
       "name": "Spiegel",
@@ -652,74 +632,6 @@
       "name": "Handelsblatt",
       "title": "Rekord-Börsengang: Anthropic-Aktie schließt 17 Prozent im Plus – Deutlicher Kursrückgang im Handelsverlauf",
       "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boersengang-anthropic-schliesst-17-prozent-im-plus-kursrueckgang-im-handelsverlauf/100270027.html"
-     }
-    ]
-   },
-   {
-    "title": "Die neue Gefahr durch Künstliche Intelligenz",
-    "link": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html",
-    "image": "https://images.tagesschau.de/image/a53e5f61-ab9a-45c0-b9dc-8296a114c5ee/AAABocrXM0c/AAABnSSvrFg/16x9-big/banken-152.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-20T19:15:12+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Die neue Gefahr durch Künstliche Intelligenz",
-      "link": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Donald Trump will US-Konzernen verbieten, Rechenzentren im Ausland zu bauen",
-      "link": "https://www.spiegel.de/wirtschaft/donald-trump-will-us-konzernen-verbieten-rechenzentren-im-ausland-zu-bauen-a-e4b558c4-d9b8-4e7c-95c5-5a1c3ed2388f#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Künstliche Intelligenz: Trump droht US-Firmen wegen Rechenzentren im Ausland",
-      "link": "https://www.zeit.de/news/2026-11/20/trump-droht-us-firmen-wegen-rechenzentren-im-ausland"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Trump droht KI-Unternehmen mit enormen Strafen",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-droht-ki-unternehmen-mit-enormen-strafen-faz-19444916.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "KI-Industrie: Trump warnt US-Konzerne vor Bau von KI-Rechenzentren im Ausland und droht mit „enormen Strafen“",
-      "link": "https://www.handelsblatt.com/politik/international/ki-industrie-trump-warnt-us-konzerne-vor-bau-von-ki-rechenzentren-im-ausland/100271667.html"
-     }
-    ]
-   },
-   {
-    "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
-    "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html",
-    "image": "https://images.tagesschau.de/image/3966cd19-2564-49cf-a6ae-bb657d8c8144/AAABoauwfdU/AAABnSSvrFg/16x9-big/oel-260.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-20T13:21:40+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Hohe Energiepreise: Inflation im Euroraum steigt auf vier Prozent",
-      "link": "https://www.spiegel.de/wirtschaft/hohe-energiepreise-inflation-im-euroraum-steigt-auf-vier-prozent-a-6aa49e04-4639-4134-acf6-08d84917b500#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Alterssicherung: Renten steigen 2027 voraussichtlich um vier Prozent",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/rente-deutschland-rentenerhoehung-2027-rentenversicherung-bezuege-preise"
-     },
-     {
-      "name": "FAZ",
-      "title": "Aktien: Dax rutscht nach Rekordhoch ins Minus",
-      "link": "https://www.faz.net/video/boerse-in-frankfurt-ki-sorgen-druecken-tech-werte-201659220.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "US-Börsen: Anthropic-Kurs rutscht vorbörslich weiter ab – und zieht US-Futures ins Minus",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nasdaq-nackte-hoehenangst-anthropic-kurs-rutscht-vorboerslich-weiter-ab/100271593.html"
      }
     ]
    },
@@ -786,8 +698,8 @@
      },
      {
       "name": "Handelsblatt",
-      "title": "Ukraine-Krieg: Laut Kushner ist Putin bereit für Europäer am Verhandlungstisch",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-laut-kushner-ist-putin-bereit-fuer-europaeer-am-verhandlungstisch/100269545.html"
+      "title": "Putin-Gespräche: Die EU hat sich für ein Ukraine-Team entschieden – Deutschland ist dabei",
+      "link": "https://www.handelsblatt.com/politik/international/putin-gespraeche-die-eu-hat-sich-fuer-ein-ukraine-team-entschieden-deutschland-ist-dabei/100268657.html"
      }
     ]
    },
@@ -860,40 +772,6 @@
     ]
    },
    {
-    "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
-    "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html",
-    "image": "https://images.tagesschau.de/image/e5afe867-7f3c-4c20-8747-547d04171022/AAABofJDxFU/AAABnSSvrFg/16x9-big/krim-bruecke-144.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-19T18:55:10+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
-      "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Russland: Ukraine greift offenbar russischen Militär sowie Kriegsschiff an",
-      "link": "https://www.spiegel.de/ausland/russland-ukraine-greift-offenbar-russischen-militaer-sowie-kriegsschiff-an-a-542b7b39-72c1-4967-836c-591659fa211e#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Ukrainekrieg: Krim-Brücke nach drittem Angriff in einer Woche erneut gesperrt",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/krim-bruecke-kertsch-bruecke-russland-ukraine-angriffe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Neue Angriffe: Warum Russland die Krim-Brücke nicht mehr verteidigen kann",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/warum-russland-die-krim-bruecke-nicht-mehr-verteidigen-kann-201697484.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Russland bestätigt Beschädigungen an Krim-Brücke – Selenskyj postet Video von Angriff",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-krim-bruecke-nach-zweitem-angriff-teilweise-eingestuerzt/27982126.html"
-     }
-    ]
-   },
-   {
     "title": "Israels Parlamentspräsident gewählt",
     "link": "https://www.tagesschau.de/video/video-1685798.html",
     "image": "https://images.tagesschau.de/image/7beba225-ac8e-4b96-ab5f-6798d5b837a3/AAABoe5NTUE/AAABnSSvrFg/16x9-big/sendungsbild-1829262.jpg?width=1920",
@@ -924,6 +802,108 @@
       "name": "Handelsblatt",
       "title": "Israel: Neuer Knesset-Sprecher – Netanjahu verliert das Parlament",
       "link": "https://www.handelsblatt.com/politik/international/israel-neuer-knesset-sprecher-netanjahu-verliert-das-parlament/100270558.html"
+     }
+    ]
+   },
+   {
+    "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
+    "image": "https://images.tagesschau.de/image/6962dfba-07c1-4aa0-aa94-86857f740465/AAABofETAbs/AAABnSSvrFg/16x9-big/anthropic-138.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-19T17:09:35+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Anthropic-Börsengang: Ausgabepreis von 83 Dollar je Aktie festgelegt",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-boersengang-ausgabepreis-von-83-dollar-je-aktie-festgelegt-a-816300aa-dd4b-44d5-90cd-f7f5403e3b35#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Rekord-Börsengang: Anthropic sammelt über 81 Milliarden Dollar ein",
+      "link": "https://www.zeit.de/video/2026-11/rekord-boersengang-anthropic-sammelt-ueber-81-milliarden-dollar-ein"
+     },
+     {
+      "name": "FAZ",
+      "title": "81 Milliarden Dollar: Anthropic setzt sich an die Spitze der größten Börsengänge der Geschichte",
+      "link": "https://www.faz.net/aktuell/finanzen/anthropics-boersengang-was-anleger-aus-der-ipo-geschichte-lernen-koennen-201698718.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Erstnotiz: Historischer IPO – Anthropic sammelt 81 Milliarden Dollar ein",
+      "link": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-historischer-ipo-anthropic-sammelt-81-milliarden-dollar-ein/100270370.html"
+     }
+    ]
+   },
+   {
+    "title": "Jörg Endriss, ARD Peking, zzt. Shenzhen/China, zu den Gesprächen zwischen Trump, Putin und Xi über die Ukraine und Atomwaffen",
+    "link": "https://www.tagesschau.de/video/video-1686490.html",
+    "image": "https://images.tagesschau.de/image/5853b5fa-720e-4770-8774-efadf3ad446d/AAABofQiMXE/AAABnSSvrFg/16x9-big/sendungsbild-1829992.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-19T14:07:27+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Jörg Endriss, ARD Peking, zzt. Shenzhen/China, zu den Gesprächen zwischen Trump, Putin und Xi über die Ukraine und Atomwaffen",
+      "link": "https://www.tagesschau.de/video/video-1686490.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Apec-Gipfel in Shenzhen, China: Donald Trump im Gästehaus von Xi Jingping angekommen",
+      "link": "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Dreiergipfel in Shenzhen: Russland, USA und China vereinbaren Gespräche über Atomwaffen",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/dreiergipfel-shenzhen-china-russland-usa-xi-jinping-wladimir-putin-donald-trump-friedenserklaerung-atomkrieg"
+     },
+     {
+      "name": "FAZ",
+      "title": "Apec-Gipfel: Trump stärkt Chinas Macht",
+      "link": "https://www.faz.net/premium/weltwirtschaft/apec-gipfel-trump-staerkt-chinas-macht-201696942.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "+++ Apec-Gipfel +++: Trump begrüßt Putin mit der Frage: „Wer ist er?“",
+      "link": "https://www.handelsblatt.com/politik/international/apec-gipfel-trump-begruesst-putin-mit-wer-ist-er/100270890.html"
+     }
+    ]
+   },
+   {
+    "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+    "image": "https://images.tagesschau.de/image/0a8267b7-a2da-4eb4-bb5a-b7fda46a2e11/AAABoJ9akT0/AAABnSSvrFg/16x9-big/commerzbank-270.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-19T11:34:33+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Commerzbank: EU genehmigt Übernahme durch Unicredit",
+      "link": "https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Bundesregierung und UniCredit bei Commerzbank-Übernahme einig",
+      "link": "https://www.zeit.de/video/2026-11/bundesregierung-und-unicredit-bei-commerzbank-uebernahme-einig"
+     },
+     {
+      "name": "FAZ",
+      "title": "übernahme durch Unicredit: Bundesregierung stimmt für Commerzbank-Übernahme",
+      "link": "https://www.faz.net/video/bundesregierung-stimmt-fuer-commerzbank-uebernahme-201697940.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Banken: Bund und Unicredit einigen sich bei Commerzbank-Übernahme",
+      "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bund-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html"
      }
     ]
    }
@@ -971,20 +951,6 @@
        "name": "IT-Finanzmagazin",
        "title": "Kernsystem und Vibe Coding: Wo KI-gestützte Entwicklung Versicherer voranbringt – und wo sie Grenzen hat",
        "link": "https://www.it-finanzmagazin.de/kernsystem-und-vibe-coding-wo-ki-gestuetzte-entwicklung-versicherer-voranbringt-und-wo-sie-grenzen-hat-253976/"
-      }
-     ]
-    },
-    {
-     "title": "Datenlecks bei Kreditkartenriesen und neue KI-Strategien der Banken",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSThVdW5KNFZIOG02dXl4UmlTRldoUnFwYkFYUXYtR0xQeEZlWWtsXzdOYU95aU9DSWNMdXExSjNISXJhdUU1TmlKTnUwSVNUaXVpbkp1LUxGUUUtUDZDdjJ4ckM3UlF2azVneERrbElZclhaZnAzVlZsbDlSOWtCVmprc0l1LWRMTXhlWkFlODhDQmIzcEYySFZFQkNpeGM?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-20T11:04:26+00:00",
-     "sources": [
-      {
-       "name": "Payment & Banking",
-       "title": "Datenlecks bei Kreditkartenriesen und neue KI-Strategien der Banken",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSThVdW5KNFZIOG02dXl4UmlTRldoUnFwYkFYUXYtR0xQeEZlWWtsXzdOYU95aU9DSWNMdXExSjNISXJhdUU1TmlKTnUwSVNUaXVpbkp1LUxGUUUtUDZDdjJ4ckM3UlF2azVneERrbElZclhaZnAzVlZsbDlSOWtCVmprc0l1LWRMTXhlWkFlODhDQmIzcEYySFZFQkNpeGM?oc=5"
       }
      ]
     }
@@ -1302,6 +1268,64 @@
      "title_orig": "CBI, Bancomat and Nexi to build Italian digital euro infrastructure"
     },
     {
+     "title": "Aktuelle Nachrichten von CheckAlt",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FTV92M0tCT3RkWnhaenNnS3MxSmhHVFZqYmZmZ0hfM3JtVnJSV1ZiR3ZRYmt5U0RvNzJLMlVJa1FLazdfMmVwV2MyUnBqdW82WDVROUc1VGVzbXc?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-21T10:11:27+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "CheckAlt recent news",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FTV92M0tCT3RkWnhaenNnS3MxSmhHVFZqYmZmZ0hfM3JtVnJSV1ZiR3ZRYmt5U0RvNzJLMlVJa1FLazdfMmVwV2MyUnBqdW82WDVROUc1VGVzbXc?oc=5"
+      }
+     ],
+     "title_orig": "CheckAlt recent news"
+    },
+    {
+     "title": "Unzer",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kY1pWVVJYREREaDFQb0ZVXzBzUHNOSlQ5VGxWSWJzN3A5ZTVTakptcVpFM2trVnhOV1RYaVplMzRmQlE2SzhHYWpFdzl2NjBqMVpVQ2Y3NA?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-21T10:11:27+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Unzer",
+       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kY1pWVVJYREREaDFQb0ZVXzBzUHNOSlQ5VGxWSWJzN3A5ZTVTakptcVpFM2trVnhOV1RYaVplMzRmQlE2SzhHYWpFdzl2NjBqMVpVQ2Y3NA?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Apis Partners",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMVMzZEIwOEVyaXplVlF4X01QSHltVno5RVlhQkN0VFk3RjYtN01jRTlxQU5yV2VheWdfV19iYlNZV204cllidFM1LXpoSldGRXcySm41N3ZlazkwQWJCTnJ3?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-21T10:11:25+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Apis Partners",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQMVMzZEIwOEVyaXplVlF4X01QSHltVno5RVlhQkN0VFk3RjYtN01jRTlxQU5yV2VheWdfV19iYlNZV204cllidFM1LXpoSldGRXcySm41N3ZlazkwQWJCTnJ3?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "Color:",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlR1BQejF2ZURaS1V0djlnYlJkSktoLWdscDQwejNhamFpRWhLZWRjSHV0MlhCMEg3UU9iQlEwX1Yxck9tYVBjRDRwM016WHE0Ul9mU0F4aw?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-21T10:11:24+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Antal",
+       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlR1BQejF2ZURaS1V0djlnYlJkSktoLWdscDQwejNhamFpRWhLZWRjSHV0MlhCMEg3UU9iQlEwX1Yxck9tYVBjRDRwM016WHE0Ul9mU0F4aw?oc=5"
+      }
+     ],
+     "title_orig": "Antal"
+    },
+    {
      "title": "- FinTech-Futures",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXRUVktxem5mdGtlOHVZYUktWjNJcElobFFOVTFGTWs4QmhiNkFnTTRTOHI5ZkdRc0V1MVVrcU5mY1ctNUc2TGVXcFRNazdfa2M4Q2dUZmZUY3NGN0o0YlpoZzJGM2h5dGVjZnR3Szh5VzJJaW5ndTdaYzF1TUhZTFdxczZycXFxbWQtNnRTcG9xUEYzWGV2b1FvZEhfNzQ?oc=5",
      "image": "",
@@ -1315,21 +1339,6 @@
       }
      ],
      "title_orig": "- FinTech Futures"
-    },
-    {
-     "title": "Aktuelle Nachrichten von Verlo",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xbkhoS2xwMFRja1J3ejNXOEdYTmllb2lfamFwel9UOE5DS2dha1dWdS1YZ243bmFEMkFCRzhGYVVubmJ6TkI2QjhGMjREQXpCNGFheUFpcw?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-20T20:55:42+00:00",
-     "sources": [
-      {
-       "name": "Fintech Futures",
-       "title": "Verlo recent news",
-       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xbkhoS2xwMFRja1J3ejNXOEdYTmllb2lfamFwel9UOE5DS2dha1dWdS1YZ243bmFEMkFCRzhGYVVubmJ6TkI2QjhGMjREQXpCNGFheUFpcw?oc=5"
-      }
-     ],
-     "title_orig": "Verlo recent news"
     },
     {
      "title": "Lianlian DigiTech",
@@ -1346,19 +1355,18 @@
      ]
     },
     {
-     "title": "Codex sammelt 30 Mio. USD in einer Serie-A-Finanzierungsrunde für eine Stablecoin-FX-Plattform",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXZVbVB0VDJ4T0Y2dzVxcVFmUERwMVI1eVIyQzVYNkxJckZtS3dSSG5UT2J2Nk1YU2RuQVFMVWxQbENoNUxVdmRDQkNZTmFyc3lFQzYtamhQUmVIR0I0WXBaeWFMUFNxb2tkaWRYdm5tM0ZTQXFCaWNwdkkxX193blF2TWE1d25QQXkyck95cy1hRHhYbnEyR196b1Q4a2pwZFhURHNfa2RxN245NnZfWlFuSQ?oc=5",
+     "title": "Tribe Capital Management",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVQ0szbGZMUUtmODdUcGdWMUZMN004MXRvNHByYUVPMTZteDNhbE92QVE2czhFV3djcWl6UmFjdlBicDBZLTg3dWdKbnZxbXc1SmdpbXVGNEZfcm9xMFJHTGdSbnF4ZlNHajRBRWJOSXE?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-11-20T15:35:49+00:00",
+     "time": "2026-11-20T20:55:41+00:00",
      "sources": [
       {
-       "name": "The Paypers",
-       "title": "Codex raises USD 30 mln Series A for stablecoin FX platform",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXZVbVB0VDJ4T0Y2dzVxcVFmUERwMVI1eVIyQzVYNkxJckZtS3dSSG5UT2J2Nk1YU2RuQVFMVWxQbENoNUxVdmRDQkNZTmFyc3lFQzYtamhQUmVIR0I0WXBaeWFMUFNxb2tkaWRYdm5tM0ZTQXFCaWNwdkkxX193blF2TWE1d25QQXkyck95cy1hRHhYbnEyR196b1Q4a2pwZFhURHNfa2RxN245NnZfWlFuSQ?oc=5"
+       "name": "Fintech Futures",
+       "title": "Tribe Capital Management",
+       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVQ0szbGZMUUtmODdUcGdWMUZMN004MXRvNHByYUVPMTZteDNhbE92QVE2czhFV3djcWl6UmFjdlBicDBZLTg3dWdKbnZxbXc1SmdpbXVGNEZfcm9xMFJHTGdSbnF4ZlNHajRBRWJOSXE?oc=5"
       }
-     ],
-     "title_orig": "Codex raises USD 30 mln Series A for stablecoin FX platform"
+     ]
     },
     {
      "title": "Workday erweitert die native Entgeltabrechnung auf sieben neue Märkte",
@@ -1389,51 +1397,6 @@
       }
      ],
      "title_orig": "EPAA proposes cross-sector fraud signal sharing in APAC"
-    },
-    {
-     "title": "OakNorth erhält die US-amerikanische Nationalbanklizenz mit der Genehmigung der CUB",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzNGRXh5NWtNbTZBR2R4TlN3UnVJWkpMV19aSVZaU2xqamg1ZWx3U20yWkdMcnk4RHdjX2Y5OU9hbTg3Y0ZjWVBwd2lGQ1ZuSmZJSHoxVG1hajZ1TFlKTXBkMjl1XzByMnRhVEpkR2twbFdod0xUSlN2b3h0ZFE0RE1EaVdldlp2MEphM1RhVU5zYUFodXYtNlNUUXdEYVRISkl1ZS1lMA?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-20T16:30:00+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "OakNorth secures US national bank charter with CUB approval",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzNGRXh5NWtNbTZBR2R4TlN3UnVJWkpMV19aSVZaU2xqamg1ZWx3U20yWkdMcnk4RHdjX2Y5OU9hbTg3Y0ZjWVBwd2lGQ1ZuSmZJSHoxVG1hajZ1TFlKTXBkMjl1XzByMnRhVEpkR2twbFdod0xUSlN2b3h0ZFE0RE1EaVdldlp2MEphM1RhVU5zYUFodXYtNlNUUXdEYVRISkl1ZS1lMA?oc=5"
-      }
-     ],
-     "title_orig": "OakNorth secures US national bank charter with CUB approval"
-    },
-    {
-     "title": "HarnessBuy unterzeichnet Absichtserklärung mit Mastercard über Agentic Commerce im APAC-Raum",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQzdTeG4zMW1IN0d4MFhzd0lrMzV6b3FyckxmOWhJdXZ4emN1aUpMdlZidGotNkVTdG5WdEY3NWZEQnRqVlVTMXBNLTZ5S0dIQ0NzaTB3YU1PQks1aThfOXlQLUZfWUNqR2Z3UGtFZ2c2c2lTd0IwU0JpdUNHX3owZU1PLUQxZ1RRT1ZxN2dlTmFzcTZKX3I4MnR1SHRvaDc3MlBR?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-20T16:30:00+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "HarnessBuy signs MoU with Mastercard on agentic commerce in APAC",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQzdTeG4zMW1IN0d4MFhzd0lrMzV6b3FyckxmOWhJdXZ4emN1aUpMdlZidGotNkVTdG5WdEY3NWZEQnRqVlVTMXBNLTZ5S0dIQ0NzaTB3YU1PQks1aThfOXlQLUZfWUNqR2Z3UGtFZ2c2c2lTd0IwU0JpdUNHX3owZU1PLUQxZ1RRT1ZxN2dlTmFzcTZKX3I4MnR1SHRvaDc3MlBR?oc=5"
-      }
-     ],
-     "title_orig": "HarnessBuy signs MoU with Mastercard on agentic commerce in APAC"
-    },
-    {
-     "title": "Whitepaper: Der Stand der europäischen Finanzdienstleistungen im Jahr 2026",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUpUdXR1N1diRWduOUxBRlZWaVVTbno2VlNBUThsSmtSck05c1F2QW9VR1RoU05zMk05ZmdLT01LSjBhTVNrRTdyemsxM3F3dWM0eTVMR1ZHMXB0RnJXbl80VWM4SEdtMzBKVnBnVEExaElMX3A1TXZXRzJvWWFWeEpBYlB6VDlIb1hHSGdHTmdNeEhZVFJuMXl6c1ZnbGRI?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-20T16:25:02+00:00",
-     "sources": [
-      {
-       "name": "Fintech Futures",
-       "title": "White paper: The state of European financial services in 2026",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUpUdXR1N1diRWduOUxBRlZWaVVTbno2VlNBUThsSmtSck05c1F2QW9VR1RoU05zMk05ZmdLT01LSjBhTVNrRTdyemsxM3F3dWM0eTVMR1ZHMXB0RnJXbl80VWM4SEdtMzBKVnBnVEExaElMX3A1TXZXRzJvWWFWeEpBYlB6VDlIb1hHSGdHTmdNeEhZVFJuMXl6c1ZnbGRI?oc=5"
-      }
-     ],
-     "title_orig": "White paper: The state of European financial services in 2026"
     }
    ],
    "7d": [
@@ -1715,31 +1678,6 @@
      "title_orig": "German banks form financial crime fighting JV"
     },
     {
-     "title": "EU und Kanada planen, Echtzeit-Zahlungssysteme zu verbinden",
-     "link": "https://www.finextra.com/newsarticle/48692/eu-and-canada-plan-to-link-real-time-payment-systems?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
-     "n_sources": 3,
-     "time": "2026-11-04T10:59:16+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "EU and Canada plan to link real-time payment systems",
-       "link": "https://www.finextra.com/newsarticle/48692/eu-and-canada-plan-to-link-real-time-payment-systems?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "The Paypers",
-       "title": "Real-time payments infrastructure and scheme evolution",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSS02ZmYwS3Vjc3hGWExsVEp5UVNobWFwSnB1eHdXeGZiT05RX3FYX0hPZzRNcGtCeG1ENnlyYnI0NTFFWHFuZXloR0pjYTFnOXVmc2xvbXFoa3VJQVVsMmZFcmJVWDdWOHhDcnpwVEI4UlVBa3hLamd6enRyMkwtbHktT1BXQ3hvWS1RZnZZWVlad0ZfN2YxNjNsazVGSnpo?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Canada and Europe to link real-time payment systems under new alliance",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGtmbEhzM0ZfUGVBOTdvZlZmdFFsM190V3RMMzF0X19wal9zakRSS29DbVVCRGRrTVdRVmFJbUhGVk1MV1BUUG52eUZqQkZIYjVRNk5KbjdsQXpPOVc3VGpiakY2eGlTYlQ0OUlzeXZkVDYwaEI0MW53ZmRtYXo5V1ZoTlc5VHhUVWRTVkxDMFd5ZHZQSmZHSVBZd3ByX180N3ZyNzY2OHppZ00?oc=5"
-      }
-     ],
-     "title_orig": "EU and Canada plan to link real-time payment systems"
-    },
-    {
      "title": "Tech Mahindra erwirbt die Cash-Management-Sparte von Finastra",
      "link": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
@@ -1785,26 +1723,6 @@
      "title_orig": "OakNorth secures US national bank charter with CUB approval"
     },
     {
-     "title": "SME Bank geht mit SaaScada Core live, um das Wachstum in der EU zu unterstützen",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVR3SFI5N0pFTFRRX2s1cFhJLWNuTmx1VjdZN3ZrZU5wVlFJc2VDbXRVNEl1QnN0bENERUl6R2FCOFF4REl3dTNjdmpaRkxsRHlpd1MtS005UjFuaFYzQVpOTXFqUEgwbGlCM09KVGRqZ0FtYWJUX2NFVWJ4ZU9kR0JjbzhuNFZWRENxNWhrY1pQcDZPZUZjeGJhdWprQTYxWTZkV1lB?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-20T12:29:02+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "SME Bank goes live on SaaScada core to support EU growth",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVR3SFI5N0pFTFRRX2s1cFhJLWNuTmx1VjdZN3ZrZU5wVlFJc2VDbXRVNEl1QnN0bENERUl6R2FCOFF4REl3dTNjdmpaRkxsRHlpd1MtS005UjFuaFYzQVpOTXFqUEgwbGlCM09KVGRqZ0FtYWJUX2NFVWJ4ZU9kR0JjbzhuNFZWRENxNWhrY1pQcDZPZUZjeGJhdWprQTYxWTZkV1lB?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "SME Bank migrates to SaaScada core banking system",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcW1FSWdWSFp5RjUwLUVtUUgyVUIzcUpmaXdwTl92dFBtUHBGaS1RbHZNMGhsQzd5T1RncU8xRlk5SVpmWWV3WHRRUTBxdS1nLU81VF9COVVlUmx2U1poSzZYNDRWY1I2VWJaem9naWgyRnpERWdTWEx2eUt5QmtxUllMR0JYcERUX2FCZ210eVduQUpCZlBTZmpEQzU5ZTMxdWFxV29Xaw?oc=5"
-      }
-     ],
-     "title_orig": "SME Bank goes live on SaaScada core to support EU growth"
-    },
-    {
      "title": "FintechOS geht Partnerschaft mit UST FinX ein",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2NydlpDQkRkN094X09VLWdybUc0WVpVdEtnXzJHVkFQaDVRbjYxZFltS2dBV1FqeHQ2UEF3enJmbUxlbGxJU2pUeHl2bVdpNnZKSFl5Nlp0YW5xMjJ3THAzalJ6ZmVETFRMLU1LRk82bWlGeHp1U3NrMGhYQ21qVnpjZFlmM2ExSzJINE5yd1pkaHlKcGJMZ2lhNTNYX1JGV2c?oc=5",
      "image": "",
@@ -1845,6 +1763,26 @@
      "title_orig": "Charity Bank selects Temenos SaaS for core banking and payments"
     },
     {
+     "title": "Beacon Bank führt Finastra Payments To Go ein",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeV9KbWtTUmo0MENnMjA3ZkNBN1BiTEI3RXl5TTlObmU3TkplZ1diNlhxQ3JwRGFiQW5OR0dUVUhZWVFpWlFrTTNtOTRpbkxOakZxSGRreWhrcUtFQTdaLXJHWkI4bW9CWkg2Y1dkaHlua3gwQjZpMlR5MzBxdjNVRDRqQmh4bkdXUHloeEdjUl92bGxOeTNWejdPdER3Uk0?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-19T06:00:55+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Beacon Bank adopts Finastra Payments To Go",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeV9KbWtTUmo0MENnMjA3ZkNBN1BiTEI3RXl5TTlObmU3TkplZ1diNlhxQ3JwRGFiQW5OR0dUVUhZWVFpWlFrTTNtOTRpbkxOakZxSGRreWhrcUtFQTdaLXJHWkI4bW9CWkg2Y1dkaHlua3gwQjZpMlR5MzBxdjNVRDRqQmh4bkdXUHloeEdjUl92bGxOeTNWejdPdER3Uk0?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Bank of Ceylon goes live with Aurionpro’s iCashpro platform",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQllKX3FhRVNIMWFabmEzdjBxalgwUzI2eUNaV3VuU0M0NWNvU19OMTZsY0VpUGR2YmNuTlR4dHYyNXFhYlE3dV9kd0FuZUVuX19ZMkpZaXdnMDAzcFZuMTNVQk5ZbzJJRTF1Q2xPMnpDcE1uVTV1ak15TXg2SVQ5eGNEcTF1MTI4aEU2d01ybFkxV1NNLTlLSTNtd1RWc3RUOGdSbjdmQkp5UQ?oc=5"
+      }
+     ],
+     "title_orig": "Beacon Bank adopts Finastra Payments To Go"
+    },
+    {
      "title": "Ashland Credit Union entscheidet sich für nFinia von Tyfone",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbERJV2VjNWhzWU1zamRqcDl0MXI5djZlQ0duN1BGVkhhQkZBY3BaSzdFSWNYcUlxMXlwcUZxQWw0YzA4VWRHeVRqamM2ZWU0MFZ2Yno3OG1CbkluOHJXeHJiZy1sVVRUMkdWWUYzNFNTSF9RSThvMlhrMm1hZTA5VW43T1FGUS0tT1o5WlR5eHRXT0plc19vZ1MxZnc5WHRWWnhzejBOTQ?oc=5",
      "image": "",
@@ -1863,6 +1801,26 @@
       }
      ],
      "title_orig": "Ashland Credit Union picks Tyfone’s nFinia"
+    },
+    {
+     "title": "Neuseeländische Banken treten dem Betrugsbekämpfungsnetzwerk BioCatch Trust bei",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHBaaV8yckI4UHVSVU9RWU9ZZE1Bb2pMOXJETi1KNTNaTmhxMllJX3NqNEVoQ2xpQ1c5SDJINnhtM2hzcnkyUy1YTm5raTNHaHlwbXMydFdrNl9wOXRjYklwcDJQVGNFTHRDWHUxR3hjdzV4djhEUUUyVlhYZHpXb3JWR2tjNWwtNnVOa2lDZEViNm5xT3Q0aTZQMV9GUzZmeVBNQlNZOWNIalI4NEYwS1pxZw?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-19T12:53:40+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "New Zealand banks join BioCatch Trust fraud-sharing network",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHBaaV8yckI4UHVSVU9RWU9ZZE1Bb2pMOXJETi1KNTNaTmhxMllJX3NqNEVoQ2xpQ1c5SDJINnhtM2hzcnkyUy1YTm5raTNHaHlwbXMydFdrNl9wOXRjYklwcDJQVGNFTHRDWHUxR3hjdzV4djhEUUUyVlhYZHpXb3JWR2tjNWwtNnVOa2lDZEViNm5xT3Q0aTZQMV9GUzZmeVBNQlNZOWNIalI4NEYwS1pxZw?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "New Zealand banks join forces with BioCatch on new scam-detection system",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYm1LRC0zazdDdWtUNnBGVEZQOV9aN3F6aXlWU2FYZHNSUHNweURueGxldk9LQW1iTXB5a2dMbjh2ZDBCVExQc3FKcmxzVFl2aWM5aWZpc2ZfZzJTeERIR0gzNUItRUU4UXlYWUphQjJhc0Nkd1BSWG5ka1BnRlJXeEdiZDF3d1MyU0E0bUZTSVI2Mm5sdFBQX2pBOVRhWGlReEkxQkpEYWRxa1JxdWpSZ25jNUpiYUszT09qMUhUMUl2WXZJa0dqWHpHRGxSUUFiN1E?oc=5"
+      }
+     ],
+     "title_orig": "New Zealand banks join BioCatch Trust fraud-sharing network"
     }
    ]
   },
@@ -2066,24 +2024,24 @@
      "title_orig": "Worldline shares plummet on FT report on cash advances"
     },
     {
-     "title": "Google Wallet kehrt zu Apple zurück",
-     "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/",
+     "title": "Google Wallet kommt in den USA auf iOS",
+     "link": "https://www.finextra.com/pressarticle/111753/google-wallet-lands-on-ios-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "https://imgproxy.divecdn.com/uuUY5LDNWye9m8lc7-f-bDQOcX-mf9K9_JXugB1EBu4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxNTY4ODMyLmpwZw==.webp",
      "n_sources": 2,
-     "time": "2026-11-19T21:55:22+00:00",
+     "time": "2026-11-20T15:53:00+00:00",
      "sources": [
+      {
+       "name": "Finextra",
+       "title": "Google Wallet lands on iOS in the US",
+       "link": "https://www.finextra.com/pressarticle/111753/google-wallet-lands-on-ios-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
       {
        "name": "Payments Dive",
        "title": "Google wallet returns to Apple",
        "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Google’s Gemini App Can Now Operate Apple Desktop Computers",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/googles-gemini-app-can-now-operate-apple-desktop-computers/"
       }
      ],
-     "title_orig": "Google wallet returns to Apple"
+     "title_orig": "Google Wallet lands on iOS in the US"
     },
     {
      "title": "JPMorgan, Visa und Mastercard berichten, dass Hacker E-Mail-Adressen von Kunden preisgegeben haben",
@@ -2338,46 +2296,6 @@
      "title_orig": "Monzo eyes fresh funding at £7.5bn valuation - FT"
     },
     {
-     "title": "Google Wallet kehrt zu Apple zurück",
-     "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/",
-     "image": "https://imgproxy.divecdn.com/uuUY5LDNWye9m8lc7-f-bDQOcX-mf9K9_JXugB1EBu4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxNTY4ODMyLmpwZw==.webp",
-     "n_sources": 2,
-     "time": "2026-11-19T21:55:22+00:00",
-     "sources": [
-      {
-       "name": "Payments Dive",
-       "title": "Google wallet returns to Apple",
-       "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Google’s Gemini App Can Now Operate Apple Desktop Computers",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/googles-gemini-app-can-now-operate-apple-desktop-computers/"
-      }
-     ],
-     "title_orig": "Google wallet returns to Apple"
-    },
-    {
-     "title": "BMO erreicht Quantennutzen",
-     "link": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/BMO-computing.jpeg?w=457",
-     "n_sources": 2,
-     "time": "2026-11-19T15:28:01+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "BMO reaches quantum utility",
-       "link": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "BMO Says Quantum Computing Can Help Banks Detect Risk",
-       "link": "https://www.pymnts.com/technology/2026/bmo-says-quantum-computing-can-help-banks-detect-risk/"
-      }
-     ],
-     "title_orig": "BMO reaches quantum utility"
-    },
-    {
      "title": "Worldline-Aktien stürzen nach FT-Bericht über Barvorschüsse ab",
      "link": "https://www.finextra.com/newsarticle/48791/worldline-shares-plummet-on-ft-report-on-cash-advances?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Worldline.png?w=457&quality=82",
@@ -2396,6 +2314,26 @@
       }
      ],
      "title_orig": "Worldline shares plummet on FT report on cash advances"
+    },
+    {
+     "title": "Google Wallet kommt in den USA auf iOS",
+     "link": "https://www.finextra.com/pressarticle/111753/google-wallet-lands-on-ios-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://imgproxy.divecdn.com/uuUY5LDNWye9m8lc7-f-bDQOcX-mf9K9_JXugB1EBu4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxNTY4ODMyLmpwZw==.webp",
+     "n_sources": 2,
+     "time": "2026-11-20T15:53:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Google Wallet lands on iOS in the US",
+       "link": "https://www.finextra.com/pressarticle/111753/google-wallet-lands-on-ios-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "Payments Dive",
+       "title": "Google wallet returns to Apple",
+       "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/"
+      }
+     ],
+     "title_orig": "Google Wallet lands on iOS in the US"
     },
     {
      "title": "Feedzai hilft Banken, KI-Agenten zu erkennen, die auf Kundenkonten zugreifen",
@@ -2436,6 +2374,26 @@
       }
      ],
      "title_orig": "JPMorgan, Visa and Mastercard say hackers leaked customer emails"
+    },
+    {
+     "title": "Visa führt kontaktlose Zahlungen in der DRK ein",
+     "link": "https://www.finextra.com/pressarticle/111708/visa-brings-contactless-payments-to-the-drc?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Visa-APAC-stablecoins.jpeg?w=457",
+     "n_sources": 2,
+     "time": "2026-11-19T19:21:55+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Visa brings contactless payments to the DRC",
+       "link": "https://www.finextra.com/pressarticle/111708/visa-brings-contactless-payments-to-the-drc?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Visa Direct Brings Cross-Border Payment Stablecoins to APAC",
+       "link": "https://www.pymnts.com/news/cross-border-payments/2026/visa-direct-brings-cross-border-payment-stablecoins-to-apac/"
+      }
+     ],
+     "title_orig": "Visa brings contactless payments to the DRC"
     }
    ]
   }
@@ -2447,54 +2405,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "energiekosten",
-      "link": "https://www.abendblatt.de/hamburg/wirtschaft/article413629586/strom-in-hamburg-wird-2027-teurer-was-das-fuer-die-kunden-bedeutet.html",
+      "title": "galatasaray vs samsunspor",
+      "link": "https://robinhood.com/us/en/prediction-markets/soccer/events/leipzig-vs-mainz-dec-05-2026/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "the only living pickpocket in new york",
-      "link": "https://lbknews.com/culture-key/event/the-only-living-pickpocket-in-new-york-36/",
+      "title": "james bond 007: skyfall",
+      "link": "https://collider.com/james-bond-movies-removed-from-prime-video-november-2026/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "matthias opdenhövel",
+      "link": "https://www.joyn.de/bts/themen/stars/matthias-opdenhoevel-und-seine-frau-seit30-jahren-sind-sie-ein-paar-194269",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "alaves – deportivo",
+      "link": "https://onefootball.com/es/noticias/deportivo-alaves-rc-deportivo-un-reencuentro-seis-anos-despues-43811241",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "csikszereda - corvinul hunedoara",
+      "link": "https://www.digisport.ro/fotbal/liga-1/csikszereda-corvinul-live-video-1500-dgs-1-capitolul-la-care-hunedorenii-sunt-lideri-4616995",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "heidelberg",
+      "link": "https://www.rnz.de/region/regionalticker/polizeiberichte_artikel,-Heidelberg-Verkehrsunfall-legt-Speyerer-Strasse-teilweise-lahm-_arid,2489743.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "bernd leno",
+      "link": "https://web.de/magazine/sport/videos/fussball/ersatz-bayern-leno-spricht-nachfolge-42965640",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "airbus a350",
-      "link": "https://www.aero.de/news-54220/Malaysia-Airlines-will-Airbus-A350-durch-Boeing-787-ersetzen.html",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "thw kiel",
-      "link": "https://thw-handball.de/bundesliga/2026/11/thw-kiel-handball-bundesliga-saison-2026-2027-hsg-wetzlar-heimspiel-vorbericht/",
+      "title": "fortuna köln – meppen",
+      "link": "https://www.kicker.de/f-koeln-gegen-meppen-2026-liga-5233350/aufstellung",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "rbb24",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/berlin-haushalt-einsparungen-verwaltungen-weniger-gebaeudeflaeche.html",
-      "meta": "200+ Suchanfragen"
+      "title": "nürnberg vs eintracht braunschweig",
+      "link": "https://www.t-online.de/sport/live-ticker/fussball/2-bundesliga/sdc_fm-59690/liveticker-fc-nuernberg-gegen-braunschweig-eintracht-sieht-gelb.html",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "vellmar",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-kassel-vellmar-flieden-unfaelle-mit-fussgaengern-77-jaehrige-in-lebensgefahr-100.html",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "nordfriesland",
-      "link": "https://www.shz.de/lokales/husum/artikel/nordfriesland-quiz-wie-gut-kennen-sie-sylt-husum-und-co-51768102",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "wolfsburg",
-      "link": "https://www.ndr.de/sport/fussball/extreme-vorfreude-kiel-coach-kniat-will-in-wolfsburg-bestehen,nordduell-356.html",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "the voice of germany 2026 talente",
-      "link": "https://www.joyn.de/bts/serien/the-voice-of-germany/tvog-teams2026-wer-ist-raus-162241",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "macaulay culkin",
-      "link": "https://puck.news/hollywood/2026/11/macaulay-culkin-is-in-for-another-home-alone",
-      "meta": "200+ Suchanfragen"
+      "title": "hoffenheim ii – preußen münster",
+      "link": "https://www.kicker.de/hoffenheim-ii-gegen-muenster-2026-liga-5233348/aufstellung",
+      "meta": "1000+ Suchanfragen"
      }
     ]
    },
@@ -2561,32 +2519,31 @@
     "lang": "fr",
     "items": [
      {
-      "title": "george russell",
-      "link": "https://www.bbc.com/sport/formula1/articles/c34gnrvl9zvro",
-      "meta": "100+ Suchanfragen"
+      "title": "Liverpool Football Club Women – Chelsea Football Club Women",
+      "link": "https://www.bbc.com/sport/football/live/cr868wyllle2t",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "liverpool football club women – chelsea football club women"
      },
      {
-      "title": "james gray",
-      "link": "https://www.bfmtv.com/culture/cinema-series/james-gray-revient-a-la-tragedie-new-yorkaise-avec-paper-tiger_AD-202611200381.html",
+      "title": "Sprintrennen MotoGP Portugal",
+      "link": "https://www.lequipe.fr/Moto/Actualites/Marco-bezzecchi-en-pole-position-du-gp-du-portugal-devant-marc-marquez-johann-zarco-8e/1745086",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "course sprint motogp portugal"
+     },
+     {
+      "title": "amed - rizespor",
+      "link": "https://www.gazetevatan.com/galeri/amedsporda-mbaye-diagne-soku-besnik-hasi-izin-vermedi-2467153",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Ägypten",
-      "link": "https://sante.journaldesfemmes.fr/quotidien/3282977-egypte-temple-2500-ans-espace/",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "égypte"
+      "title": "édouard mendy",
+      "link": "https://rmcsport.bfmtv.com/football/coupe-d-afrique-des-nations/can-2025-edouard-mendy-raconte-comment-il-a-destabilise-brahim-diaz-avant-sa-panenka-manquee-lors-de-la-finale-maroc-senegal_AV-202611210257.html",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Steuer",
-      "link": "https://www.jechange.fr/banques/news/impots-300-centres-moins-depuis-2012-telephone-decroche-1-fois-sur-2",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "impôt"
-     },
-     {
-      "title": "England gegen Australien",
-      "link": "https://www.bbc.com/sport/cricket/live/c30y48pz38qt",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "england vs australia"
+      "title": "fabrice luchini",
+      "link": "https://www.20minutes.fr/arts-stars/medias/4264406-20261120-presidentielle-2027-teddy-riner-reagit-paris-match-pose-torse-nu",
+      "meta": "2000+ Suchanfragen"
      }
     ]
    },
@@ -2595,31 +2552,32 @@
     "lang": "it",
     "items": [
      {
-      "title": "Ski heute im Fernsehen",
-      "link": "https://www.fisi.org/il-programma-delle-gare-settimanali-sci-alpino-a-gurgl-parte-la-coppa-del-mondo-di-salto-con-gli-sci/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "sci oggi in tv"
+      "title": "TV-Einschaltquoten 20. November 2026",
+      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/11/20/news/stasera_in_tv_film_programmi_serie_di_oggi_venerdi_20_novembre-425734004/",
+      "meta": "50000+ Suchanfragen",
+      "title_orig": "ascolti tv 20 novembre 2026"
      },
      {
-      "title": "starlink",
-      "link": "https://finance.yahoo.com/technology/articles/verizon-ceo-knows-elon-musk-174602710.html",
+      "title": "Monopoli – Cavese",
+      "link": "https://www.goal.com/it/notizie/guarda-monopoli-contro-cavese-in-diretta-oggi-chi-trasmette-la-partita-in-tv-e-in-live-streaming/blt99c36a28191bcc4a",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "monopoli - cavese"
+     },
+     {
+      "title": "adzic",
+      "link": "https://www.sassuolocalcio.it/prima-squadra/allenamento-mattutino-al-mfc-sabato-la-conferenza-di-mister-daversa/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "carlo conti",
-      "link": "https://www.libero.it/magazine/news/carlo-conti-oltre-tale-e-quale-show-sal-da-vinci-anna-tatangelo-rai-1-232273",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "Option Frauen 2027",
-      "link": "https://www.corriere.it/economia/finanza/26_novembre_19/pensioni-dossier-aperto-uscita-a-64-anni-o-niente-tagli-alla-rivalutazione-sanita-confermati-i-300-euro-per-gli-over-75-cosa-0bdbdd76-8715-4f5d-909b-b9c579e0bxlk.shtml",
+      "title": "Ski Alpin Slalom Damen",
+      "link": "https://www.fisi.org/della-mea-e-terza-dopo-la-prima-manche-dello-slalom-di-gurgl-tre-azzurre-alla-seconda/",
       "meta": "500+ Suchanfragen",
-      "title_orig": "opzione donna 2027"
+      "title_orig": "sci alpino slalom femminile"
      },
      {
-      "title": "cumiana",
-      "link": "https://www.torinotoday.it/cronaca/maltempo-vento-albero-caduto-donna-cumiana-20-21-novembre-2026.html",
-      "meta": "500+ Suchanfragen"
+      "title": "davis udinese",
+      "link": "https://www.udinese.it/news/squadra/zanetti-andiamo-a-bologna-con-umilta-e-senza-alibi",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2628,31 +2586,32 @@
     "lang": "es",
     "items": [
      {
-      "title": "Gewitter",
-      "link": "https://okdiario.com/curiosidades/expertos-avisan-insta-desenchufar-este-electrodomestico-durante-tormentas-electricas-evitar-danos-mayores-20901679",
+      "title": "marc giro",
+      "link": "https://www.atresplayer.com/lasexta/programas/cara-al-show/clips/marc-giro-entrevista-a-juan-antonio-bayona_6afe34c67335ad00073ae0fc/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "von Rockstar Games",
+      "link": "https://www.bbc.com/culture/article/20261120-the-moment-i-realised-gta-6-was-a-masterpiece",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "rockstar games"
+     },
+     {
+      "title": "Galatasaray – Samsunspor",
+      "link": "https://www.kahtahaberpostasi.com/haber/galatasaray-spor-kulubu-samsunspor-macina-parcali-formayla-cikacak",
       "meta": "200+ Suchanfragen",
-      "title_orig": "tormenta eléctrica"
+      "title_orig": "galatasaray - samsunspor"
      },
      {
-      "title": "la oreja de van gogh pamplona",
-      "link": "https://www.diariodenavarra.es/noticias/cultura-ocio/cultura/2026/11/20/fenomeno-fan-desata-arena-oreja-gogh-843248-104.html",
-      "meta": "200+ Suchanfragen"
+      "title": "john wayne",
+      "link": "https://www.mensjournal.com/news/1989-robert-duvall-classic-named-greatest-western-miniseries-ever-made-was-written-as-a-john-wayne-movie",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "marta hazas",
-      "link": "https://www.lavanguardia.com/comer/beber/20261121/11688296/marta-hazas-actriz-48-anos-mi-marido-mi-dan-mala-noticia-profesional-siempre-abrimos-champan-cdv.html",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "óscar puente",
-      "link": "https://www.abc.es/espana/puente-informado-transportes-pago-tratamiento-cancer-exmujer-20261120023010-nt.html",
-      "meta": "5000+ Suchanfragen"
-     },
-     {
-      "title": "England gegen Australien",
-      "link": "https://www.bbc.com/sport/cricket/live/c30y48pz38qt",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "england vs australia"
+      "title": "Rundschreiben",
+      "link": "https://elpais.com/opinion/2026-11-21/anthropic-en-medio-de-la-burbuja.html",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "circular"
      }
     ]
    },
@@ -2661,32 +2620,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "james harden",
-      "link": "https://www.bbc.co.uk/sport/basketball/articles/cwx2e8y1lr8lo",
+      "title": "mcfc",
+      "link": "https://www.evertonfc.com/news/2026/november/19/three-january-fixtures-moved-for-live-broadcast/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "gemma chan",
-      "link": "https://www.ft.com/content/4feab684-7de8-4216-bcf7-bfafcdbf3c2d",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "Jonathan Dimbleby verteidigt König Charles",
-      "link": "https://www.telegraph.co.uk/news/2026/11/21/jonathan-dimbleby-earl-spencer-king-interview/",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "jonathan dimbleby defends king charles"
-     },
-     {
-      "title": "F1-Qualifying-Ergebnisse Las Vegas",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo",
+      "title": "Arvid Lindblad unsichere Freigabe Las Vegas",
+      "link": "https://www.planetf1.com/news/fia-las-vegas-grand-prix-2026-investigation-double",
       "meta": "200+ Suchanfragen",
-      "title_orig": "las vegas f1 qualifying results"
+      "title_orig": "arvid lindblad unsafe release las vegas"
      },
      {
-      "title": "Schottland – Japan",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5n4ey83wk9ko",
+      "title": "enzo maresca",
+      "link": "https://www.skysports.com/football/news/13613559/man-city-vs-fulham-has-enzo-fernandez-given-enzo-maresca-a-problem-in-midfield-and-how-does-he-fix-the-imbalance",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "Zachert Private Equity Poundland-Angebot",
+      "link": "https://news.sky.com/story/german-bidder-stages-last-gasp-bid-to-rescue-poundland-13614626",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "zachert private equity poundland bid"
+     },
+     {
+      "title": "Fotzenlecker",
+      "link": "https://www.telegraph.co.uk/world-news/2026/11/21/russians-threatened-to-kill-crewmate-after-warship-crashed/",
       "meta": "100+ Suchanfragen",
-      "title_orig": "scotland v japan"
+      "title_orig": "warship"
      }
     ]
    },
@@ -2695,32 +2654,32 @@
     "lang": "pl",
     "items": [
      {
-      "title": "Babyklappe",
-      "link": "https://tvn24.pl/lodz/lodz-niemowle-w-oknie-zycia-dziewczynka-zajely-sie-siostry-zakonne-st9350408",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "okno życia"
-     },
-     {
-      "title": "Warzen-",
-      "link": "https://sport.tvp.pl/96571332/przyszlosc-polskiej-lekkoatletyki-na-kogo-zwrocic-uwage-wideo",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "kurzajewski"
-     },
-     {
-      "title": "sebastian szczęsny",
-      "link": "https://sportowefakty.wp.pl/skoki-narciarskie/1285317/dramatyczne-wyznanie-znanego-dziennikarza-to-bylo-jak-gilotyna",
+      "title": "cracovia – jagiellonia białystok",
+      "link": "https://przegladsportowy.onet.pl/pilka-nozna/ekstraklasa/to-najwieksza-bolaczka-trenera-jagiellonii-bialystok-znow-beda-zmiany/0p4lk4z",
       "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "Justizfonds",
-      "link": "https://trends.google.com/trends/explore?geo=PL&q=fundusz%20sprawiedliwo%C5%9Bci",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "fundusz sprawiedliwości"
+      "title": "Tauron Frauenliga",
+      "link": "https://www.polsatsport.pl/wiadomosc/2026-11-21/tauron-liga-kobiet-pge-budowlani-lodz-bks-zgo-bielsko-biala-relacja-live-i-wynik-na-zywo/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "tauron liga kobiet"
      },
      {
-      "title": "handel",
-      "link": "https://next.gazeta.pl/inwestycje/7,186594,33141944,wstrzas-po-debiucie-anthropic-to-byl-sprawdzian-ceny-akcji.html",
-      "meta": "200+ Suchanfragen"
+      "title": "Deportivo Alavés – Deportivo",
+      "link": "https://onefootball.com/es/noticias/deportivo-alaves-rc-deportivo-un-reencuentro-seis-anos-despues-43811241",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "deportivo alaves – deportivo"
+     },
+     {
+      "title": "Schnee",
+      "link": "https://podroze.onet.pl/aktualnosci/sniezyca-w-zakopanem-trudne-warunki-w-gorach-liczne-oblodzenia/rfmx5kq",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "śnieg"
+     },
+     {
+      "title": "miłosz kłeczek",
+      "link": "https://www.plotek.pl/plotek/7,111485,33143863,kleczek-zacheca-do-wspierania-republiki-niebywale-co-zrobil.html",
+      "meta": "2000+ Suchanfragen"
      }
     ]
    },
@@ -2798,32 +2757,33 @@
     "lang": "en",
     "items": [
      {
-      "title": "GTA 6 Kingpin Bowling-Tresorcode",
-      "link": "https://www.vice.com/en/article/gta-6-chapter-2-port-gellhorn-safe-codes/",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "gta 6 kingpin bowling safe code"
-     },
-     {
-      "title": "Bewaffneter Einsatz eines Unternehmens zur Räumung von Hausbesetzern",
-      "link": "https://www.latimes.com/california/story/2026-11-20/squatter-removal-company-owner-facing-criminal-charges-for-use-of-guns-swords",
+      "title": "Southampton – Derby County",
+      "link": "https://www.bbc.com/sport/football/live/c8dx1z4xxqnyt",
       "meta": "100+ Suchanfragen",
-      "title_orig": "squatter removal company armed raid"
+      "title_orig": "southampton vs derby county"
      },
      {
-      "title": "mamu lakers",
-      "link": "https://larrybrownsports.com/basketball/video-luka-doncic-calling-out-lakers-teammate/779309",
+      "title": "2027 NCAA Bracketology Top-Setzlistenplätze",
+      "link": "https://www.cbssports.com/college-basketball/news/2027-ncaa-tournament-projection-bracketology-houston-iillinois-virginia/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "2027 ncaa bracketology top seeds"
+     },
+     {
+      "title": "alexander zverev ben shelton atp finals",
+      "link": "https://www.atptour.com/en/news/nitto-atp-finals-2026-schedule",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "La Cascara Motel GTA 6",
-      "link": "https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-la-cascara-motel-robbery",
+      "title": "Weihnachtsparade in Raleigh",
+      "link": "https://abc11.com/post/christmas-holiday-season-2026-nc-raleigh-tree-lighting-parade-heres-how-watch-live-info-parking-transportation/20059319/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "la cascara motel gta 6"
+      "title_orig": "raleigh christmas parade"
      },
      {
-      "title": "julie tkach",
-      "link": "https://www.starcitytv.com/news/local/four-people-identified-in-west-lafayette-death-investigation/article_270ded97-585a-4d86-97f6-0e054cc310bd.html",
-      "meta": "5000+ Suchanfragen"
+      "title": "Hierophant-Verbindungen NYT",
+      "link": "https://mashable.com/entertainment/nyt-connections-hints-meanings-november-21-2026",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "hierophant connections nyt"
      }
     ]
    },
@@ -2832,30 +2792,33 @@
     "lang": "en",
     "items": [
      {
-      "title": "Afghanistan A – Bangladesch A",
-      "link": "https://www.ndtvprofit.com/sports/bangladesh-a-vs-afghanistan-a-live-streaming-when-and-where-to-watch-mens-asia-cup-rising-stars-match-12356812",
+      "title": "IND A – PAK A",
+      "link": "https://www.cricbuzz.com/player-match-performance/match/177152/player/15779/batting",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "ind a vs pak a"
+     },
+     {
+      "title": "Tulsi-Vivah-Katha",
+      "link": "https://www.aajtak.in/religion/news/story/tulsi-vivah-2026-suhagin-women-must-do-these-5-things-for-happy-married-life-tviss-dskc-2702050-2026-11-21",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "tulsi vivah katha"
+     },
+     {
+      "title": "Rishabh Pant Wicketkeeper WTC-Rekord",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shubman-gill-rishabh-pant-script-history-become-first-two-indians-to-achieve-major-wtc-milestone/articleshow/136050451.cms",
       "meta": "200+ Suchanfragen",
-      "title_orig": "afghanistan a vs bangladesh a"
+      "title_orig": "rishabh pant wicketkeeper wtc record"
      },
      {
-      "title": "gta vi xbox series s",
-      "link": "https://www.digitalfoundry.net/features/gta-6-ps5-vs-ps5-pro-xbox-series-x-and-series-s-which-console-plays-best",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "rupa biswas",
-      "link": "https://www.telegraphindia.com/my-kolkata/people/rupa-sen-biswas-once-struggled-to-find-her-own-record-in-kolkata-now-its-playing-in-gta-vi/cid/2190588",
+      "title": "जैकब ओरम",
+      "link": "https://www.jagran.com/cricket/apni-baat-ind-vs-nz-new-zealand-bowling-coach-jacob-oram-upset-with-pitch-40443770.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "नरहरी झिरवळ",
-      "link": "https://trends.google.com/trends/explore?geo=IN&q=%E0%A4%A8%E0%A4%B0%E0%A4%B9%E0%A4%B0%E0%A5%80%20%E0%A4%9D%E0%A4%BF%E0%A4%B0%E0%A4%B5%E0%A4%B3",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "motorola edge 70 neo",
-      "link": "https://www.techrepublic.com/article/news-motorola-edge-70-neo-india-launch-specs-apac/",
-      "meta": "1000+ Suchanfragen"
+      "title": "Galatasaray vs. Samsunspor",
+      "link": "https://robinhood.com/us/en/prediction-markets/soccer/events/leipzig-vs-mainz-dec-05-2026/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "galatasaray vs samsunspor"
      }
     ]
    },
@@ -2864,30 +2827,32 @@
     "lang": "pt",
     "items": [
      {
-      "title": "Lohn",
-      "link": "https://valor.globo.com/brasil/noticia/2026/11/21/decimo-terceiro-cai-nos-proximos-dias-veja-o-impacto-esperado-na-economia.ghtml",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "salário"
+      "title": "manchester city",
+      "link": "https://www.skysports.com/football/news/13611640/premier-league-predictions-and-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "airbnb",
-      "link": "https://www.bbc.com/news/articles/cmx278n2genyo",
-      "meta": "1000+ Suchanfragen"
+      "title": "Liverpool FC vs. Chelsea FC – Frauen",
+      "link": "https://www.bbc.com/sport/football/live/cr868wyllle2t",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "liverpool x chelsea football club - feminino"
      },
      {
-      "title": "carlos vinícius",
-      "link": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2026/11/20/saiba-o-que-o-gremio-pensa-sobre-ainda-utilizar-carlos-vinicius-acertado-com-o-vasco.ghtml",
+      "title": "leila pereira",
+      "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/20/orgulho-ferido-leila-tirou-peso-de-jogo-contra-fla-pvc-e-romulo-discordam.ghtm",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "isabel teixeira",
-      "link": "https://veja.abril.com.br/cultura/artistas-se-revoltam-apos-isabel-teixeira-de-quem-ama-cuida-defender-influencers-em-novelas/",
-      "meta": "1000+ Suchanfragen"
+      "title": "Aktienmarkt",
+      "link": "https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "mercado de ações"
      },
      {
-      "title": "sabesp",
-      "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/troca-de-valvula-de-16-toneladas-paralisa-estacao-do-cantareira-e-pode-afetar-abastecimento-ate-terca-24.shtml",
-      "meta": "200+ Suchanfragen"
+      "title": "Säugling",
+      "link": "https://www.agenciapara.com.br/noticia/80703/em-acao-rapida-policia-civil-resgata-recem-nascida-retirada-da-santa-casa-e-prende-suspeita-de-sequestro",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "bebê"
      }
     ]
    },
@@ -2896,33 +2861,34 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Eriina Iwata",
-      "link": "https://tver.jp/live/simul/lelpdzp5k3",
+      "title": "Yurina Shibata",
+      "link": "https://news.yahoo.co.jp/articles/1abfb51bd1a3c2a7581fac7ed13484b228e72ea5",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "柴田 祐里 菜"
+     },
+     {
+      "title": "Kaota Hosoda",
+      "link": "https://news.yahoo.co.jp/articles/db241e2deafde8b22305b11c8dea35585c68e524",
       "meta": "500+ Suchanfragen",
-      "title_orig": "岩田絵里奈"
+      "title_orig": "細田佳央太"
      },
      {
-      "title": "Schock-Grand-Prix",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E3%83%89%E3%83%83%E3%82%AD%E3%83%AA%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA",
+      "title": "U17-Nationalmannschaft Japans",
+      "link": "https://trends.google.com/trends/explore?geo=JP&q=u17%20%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "u17 日本代表"
+     },
+     {
+      "title": "Odakyu-Personenunfall",
+      "link": "https://news.yahoo.co.jp/articles/78817301ee4760067e8fc8121aa0b85714b82688",
       "meta": "200+ Suchanfragen",
-      "title_orig": "ドッキリグランプリ"
+      "title_orig": "小田急 人身事故"
      },
      {
-      "title": "Yukiko Wada",
-      "link": "https://news.yahoo.co.jp/articles/7d82570be564b8b4d4326fcb9d6ee00b4efbd648",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "和田由紀子"
-     },
-     {
-      "title": "m1",
-      "link": "https://www.bbc.com/news/articles/c6174lpjl25xo",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "Kashiwa-no-Ha Disney",
-      "link": "https://news.yahoo.co.jp/articles/d206ce53b310f65dda10edfa02540aa2b7f8f7f0",
+      "title": "Auf der Flucht",
+      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E9%80%83%E8%B5%B0%E4%B8%AD",
       "meta": "100+ Suchanfragen",
-      "title_orig": "柏の葉 ディズニー"
+      "title_orig": "逃走中"
      }
     ]
    },
@@ -2994,31 +2960,31 @@
      {
       "title": "Pille zur Behandlung von Bauchspeicheldrüsenkrebs als „größter Durchbruch seit Jahrzehnten“ gefeiert",
       "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "meta": "The Guardian · 547 Personen teilen",
+      "meta": "The Guardian · 563 Personen teilen",
       "title_orig": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’"
+     },
+     {
+      "title": "„Ich bin kein MAGA-Anhänger“, sagt Elon Musk nach der Niederlage der Republikaner bei den Zwischenwahlen",
+      "link": "https://www.pbs.org/newshour/politics/im-not-maga-elon-musk-says-after-republicans-midterm-thrashing",
+      "meta": "PBS News · 153 Personen teilen",
+      "title_orig": "'I'm not MAGA,' Elon Musk says after Republicans' midterm thrashing"
      },
      {
       "title": "Tausende von Kühlschränken im Vereinigten Königreich im Rahmen einer Geheimoperation vor Hackern geschützt",
       "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-      "meta": "BBC News · 248 Personen teilen",
+      "meta": "BBC News · 267 Personen teilen",
       "title_orig": "Thousands of UK fridges secured from hackers in secret operation"
      },
      {
       "title": "Signal verhindert, dass Gemini und Siri AI deinen Bildschirm lesen können",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "meta": "The Verge · 213 Personen teilen",
+      "meta": "The Verge · 214 Personen teilen",
       "title_orig": "Signal is blocking Gemini and Siri AI from reading your screen"
-     },
-     {
-      "title": "„Ich bin kein MAGA-Anhänger“, sagt Elon Musk nach der Niederlage der Republikaner bei den Zwischenwahlen",
-      "link": "https://www.pbs.org/newshour/politics/im-not-maga-elon-musk-says-after-republicans-midterm-thrashing",
-      "meta": "PBS News · 115 Personen teilen",
-      "title_orig": "'I'm not MAGA,' Elon Musk says after Republicans' midterm thrashing"
      },
      {
       "title": "Anthropic-Mathematiker behauptet, die Riemannsche Hypothese, das berühmteste Problem der gesamten Mathematik, bewiesen zu haben",
       "link": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-      "meta": "Scientific American · 110 Personen teilen",
+      "meta": "Scientific American · 114 Personen teilen",
       "title_orig": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math"
      }
     ]
@@ -3030,7 +2996,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 70,
+   "count": 73,
    "error": ""
   },
   {
@@ -3051,7 +3017,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 165,
+   "count": 164,
    "error": ""
   },
   {
@@ -3114,7 +3080,7 @@
    "source": "Fintech Futures",
    "category": "pay_eu",
    "ok": true,
-   "count": 90,
+   "count": 97,
    "error": ""
   },
   {
@@ -3247,8 +3213,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 117,
-   "info": "117 von 117 Überschriften übersetzt (neu in diesem Lauf: MyMemory 46). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 118,
+   "info": "118 von 118 Überschriften übersetzt (neu in diesem Lauf: MyMemory 48). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
