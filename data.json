@@ -1,39 +1,92 @@
 {
- "generated": "2026-11-22T15:54:28+00:00",
+ "generated": "2026-11-22T18:58:46+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
    {
-    "title": "Weltklimakonferenz COP31: Keine Einigung auf Abschlusserklärung",
-    "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
-    "image": "https://images.tagesschau.de/image/20311df1-9f50-4f3f-a677-2c4af30c269f/AAABogOdCu8/AAABnSSvrFg/16x9-big/cop13-102.jpg?width=1920",
+    "title": "Weltklimakonferenz COP31 endet ohne Einigung auf Abschlusserklärung",
+    "link": "https://www.tagesschau.de/video/video-1688012.html",
+    "image": "https://images.tagesschau.de/image/b5b37f39-89c3-4614-879e-9b5038e21695/AAABogQ2uFk/AAABnSSvrFg/16x9-big/sendungsbild-1831344.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-22T15:30:18+00:00",
+    "time": "2026-11-22T18:23:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Weltklimakonferenz COP31: Keine Einigung auf Abschlusserklärung",
-      "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html"
+      "title": "Weltklimakonferenz COP31 endet ohne Einigung auf Abschlusserklärung",
+      "link": "https://www.tagesschau.de/video/video-1688012.html"
      },
      {
       "name": "Spiegel",
-      "title": "COP31Deutschland hält Beschlusstext für Klimakonferenz nicht für zustimmungsfähig",
-      "link": "https://www.spiegel.de/wissenschaft/cop31deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss"
+      "title": "COP31 in Antalya: Klimakonferenz endet ohne gemeinsame Abschlusserklärung",
+      "link": "https://www.spiegel.de/ausland/cop31-in-antalya-klimakonferenz-endet-ohne-gemeinsame-abschlusserklaerung-a-bd3592c1-a2b1-41be-a497-33522c4e6cf7#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "UN-Klimakonferenz: Deutschland lehnt COP-Abschlusstext als »nicht zustimmungsfähig« ab",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/un-klimakonferenz-cop31-antalya-tuerkei-murat-kurum-gxe"
+      "title": "UN-Klimakonferenz: Die COP endet im Chaos",
+      "link": "https://www.zeit.de/wissenschaft/2026-11/un-klimakonferenz-cop-31-antalya-klimapolitik-abschluss"
      },
      {
       "name": "FAZ",
-      "title": "Keine Abschlusserklärung: Einigung bei Weltklimakonferenz gescheitert",
-      "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/einigung-bei-weltklimakonferenz-gescheitert-accg-201706517.html"
+      "title": "COP in Antalya: Darum ist die Klimakonferenz gescheitert",
+      "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/das-klima-drama-von-antalya-accg-201704569.html"
      },
      {
       "name": "Handelsblatt",
       "title": "COP31: Abschlusserklärung „nicht zustimmungsfähig“: Einigung bei Weltklimakonferenz gescheitert",
       "link": "https://www.handelsblatt.com/politik/deutschland/cop31-einigung-bei-weltklimakonferenz-gescheitert/100270720.html"
+     }
+    ]
+   },
+   {
+    "title": "Sonde \"BepiColombo\" erreicht Merkur-Umlaufbahn",
+    "link": "https://www.tagesschau.de/wissen/weltraum/merkur-sonde-esa-100.html",
+    "image": "https://images.tagesschau.de/image/13ec5600-cd7e-480c-a414-135a4f4f8877/AAABogI-8Es/AAABnSSvrFg/16x9-big/bepicolombo-104.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-22T16:43:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Sonde \"BepiColombo\" erreicht Merkur-Umlaufbahn",
+      "link": "https://www.tagesschau.de/wissen/weltraum/merkur-sonde-esa-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "»BepiColombo«: Doppelsonde von ESA und Jaxa in Merkur-Umlaufbahn",
+      "link": "https://www.spiegel.de/wissenschaft/weltall/bepicolombo-doppelsonde-von-esa-und-jaxa-in-merkur-umlaufbahn-a-097c2f75-6331-4e5b-9a7d-014ab11f0596#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "BepiColombo: Weltraumsonde erreicht Umlaufbahn des Planeten Merkur",
+      "link": "https://www.zeit.de/wissenschaft/2026-11/bepicolombo-merkur-mission-esa-jaxa-raumsonde-umlaufbahn-erreicht"
+     },
+     {
+      "name": "FAZ",
+      "title": "Astronomie: Sonde „BepiColombo“ ist am Merkur angekommen",
+      "link": "https://www.faz.net/aktuell/wissen/weltraum/merkur-sonde-bepicolombo-ist-am-ziel-angekommen-accg-201705832.html"
+     }
+    ]
+   },
+   {
+    "title": "Bremen schlägt den HSV im Nordderby klar",
+    "link": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+    "image": "https://images.sportschau.de/image/b26b1239-7079-4e4d-9c1e-9100a574f05a/AAABogRwCeU/AAABnSSvrFg/16x9-big/friedl-144.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-22T18:50:38+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Bremen schlägt den HSV im Nordderby klar",
+      "link": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Fußball-Bundesliga: Njinmah schießt Werder zum Sieg im Nordderby gegen den HSV",
+      "link": "https://www.zeit.de/news/2026-11/22/njinmah-schiesst-werder-zum-sieg-im-nordderby-gegen-den-hsv"
+     },
+     {
+      "name": "FAZ",
+      "title": "4:0 gegen HSV: Njinmah schießt Werder Bremen zum Sieg im Nordderby",
+      "link": "https://www.faz.net/aktuell/sport/fussball/bundesliga/justin-njinmah-schiesst-werder-bremen-zum-sieg-im-nordderby-gegen-den-hamburger-sv-201304429.html"
      }
     ]
    },
@@ -110,69 +163,40 @@
     ]
    },
    {
-    "title": "Sonde \"BepiColombo\" erreicht Merkur-Umlaufbahn",
-    "link": "https://www.tagesschau.de/wissen/weltraum/merkur-sonde-esa-100.html",
-    "image": "https://images.tagesschau.de/image/13ec5600-cd7e-480c-a414-135a4f4f8877/AAABogI-8Es/AAABnSSvrFg/16x9-big/bepicolombo-104.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-22T07:53:29+00:00",
+    "title": "Proteste in der Türkei gegen Einschränkungen der Pressefreiheit",
+    "link": "https://www.tagesschau.de/video/video-1688034.html",
+    "image": "https://images.tagesschau.de/image/b7d49d25-14e3-441f-9d50-834724291831/AAABogQ6HpQ/AAABnSSvrFg/16x9-big/sendungsbild-1831376.jpg?width=1920",
+    "n_sources": 2,
+    "time": "2026-11-22T18:20:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Sonde \"BepiColombo\" erreicht Merkur-Umlaufbahn",
-      "link": "https://www.tagesschau.de/wissen/weltraum/merkur-sonde-esa-100.html"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "BepiColombo: Weltraumsonde erreicht Umlaufbahn des Planeten Merkur",
-      "link": "https://www.zeit.de/wissenschaft/2026-11/bepicolombo-merkur-mission-esa-jaxa-raumsonde-umlaufbahn-erreicht"
-     },
-     {
-      "name": "FAZ",
-      "title": "Astronomie: Sonde „BepiColombo“ ist am Merkur angekommen",
-      "link": "https://www.faz.net/aktuell/wissen/weltraum/merkur-sonde-bepicolombo-ist-am-ziel-angekommen-accg-201705832.html"
-     }
-    ]
-   },
-   {
-    "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-    "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
-    "image": "https://images.tagesschau.de/image/7a1fbb62-7cb1-4204-9940-74c07d536a3b/AAABof-zqeA/AAABnSSvrFg/16x9-big/leyen-340.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-21T23:28:22+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html"
+      "title": "Proteste in der Türkei gegen Einschränkungen der Pressefreiheit",
+      "link": "https://www.tagesschau.de/video/video-1688034.html"
      },
      {
       "name": "Spiegel",
-      "title": "EU und Indonesien unterzeichnen weitreichenden Handelspakt",
-      "link": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Freihandel: EU und Indonesien unterzeichnen Handelsabkommen",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/freihandelsabkommen-eu-indonesien-zolle-rohstoffe"
+      "title": "Türkei: Tausende protestieren in Istanbul gegen Schließung regierungskritischer Medien",
+      "link": "https://www.spiegel.de/ausland/tuerkei-tausende-protestieren-in-istanbul-gegen-schliessung-regierungskritischer-medien-a-96b78e92-3227-42f7-9a22-4cd1494db7a8#ref=rss"
      }
     ]
    },
    {
-    "title": "Benjamin Weber, ARD Istanbul, zzt. Antalya, über die Weltklimakonferenz ohne Einigung auf Abschlusserklärung",
-    "link": "https://www.tagesschau.de/video/video-1687968.html",
-    "image": "https://images.tagesschau.de/image/d9d16797-19a5-40ae-824f-d9f531115339/AAABogPUV0s/AAABnSSvrFg/16x9-big/sendungsbild-1831316.jpg?width=1920",
+    "title": "Wirtschaft in Deutschland: Aufschwung und mehr Geld für Start-ups – nur gute Nachrichten",
+    "link": "https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/4fcbce0b-594d-4d54-8195-b1170b76b64d_w520_r2.08_fpx45.34_fpy50.jpg",
     "n_sources": 2,
-    "time": "2026-11-22T15:16:32+00:00",
+    "time": "2026-11-22T16:49:55+00:00",
     "sources": [
      {
-      "name": "Tagesschau",
-      "title": "Benjamin Weber, ARD Istanbul, zzt. Antalya, über die Weltklimakonferenz ohne Einigung auf Abschlusserklärung",
-      "link": "https://www.tagesschau.de/video/video-1687968.html"
+      "name": "Spiegel",
+      "title": "Wirtschaft in Deutschland: Aufschwung und mehr Geld für Start-ups – nur gute Nachrichten",
+      "link": "https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss"
      },
      {
-      "name": "Zeit Online",
-      "title": "COP 31: Weltklimakonferenz scheitert an gemeinsamer Abschlusserklärung",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/31-weltklimakonferenz-keine-einigung-cop-antalya"
+      "name": "FAZ",
+      "title": "Aufschwung tief unten: Deutsche Deeptech-Start-ups sammeln Rekordsumme ein",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-deeptech-startups-sammeln-rekordsumme-ein-201695243.html"
      }
     ]
    },
@@ -196,110 +220,57 @@
     ]
    },
    {
-    "title": "Ausgleich der kalten Progression: Droht schon der nächste Koalitionsstreit?",
-    "link": "https://www.spiegel.de/politik/deutschland/ausgleich-der-kalten-progression-droht-schon-der-naechste-koalitionsstreit-a-68edb092-41fd-4ae8-9494-01ebc13ee219#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/fe27202a-6395-4b46-8cd6-4876e7de7f32_w520_r2.08_fpx57.99_fpy45.jpg",
+    "title": "Nvidia: Verbindungen zwischen Alice Huang und Chinas Chip-Unterwelt?",
+    "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/142cbf25-0aa6-483e-891e-aad7af01c2b9_w520_r2.08_fpx43.2_fpy44.97.jpg",
     "n_sources": 2,
-    "time": "2026-11-22T15:47:00+00:00",
+    "time": "2026-11-22T17:34:00+00:00",
     "sources": [
      {
       "name": "Spiegel",
-      "title": "Ausgleich der kalten Progression: Droht schon der nächste Koalitionsstreit?",
-      "link": "https://www.spiegel.de/politik/deutschland/ausgleich-der-kalten-progression-droht-schon-der-naechste-koalitionsstreit-a-68edb092-41fd-4ae8-9494-01ebc13ee219#ref=rss"
+      "title": "Nvidia: Verbindungen zwischen Alice Huang und Chinas Chip-Unterwelt?",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss"
      },
      {
       "name": "Handelsblatt",
-      "title": "Steuerpolitik: Söder fordert Ausgleich der kalten Progression",
-      "link": "https://www.handelsblatt.com/politik/deutschland/steuerpolitik-soeder-fordert-ausgleich-der-kalten-progression/100271839.html"
-     }
-    ]
-   },
-   {
-    "title": "Brand in indonesischer Süßwarenfabrik - viele Tote befürchtet",
-    "link": "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html",
-    "image": "https://images.tagesschau.de/image/77451618-e14b-487b-99a5-cc5151a61333/AAABogO7eo4/AAABnSSvrFg/16x9-big/indonesien-490.jpg?width=1920",
-    "n_sources": 2,
-    "time": "2026-11-22T15:21:42+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Brand in indonesischer Süßwarenfabrik - viele Tote befürchtet",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html"
-     },
-     {
-      "name": "FAZ",
-      "title": "Indonesien: Brand in Süßwarenfabrik – mindestens drei Tote",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/brand-in-suesswarenfabrik-bei-jakarta-mindestens-drei-tote-accg-201706156.html"
+      "title": "Nvidia-Skandal: Hatte Alice Huang Kontakte zu Chipschmugglern?",
+      "link": "https://www.handelsblatt.com/technik/ki/nvidia-skandal-hatte-alice-huang-kontakte-zu-chipschmugglern/100271827.html"
      }
     ]
    }
   ],
   "7d": [
    {
-    "title": "Weltklimakonferenz COP31: Keine Einigung auf Abschlusserklärung",
-    "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
-    "image": "https://images.tagesschau.de/image/20311df1-9f50-4f3f-a677-2c4af30c269f/AAABogOdCu8/AAABnSSvrFg/16x9-big/cop13-102.jpg?width=1920",
+    "title": "Weltklimakonferenz COP31 endet ohne Einigung auf Abschlusserklärung",
+    "link": "https://www.tagesschau.de/video/video-1688012.html",
+    "image": "https://images.tagesschau.de/image/b5b37f39-89c3-4614-879e-9b5038e21695/AAABogQ2uFk/AAABnSSvrFg/16x9-big/sendungsbild-1831344.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-22T15:30:18+00:00",
+    "time": "2026-11-22T18:23:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Weltklimakonferenz COP31: Keine Einigung auf Abschlusserklärung",
-      "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html"
+      "title": "Weltklimakonferenz COP31 endet ohne Einigung auf Abschlusserklärung",
+      "link": "https://www.tagesschau.de/video/video-1688012.html"
      },
      {
       "name": "Spiegel",
-      "title": "COP31Deutschland hält Beschlusstext für Klimakonferenz nicht für zustimmungsfähig",
-      "link": "https://www.spiegel.de/wissenschaft/cop31deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss"
+      "title": "COP31 in Antalya: Klimakonferenz endet ohne gemeinsame Abschlusserklärung",
+      "link": "https://www.spiegel.de/ausland/cop31-in-antalya-klimakonferenz-endet-ohne-gemeinsame-abschlusserklaerung-a-bd3592c1-a2b1-41be-a497-33522c4e6cf7#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "UN-Klimakonferenz: Deutschland lehnt COP-Abschlusstext als »nicht zustimmungsfähig« ab",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/un-klimakonferenz-cop31-antalya-tuerkei-murat-kurum-gxe"
+      "title": "UN-Klimakonferenz: Die COP endet im Chaos",
+      "link": "https://www.zeit.de/wissenschaft/2026-11/un-klimakonferenz-cop-31-antalya-klimapolitik-abschluss"
      },
      {
       "name": "FAZ",
-      "title": "Keine Abschlusserklärung: Einigung bei Weltklimakonferenz gescheitert",
-      "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/einigung-bei-weltklimakonferenz-gescheitert-accg-201706517.html"
+      "title": "COP in Antalya: Darum ist die Klimakonferenz gescheitert",
+      "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/das-klima-drama-von-antalya-accg-201704569.html"
      },
      {
       "name": "Handelsblatt",
       "title": "COP31: Abschlusserklärung „nicht zustimmungsfähig“: Einigung bei Weltklimakonferenz gescheitert",
       "link": "https://www.handelsblatt.com/politik/deutschland/cop31-einigung-bei-weltklimakonferenz-gescheitert/100270720.html"
-     }
-    ]
-   },
-   {
-    "title": "Benjamin Weber, ARD Istanbul, zzt. Antalya, über die Weltklimakonferenz ohne Einigung auf Abschlusserklärung",
-    "link": "https://www.tagesschau.de/video/video-1687968.html",
-    "image": "https://images.tagesschau.de/image/d9d16797-19a5-40ae-824f-d9f531115339/AAABogPUV0s/AAABnSSvrFg/16x9-big/sendungsbild-1831316.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-22T15:16:32+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Benjamin Weber, ARD Istanbul, zzt. Antalya, über die Weltklimakonferenz ohne Einigung auf Abschlusserklärung",
-      "link": "https://www.tagesschau.de/video/video-1687968.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Uno-Klimakonferenz in Antalya: Streit über fossile Energien – Klimagipfel geht in die Verlängerung",
-      "link": "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-streit-ueber-fossile-energien-klimagipfel-geht-in-die-verlaengerung-a-acb69199-ffa2-4b15-ad2b-62145c0613c8#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "COP 31: Weltklimakonferenz scheitert an gemeinsamer Abschlusserklärung",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/31-weltklimakonferenz-keine-einigung-cop-antalya"
-     },
-     {
-      "name": "FAZ",
-      "title": "Noch keine Einigung: Klimagipfel geht in Antalya in die Verlängerung",
-      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kein-beschluss-der-klimagipfel-in-antalya-dauert-laenger-201703265.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "COP31: Die Weltklimakonferenz ringt weiter um ein Abschlussdokument",
-      "link": "https://www.handelsblatt.com/politik/deutschland/cop31-die-weltklimakonferenz-ringt-weiter-um-ein-abschlussdokument/100270720.html"
      }
     ]
    },
@@ -406,50 +377,50 @@
     ]
    },
    {
-    "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
-    "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
-    "image": "https://images.tagesschau.de/image/e865af29-aaff-4a5d-ad59-76a33bcc702c/AAABoeTlNbc/AAABnSSvrFg/16x9-big/tesla-cybercab-104.jpg?width=1920",
+    "title": "Koalition einigt sich auf Stromsteuersenkung für alle",
+    "link": "https://www.tagesschau.de/video/video-1685738.html",
+    "image": "https://images.tagesschau.de/image/96636337-27c0-4e90-a239-d937e8e80089/AAABoe4VyQ0/AAABnSSvrFg/16x9-big/wohnhaus-134.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-20T13:33:00+00:00",
+    "time": "2026-11-20T23:17:49+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html"
+      "title": "Koalition einigt sich auf Stromsteuersenkung für alle",
+      "link": "https://www.tagesschau.de/video/video-1685738.html"
      },
      {
       "name": "Spiegel",
-      "title": "Tesla will Milliardensumme für Robotaxi-Bau in Deutschland investieren",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-investiert-milliardensumme-fuer-robotaxi-bau-in-deutschland-a-65132952-1c63-4862-b2ce-f82c5def838f#ref=rss"
+      "title": "Koalition einigt sich auf Senkung der Stromsteuer und Spritpreisdeckel",
+      "link": "https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
-      "link": "https://www.zeit.de/news/2026-11/16/tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken"
+      "title": "Bundesregierung: Juso-Chef Türmer kritisiert Koalition wegen Stromsteuersenkung",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/stromsteuersenkung-koalition-philipp-tuermer-cdu-privathaushalte"
      },
      {
       "name": "FAZ",
-      "title": "Automobilindustrie: Tesla investiert drei Milliarden Euro in Grünheide",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-investiert-drei-milliarden-euro-in-gigafactory-gruenheide-accg-201687612.html"
+      "title": "Verabschiedung des Bundeshaushalts: Koalition einigt sich auf Senkung der Stromsteuer",
+      "link": "https://www.faz.net/video/koalition-einigt-sich-auf-senkung-der-stromsteuer-201694053.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Autobauer: Tesla baut eine Drei-Milliarden-Euro-Fabrik für ein Auto ohne Zulassung",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-eine-drei-milliarden-fabrik-fuer-ein-auto-ohne-zulassung-01/100270671.html"
+      "title": "Bundesregierung: Koalition einigt sich auf Senkung der Stromsteuer",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-koalition-einigt-sich-auf-senkung-der-stromsteuer/100270667.html"
      }
     ]
    },
    {
-    "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
-    "image": "https://images.tagesschau.de/image/6962dfba-07c1-4aa0-aa94-86857f740465/AAABofETAbs/AAABnSSvrFg/16x9-big/anthropic-138.jpg?width=1920",
+    "title": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1686802.html",
+    "image": "https://images.tagesschau.de/image/05e7f25d-f5bf-4797-9d28-54989d396a0d/AAABofXCFpM/AAABnSSvrFg/16x9-big/sendungsbild-1830204.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-19T17:09:35+00:00",
+    "time": "2026-11-19T21:41:43+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html"
+      "title": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1686802.html"
      },
      {
       "name": "Spiegel",
@@ -463,8 +434,8 @@
      },
      {
       "name": "FAZ",
-      "title": "81 Milliarden Dollar: Anthropic setzt sich an die Spitze der größten Börsengänge der Geschichte",
-      "link": "https://www.faz.net/aktuell/finanzen/anthropics-boersengang-was-anleger-aus-der-ipo-geschichte-lernen-koennen-201698718.html"
+      "title": "81 Milliarden Dollar: Wie viel Potential hat die Anthropic-Aktie?",
+      "link": "https://www.faz.net/aktuell/finanzen/anthropic-boersengang-wie-viel-potential-hat-die-aktie-201698718.html"
      },
      {
       "name": "Handelsblatt",
@@ -542,67 +513,101 @@
     ]
    },
    {
-    "title": "Regierungskoalition einigt sich auf Stromsteuersenkung für mindestens ein Jahr",
-    "link": "https://www.tagesschau.de/tagesthemen/video-1686192.html",
-    "image": "https://images.tagesschau.de/image/25a13520-fa59-477e-956a-8f5ec662e904/AAABofCM5Vo/AAABnSSvrFg/16x9-big/sendungsbild-1829636.jpg?width=1920",
+    "title": "Keine Neuauszählung: BSW scheitert mit Wahlprüfungsbeschwerde",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-beschwerde-abgelehnt-bundestagswahl-100.html",
+    "image": "https://images.tagesschau.de/image/d1e05f6d-a426-4d3a-bdf4-ee7d2d1a8241/AAABmvnG4RI/AAABnSSvrFg/16x9-big/bsw-parteitag-106.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-18T21:32:06+00:00",
+    "time": "2026-11-18T12:59:21+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Regierungskoalition einigt sich auf Stromsteuersenkung für mindestens ein Jahr",
-      "link": "https://www.tagesschau.de/tagesthemen/video-1686192.html"
+      "title": "Keine Neuauszählung: BSW scheitert mit Wahlprüfungsbeschwerde",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-beschwerde-abgelehnt-bundestagswahl-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Koalition einigt sich auf Senkung der Stromsteuer und Spritpreisdeckel",
-      "link": "https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss"
+      "title": "BSW und Bundestagswahl: Karlsruhe entscheidet über Neuauszählung",
+      "link": "https://www.spiegel.de/politik/deutschland/bsw-und-bundestagswahl-karlsruhe-entscheidet-ueber-neuauszaehlung-a-852c3f4f-1f36-40ff-bd91-b88e3486b93a#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Stromsteuersenkung: Koalition einigt sich auf Senkung der Stromsteuer für ein Jahr",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/koalition-einigt-sich-auf-senkung-der-stromsteuer-fuer-ein-jahr"
+      "title": "Neuauszählung gefordert: Bundesverfassungsgericht entscheidet zu BSW-Wahlbeschwerde",
+      "link": "https://www.zeit.de/news/2026-11/18/bundesverfassungsgericht-entscheidet-zu-bsw-wahlbeschwerde"
      },
      {
       "name": "FAZ",
-      "title": "Verabschiedung des Bundeshaushalts: Koalition einigt sich auf Senkung der Stromsteuer",
-      "link": "https://www.faz.net/video/koalition-einigt-sich-auf-senkung-der-stromsteuer-201694053.html"
+      "title": "Keine Neuauszählung: Warum das BSW in Karlsruhe nicht durchgedrungen ist",
+      "link": "https://www.faz.net/aktuell/politik/inland/wahlpruefung-warum-das-bsw-in-karlsruhe-scheiterte-201694265.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Bundesregierung: Koalition einigt sich auf Senkung der Stromsteuer",
-      "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-koalition-einigt-sich-auf-senkung-der-stromsteuer/100270667.html"
+      "title": "BSW: Karlsruhe lehnt Wahlbeschwerde des BSW ab – Keine Neuauszählung",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bsw-karlsruhe-lehnt-wahlbeschwerde-ab/100270854.html"
+     }
+    ]
+   },
+   {
+    "title": "Israels Knesset: Eisenkot-Verbündeter als Parlamentspräsident gewählt",
+    "link": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html",
+    "image": "https://images.tagesschau.de/image/a65ffd42-8668-4426-aae9-7c3278c8f863/AAABoew78DU/AAABnSSvrFg/16x9-big/kahana-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-18T08:29:03+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Israels Knesset: Eisenkot-Verbündeter als Parlamentspräsident gewählt",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Vertrauter von Eisenkot: Israels Opposition übernimmt Parlamentsvorsitz",
+      "link": "https://www.spiegel.de/ausland/vertrauter-von-eisenkot-israels-opposition-uebernimmt-parlamentsvorsitz-a-4c2a71d7-9f3b-4447-95bc-80236caf905e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Parlamentspräsident in Israel: Knesset wählt Eisenkot-Verbündeten zum Parlamentspräsidenten",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/matan-kahana-parlamentspraesident-knesset-israel-benjamin-netanjahu"
+     },
+     {
+      "name": "FAZ",
+      "title": "Liveblog Nahost: Eisenkot-Vertrauter zum israelischen Parlamentspräsidenten gewählt",
+      "link": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-eisenkot-vertrauter-zum-israelischen-parlamentspraesidenten-gewaehlt-faz-200583539.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Israel: Neuer Knesset-Sprecher – Netanjahu verliert das Parlament",
+      "link": "https://www.handelsblatt.com/politik/international/israel-neuer-knesset-sprecher-netanjahu-verliert-das-parlament/100270558.html"
      }
     ]
    }
   ],
   "30d": [
    {
-    "title": "Weltklimakonferenz COP31: Keine Einigung auf Abschlusserklärung",
-    "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
-    "image": "https://images.tagesschau.de/image/20311df1-9f50-4f3f-a677-2c4af30c269f/AAABogOdCu8/AAABnSSvrFg/16x9-big/cop13-102.jpg?width=1920",
+    "title": "Weltklimakonferenz COP31 endet ohne Einigung auf Abschlusserklärung",
+    "link": "https://www.tagesschau.de/video/video-1688012.html",
+    "image": "https://images.tagesschau.de/image/b5b37f39-89c3-4614-879e-9b5038e21695/AAABogQ2uFk/AAABnSSvrFg/16x9-big/sendungsbild-1831344.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-22T15:30:18+00:00",
+    "time": "2026-11-22T18:23:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Weltklimakonferenz COP31: Keine Einigung auf Abschlusserklärung",
-      "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html"
+      "title": "Weltklimakonferenz COP31 endet ohne Einigung auf Abschlusserklärung",
+      "link": "https://www.tagesschau.de/video/video-1688012.html"
      },
      {
       "name": "Spiegel",
-      "title": "COP31Deutschland hält Beschlusstext für Klimakonferenz nicht für zustimmungsfähig",
-      "link": "https://www.spiegel.de/wissenschaft/cop31deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss"
+      "title": "COP31 in Antalya: Klimakonferenz endet ohne gemeinsame Abschlusserklärung",
+      "link": "https://www.spiegel.de/ausland/cop31-in-antalya-klimakonferenz-endet-ohne-gemeinsame-abschlusserklaerung-a-bd3592c1-a2b1-41be-a497-33522c4e6cf7#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "UN-Klimakonferenz: Deutschland lehnt COP-Abschlusstext als »nicht zustimmungsfähig« ab",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/un-klimakonferenz-cop31-antalya-tuerkei-murat-kurum-gxe"
+      "title": "UN-Klimakonferenz: Die COP endet im Chaos",
+      "link": "https://www.zeit.de/wissenschaft/2026-11/un-klimakonferenz-cop-31-antalya-klimapolitik-abschluss"
      },
      {
       "name": "FAZ",
-      "title": "Keine Abschlusserklärung: Einigung bei Weltklimakonferenz gescheitert",
-      "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/einigung-bei-weltklimakonferenz-gescheitert-accg-201706517.html"
+      "title": "COP in Antalya: Darum ist die Klimakonferenz gescheitert",
+      "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/das-klima-drama-von-antalya-accg-201704569.html"
      },
      {
       "name": "Handelsblatt",
@@ -612,36 +617,36 @@
     ]
    },
    {
-    "title": "Benjamin Weber, ARD Istanbul, zzt. Antalya, über die Weltklimakonferenz ohne Einigung auf Abschlusserklärung",
-    "link": "https://www.tagesschau.de/video/video-1687968.html",
-    "image": "https://images.tagesschau.de/image/d9d16797-19a5-40ae-824f-d9f531115339/AAABogPUV0s/AAABnSSvrFg/16x9-big/sendungsbild-1831316.jpg?width=1920",
+    "title": "Mann fährt Auto in Menschengruppe - drei Verletzte",
+    "link": "https://www.tagesschau.de/inland/regional/niedersachsen/attacke-mit-auto-in-empelde-opfer-in-lebensgefahr-mann-stellt-sich,empelde-100.html",
+    "image": "https://images.ndr.de/image/4a76d79a-4a99-4d88-80ba-94d551acd25a/AAABoc74d0s/AAABnSSvrFg/16x9-big/empelde-112.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-22T15:16:32+00:00",
+    "time": "2026-11-22T10:23:51+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Benjamin Weber, ARD Istanbul, zzt. Antalya, über die Weltklimakonferenz ohne Einigung auf Abschlusserklärung",
-      "link": "https://www.tagesschau.de/video/video-1687968.html"
+      "title": "Mann fährt Auto in Menschengruppe - drei Verletzte",
+      "link": "https://www.tagesschau.de/inland/regional/niedersachsen/attacke-mit-auto-in-empelde-opfer-in-lebensgefahr-mann-stellt-sich,empelde-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Uno-Klimakonferenz in Antalya: Streit über fossile Energien – Klimagipfel geht in die Verlängerung",
-      "link": "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-streit-ueber-fossile-energien-klimagipfel-geht-in-die-verlaengerung-a-acb69199-ffa2-4b15-ad2b-62145c0613c8#ref=rss"
+      "title": "Sailauf bei Aschaffenburg: Mann flüchtet vor Polizei und erfasst 13-Jährige tödlich",
+      "link": "https://www.spiegel.de/panorama/sailauf-bei-aschaffenburg-mann-fluechtet-vor-polizei-und-erfasst-13-jaehrige-toedlich-a-160e6520-c449-4eca-9142-e144f3cb0cea#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "COP 31: Weltklimakonferenz scheitert an gemeinsamer Abschlusserklärung",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/31-weltklimakonferenz-keine-einigung-cop-antalya"
+      "title": "Körperverletzung: Tritte gegen Kopf - 25-Jähriger verliert Bewusstsein",
+      "link": "https://www.zeit.de/news/2026-11/22/tritte-gegen-kopf-25-jaehriger-verliert-bewusstsein"
      },
      {
       "name": "FAZ",
-      "title": "Noch keine Einigung: Klimagipfel geht in Antalya in die Verlängerung",
-      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kein-beschluss-der-klimagipfel-in-antalya-dauert-laenger-201703265.html"
+      "title": "Rhein-Main-Liveblog: Wiesbaden: Mann verliert nach Tritten gegen Kopf Bewusstsein",
+      "link": "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "COP31: Die Weltklimakonferenz ringt weiter um ein Abschlussdokument",
-      "link": "https://www.handelsblatt.com/politik/deutschland/cop31-die-weltklimakonferenz-ringt-weiter-um-ein-abschlussdokument/100270720.html"
+      "title": "Gewaltverbrechen: Sechs Tote und mehr als fünfzehn Verletzte nach Schüssen in Krakau",
+      "link": "https://www.handelsblatt.com/politik/international/krakau-sechs-tote-und-mehr-als-fuenfzehn-verletzte-nach-schuessen/100268120.html"
      }
     ]
    },
@@ -680,6 +685,74 @@
     ]
    },
    {
+    "title": "Metall- und Elektroindustrie: 24-Stunden-Streiks rücken näher",
+    "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-122.html",
+    "image": "https://images.tagesschau.de/image/ebf2dfbe-23d5-4df1-a486-d927d4657529/AAABoctR7CM/AAABnSSvrFg/16x9-big/demonstranten-128.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-22T08:48:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Metall- und Elektroindustrie: 24-Stunden-Streiks rücken näher",
+      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-122.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "IG Metall startet Ganztages-Streiks",
+      "link": "https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-startet-ganztages-streiks-a-b4346d94-7de0-4764-ad94-2a4eb5f9342f#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Tarifstreit: Warnstreiks der IG Metall haben begonnen",
+      "link": "https://www.zeit.de/arbeit/2026-11/ig-metall-warnstreiks-tarifverhandlungen-metall-elektroindustrie"
+     },
+     {
+      "name": "FAZ",
+      "title": "Business-Ticker: IG Metall weitet 24-Stunden-Streiks im Norden aus",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Metall-Tarifkonflikt: IG Metall Küste – 24-Stunden-Streiks werden ausgeweitet",
+      "link": "https://www.handelsblatt.com/politik/deutschland/metall-tarifkonflikt-ig-metall-kueste-24-stunden-streiks-werden-ausgeweitet/100271781.html"
+     }
+    ]
+   },
+   {
+    "title": "Wahl-Patt in Israel: Regierungsbildung nicht in Sicht",
+    "link": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html",
+    "image": "https://images.tagesschau.de/image/4fd8cb36-680d-4b40-a806-2223e18d10b5/AAABoYzqT78/AAABnSSvrFg/16x9-big/wahlplakat-netanjahu-102.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-21T23:08:28+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Wahl-Patt in Israel: Regierungsbildung nicht in Sicht",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Wahl in Israel: Gadi Eisenkot trifft Benjamin Netanyahus Partei zu Koalitionsgesprächen",
+      "link": "https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Regierungsbildung in Israel: Gadi Eisenkot sondiert Koalition mit rechter Likud-Partei",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/israel-gadi-eisenkot-regierungsbildung-likud-benjamin-netanjahu"
+     },
+     {
+      "name": "FAZ",
+      "title": "Regierung in Berlin: Die rote Versuchung",
+      "link": "https://www.faz.net/aktuell/politik/wahl-in-berlin/linke-versuchung-spd-und-die-regierungsbildung-in-berlin-accg-201648143.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Israel: Wie das Eisenkot-Lager Netanjahu ausbremsen will",
+      "link": "https://www.handelsblatt.com/politik/international/israel-wie-das-eisenkot-lager-netanjahu-ausbremsen-will/100268834.html"
+     }
+    ]
+   },
+   {
     "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
     "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html",
     "image": "https://images.tagesschau.de/image/bf2bb47a-b8aa-4708-89c7-cace4b8fdada/AAABobIlh28/AAABnSSvrFg/16x9-big/rbb-vanessa-emde-die-linke-100.jpg?width=1920",
@@ -714,16 +787,16 @@
     ]
    },
    {
-    "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
-    "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html",
-    "image": "https://images.tagesschau.de/image/5cdacbc5-bc6b-47f3-8f71-fd283e85ad69/AAABoavM7qM/AAABnSSvrFg/16x9-big/freie-waehler-109.jpg?width=1920",
+    "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
+    "link": "https://www.tagesschau.de/video/video-1678768.html",
+    "image": "https://images.tagesschau.de/image/3de6abfa-19f7-4167-9937-f6def80e5e48/AAABoay1ztU/AAABnSSvrFg/16x9-big/sendungsbild-1822956.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-21T15:03:01+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
-      "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
+      "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
+      "link": "https://www.tagesschau.de/video/video-1678768.html"
      },
      {
       "name": "Spiegel",
@@ -782,21 +855,21 @@
     ]
    },
    {
-    "title": "Protest von \"Gen Z regelt\": Eine zersplitterte Bewegung",
-    "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-106.html",
-    "image": "https://images.tagesschau.de/image/c0eb75bc-d932-4a5f-aa58-dc178aedd3fc/AAABofflCnM/AAABnSSvrFg/16x9-big/demonstration-generation-z-104.jpg?width=1920",
+    "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
+    "image": "https://images.tagesschau.de/image/b41983c0-6c75-4d18-96a3-1239171ee613/AAABodvNmOE/AAABnSSvrFg/16x9-big/rbb-632976574-100.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-21T00:26:47+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Protest von \"Gen Z regelt\": Eine zersplitterte Bewegung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-106.html"
+      "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "»Gen Z regelt«: So laufen die Proteste – Newsblog",
-      "link": "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-so-laufen-die-proteste-newsblog-a-5b6f94e2-5b27-476e-966d-50850ad73956#ref=rss"
+      "title": "»Gen Z regelt«-Proteste: Weniger Zulauf, 22 Festnahmen in Berlin",
+      "link": "https://www.spiegel.de/panorama/gen-z-regelt-proteste-weniger-zulauf-22-festnahmen-in-berlin-a-bd129e26-8004-4562-a07a-ecee3e5ea39d#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -810,8 +883,8 @@
      },
      {
       "name": "Handelsblatt",
-      "title": "Italien: Erneut protestiert die Jugend: „Italien ist ein Land für Alte“",
-      "link": "https://www.handelsblatt.com/politik/international/italien-erneut-protestiert-die-jugend-italien-ist-ein-land-fuer-alte/100265636.html"
+      "title": "Gen Z-Proteste: Ausschreitungen in mehreren deutschen Städten: Gewaltexzesse wie in Paris laut Dobrindt verhindert",
+      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-proteste-ausschreitungen-in-mehreren-deutschen-staedten/100266421.html"
      }
     ]
    },
@@ -846,74 +919,6 @@
       "name": "Handelsblatt",
       "title": "Rekord-Börsengang: Anthropic-Aktie schließt 17 Prozent im Plus – Deutlicher Kursrückgang im Handelsverlauf",
       "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boersengang-anthropic-schliesst-17-prozent-im-plus-kursrueckgang-im-handelsverlauf/100270027.html"
-     }
-    ]
-   },
-   {
-    "title": "Mehr als 100 Betriebe beteiligt: IG Metall setzt weiter auf ganztätige Warnstreiks",
-    "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html",
-    "image": "https://images.tagesschau.de/image/7838880c-44a6-4545-b45e-37fc863a894e/AAABofpYMmQ/AAABnSSvrFg/16x9-big/streik-igmetall-100.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-20T19:58:08+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Mehr als 100 Betriebe beteiligt: IG Metall setzt weiter auf ganztätige Warnstreiks",
-      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall sind angelaufen",
-      "link": "https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Metall- und Elektroindustrie: IG Metall lässt ganztägige Warnstreiks rollen",
-      "link": "https://www.zeit.de/news/2026-11/20/ig-metall-laesst-ganztaegige-warnstreiks-rollen"
-     },
-     {
-      "name": "FAZ",
-      "title": "Arbeitskampf: IG Metall startet 24-Stunden-Warnstreiks",
-      "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/metallbranche-startet-groessten-warnstreik-seit-acht-jahren-201698884.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall kurz nach Mitternacht gestartet",
-      "link": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-warnstreiks-der-ig-metall-kurz-nach-mitternacht-gestartet/100266374.html"
-     }
-    ]
-   },
-   {
-    "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
-    "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
-    "image": "https://images.tagesschau.de/image/e865af29-aaff-4a5d-ad59-76a33bcc702c/AAABoeTlNbc/AAABnSSvrFg/16x9-big/tesla-cybercab-104.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-20T13:33:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Tesla will Milliardensumme für Robotaxi-Bau in Deutschland investieren",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-investiert-milliardensumme-fuer-robotaxi-bau-in-deutschland-a-65132952-1c63-4862-b2ce-f82c5def838f#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
-      "link": "https://www.zeit.de/news/2026-11/16/tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken"
-     },
-     {
-      "name": "FAZ",
-      "title": "Automobilindustrie: Tesla investiert drei Milliarden Euro in Grünheide",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-investiert-drei-milliarden-euro-in-gigafactory-gruenheide-accg-201687612.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Autobauer: Tesla baut eine Drei-Milliarden-Euro-Fabrik für ein Auto ohne Zulassung",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-eine-drei-milliarden-fabrik-fuer-ein-auto-ohne-zulassung-01/100270671.html"
      }
     ]
    }
@@ -1688,24 +1693,24 @@
      "title_orig": "Worldline shares plummet on FT report on cash advances"
     },
     {
-     "title": "Google Wallet kommt in den USA auf iOS",
-     "link": "https://www.finextra.com/pressarticle/111753/google-wallet-lands-on-ios-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "title": "Google Wallet kehrt zu Apple zurück",
+     "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/",
      "image": "https://imgproxy.divecdn.com/uuUY5LDNWye9m8lc7-f-bDQOcX-mf9K9_JXugB1EBu4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxNTY4ODMyLmpwZw==.webp",
      "n_sources": 2,
-     "time": "2026-11-20T15:53:00+00:00",
+     "time": "2026-11-19T21:55:22+00:00",
      "sources": [
-      {
-       "name": "Finextra",
-       "title": "Google Wallet lands on iOS in the US",
-       "link": "https://www.finextra.com/pressarticle/111753/google-wallet-lands-on-ios-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
       {
        "name": "Payments Dive",
        "title": "Google wallet returns to Apple",
        "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Google’s Gemini App Can Now Operate Apple Desktop Computers",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/googles-gemini-app-can-now-operate-apple-desktop-computers/"
       }
      ],
-     "title_orig": "Google Wallet lands on iOS in the US"
+     "title_orig": "Google wallet returns to Apple"
     },
     {
      "title": "JPMorgan, Visa und Mastercard berichten, dass Hacker E-Mail-Adressen von Kunden preisgegeben haben",
@@ -1915,24 +1920,24 @@
      "title_orig": "Embedded finance platform Synctera raises $24.5m"
     },
     {
-     "title": "Pine Labs stellt Plattform zur Verbindung von Stablecoins und Kartenzahlungen vor",
-     "link": "https://www.finextra.com/pressarticle/111733/pine-labs-unveils-platform-to-connect-stablecoins-and-card-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Building-the-Intelligent-Card-Platform-Hero-image.jpg?w=457",
+     "title": "Visa führt kontaktlose Zahlungen in der DRK ein",
+     "link": "https://www.finextra.com/pressarticle/111708/visa-brings-contactless-payments-to-the-drc?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Visa-APAC-stablecoins.jpeg?w=457",
      "n_sources": 2,
-     "time": "2026-11-19T13:19:00+00:00",
+     "time": "2026-11-19T19:21:55+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Pine Labs unveils platform to connect stablecoins and card payments",
-       "link": "https://www.finextra.com/pressarticle/111733/pine-labs-unveils-platform-to-connect-stablecoins-and-card-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "Visa brings contactless payments to the DRC",
+       "link": "https://www.finextra.com/pressarticle/111708/visa-brings-contactless-payments-to-the-drc?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
        "name": "PYMNTS",
-       "title": "Building the Intelligent Card Platform",
-       "link": "https://www.pymnts.com/report/tracker/building-the-intelligent-card-platform/"
+       "title": "Visa Direct Brings Cross-Border Payment Stablecoins to APAC",
+       "link": "https://www.pymnts.com/news/cross-border-payments/2026/visa-direct-brings-cross-border-payment-stablecoins-to-apac/"
       }
      ],
-     "title_orig": "Pine Labs unveils platform to connect stablecoins and card payments"
+     "title_orig": "Visa brings contactless payments to the DRC"
     },
     {
      "title": "Monzo sieht frische Finanzierung mit einer Bewertung von 7,5 Mrd. £ - FT",
@@ -1953,6 +1958,26 @@
       }
      ],
      "title_orig": "Monzo eyes fresh funding at £7.5bn valuation - FT"
+    },
+    {
+     "title": "Google Wallet kehrt zu Apple zurück",
+     "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/",
+     "image": "https://imgproxy.divecdn.com/uuUY5LDNWye9m8lc7-f-bDQOcX-mf9K9_JXugB1EBu4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxNTY4ODMyLmpwZw==.webp",
+     "n_sources": 2,
+     "time": "2026-11-19T21:55:22+00:00",
+     "sources": [
+      {
+       "name": "Payments Dive",
+       "title": "Google wallet returns to Apple",
+       "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Google’s Gemini App Can Now Operate Apple Desktop Computers",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/googles-gemini-app-can-now-operate-apple-desktop-computers/"
+      }
+     ],
+     "title_orig": "Google wallet returns to Apple"
     },
     {
      "title": "BMO erreicht Quantennutzen",
@@ -1995,26 +2020,6 @@
      "title_orig": "Worldline shares plummet on FT report on cash advances"
     },
     {
-     "title": "Google Wallet kommt in den USA auf iOS",
-     "link": "https://www.finextra.com/pressarticle/111753/google-wallet-lands-on-ios-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://imgproxy.divecdn.com/uuUY5LDNWye9m8lc7-f-bDQOcX-mf9K9_JXugB1EBu4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxNTY4ODMyLmpwZw==.webp",
-     "n_sources": 2,
-     "time": "2026-11-20T15:53:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Google Wallet lands on iOS in the US",
-       "link": "https://www.finextra.com/pressarticle/111753/google-wallet-lands-on-ios-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "Payments Dive",
-       "title": "Google wallet returns to Apple",
-       "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/"
-      }
-     ],
-     "title_orig": "Google Wallet lands on iOS in the US"
-    },
-    {
      "title": "JPMorgan, Visa und Mastercard berichten, dass Hacker E-Mail-Adressen von Kunden preisgegeben haben",
      "link": "https://www.finextra.com/newsarticle/48789/jpmorgan-visa-and-mastercard-say-hackers-leaked-customer-emails?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "https://www.pymnts.com/wp-content/uploads/2026/11/data-breach.jpeg?w=457",
@@ -2035,24 +2040,24 @@
      "title_orig": "JPMorgan, Visa and Mastercard say hackers leaked customer emails"
     },
     {
-     "title": "Visa führt kontaktlose Zahlungen in der DRK ein",
-     "link": "https://www.finextra.com/pressarticle/111708/visa-brings-contactless-payments-to-the-drc?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Visa-APAC-stablecoins.jpeg?w=457",
+     "title": "DBS und Circle arbeiten zusammen, um den institutionellen Zugang zu USDC in Asien auszuweiten",
+     "link": "https://www.finextra.com/newsarticle/48786/dbs-and-circle-partner-to-expand-institutional-access-to-usdc-in-asia?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Circle.jpeg?w=457",
      "n_sources": 2,
-     "time": "2026-11-19T19:21:55+00:00",
+     "time": "2026-11-19T16:07:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Visa brings contactless payments to the DRC",
-       "link": "https://www.finextra.com/pressarticle/111708/visa-brings-contactless-payments-to-the-drc?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "DBS and Circle partner to expand institutional access to USDC in Asia",
+       "link": "https://www.finextra.com/newsarticle/48786/dbs-and-circle-partner-to-expand-institutional-access-to-usdc-in-asia?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
        "name": "PYMNTS",
-       "title": "Visa Direct Brings Cross-Border Payment Stablecoins to APAC",
-       "link": "https://www.pymnts.com/news/cross-border-payments/2026/visa-direct-brings-cross-border-payment-stablecoins-to-apac/"
+       "title": "Circle and DBS Team to Boost USDC Adoption",
+       "link": "https://www.pymnts.com/cryptocurrency/2026/circle-and-dbs-team-to-boost-usdc-adoption/"
       }
      ],
-     "title_orig": "Visa brings contactless payments to the DRC"
+     "title_orig": "DBS and Circle partner to expand institutional access to USDC in Asia"
     }
    ]
   }
@@ -2064,54 +2069,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "werder bremen – hsv",
-      "link": "https://www.kicker.de/wer-uebertraegt-werder-bremen-gegen-den-hsv-live-im-tv-und-stream-1272618/artikel",
+      "title": "verschlussfix",
+      "link": "https://gruenderfreunde.de/verschlussfix-die-millionenidee/",
+      "meta": "2000+ Suchanfragen"
+     },
+     {
+      "title": "iowa",
+      "link": "https://www.wqad.com/article/news/local/noon-sunday-deadline-set-in-iowa-army-blast-challenge-fort-madison-says-detonation-could-come-monday-or-tuesday/526-ac7e252c-8ff2-4b3c-b016-1a92530dae50",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "víctor muñoz",
+      "link": "https://as.com/futbol/videos/mamma-mia-victor-munoz-el-jugadon-con-golazo-final-del-espanol-para-hundir-aun-mas-al-united-f202611-v/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "tabelle 1. bundesliga",
+      "link": "https://www.zeit.de/sport/2026-11/bundesliga-10-spieltag-bayer-leverkusen-paderborn-frankfurt-hoffenheim-union-berlin-leipzig-moenchengladbach-dortmund-elversberg-freiburg-schalke-stuttgart",
+      "meta": "5000+ Suchanfragen"
+     },
+     {
+      "title": "premier league spiele",
+      "link": "https://www.kicker.de/newcastle-gegen-arsenal-2026-premier-league-5213378/spielbericht",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "starbox lidl",
+      "link": "https://gruenderfreunde.de/star-box-lidl/",
       "meta": "10000+ Suchanfragen"
      },
      {
-      "title": "liverpool vs man utd",
-      "link": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "geissblog",
-      "link": "https://fc.de/die-mitgliederversammlung-2026-im-liveticker",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "seifenoper",
-      "link": "https://www.swp.de/unterhaltung/tv/alles-was-zaehlt-seifenoper-awz-folge-5085-bei-rtl-flirt-auf-dem-eis-joana-und-collin-treffen-sich-wieder-79768582.html",
+      "title": "starbox dümmel",
+      "link": "https://www.joyn.de/bts/serien/die-millionenidee-mit-ralf-duemmel/gewinner-von-folge3-im-ueberblick-dieses-produkt-verlaengert-die-lebensmittel-haltbarkeit-218902",
       "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "trabzonspor – eyüpspor",
-      "link": "https://www.gunebakis.com.tr/trabzonsporda-savunmada-cezali-nwaiwu-sebebiyle-zorunlu-degisim-ve-eksikler-firtinada-6-eksik/29200881",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "am flughafen",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/ice-festnahme-flughafen-seattle-bob-ferguson-gxe",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "uta arad - universitatea craiova",
-      "link": "https://www.digisport.ro/fotbal/liga-1/uta-arad-universitatea-craiova-live-video-duminica-1730-digi-sport-1-oltenii-au-castigat-clar-in-tur-4617389",
+      "title": "vuskovic",
+      "link": "https://www.abendblatt.de/sport/hsv/article413697993/hsv-stuermer-stange-trifft-fuer-deutschland-und-wird-zur-werder-option-10.html",
       "meta": "500+ Suchanfragen"
      },
      {
-      "title": "stanley cup sport",
-      "link": "https://www.nytimes.com/athletic/7801031/2026/11/22/wild-filip-gustavsson-calvin-pickard-return/",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "παναθηναϊκόσ εναντίον οφη",
-      "link": "https://www.sport24.gr/football/panathinaikos-i-endekada-tou-trifilliou-kontra-ston-ofi/",
+      "title": "neo",
+      "link": "https://borncity.com/news/macbook-neo-2-apple-plant-vorstellung-mit-a19-pro-im-fruehjahr-2027/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "blockbuster",
-      "link": "https://www.filmstarts.de/nachrichten/1000233373.html",
-      "meta": "200+ Suchanfragen"
+      "title": "kriegsschiff",
+      "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohne-libyen-explosion-schiff-russland-li.3571967",
+      "meta": "5000+ Suchanfragen"
      }
     ]
    },
@@ -2178,31 +2183,29 @@
     "lang": "fr",
     "items": [
      {
-      "title": "Liverpool – Man Utd",
-      "link": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "liverpool – man utd"
+      "title": "Tabelle Liverpool – Man Utd",
+      "link": "https://www.lequipe.fr/Football/Actualites/Lourde-defaite-a-liverpool-pour-la-premiere-de-pochettino-avec-manchester-united/1745439",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "classement liverpool – man utd"
      },
      {
-      "title": "Lorient – Rennes",
-      "link": "https://www.staderennais.com/actualites/ligue-1-mcdonalds/fc-lorient-srfc-le-match-center",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "lorient – rennes"
+      "title": "leon hesby",
+      "link": "https://www.purepeople.com/diapo/leon-hesby-le-fils-de-patrick-bruel-prend-la-parole-pour-faire-une-annonce-un-compte-a-rebours-lance-sur-instagram_a556340/1",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "Trabzonspor – Eyüpspor",
-      "link": "https://beinsports.com.tr/haber/thomas-reis-bu-sebepten-oturu-zor-bir-mac-olacak",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "trabzonspor – eyüpspor"
-     },
-     {
-      "title": "jean-luc lemoine",
-      "link": "https://programmetv.ouest-france.fr/personnalites/jean-luc-lemoine/ce-nest-pas-pour-moi-pourquoi-jean-luc-lemoine-a-t-il-refuse-de-passer-les-essais-de-slam-sur-france-3-1ef35622-e4ed-11f1-bd4e-6f30b8f49e21",
+      "title": "lavalette laure",
+      "link": "https://www.humanite.fr/politique/antisemitisme/la-deputee-rn-laure-lavalette-accusee-a-son-tour-d-ecrits-antisemites-marine-le-pen-excuse-encore-lerreur-de-jeunesse",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "giovanni de gennaro",
-      "link": "https://www.repubblica.it/cronaca/2026/11/22/news/suicidio_de_gennaro_mistero_inchiesta-425741209/",
+      "title": "charles ollivon",
+      "link": "https://www.rugbyrama.fr/2026/11/22/transferts-top-14-toulon-ouvre-la-porte-a-un-depart-de-charles-ollivon-un-club-de-top-14-tres-interesse-13665985.php",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "tony parker",
+      "link": "https://www.lequipe.fr/Basket/Actualites/L-asvel-coule-pour-la-deuxieme-fois-en-trois-jours-a-istanbul-face-a-anadolu-efes/1744978",
       "meta": "200+ Suchanfragen"
      }
     ]
@@ -2212,31 +2215,31 @@
     "lang": "it",
     "items": [
      {
-      "title": "Liverpool – Manchester United",
-      "link": "https://www.bbc.com/sport/football/articles/ckqx5w58dgv7o",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "liverpool - manchester united"
+      "title": "sinner",
+      "link": "https://www.gazzetta.it/Tennis/ATP/22-11-2026/sinner-rischio-operazione-mago-tendini-scenari-ginocchio.shtml",
+      "meta": "5000+ Suchanfragen"
      },
      {
-      "title": "albano olivetti",
-      "link": "https://www.supertennis.tv/News/Atp/nitto-atp-finals-semifinali-doppio-recap",
-      "meta": "200+ Suchanfragen"
+      "title": "Lazio – Juventus Frauen",
+      "link": "https://www.juventus.com/it/news/articoli/women-lazio-juventus-le-formazioni",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "lazio - juventus women"
      },
      {
-      "title": "Singapur",
-      "link": "https://www.businesstimes.com.sg/opinion-features/singapore-and-china-innovating-together-new-opportunities",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "singapore"
+      "title": "nitto atp finals",
+      "link": "https://www.nittoatpfinals.com/en/news/arevalo-pavic-arribage-olivetti-nitto-atp-finals-2026-doubles-final",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "mentana",
-      "link": "https://www.ilmessaggero.it/schede/francesca_fagnani_dove_vive_casa_roma_ghetto-9906224.html",
-      "meta": "200+ Suchanfragen"
+      "title": "Rechtsanwalt",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/22/de-gennaro-trovate-20-armi-in-casa-lo-sparo-da-una-semiautomatica_385903ab-9075-4aaf-9711-57a1ec55cf07.html",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "avvocato"
      },
      {
-      "title": "teramo ancona",
-      "link": "https://www.corriereadriatico.it/sport/ancona_missione_compattezza_teramo-9900660.html",
-      "meta": "100+ Suchanfragen"
+      "title": "christian pulisic",
+      "link": "https://sempremilan.com/cardinale-rabiot-renewal-amorim-pulisic-irreplaceable",
+      "meta": "500+ Suchanfragen"
      }
     ]
    },
@@ -2245,32 +2248,33 @@
     "lang": "es",
     "items": [
      {
-      "title": "liverpool - manchester united",
-      "link": "https://www.skysports.com/football/live-blog/13610924/liverpool-vs-man-utd-live-premier-league-match-updates-free-highlights-news-and-score",
-      "meta": "1000+ Suchanfragen"
+      "title": "regierung",
+      "link": "https://elpais.com/educacion/2026-11-22/el-gobierno-exigira-a-la-comunidad-de-madrid-revocar-las-instrucciones-que-prohiben-carteles-sobre-la-huelga-o-implicar-a-los-alumnos.html",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "gobierno"
      },
      {
-      "title": "Motorradrennfahrer",
-      "link": "https://as.com/motor/fotorrelato/el-trueno-de-cervera-supera-a-el-doctor-asi-queda-el-palmares-de-motogp-f202611-f/",
+      "title": "Daviscup",
+      "link": "https://www.marca.com/tenis/copa-masters/2026/11/21/alcaraz-gana-pone-manos-equipo-empieza-recuperacion-fisica-mental.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "piloto de motociclismo"
+      "title_orig": "copa davis"
      },
      {
-      "title": "H2 Ryan Reynolds",
-      "link": "https://www.instyle.com/blake-lively-unexpected-activity-date-night-pottery-12265468",
+      "title": "chiefs - cardinals",
+      "link": "https://sports.yahoo.com/articles/chiefs-vs-cardinals-mahomes-kelce-183201072.html",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "Diskussion zu 8",
+      "link": "https://www.rtve.es/noticias/20261121/debate-elecciones-generales-2026-horario-donde-ver/17324313.shtml",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "debate a 8"
+     },
+     {
+      "title": "die Drogen",
+      "link": "https://orain.eus/es/cultura/musica/2026/11/22/el-drogas-se-despide-forma-indefinida-dos-conciertos-en-bilbao/",
       "meta": "100+ Suchanfragen",
-      "title_orig": "ryan reynolds"
-     },
-     {
-      "title": "zabiri",
-      "link": "https://www.realracingclub.es/noticias/jugar-para-ganar-te-da-mucho-mas-que-jugar-para-no-perder",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "Tabelle FC Barcelona – Villarreal",
-      "link": "https://www.lequipe.fr/Football/match-direct/championnat-d-espagne/2026-2027/fc-barcelone-villarreal-live/693199",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "classement fc barcelone – villarreal"
+      "title_orig": "el drogas"
      }
     ]
    },
@@ -2279,33 +2283,30 @@
     "lang": "en",
     "items": [
      {
-      "title": "sutton park",
-      "link": "https://www.itv.com/news/central/2026-11-22/massive-sutton-park-search-operation-in-progress-by-police",
+      "title": "alexander isak",
+      "link": "https://www.liverpoolfc.com/news/five-things-we-learned-about-alexander-isak-during-a-day-with",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "UTA Arad – Universitatea Craiova",
-      "link": "https://www.digisport.ro/fotbal/liga-1/probleme-la-universitatea-craiova-inainte-de-meciul-cu-uta-filipe-coelho-a-facut-anuntul-4618069",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "uta arad - universitatea craiova"
+      "title": "frimpong",
+      "link": "https://www.bbc.co.uk/news/articles/cv8e07825l90o",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Überschwemmung in Falmouth",
-      "link": "https://www.bbc.co.uk/weather/articles/ckvg251xz51do",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "falmouth flooding"
+      "title": "mo salah",
+      "link": "https://foot-africa.com/en/news/liverpool-vs-manchester-united-fastest-goals-in-derby-history-1427441/",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Bruno Guimaraes Newcastle Rückkehr Buhrufe",
-      "link": "https://www.telegraph.co.uk/football/2026/11/21/inside-bruno-guimaraes-controversial-move-arsenal-newcastle/",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "bruno guimaraes newcastle return boos"
+      "title": "Premier-League-Tabelle",
+      "link": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+      "meta": "20000+ Suchanfragen",
+      "title_orig": "premier league table"
      },
      {
-      "title": "Bologna",
-      "link": "https://www.gazzetta.it/Calcio/Serie-A/Bologna/22-11-2026/bologna-udinese-live-serie-a-risultato-e-gol-in-diretta.shtml",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "bologna fc"
+      "title": "roy keane",
+      "link": "https://metro.co.uk/2026/11/22/roy-keane-names-arsenals-biggest-rivals-premier-league-title-29809953/",
+      "meta": "500+ Suchanfragen"
      }
     ]
    },
@@ -2314,29 +2315,33 @@
     "lang": "pl",
     "items": [
      {
-      "title": "liverpool – man utd",
-      "link": "https://www.skysports.com/football/live-blog/13610924/liverpool-vs-man-utd-live-premier-league-match-updates-free-highlights-news-and-score",
-      "meta": "1000+ Suchanfragen"
+      "title": "Adels-Paket",
+      "link": "https://nto.pl/ruszyla-kolejna-edycja-szlachetnej-paczki-kazdy-moze-wybrac-rodzine-ktora-potrzebuje-pomocy/ar/c1p2-29524825",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "szlachetna paczka"
      },
      {
-      "title": "wisła płock – legia warszawa",
-      "link": "https://sportowefakty.wp.pl/bukmacherzy/1285544/warszawianie-w-kryzysie-wisla-plock-legia-warszawa-typy-kursy-sklady",
-      "meta": "1000+ Suchanfragen"
-     },
-     {
-      "title": "jennifer lopez",
-      "link": "https://www.yahoo.com/entertainment/music/articles/jennifer-lopez-says-ben-affleck-133030282.html",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "lamine yamal",
-      "link": "https://www.bbc.com/sport/football/live/cqe87553peegt",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "kamil stoch",
-      "link": "https://przegladsportowy.onet.pl/sporty-zimowe/skoki-narciarskie/nie-bierze-za-to-pieniedzy-oto-nowe-zajecie-kamila-stocha/0503hpp",
+      "title": "legionowo",
+      "link": "https://forsal.pl/kraj/aktualnosci/artykuly/11343259,kara-za-brak-opon-zimowych-w-samochodzie-w-tym-roku-wszyscy-kierowcy-w-polsce-musza-obowiazkowo-wymienic-opony-czy-moga-jeszcze-jezdzic-na-letnich.html",
       "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Promotion",
+      "link": "https://www.farmer.pl/prawo/przepisy-i-regulacje/zmiany-w-funduszach-promocji-ministerstwo-chce-inaczej-wydawac-pieniadze-na-promocje-zywnosci,187439.html",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "promocja"
+     },
+     {
+      "title": "Rattenbekämpfung",
+      "link": "https://nowosci.com.pl/szczury-w-toruniu-sa-ale-deratyzacja-wzorowa-sprawdzili-ponad-1500-posesji/ar/c1p2-29539797",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "deratyzacja"
+     },
+     {
+      "title": "Jalta",
+      "link": "https://wyborcza.pl/7,75399,33142873,rosyjski-politolog-putin-zaplaci-za-to-ze-wymusil-szczyt-w.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "jałta"
      }
     ]
    },
@@ -2414,32 +2419,29 @@
     "lang": "en",
     "items": [
      {
-      "title": "scott bessent",
-      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "meta": "500+ Suchanfragen"
+      "title": "chuck hubbard",
+      "link": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Liverpool gegen Manchester United",
-      "link": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
-      "meta": "10000+ Suchanfragen",
-      "title_orig": "liverpool vs man utd"
+      "title": "emmett johnson",
+      "link": "https://sports.yahoo.com/articles/week-11-fantasy-rankings-emmett-123051562.html",
+      "meta": "5000+ Suchanfragen"
      },
      {
-      "title": "Delta-Flüge",
-      "link": "https://www.fox5atlanta.com/news/delta-air-lines-automation-issue-triggers-hundreds-thanksgiving-travel-delays-atlanta",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "delta flights"
+      "title": "bradley cooper",
+      "link": "https://graziamagazine.com/articles/the-ability-to-be-deeply-honest-gigi-hadid-has-explained-what-makes-her-relationship-with-bradley-cooper-different-from-her-past-romances/",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "walmart black friday",
-      "link": "https://shopping.yahoo.com/deals/breaking-news/article/black-friday-store-hours-2026-when-do-doors-open-at-walmart-target-kohls-macys-best-buy-costco-and-other-retailers-182104117.html",
+      "title": "saquon barkley",
+      "link": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/saquon-barkley-healthier-after-bye-hoping-to-turn-his-season-around/768301/",
       "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "Trabzonspor gegen Eyüpspor",
-      "link": "https://www.haber.tr/trendyol-super-ligde-12-haftanin-var-hakemleri-aciklandi",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "trabzonspor vs eyüpspor"
+      "title": "kavontae turpin",
+      "link": "https://thelandryhat.com/cowboys-simply-can-t-keep-justifying-an-offensive-role-for-kavontae-turpin-01m7rp722agd",
+      "meta": "1000+ Suchanfragen"
      }
     ]
    },
@@ -2448,31 +2450,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "Uttar Pradesh – Jharkhand",
-      "link": "https://www.bcci.tv/matches/5e779815-fd94-4429-9101-881307116294/uttar-pradesh-vs-jharkhand/commentary",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "uttar pradesh vs jharkhand"
+      "title": "G/V-Tabelle",
+      "link": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "pl table"
      },
      {
-      "title": "সোনা",
-      "link": "https://bengali.abplive.com/business/gold-price-today-kolkata-20-november-2026-silver-price-gold-price-updates-1199838",
-      "meta": "1000+ Suchanfragen"
+      "title": "satvika veeravalli",
+      "link": "https://www.ndtv.com/entertainment/filmmaker-arun-gopy-hails-dulquer-salmaan-after-watching-aakasamlo-oka-tara-with-non-malayali-audiences-12361550",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "hyderabad",
-      "link": "https://www.telegraphindia.com/india/hyderabad-police-step-up-security-after-email-warns-of-possible-bomb-attacks/cid/2190756",
-      "meta": "1000+ Suchanfragen"
+      "title": "Premier-League-Statistiken",
+      "link": "https://www.bbc.com/sport/football/articles/cmp3ey58eex4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "premier league stats"
      },
      {
-      "title": "yassir zabiri",
-      "link": "https://www.espn.in/football/team-stats/_/gameId/401875008/league/ita.1",
+      "title": "bruno fernandes",
+      "link": "https://www.espn.in/football/story/_/id/50560581/bruno-fernandes-manchester-united-premier-league-mauricio-pochettino",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "ISL-Spiel heute",
-      "link": "https://www.indiansuperleague.com/videos/east-bengal-fc-vs-sporting-club-delhi-highlights-mg-isl-2026-27",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "isl match today"
+      "title": "bhuvan bam",
+      "link": "https://www.aajtak.in/entertainment/film-review/story/bhuvan-bam-dhindora-season-2-web-series-review-sanjeeda-sheikh-netflix-series-tmovj-dskc-2701884-2026-11-21",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2481,30 +2483,32 @@
     "lang": "pt",
     "items": [
      {
-      "title": "sergio pérez",
-      "link": "https://ge.globo.com/motor/formula-1/noticia/2026/11/22/rafael-camara-valoriza-corrida-positiva-e-constancia-em-las-vegas.ghtml",
+      "title": "chiefs",
+      "link": "https://nypost.com/2026/11/22/betting/cardinals-vs-chiefs-prediction-nfl-odds-picks-best-bets-for-week-11/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "óscar cortés",
+      "link": "https://www.netvasco.com.br/n/396928/vasco-esta-interessado-em-oscar-cortes-ponta-colombiano-do-rangers-emprestado-ao-huracan",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "usdt",
-      "link": "https://www.tradingview.com/news/binance_news:eb0be3978094b:0-tether-treasury-transfers-about-143-million-usdt-worth-142-million-to-unknown-wallet/",
-      "meta": "100+ Suchanfragen"
+      "title": "Tabelle Liverpool vs. Manchester United",
+      "link": "https://www.espn.com/soccer/report/_/gameId/401878755",
+      "meta": "20000+ Suchanfragen",
+      "title_orig": "classificações de liverpool x manchester united"
      },
      {
-      "title": "real sociedad",
-      "link": "https://www.whoscored.com/articles/CSmhj4JbhkKOQFzSsInNvA/show/cng111-20261122-racing-santander-vs-real-sociedad-prediction-1795332055",
-      "meta": "500+ Suchanfragen"
+      "title": "Bragantino vs. Vasco",
+      "link": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/brasileirao-serie-a/noticia/2026/11/22/bragantino-x-vasco-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "bragantino x vasco"
      },
      {
-      "title": "Aufstellungen des FC Barcelona gegen den Villarreal Club de Fútbol",
-      "link": "https://www.bbc.com/sport/football/live/cqe87553peegt",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "posiciones de fc barcelona contra villarreal club de fútbol"
-     },
-     {
-      "title": "banco do brasil",
-      "link": "https://veja.abril.com.br/economia/banco-do-brasil-compra-briga-com-o-agro-e-ignora-a-ingerencia-politica-que-corroi-as-estatais/",
-      "meta": "2000+ Suchanfragen"
+      "title": "Globo-Programm",
+      "link": "https://www.correiodopovo.com.br/arteagenda/programa%C3%A7%C3%A3o-da-tv/guia-de-programacao-a-grade-dos-canais-da-tv-aberta-deste-domingo-dia-22-de-novembro-de-2026-1.1766332",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "globo programação"
      }
     ]
    },
@@ -2513,34 +2517,34 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Liverpool gegen Manchester United",
-      "link": "https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/liverpool-vs-manchester-united-premier-league-md11-livestreaming-20261123/okjdwgelxu471tagphwcc83ha",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "リヴァプール 対 マンu"
-     },
-     {
-      "title": "Liverpool gegen Manchester United",
-      "link": "https://www.bbc.com/sport/football/articles/ckqx5w58dgv7o",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "liverpool vs man utd"
-     },
-     {
-      "title": "FC Barcelona gegen Villarreal CF – Tabelle",
-      "link": "https://www.espn.com/soccer/report/_/gameId/401882804",
+      "title": "Glückstasche 2027",
+      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E7%A6%8F%E8%A2%8B%202027",
       "meta": "500+ Suchanfragen",
-      "title_orig": "fc barcelona vs villarreal cf standings"
+      "title_orig": "福袋 2027"
      },
      {
-      "title": "Real Sociedad",
-      "link": "https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/racing-real-sociedad-la-liga-md13-livestreaming-20261123/ps7c4uwcssk13qboa5floguu",
+      "title": "Sayako Kuroda",
+      "link": "https://news.yahoo.co.jp/articles/ed86698b0e06ec708e4b9c8c165692b312b7d8a2?page=2",
       "meta": "200+ Suchanfragen",
-      "title_orig": "レアルソシエダ"
+      "title_orig": "黒田清子"
      },
      {
-      "title": "Defensiver Mittelfeldspieler",
-      "link": "https://news.yahoo.co.jp/articles/493cf47daf4a99886db9e9df0853430093e5d553",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "ボランチ"
+      "title": "Carlos Arcalas",
+      "link": "https://news.yahoo.co.jp/articles/2b7c7080acf3a10d7fec519e616374750eb1b5e7",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "カルロス・アルカラス"
+     },
+     {
+      "title": "United",
+      "link": "https://flyteam.jp/photo/4546418",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "ユナイテッド"
+     },
+     {
+      "title": "Rei SAKAMOTO",
+      "link": "http://news.tennis365.net/news/today/202611/159560.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "坂本怜"
      }
     ]
    },
@@ -2611,34 +2615,34 @@
     "lang": "en",
     "items": [
      {
+      "title": "Wie Motorräder und Dreiräder die Elektrofahrzeug-Revolution in Afrika vorantreiben",
+      "link": "https://apnews.com/article/africa-ev-electric-tricycles-motorbikes-innovation-mobility-0abd58b98ce8537c78d85738daa5ea86",
+      "meta": "AP News · 141 Personen teilen",
+      "title_orig": "How an EV revolution in Africa is being driven by motorbikes and 3-wheelers"
+     },
+     {
+      "title": "Lesen Sie das Memo an die Mitarbeiter von Mailchimp, während Intuit den Verkauf von Bending Spoons plant",
+      "link": "https://www.businessinsider.com/mailchimp-intuit-plans-bending-spoons-sale-memo-2026-11",
+      "meta": "Business Insider · 89 Personen teilen",
+      "title_orig": "Read the memo to Mailchimp staff as Intuit plans Bending Spoons sale"
+     },
+     {
       "title": "„Ich bin kein MAGA-Anhänger“, sagt Elon Musk nach der Niederlage der Republikaner bei den Zwischenwahlen",
       "link": "https://www.pbs.org/newshour/politics/im-not-maga-elon-musk-says-after-republicans-midterm-thrashing",
       "meta": "PBS News · 201 Personen teilen",
       "title_orig": "'I'm not MAGA,' Elon Musk says after Republicans' midterm thrashing"
      },
      {
-      "title": "Wie Motorräder und Dreiräder die Elektrofahrzeug-Revolution in Afrika vorantreiben",
-      "link": "https://apnews.com/article/africa-ev-electric-tricycles-motorbikes-innovation-mobility-0abd58b98ce8537c78d85738daa5ea86",
-      "meta": "AP News · 90 Personen teilen",
-      "title_orig": "How an EV revolution in Africa is being driven by motorbikes and 3-wheelers"
+      "title": "Neuer Entwurf für ein Abkommen auf der COP31 vorgelegt, während die Länder um die Rettung der Klimaverhandlungen ringen",
+      "link": "https://www.euronews.com/2026/11/22/new-cop31-draft-deal-tabled-as-countries-scramble-to-salvage-climate-talks",
+      "meta": "euronews · 82 Personen teilen",
+      "title_orig": "New COP31 draft deal tabled as countries race to salvage climate talks"
      },
      {
       "title": "Pille zur Behandlung von Bauchspeicheldrüsenkrebs als „größter Durchbruch seit Jahrzehnten“ gefeiert",
       "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "meta": "The Guardian · 255 Personen teilen",
+      "meta": "The Guardian · 263 Personen teilen",
       "title_orig": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’"
-     },
-     {
-      "title": "Forscher platziert 2 Millionen Kanarienvögel in die KI-Lieferkette. Es kam zu einem Datenschutzdesaster.",
-      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "meta": "Ars Technica · 865 Personen teilen",
-      "title_orig": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced."
-     },
-     {
-      "title": "Sarah McBride, der der Zugang zu den Toiletten im Kapitol verwehrt wurde, gewinnt den Spitzenposten",
-      "link": "https://www.nytimes.com/2026/11/21/us/politics/sarah-mcbride-barred-from-capitol-bathrooms-wins-top-post.html",
-      "meta": "The New York Times · 131 Personen teilen",
-      "title_orig": "Sarah McBride, Barred From Capitol Bathrooms, Wins Top Post"
      }
     ]
    }
@@ -2649,7 +2653,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 64,
+   "count": 66,
    "error": ""
   },
   {
@@ -2670,7 +2674,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 163,
+   "count": 168,
    "error": ""
   },
   {
@@ -2684,7 +2688,7 @@
    "source": "Finanz-Szene",
    "category": "pay_de",
    "ok": true,
-   "count": 27,
+   "count": 29,
    "error": ""
   },
   {
@@ -2726,7 +2730,7 @@
    "source": "The Paypers",
    "category": "pay_eu",
    "ok": true,
-   "count": 100,
+   "count": 86,
    "error": ""
   },
   {
@@ -2867,7 +2871,7 @@
    "category": "translate",
    "ok": true,
    "count": 97,
-   "info": "97 von 97 Überschriften übersetzt (neu in diesem Lauf: MyMemory 44). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "info": "97 von 97 Überschriften übersetzt (neu in diesem Lauf: MyMemory 41). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
