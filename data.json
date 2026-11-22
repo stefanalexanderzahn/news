@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T04:02:32+00:00",
+ "generated": "2026-11-22T07:22:17+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
@@ -86,26 +86,21 @@
     ]
    },
    {
-    "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
-    "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
-    "image": "https://images.tagesschau.de/image/c4a8129d-5713-48b5-b0cc-3d6541af9469/AAABlMc781U/AAABnSSvrFg/16x9-big/fbi-hauptquartier-100.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-22T01:02:00+00:00",
+    "title": "Großer Preis von Las Vegas: Überholfest in Las Vegas: Verstappen triumphiert erneut",
+    "link": "https://www.zeit.de/news/2026-11/22/wieder-verstappen-sieg-in-spektakel-rennen-in-las-vegas",
+    "image": "https://img.zeit.de/news/2026-11/22/wieder-verstappen-sieg-in-spektakel-rennen-in-las-vegas-image-group/original__640x360",
+    "n_sources": 2,
+    "time": "2026-11-22T06:18:50+00:00",
     "sources": [
      {
-      "name": "Tagesschau",
-      "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "USA: Donald Trump hofft auf Erkenntnisse nach Hackerangriff auf FBI",
-      "link": "https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss"
-     },
-     {
       "name": "Zeit Online",
-      "title": "USA: Donald Trump schränkt Unternehmensauskünfte für US-Kongress ein",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-dekret-bundesauftragnehmer-kongress-weissem-haus-gxe"
+      "title": "Großer Preis von Las Vegas: Überholfest in Las Vegas: Verstappen triumphiert erneut",
+      "link": "https://www.zeit.de/news/2026-11/22/wieder-verstappen-sieg-in-spektakel-rennen-in-las-vegas"
+     },
+     {
+      "name": "FAZ",
+      "title": "Formel 1: Verstappen triumphiert bei Überholfest in Las Vegas",
+      "link": "https://www.faz.net/aktuell/sport/formel-1/formel-1-verstappen-triumphiert-in-las-vegas-accg-201705701.html"
      }
     ]
    },
@@ -260,16 +255,16 @@
     ]
    },
    {
-    "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
-    "image": "https://images.tagesschau.de/image/6c5f0fb3-0dfc-40b8-94b6-a4d1726e4ad5/AAABofe1ZKM/AAABnSSvrFg/16x9-big/anthropic-146.jpg?width=1920",
+    "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
+    "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html",
+    "image": "https://images.tagesschau.de/image/70f88975-6c61-4e1b-ba62-100845608afc/AAABofinKAQ/AAABnSSvrFg/16x9-big/nyse-478.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-20T23:28:24+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html"
+      "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html"
      },
      {
       "name": "Spiegel",
@@ -328,6 +323,40 @@
     ]
    },
    {
+    "title": "Israels Parlamentspräsident gewählt",
+    "link": "https://www.tagesschau.de/video/video-1685798.html",
+    "image": "https://images.tagesschau.de/image/7beba225-ac8e-4b96-ab5f-6798d5b837a3/AAABoe5NTUE/AAABnSSvrFg/16x9-big/sendungsbild-1829262.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-19T18:48:54+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Israels Parlamentspräsident gewählt",
+      "link": "https://www.tagesschau.de/video/video-1685798.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Vertrauter von Eisenkot: Israels Opposition übernimmt Parlamentsvorsitz",
+      "link": "https://www.spiegel.de/ausland/vertrauter-von-eisenkot-israels-opposition-uebernimmt-parlamentsvorsitz-a-4c2a71d7-9f3b-4447-95bc-80236caf905e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Parlamentarisches Kontrollgremium: AfD-Politiker in Kontrollgremium für Verfassungsschutz gewählt",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/parlamentarisches-kontrollgremium-sachsen-anhalt-verfassungsschutz-afd-bsw-cdu"
+     },
+     {
+      "name": "FAZ",
+      "title": "Parlamentarischer Rat: Eine Verfassung ohne Volk",
+      "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/das-grundgesetz-wie-ein-provisorium-zur-erfolgsgeschichte-wurde-201317643.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Israel: Neuer Knesset-Sprecher – Netanjahu verliert das Parlament",
+      "link": "https://www.handelsblatt.com/politik/international/israel-neuer-knesset-sprecher-netanjahu-verliert-das-parlament/100270558.html"
+     }
+    ]
+   },
+   {
     "title": "Jörg Endriss, ARD Peking, zzt. Shenzhen/China, zu den Gesprächen zwischen Trump, Putin und Xi über die Ukraine und Atomwaffen",
     "link": "https://www.tagesschau.de/video/video-1686490.html",
     "image": "https://images.tagesschau.de/image/5853b5fa-720e-4770-8774-efadf3ad446d/AAABofQiMXE/AAABnSSvrFg/16x9-big/sendungsbild-1829992.jpg?width=1920",
@@ -362,11 +391,45 @@
     ]
    },
    {
+    "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+    "image": "https://images.tagesschau.de/image/0a8267b7-a2da-4eb4-bb5a-b7fda46a2e11/AAABoJ9akT0/AAABnSSvrFg/16x9-big/commerzbank-270.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-19T11:34:33+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Commerzbank: EU genehmigt Übernahme durch Unicredit",
+      "link": "https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Bundesregierung und UniCredit bei Commerzbank-Übernahme einig",
+      "link": "https://www.zeit.de/video/2026-11/bundesregierung-und-unicredit-bei-commerzbank-uebernahme-einig"
+     },
+     {
+      "name": "FAZ",
+      "title": "übernahme durch Unicredit: Bundesregierung stimmt für Commerzbank-Übernahme",
+      "link": "https://www.faz.net/video/bundesregierung-stimmt-fuer-commerzbank-uebernahme-201697940.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Banken: Bund und Unicredit einigen sich bei Commerzbank-Übernahme",
+      "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bund-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html"
+     }
+    ]
+   },
+   {
     "title": "Einigung über Stromsteuersenkung: Die Koalition ist in eine neue Phase eingetreten",
     "link": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html",
     "image": "https://images.tagesschau.de/image/24e569d6-ab8d-4fbb-8251-377c8131cf0c/AAABoe8uGwQ/AAABnSSvrFg/16x9-big/friedrich-merz-546.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-19T06:48:00+00:00",
+    "time": "2026-11-18T16:19:32+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -375,8 +438,8 @@
      },
      {
       "name": "Spiegel",
-      "title": "Bundesregierung: Michael Kretschmer rügt Koalition für Umgang mit Stromsteuer-Streit",
-      "link": "https://www.spiegel.de/politik/deutschland/bundesregierung-michael-kretschmer-ruegt-koalition-fuer-umgang-mit-stromsteuer-streit-a-3dc6a8c7-65fa-4056-92a1-8c4571bba0b2#ref=rss"
+      "title": "Koalition einigt sich auf Senkung der Stromsteuer und Spritpreisdeckel",
+      "link": "https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899#ref=rss"
      },
      {
       "name": "Zeit Online",
@@ -385,13 +448,13 @@
      },
      {
       "name": "FAZ",
-      "title": "Verabschiedung des Bundeshaushalts: Koalition einigt sich auf Senkung der Stromsteuer",
-      "link": "https://www.faz.net/video/koalition-einigt-sich-auf-senkung-der-stromsteuer-201694053.html"
+      "title": "Kompromiss der Koalition: Wer von der Einigung im Kanzleramt profitiert",
+      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/koalitionseinigung-wer-von-stromsteuer-und-spritpreisdeckel-profitiert-201694358.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Bundesregierung: Koalition einigt sich auf Senkung der Stromsteuer",
-      "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-koalition-einigt-sich-auf-senkung-der-stromsteuer/100270667.html"
+      "title": "Koalitionsgipfel: Ein Schal, eine Aktentasche und „Schweinkram“: So lief die Einigung zur Stromsteuer im Kanzleramt",
+      "link": "https://www.handelsblatt.com/politik/deutschland/stromsteuer-gegen-mitternacht-verlaesst-der-kanzler-veraergert-den-saal/100270830.html"
      }
     ]
    },
@@ -496,101 +559,9 @@
       "link": "https://www.handelsblatt.com/politik/international/usa-demokraten-gewinnen-senatssitz-in-alaska/29669594.html"
      }
     ]
-   },
-   {
-    "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
-    "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
-    "image": "https://images.tagesschau.de/image/c4a8129d-5713-48b5-b0cc-3d6541af9469/AAABlMc781U/AAABnSSvrFg/16x9-big/fbi-hauptquartier-100.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-22T01:02:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "USA: Donald Trump hofft auf Erkenntnisse nach Hackerangriff auf FBI",
-      "link": "https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "USA: Donald Trump schränkt Unternehmensauskünfte für US-Kongress ein",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-dekret-bundesauftragnehmer-kongress-weissem-haus-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "USA unter Trump: Xi empfängt Trump zum Zweiergespräch",
-      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-xi-empfaengt-trump-zum-zweiergespraech-faz-19444916.html"
-     }
-    ]
-   },
-   {
-    "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-    "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
-    "image": "https://images.tagesschau.de/image/7a1fbb62-7cb1-4204-9940-74c07d536a3b/AAABof-zqeA/AAABnSSvrFg/16x9-big/leyen-340.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-21T23:28:22+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "EU und Indonesien unterzeichnen weitreichenden Handelspakt",
-      "link": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Freihandel: EU und Indonesien unterzeichnen Handelsabkommen",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/freihandelsabkommen-eu-indonesien-zolle-rohstoffe"
-     },
-     {
-      "name": "FAZ",
-      "title": "Freihandelsabkommen: EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
-      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-und-indonesien-unterzeichnen-weitreichendes-freihandelsabkommen-accg-201704887.html"
-     }
-    ]
    }
   ],
   "30d": [
-   {
-    "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
-    "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
-    "image": "https://images.tagesschau.de/image/17988e16-b321-4573-a2d7-f8ccec24da95/AAABobvLlHQ/AAABnSSvrFg/16x9-big/gadi-eisenkot-110.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-21T23:08:28+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Wahl in Israel: Gadi Eisenkot trifft Benjamin Netanyahus Partei zu Koalitionsgesprächen",
-      "link": "https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Regierungsbildung in Israel: Gadi Eisenkot sondiert Koalition mit rechter Likud-Partei",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/israel-gadi-eisenkot-regierungsbildung-likud-benjamin-netanjahu"
-     },
-     {
-      "name": "FAZ",
-      "title": "ISRAEL: Nach der Pattsituation: Eisenkot soll die Regierung bilden",
-      "link": "https://www.faz.net/video/israelis-demonstrieren-fuer-eisenkot-und-politischen-wandel-201663228.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Israel: Diese Optionen hat Eisenkot nun für die Regierungsbildung",
-      "link": "https://www.handelsblatt.com/politik/international/israel-diese-optionen-hat-eisenkot-nun-fuer-die-regierungsbildung/100268201.html"
-     }
-    ]
-   },
    {
     "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
     "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
@@ -622,40 +593,6 @@
       "name": "Handelsblatt",
       "title": "Berlin: Berliner Linke fordert Mandatsverzicht von Emde",
       "link": "https://www.handelsblatt.com/politik/deutschland/berlin-berliner-linke-fordert-mandatsverzicht-von-emde/100267960.html"
-     }
-    ]
-   },
-   {
-    "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
-    "link": "https://www.tagesschau.de/video/video-1678768.html",
-    "image": "https://images.tagesschau.de/image/3de6abfa-19f7-4167-9937-f6def80e5e48/AAABoay1ztU/AAABnSSvrFg/16x9-big/sendungsbild-1822956.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-21T15:03:01+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Trauer um Freie-Wähler-Chef Hubert Aiwanger - Achim Wendler, BR",
-      "link": "https://www.tagesschau.de/video/video-1678768.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Hubert Aiwanger ist tot: Freie Wähler wollen Bundesparteitag auf 2027 verschieben",
-      "link": "https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ist-tot-freie-waehler-wollen-bundesparteitag-auf-2027-verschieben-a-621a228c-3b20-41f5-9381-1fc86587ae64#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Nach Tod von Freie-Wähler-Chef: Aiwanger-Trauerfeier: Polizei erwartet großen Andrang",
-      "link": "https://www.zeit.de/news/2026-11/19/aiwanger-trauerfeier-polizei-erwartet-grossen-andrang"
-     },
-     {
-      "name": "FAZ",
-      "title": "ZWei Wochen nach Tod: Freie-Wähler-Chef Aiwanger in Niederbayern beigesetzt",
-      "link": "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-in-inkofen-beigesetzt-2-000-menschen-nehmen-abschied-accg-201704863.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Politik: Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
-      "link": "https://www.handelsblatt.com/politik/deutschland/politik-bayerns-wirtschaftsminister-hubert-aiwanger-ist-tot/100267392.html"
      }
     ]
    },
@@ -694,16 +631,50 @@
     ]
    },
    {
-    "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
-    "image": "https://images.tagesschau.de/image/6c5f0fb3-0dfc-40b8-94b6-a4d1726e4ad5/AAABofe1ZKM/AAABnSSvrFg/16x9-big/anthropic-146.jpg?width=1920",
+    "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
+    "image": "https://images.tagesschau.de/image/b41983c0-6c75-4d18-96a3-1239171ee613/AAABodvNmOE/AAABnSSvrFg/16x9-big/rbb-632976574-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-21T00:26:47+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "»Gen Z regelt«-Proteste: Weniger Zulauf, 22 Festnahmen in Berlin",
+      "link": "https://www.spiegel.de/panorama/gen-z-regelt-proteste-weniger-zulauf-22-festnahmen-in-berlin-a-bd129e26-8004-4562-a07a-ecee3e5ea39d#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Jugendproteste: Randale überschatten «Gen Z regelt»-Demo in Hamburg",
+      "link": "https://www.zeit.de/news/2026-11/21/randale-ueberschatten-gen-z-regelt-demo-in-hamburg"
+     },
+     {
+      "name": "FAZ",
+      "title": "Gen-Z-Proteste: Woher die Wut der Jugend kommt",
+      "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-die-gen-z-wuetend-ist-fuenf-thesen-zur-unzufriedenheit-accg-201648439.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "„Gen Z regelt“: Bundesweite Jugendproteste – Kölner Polizei setzt Wasserwerfer am Rand der Demo ein",
+      "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-regelt-koelner-polizei-setzt-wasserwerfer-am-rand-der-demo-ein/100266344.html"
+     }
+    ]
+   },
+   {
+    "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
+    "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html",
+    "image": "https://images.tagesschau.de/image/70f88975-6c61-4e1b-ba62-100845608afc/AAABofinKAQ/AAABnSSvrFg/16x9-big/nyse-478.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-20T23:28:24+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html"
+      "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html"
      },
      {
       "name": "Spiegel",
@@ -728,36 +699,36 @@
     ]
    },
    {
-    "title": "Bundesweit protestieren junge Menschen für mehr Bildung und Klimaschutz",
-    "link": "https://www.tagesschau.de/video/video-1687122.html",
-    "image": "https://images.tagesschau.de/image/5d1d9537-8230-435f-914a-1769a6edd493/AAABofnXyl0/AAABnSSvrFg/16x9-big/sendungsbild-1830662.jpg?width=1920",
+    "title": "Mehr als 100 Betriebe beteiligt: IG Metall setzt weiter auf ganztätige Warnstreiks",
+    "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html",
+    "image": "https://images.tagesschau.de/image/7838880c-44a6-4545-b45e-37fc863a894e/AAABofpYMmQ/AAABnSSvrFg/16x9-big/streik-igmetall-100.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-20T16:44:26+00:00",
+    "time": "2026-11-20T19:58:08+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Bundesweit protestieren junge Menschen für mehr Bildung und Klimaschutz",
-      "link": "https://www.tagesschau.de/video/video-1687122.html"
+      "title": "Mehr als 100 Betriebe beteiligt: IG Metall setzt weiter auf ganztätige Warnstreiks",
+      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html"
      },
      {
       "name": "Spiegel",
-      "title": "Frankreich: Rund 600.000 Menschen gehen auf die Straße",
-      "link": "https://www.spiegel.de/ausland/frankreich-rund-600-000-menschen-gehen-auf-die-strasse-a-2619f68b-6061-40c5-969d-3ec16f0bd6a1#ref=rss"
+      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall sind angelaufen",
+      "link": "https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Gen Z-Protest: Junge Menschen gehen erneut auf die Straße",
-      "link": "https://www.zeit.de/news/2026-11/20/junge-menschen-gehen-erneut-auf-die-strasse"
+      "title": "Metall- und Elektroindustrie: IG Metall lässt ganztägige Warnstreiks rollen",
+      "link": "https://www.zeit.de/news/2026-11/20/ig-metall-laesst-ganztaegige-warnstreiks-rollen"
      },
      {
       "name": "FAZ",
-      "title": "Frankreich: Die Massen protestieren weiter",
-      "link": "https://www.faz.net/aktuell/politik/ausland/massenproteste-in-frankreich-regierung-sucht-ausweg-ohne-geld-201656654.html"
+      "title": "Arbeitskampf: IG Metall startet 24-Stunden-Warnstreiks",
+      "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/metallbranche-startet-groessten-warnstreik-seit-acht-jahren-201698884.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Verteidigung: Heeres-Inspekteur Freuding wird neuer Generalinspekteur der Bundeswehr",
-      "link": "https://www.handelsblatt.com/politik/deutschland/verteidigung-heeres-inspekteur-freuding-wird-neuer-generalinspekteur/100267596.html"
+      "title": "Metall- und Elektroindustrie: Warnstreiks der IG Metall kurz nach Mitternacht gestartet",
+      "link": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-warnstreiks-der-ig-metall-kurz-nach-mitternacht-gestartet/100266374.html"
      }
     ]
    },
@@ -796,6 +767,40 @@
     ]
    },
    {
+    "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+    "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
+    "image": "https://images.tagesschau.de/image/c7de04a3-94b2-40c1-908c-35479fc47e03/AAABodY5obQ/AAABnSSvrFg/16x9-big/eu-dublin-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-20T12:55:09+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+      "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Ukraine: Europäer müssen Verhandlungsfähigkeit mit Putin beweisen",
+      "link": "https://www.spiegel.de/ausland/ukraine-europaeer-muessen-verhandlungsfaehigkeit-mit-putin-beweisen-a-db4b4ffe-8811-4e36-bb50-77a4388190af#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Ukraine-Friedensgespräche: EU einigt sich auf Verhandlungsteam für Gespräche mit Russland",
+      "link": "https://www.zeit.de/politik/ausland/2026-11/ukraine-friedensgespraeche-beteiligung-europa-deutschland"
+     },
+     {
+      "name": "FAZ",
+      "title": "Ukraine-Verhandlungen: Europäer bereiten sich auf Gespräche mit Russland vor",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukrainekrieg-europa-bereitet-sich-auf-gespraeche-mit-russland-vor-accg-201701260.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Putin-Gespräche: Die EU hat sich für ein Ukraine-Team entschieden – Deutschland ist dabei",
+      "link": "https://www.handelsblatt.com/politik/international/putin-gespraeche-die-eu-hat-sich-fuer-ein-ukraine-team-entschieden-deutschland-ist-dabei/100268657.html"
+     }
+    ]
+   },
+   {
     "title": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
     "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
     "image": "https://images.tagesschau.de/image/3cb31290-02d9-4564-a65d-f9c8024c0744/AAABoffwWfg/AAABnSSvrFg/16x9-big/stadtansicht-rauch-kiew-100.jpg?width=1920",
@@ -824,8 +829,8 @@
      },
      {
       "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Mehr als 600.000 Menschen in Ukraine nach russischem Angriff ohne Strom",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-mehr-als-600.000-ukrainer-nach-russischem-angriff-ohne-strom/27982126.html"
+      "title": "+++ Ukraine-Krieg +++: 18 Tote bei Luftangriff auf Ausgabe von Hilfsgütern",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-18-tote-bei-luftangriff-auf-ausgabe-von-hilfsguetern/27982126.html"
      }
     ]
    },
@@ -864,36 +869,36 @@
     ]
    },
    {
-    "title": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
-    "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
-    "image": "https://images.tagesschau.de/image/2a64b33d-f350-4060-a602-5e2ee57627fc/AAABoc_vwsU/AAABnSSvrFg/16x9-big/putin-witkoff-kushner-104.jpg?width=1920",
+    "title": "Israels Parlamentspräsident gewählt",
+    "link": "https://www.tagesschau.de/video/video-1685798.html",
+    "image": "https://images.tagesschau.de/image/7beba225-ac8e-4b96-ab5f-6798d5b837a3/AAABoe5NTUE/AAABnSSvrFg/16x9-big/sendungsbild-1829262.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-19T17:35:38+00:00",
+    "time": "2026-11-19T18:48:54+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html"
+      "title": "Israels Parlamentspräsident gewählt",
+      "link": "https://www.tagesschau.de/video/video-1685798.html"
      },
      {
       "name": "Spiegel",
-      "title": "Ukraine-Krieg: So wollen die Europäer helfen",
-      "link": "https://www.spiegel.de/politik/ukraine-krieg-so-wollen-die-europaeer-helfen-a-0b6924f4-bc2e-4413-a7f8-dbc8b1c5fd57#ref=rss"
+      "title": "Vertrauter von Eisenkot: Israels Opposition übernimmt Parlamentsvorsitz",
+      "link": "https://www.spiegel.de/ausland/vertrauter-von-eisenkot-israels-opposition-uebernimmt-parlamentsvorsitz-a-4c2a71d7-9f3b-4447-95bc-80236caf905e#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Verhandlungen im Ukrainekrieg: Worüber Russland und die Ukraine verhandeln",
-      "link": "https://www.zeit.de/politik/ausland/2026-10/verhandlungen-ukraine-krieg-russland-politik-militaer-chronologie"
+      "title": "Parlamentarisches Kontrollgremium: AfD-Politiker in Kontrollgremium für Verfassungsschutz gewählt",
+      "link": "https://www.zeit.de/politik/deutschland/2026-11/parlamentarisches-kontrollgremium-sachsen-anhalt-verfassungsschutz-afd-bsw-cdu"
      },
      {
       "name": "FAZ",
-      "title": "Liveblog Ukrainekrieg: Trump drängt die Europäer, Putin anzurufen",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-draengt-die-europaeer-putin-anzurufen-faz-110683325.html"
+      "title": "Parlamentarischer Rat: Eine Verfassung ohne Volk",
+      "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/das-grundgesetz-wie-ein-provisorium-zur-erfolgsgeschichte-wurde-201317643.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Europäer knüpfen Sicherheitsgespräche mit Russland an Bedingungen",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-europaeer-knuepfen-sicherheitsgespraeche-mit-russland-an-bedingungen/27982126.html"
+      "title": "Israel: Neuer Knesset-Sprecher – Netanjahu verliert das Parlament",
+      "link": "https://www.handelsblatt.com/politik/international/israel-neuer-knesset-sprecher-netanjahu-verliert-das-parlament/100270558.html"
      }
     ]
    }
@@ -1566,26 +1571,6 @@
      "title_orig": "OakNorth secures US national bank charter with CUB approval"
     },
     {
-     "title": "Codex sammelt 30 Mio. USD in einer Serie-A-Finanzierungsrunde für eine Stablecoin-FX-Plattform",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXZVbVB0VDJ4T0Y2dzVxcVFmUERwMVI1eVIyQzVYNkxJckZtS3dSSG5UT2J2Nk1YU2RuQVFMVWxQbENoNUxVdmRDQkNZTmFyc3lFQzYtamhQUmVIR0I0WXBaeWFMUFNxb2tkaWRYdm5tM0ZTQXFCaWNwdkkxX193blF2TWE1d25QQXkyck95cy1hRHhYbnEyR196b1Q4a2pwZFhURHNfa2RxN245NnZfWlFuSQ?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-20T15:35:49+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Codex raises USD 30 mln Series A for stablecoin FX platform",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXZVbVB0VDJ4T0Y2dzVxcVFmUERwMVI1eVIyQzVYNkxJckZtS3dSSG5UT2J2Nk1YU2RuQVFMVWxQbENoNUxVdmRDQkNZTmFyc3lFQzYtamhQUmVIR0I0WXBaeWFMUFNxb2tkaWRYdm5tM0ZTQXFCaWNwdkkxX193blF2TWE1d25QQXkyck95cy1hRHhYbnEyR196b1Q4a2pwZFhURHNfa2RxN245NnZfWlFuSQ?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "PhotonPay raises $40m Series C to scale its stablecoin-centric Financial OS",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb01lZXFCb2wyTXp1TGdKQXJOYkRqOERWVkQ5emxvMGdQeWxXLTNyVk9nbGF5Rlg2UG96bFM5N2hjdEtYOFJpM2xuejEtaTBQWnpEQWZXVXItc2QzVm5YZGtJWFhtZF9rOG1nNjN1MXRNWDloSXA5UlpWTlRjTzlKdXJocE1rSTBDblNyUGJRQkd0Q2NRVlpjTG4zNmd0NFRrZkJMdFNNQU5QY2Q5NjZ3bndMaw?oc=5"
-      }
-     ],
-     "title_orig": "Codex raises USD 30 mln Series A for stablecoin FX platform"
-    },
-    {
      "title": "SME Bank geht mit SaaScada Core live, um das Wachstum in der EU zu unterstützen",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVR3SFI5N0pFTFRRX2s1cFhJLWNuTmx1VjdZN3ZrZU5wVlFJc2VDbXRVNEl1QnN0bENERUl6R2FCOFF4REl3dTNjdmpaRkxsRHlpd1MtS005UjFuaFYzQVpOTXFqUEgwbGlCM09KVGRqZ0FtYWJUX2NFVWJ4ZU9kR0JjbzhuNFZWRENxNWhrY1pQcDZPZUZjeGJhdWprQTYxWTZkV1lB?oc=5",
      "image": "",
@@ -1606,26 +1591,6 @@
      "title_orig": "SME Bank goes live on SaaScada core to support EU growth"
     },
     {
-     "title": "FintechOS geht Partnerschaft mit UST FinX ein",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2NydlpDQkRkN094X09VLWdybUc0WVpVdEtnXzJHVkFQaDVRbjYxZFltS2dBV1FqeHQ2UEF3enJmbUxlbGxJU2pUeHl2bVdpNnZKSFl5Nlp0YW5xMjJ3THAzalJ6ZmVETFRMLU1LRk82bWlGeHp1U3NrMGhYQ21qVnpjZFlmM2ExSzJINE5yd1pkaHlKcGJMZ2lhNTNYX1JGV2c?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-20T09:10:38+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "FintechOS partners with UST FinX",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2NydlpDQkRkN094X09VLWdybUc0WVpVdEtnXzJHVkFQaDVRbjYxZFltS2dBV1FqeHQ2UEF3enJmbUxlbGxJU2pUeHl2bVdpNnZKSFl5Nlp0YW5xMjJ3THAzalJ6ZmVETFRMLU1LRk82bWlGeHp1U3NrMGhYQ21qVnpjZFlmM2ExSzJINE5yd1pkaHlKcGJMZ2lhNTNYX1JGV2c?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Demystify Podcast: Demystifying core banking modernisation with Liam Leahy of UST FinX",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX3dNc3VpVHBLT0liaFZHbWVKVUJUZ0NuaEVSZ3Y0aXlLVWlkRGx0YjhJN0lzbHoyUDdweEtXVnR2dUJiNGRySzJzYlFlejBNNGdJM1hiX09tamMzY2pzSW5JM2VSODItVUZlb1ZTS3pHaEM1V1ZSS3Q0UVlvVmtFTnRBNlctaEhEZzlFd0hHY2R3Yjdnek1NblJlVnJ0d1pwTW1rcl9iQ1hvQWVmYmhJT2V0Q05idHRPeFhuTDZxSFczTHFzNHlUSUpwZXl3NXJmYXhXd1F0QQ?oc=5"
-      }
-     ],
-     "title_orig": "FintechOS partners with UST FinX"
-    },
-    {
      "title": "Charity Bank wählt Temenos SaaS für Core Banking und Zahlungsverkehr",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORl9kb3R1YjQ5NURQdHdRQmx5MmVOblZrdEp1MzFjaWpVUHlBbmZsNDdEQWhOb2llR011V3FpbzFjd2tEZ0NHNWpMam5yUldyYUxKZlBGNVFLUWFSNGdPdm9uNTlvVWF0V29vS3V5blBxMVFPTzg2SEstbUZlWDBOV0xTQU1mOElEWFBYN0RyeHZHVDhoM3dUOEVIc0E1bFIw?oc=5",
      "image": "",
@@ -1644,6 +1609,26 @@
       }
      ],
      "title_orig": "Charity Bank selects Temenos SaaS for core banking and payments"
+    },
+    {
+     "title": "FintechOS geht Partnerschaft mit UST FinX ein",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2NydlpDQkRkN094X09VLWdybUc0WVpVdEtnXzJHVkFQaDVRbjYxZFltS2dBV1FqeHQ2UEF3enJmbUxlbGxJU2pUeHl2bVdpNnZKSFl5Nlp0YW5xMjJ3THAzalJ6ZmVETFRMLU1LRk82bWlGeHp1U3NrMGhYQ21qVnpjZFlmM2ExSzJINE5yd1pkaHlKcGJMZ2lhNTNYX1JGV2c?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-20T09:10:38+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "FintechOS partners with UST FinX",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2NydlpDQkRkN094X09VLWdybUc0WVpVdEtnXzJHVkFQaDVRbjYxZFltS2dBV1FqeHQ2UEF3enJmbUxlbGxJU2pUeHl2bVdpNnZKSFl5Nlp0YW5xMjJ3THAzalJ6ZmVETFRMLU1LRk82bWlGeHp1U3NrMGhYQ21qVnpjZFlmM2ExSzJINE5yd1pkaHlKcGJMZ2lhNTNYX1JGV2c?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Demystify Podcast: Demystifying core banking modernisation with Liam Leahy of UST FinX",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX3dNc3VpVHBLT0liaFZHbWVKVUJUZ0NuaEVSZ3Y0aXlLVWlkRGx0YjhJN0lzbHoyUDdweEtXVnR2dUJiNGRySzJzYlFlejBNNGdJM1hiX09tamMzY2pzSW5JM2VSODItVUZlb1ZTS3pHaEM1V1ZSS3Q0UVlvVmtFTnRBNlctaEhEZzlFd0hHY2R3Yjdnek1NblJlVnJ0d1pwTW1rcl9iQ1hvQWVmYmhJT2V0Q05idHRPeFhuTDZxSFczTHFzNHlUSUpwZXl3NXJmYXhXd1F0QQ?oc=5"
+      }
+     ],
+     "title_orig": "FintechOS partners with UST FinX"
     },
     {
      "title": "Neuseeländische Banken treten dem Betrugsbekämpfungsnetzwerk BioCatch Trust bei",
@@ -1684,6 +1669,26 @@
       }
      ],
      "title_orig": "CBI, Bancomat and Nexi to build Italian digital euro infrastructure"
+    },
+    {
+     "title": "Grenzüberschreitende Zahlungen im Jahr 2027: Marktaussichten",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdlIwQTF6d1RRQWNja1l4ZW1oQnhPSWZIUk9nS3BzNEpuckh0amNwYXpMbzVLMnNpdmE2QzlRRi1aSnhTOGdfa3N0UERjTG5KM2x5aU9DeFJ0T3FHaDBaSVZCZnJfQ29TTGhKbkk4d0JXZmZidDlVdDA1cmZHU3cyMDJGOFpWV1QxSlloVHViTHBhQQ?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-20T14:27:04+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Cross-border payments in 2027: market outlook",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdlIwQTF6d1RRQWNja1l4ZW1oQnhPSWZIUk9nS3BzNEpuckh0amNwYXpMbzVLMnNpdmE2QzlRRi1aSnhTOGdfa3N0UERjTG5KM2x5aU9DeFJ0T3FHaDBaSVZCZnJfQ29TTGhKbkk4d0JXZmZidDlVdDA1cmZHU3cyMDJGOFpWV1QxSlloVHViTHBhQQ?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "SFF 2026: AI agents enter the cross-border payments market",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWFNand1QmZVYlpVSWNLZG15ckkyakF1Nk0zM2REcW5rUm1TTzNiVFZ1dVJfMXI2b3EzNWtYNWF2RWpZVVd1cnpzemFmXzZOT0RRWTBHQlQ0bDJ6cmRfbnNVQXRvV0ROQVoya0RvU2NKT2JVZEJkbEZGaXVEcHV1VUQ3ZU9WR1VJazZRbEJ0S1IxUmg5dDdDUEtwV21ycWJBOU1rZw?oc=5"
+      }
+     ],
+     "title_orig": "Cross-border payments in 2027: market outlook"
     }
    ]
   },
@@ -1867,26 +1872,6 @@
      "title_orig": "Alipay+ connects global e-wallets with Brazil's Pix"
     },
     {
-     "title": "Pine Labs stellt Plattform zur Verbindung von Stablecoins und Kartenzahlungen vor",
-     "link": "https://www.finextra.com/pressarticle/111733/pine-labs-unveils-platform-to-connect-stablecoins-and-card-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Building-the-Intelligent-Card-Platform-Hero-image.jpg?w=457",
-     "n_sources": 2,
-     "time": "2026-11-19T13:19:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Pine Labs unveils platform to connect stablecoins and card payments",
-       "link": "https://www.finextra.com/pressarticle/111733/pine-labs-unveils-platform-to-connect-stablecoins-and-card-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Building the Intelligent Card Platform",
-       "link": "https://www.pymnts.com/report/tracker/building-the-intelligent-card-platform/"
-      }
-     ],
-     "title_orig": "Pine Labs unveils platform to connect stablecoins and card payments"
-    },
-    {
      "title": "Die Weltbank arbeitet mit Citi und Circle zusammen, um Stablecoins für Entwicklungszahlungen zu testen",
      "link": "https://www.finextra.com/newsarticle/48780/world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "https://www.pymnts.com/wp-content/uploads/2026/11/World-Bank-Group.jpeg?w=457",
@@ -1905,6 +1890,26 @@
       }
      ],
      "title_orig": "World Bank partners Citi and Circle to test stablecoins for development payments"
+    },
+    {
+     "title": "Klarna führt KI-Assistenten ein",
+     "link": "https://www.finextra.com/pressarticle/111728/klarna-launches-ai-assistant?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://imgproxy.divecdn.com/gwCYvKndPolv_OGuw-OmuUImU7x5exuZGZHtUxfiyLI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM0Njc4NTE3LmpwZw==.webp",
+     "n_sources": 2,
+     "time": "2026-11-18T20:29:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Klarna launches AI assistant",
+       "link": "https://www.finextra.com/pressarticle/111728/klarna-launches-ai-assistant?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "Payments Dive",
+       "title": "Klarna launches AI ‘concierge’",
+       "link": "https://www.paymentsdive.com/news/klarna-launches-ai-concierge/875033/"
+      }
+     ],
+     "title_orig": "Klarna launches AI assistant"
     }
    ],
    "30d": [
@@ -1981,7 +1986,7 @@
     {
      "title": "Pine Labs stellt Plattform zur Verbindung von Stablecoins und Kartenzahlungen vor",
      "link": "https://www.finextra.com/pressarticle/111733/pine-labs-unveils-platform-to-connect-stablecoins-and-card-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Building-the-Intelligent-Card-Platform-Hero-image.jpg?w=457",
+     "image": "https://www.pymnts.com/wp-content/uploads/2025/11/Ripple-Labs.jpg?w=457",
      "n_sources": 2,
      "time": "2026-11-19T13:19:00+00:00",
      "sources": [
@@ -1992,8 +1997,8 @@
       },
       {
        "name": "PYMNTS",
-       "title": "Building the Intelligent Card Platform",
-       "link": "https://www.pymnts.com/report/tracker/building-the-intelligent-card-platform/"
+       "title": "Ripple Brings Its Stablecoin to Coinbase’s Trading Platforms",
+       "link": "https://www.pymnts.com/cryptocurrency/2026/ripple-brings-its-stablecoin-to-coinbases-trading-platforms/"
       }
      ],
      "title_orig": "Pine Labs unveils platform to connect stablecoins and card payments"
@@ -2128,54 +2133,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "harry kane",
-      "link": "https://www.kicker.de/torjaeger-bereits-operiert-kane-erleidet-syndesmoseriss-1273380/artikel",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "sozialhilfe",
-      "link": "https://www.gegen-hartz.de/urteile/sozialhilfe-ein-ein-personen-haushalt-gilt-mit-90-quadratmeter-noch-als-angemessen-urteil",
+      "title": "timberwolves – grizzlies",
+      "link": "https://www.reutersconnect.com/item/nba-memphis-grizzlies-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MTk5NzU",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "ralf bauer",
-      "link": "https://suaragarut.id/de/ralf-bauer-geheimnisvolle-beziehung",
+      "title": "post",
+      "link": "https://www.washingtonpost.com/advice/2026/11/22/carolyn-hax-wife-overloaded-by-texts-that-spouse-calls-short-sweet/",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "f1 las vegas",
-      "link": "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK",
+      "title": "die tribute von panem – sunrise on the reaping",
+      "link": "https://www1.wdr.de/kultur/panem-ruhrgebiet-100.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "gouverneur von washington",
+      "link": "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "spielabbruch",
+      "link": "https://www.schwaebische-post.de/sport/regionalsport/bargau-bettringen-spielabbruch-nach-kopfverletzung-ueberschattet-handball-spiel-94598803.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "senior",
+      "link": "https://www.espn.com/college-football/recap/_/gameId/401858307",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "red dead redemption 2",
-      "link": "https://www.forbes.com/sites/paultassi/2026/11/21/where-to-find-arthur-morgans-red-dead-cowboy-hat-in-gta-6/",
-      "meta": "100+ Suchanfragen"
+      "title": "malik tillman",
+      "link": "https://www.sport1.de/news/fussball/bundesliga/2026/11/tillman-im-zwist-mit-den-fans-zuspruch-relativ-egal",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "إنتر ميامي ضد كولومبوس كرو",
-      "link": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%84%D8%A7-%D9%8A%D8%AA%D9%88%D9%82%D9%81--%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D8%AA%D8%B3%D9%84%D9%85-%D8%AC%D8%A7%D9%8A%D9%94%D8%B2%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%94%D8%B1%D9%82%D8%A7%D9%85-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9/blt869af1ab2f6917b4",
-      "meta": "100+ Suchanfragen"
+      "title": "kran",
+      "link": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-autokran-kippt-im-kehler-rheinhafen-um-fahrer-schwer-verletzt-100.html",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "eichbaum ausverkauf",
-      "link": "https://www.bild.de/regional/baden-wuerttemberg/insolvente-brauerei-startet-ausverkauf-kasten-bier-fuer-nur-5-euro-6b0174144490a28f5fdb7ff4",
-      "meta": "5000+ Suchanfragen"
+      "title": "liam hemsworth",
+      "link": "https://guides.justwatch.com/us/is-liam-hemsworth-in-surnrise-on-the-reaping",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "juventus turin",
-      "link": "https://sportbild.bild.de/fussball/internationaler-fussball/serie-a-ueberraschende-woltemade-wende-bei-juve-6b01aa3f45d8681e4fca3ec7",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "jessica alba",
-      "link": "https://www.imdb.com/es/news/ni66120860/?ref_=nm_nwr_1",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "zero-day-lücke",
-      "link": "https://www.golem.de/news/angriffe-seit-september-update-fuer-zero-day-luecke-in-vmware-vcenter-verfuegbar-2611-215464.html",
-      "meta": "100+ Suchanfragen"
+      "title": "polizeieinsatz",
+      "link": "https://www.donaukurier.de/lokales/ingolstadt/bedrohungslage-befuerchtet-grosser-polizeieinsatz-in-ingolstadt-gebiet-abgesperrt-22472423",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2242,33 +2247,33 @@
     "lang": "fr",
     "items": [
      {
-      "title": "Kanal",
-      "link": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/montargis/une-peniche-a-explose-dans-le-port-de-montargis-en-pleine-nuit-trois-blesses-dont-un-grave-3453501.html",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "canal"
-     },
-     {
-      "title": "kings – celtics",
-      "link": "https://www.celticsblog.com/boston-celtics-news/150777/celtics-announce-new-starting-lineup-kings",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "lotto Ziehung Ergebnisse",
-      "link": "https://www.20minutes.fr/guide-achat/bon-plan-fdj/4264701-20261121-resultats-loto-fdj-numeros-gagnants-samedi-21-novembre",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "tirage loto résultats"
-     },
-     {
-      "title": "Mavericks – Clippers",
-      "link": "https://cwibc.co.id/en/mavericks-clippers-injury-preview-dallas",
+      "title": "Großfamilien: Das Leben in XXL",
+      "link": "https://www.programme-tv.net/news/tele-realite/411442-marie-alix-jeanson-familles-nombreuses-devoile-sa-routine-pour-perdre-du-poids-de-temps-en-temps-je-m-accorde-un-petit-plaisir/",
       "meta": "100+ Suchanfragen",
-      "title_orig": "mavericks – clippers"
+      "title_orig": "familles nombreuses : la vie en xxl"
      },
      {
-      "title": "Spielstatistiken des Spielers Spurs – Pelicans aus New Orleans",
-      "link": "https://www.espn.com/nba/recap/_/gameId/401910027",
+      "title": "free",
+      "link": "https://fansided.com/mlb/sources-giants-open-to-trade-offers-for-star-pitcher-logan-webb",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "Kätzchen",
+      "link": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/il-ne-pesait-que-312-grammes-trouve-au-milieu-des-dechets-pres-de-rouen-le-chaton-attila-a-ete-adopte-3453303.html",
       "meta": "500+ Suchanfragen",
-      "title_orig": "statistiques de match du joueur spurs – pelicans de la nouvelle-orléans"
+      "title_orig": "chaton"
+     },
+     {
+      "title": "Marc Márquez",
+      "link": "https://www.lequipe.fr/Moto/Actualites/Marco-bezzecchi-gagne-le-sprint-du-gp-du-portugal-sacre-retarde-pour-marc-marquez-parti-a-la-faute/1745114",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "marc marquez"
+     },
+     {
+      "title": "Brücke der Île d'Oléron",
+      "link": "https://www.sudouest.fr/politique/le-pont-d-oleron-les-empeche-de-dormir-la-folie-des-grandeurs-une-semaine-d-echos-politiques-en-charente-maritime-31599097.php",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "pont de l'île d'oléron"
      }
     ]
    },
@@ -2277,31 +2282,29 @@
     "lang": "it",
     "items": [
      {
-      "title": "now",
-      "link": "https://www.wmbfnews.com/2026/11/19/live-updates-hearing-begins-scott-spivey-case-after-indictments/",
+      "title": "golden power",
+      "link": "https://www.ilpost.it/2026/11/20/avio-cosa-fa-iceye-opa-golden-power/",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Knicks – Trail Blazers",
-      "link": "https://www.rotowire.com/basketball/headlines/og-anunoby-injury-downgraded-to-doubtful-540326",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "knicks - trail blazers"
+      "title": "verona",
+      "link": "https://www.gazzetta.it/Calcio/Serie-B/20-11-2026/serie-b-risultato-e-marcatori-di-verona-cesena.shtml",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "ferrari 296 challenge stradale",
-      "link": "https://www.gazzetta.it/motori/la-mia-auto/21-11-2026/ferrari-296-challenge-stradale-prezzo-e-prestazioni.shtml",
-      "meta": "200+ Suchanfragen"
+      "title": "maxx morando",
+      "link": "https://people.com/miley-cyrus-marries-maxx-morando-11877139",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Erdbeben in Kalabrien",
-      "link": "https://www.rainews.it/articoli/2026/11/scossa-di-terremoto-nel-vibonese-2e6cdae2-35a9-4dcc-92de-47d2c1ec8f24.html",
-      "meta": "20000+ Suchanfragen",
-      "title_orig": "scossa terremoto calabria"
+      "title": "leclerc",
+      "link": "https://www.espn.com/f1/story/_/id/50472109/lewis-hamilton-charles-leclerc-ferrari-las-vegas-grand-prix-formula-1",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "federica nargi",
-      "link": "https://video.corriere.it/oggi/federica-nargi-alessandro-matri-fuga-mare-riunire-famiglia/3a4aa164-e4ca-11f1-a3ed-2e2ed83900cc",
-      "meta": "500+ Suchanfragen"
+      "title": "formulapassion",
+      "link": "https://www.gazzetta.it/motori/ferrari/22-11-2026/ferrari-rabbia-vasseur-su-leclerc-comportamento-inaccettabile.shtml",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2310,33 +2313,32 @@
     "lang": "es",
     "items": [
      {
-      "title": "Fluggesellschaft Plus Ultra",
-      "link": "https://www.elcorreo.com/economia/empresas/gobierno-maniobra-evitar-quiebra-plus-ultra-recuperar-20261119091015-ntrc.html",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "aerolinea plus ultra"
+      "title": "evangel ische",
+      "link": "https://www.elmundo.es/economia/macroeconomia/2026/11/21/6b017050e9cf4ad5138b45a2.html",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "impuesto"
      },
      {
-      "title": "Wie viele Kapitel hat GTA 6?",
-      "link": "https://www.redbull.com/cl-es/gta-6-lista-completa-de-misiones-y-guia-de-capitulos",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "cuantos capitulos tiene gta 6"
+      "title": "alfredo rodríguez-muñoz",
+      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-22/alfredo-rodriguez-psicologo-experto-sueno-cerebro-cansado-menos-empatico-mas-impulsivo-1qrt_4468647/",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "spurs - pelicans",
-      "link": "https://www.nba.com/game/nop-vs-sas-0022600278/box-score",
-      "meta": "200+ Suchanfragen"
+      "title": "magrudis sl",
+      "link": "https://www.abc.es/sevilla/ciudad/antonio-sanz-sobre-alerta-sanitaria-carne-mechada-20261121125028-nts.html",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Mavericks – Clippers",
-      "link": "https://www.vavel.com/en-us/nba/2026/11/21/1280207-clippers-vs-mavericks-live-score-updates-stream-info-and-results-in-nba-regular-season.html",
+      "title": "Arbeitgeber",
+      "link": "https://www.lavozdegalicia.es/noticia/galicia/2026/11/21/yolanda-diaz-inicia-tramites-revocar-medalla-merito-trabajo-pedro-barrie-maza/00031795290646065495333.htm",
       "meta": "200+ Suchanfragen",
-      "title_orig": "mavericks - clippers"
+      "title_orig": "empresario"
      },
      {
-      "title": "Wann findet die Miss Universe 2026 statt?",
-      "link": "https://www.telemundo.com/shows/miss-universo/candidatas-latinas-de-miss-universe-2026-quienes-son-rcna608385",
+      "title": "Stromtarif heute",
+      "link": "https://www.elmundo.es/como/2026/11/21/6b006aa8e4d4d898208b4592.html",
       "meta": "100+ Suchanfragen",
-      "title_orig": "cuando es el miss universo 2026"
+      "title_orig": "tarifa luz hoy"
      }
     ]
    },
@@ -2345,31 +2347,33 @@
     "lang": "en",
     "items": [
      {
-      "title": "colin farrell",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/20/the-seven-best-films-to-watch-on-tv-this-week",
+      "title": "e.j. carroll",
+      "link": "https://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599/",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Las Vegas",
-      "link": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-in-las-vegas-after-multiple-penalties.1PRdR9E7qYRjHoRh1NlDR4",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "las vegas gp"
+      "title": "Der absolute Spoiler",
+      "link": "https://www.theguardian.com/tv-and-radio/live/2026/nov/14/strictly-come-dancing-week-eight-live?page=with%3Ablock-6afa0d308f089036c711ef88",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "the strictly spoiler"
      },
      {
-      "title": "dele alli",
-      "link": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
-      "meta": "200+ Suchanfragen"
+      "title": "Prinz William Auslandsbesuche 2027",
+      "link": "https://www.thetimes.com/uk/royal-family/article/prince-william-government-request-overseas-trips-gnffrqzxq",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "prince william foreign visits 2027"
      },
      {
-      "title": "Timberwolves gegen Grizzlies",
-      "link": "https://www.espn.com/nba/recap?gameId=401910026",
+      "title": "F1-Ergebnisse heute",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo",
       "meta": "200+ Suchanfragen",
-      "title_orig": "timberwolves vs grizzlies"
+      "title_orig": "f1 results today"
      },
      {
-      "title": "ridley scott",
-      "link": "https://collider.com/alien-ridley-scott-leaving-netflix-december-2026/",
-      "meta": "200+ Suchanfragen"
+      "title": "GTA-VI-Spiel",
+      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "gta vi game"
      }
     ]
    },
@@ -2378,30 +2382,28 @@
     "lang": "pl",
     "items": [
      {
-      "title": "Janja Lesar Asien-Express",
-      "link": "https://pilot.wp.pl/vod/kanaly-tv,34/tvn-style,8403/2026-11-22/azja-express,10028416",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "janja lesar azja express"
+      "title": "radosław sikorski",
+      "link": "https://tvn24.pl/polska/rezygnacja-jakuba-kumocha-z-funkcji-ambasadora-karol-nawrocki-stara-sie-o-wizyte-w-chinach-radoslaw-sikorski-krytykuje-st9351329",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Russisches Schiff in der Ostsee",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-rosja-o-ataku-w-zatoce-finskiej-nasz-statek-ostrzelany-na-ne,nId,23576971",
-      "meta": "10000+ Suchanfragen",
-      "title_orig": "rosyjski statek na bałtyku"
-     },
-     {
-      "title": "joseph zada",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/joseph-zada-woody-harrelson-hunger-games-premiere-1236757437/",
+      "title": "scuderia ferrari",
+      "link": "https://www.formula1.com/en/latest/article/a-very-poor-qualifying-leclerc-and-hamilton-lament-ferraris-performance-in-las-vegas.5NIhyjb93o9jPrK39GLuRe",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "rockstar games gta vi",
-      "link": "https://gry.interia.pl/sprzet/news-jedyna-w-swoim-rodzaju-konsola-xbox-dla-wytrawnych-fanow-gta,nId,23526089",
-      "meta": "2000+ Suchanfragen"
+      "title": "maxx morando",
+      "link": "https://people.com/miley-cyrus-marries-maxx-morando-11877139",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "jamal musiala",
-      "link": "https://sport.interia.pl/pilka-nozna/bundesliga/news-dramat-gwiazdy-bayernu-goracy-spor-na-szczycie-mozliwa-drast,nId,23577019",
+      "title": "spurs – pelicans",
+      "link": "https://www.afp.com/en/wembys-50-leads-spurs-win-while-embiid-sparks-sixers",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "kamienica",
+      "link": "https://businessinsider.com.pl/gospodarka/kamienica-w-bytomiu-za-symboliczna-kwote-fundacja-planuje-wielkie-zmiany/4nrtfrb",
       "meta": "500+ Suchanfragen"
      }
     ]
@@ -2480,31 +2482,34 @@
     "lang": "en",
     "items": [
      {
-      "title": "jack whitehall",
-      "link": "https://www.chad.co.uk/whats-on/jack-whitehall-ending-2026-by-being-a-bad-influence-in-nottingham-9365050",
-      "meta": "1000+ Suchanfragen"
+      "title": "Powerball-Gewinner",
+      "link": "https://www.usatoday.com/story/money/lottery/2026/11/21/powerball-winning-numbers-november-21-2026/92884986007/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "powerball winner"
      },
      {
-      "title": "apple tv",
-      "link": "https://www.billboard.com/culture/product-recommendations/best-black-friday-streaming-deals-2026-prices-plans-1236386882/",
-      "meta": "2000+ Suchanfragen"
+      "title": "Kriminelles Profil GTA 6",
+      "link": "https://www.redbull.com/us-en/gta-6-criminal-profile-levels-explained",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "criminal profile gta 6"
      },
      {
-      "title": "F1-Zeitplan",
-      "link": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-las-vegas-gp.4k41CN1CbogRoqk1kkOb9C",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "f1 schedule"
-     },
-     {
-      "title": "Wetter in Las Vegas",
-      "link": "https://www.mercedesamgf1.com/news/rain-clouds-opening-day-picture-in-las-vegas",
+      "title": "Lucia-Sprecherin",
+      "link": "https://www.yahoo.com/entertainment/celebrity/article/the-gta-6-cast-has-been-revealed-meet-the-voice-actors-behind-lucia-jason-and-more-155230217.html",
       "meta": "500+ Suchanfragen",
-      "title_orig": "las vegas weather"
+      "title_orig": "lucia voice actor"
      },
      {
-      "title": "zach lavine",
-      "link": "https://www.fantasypros.com/nba/news/621666/zach-lavine-fills-stat-sheet-friday-against-lakers.php",
-      "meta": "500+ Suchanfragen"
+      "title": "Vicki GTA 6 Synchronsprecherin",
+      "link": "https://www.radiotimes.com/technology/gaming/gta-6-vicki-actor-taryn-manning/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "vicki gta 6 voice actor"
+     },
+     {
+      "title": "Robert Downey Jr.",
+      "link": "https://www.imdb.com/news/ni66112135/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "robert downey jr"
      }
     ]
    },
@@ -2513,30 +2518,30 @@
     "lang": "en",
     "items": [
      {
-      "title": "manav suthar",
-      "link": "https://www.thehindu.com/sport/cricket/my-effort-is-always-to-keep-learning-something-new-every-day-suthar/article71728595.ece",
+      "title": "ప్రమాదము",
+      "link": "https://www.eenadu.net/telugu-news/india/road-accident-in-rajasthan-9-killed/0701/126212677",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "जीरा",
-      "link": "https://hi.investing.com/news/commodities-news/article-774101",
+      "title": "jack edwards cricket",
+      "link": "https://www.cricbuzz.com/player-match-performance/match/151338/player/13348/batting",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "ncc",
-      "link": "https://www.indiagazette.com/news/279448394/nation-first-spirit-of-ncc-cadets-giving-fresh-impetus-to-vision-of-viksit-bharat-cms-extend-wishes-on-ncc-raising-day",
-      "meta": "100+ Suchanfragen"
+      "title": "Wüstenvipen",
+      "link": "https://www.cricbuzz.com/cricket-news/141011/mi-emirates-avenge-loss-to-desert-vipers",
+      "meta": "20000+ Suchanfragen",
+      "title_orig": "desert vipers"
      },
      {
-      "title": "Impftag gegen Kinderlähmung 2026 November",
-      "link": "https://www.thehindu.com/news/cities/Madurai/polio-camps-to-be-held-across-virudhunagar-district-on-sunday/article71728544.ece",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "pulse polio 2026 november"
+      "title": "രമേശ് ചെന്നിത്തല",
+      "link": "https://www.mathrubhumi.com/news/kerala/k-muraleedharan-denies-govt-rifts-centre-health-scheme-f9q2cvx5",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "రియల్ ఎస్టేట్",
-      "link": "https://www.ntnews.com/hyderabad/hyderabad-real-estate-crisis-1-43-lakh-unsold-homes-as-property-market-slumps-2565154",
-      "meta": "100+ Suchanfragen"
+      "title": "रामायण",
+      "link": "https://www.aajtak.in/entertainment/bollywood-news/story/ramayana-box-office-collection-day-17-ranbir-kapoor-yash-third-week-growth-tmovj-dskc-2702605-2026-11-22",
+      "meta": "2000+ Suchanfragen"
      }
     ]
    },
@@ -2545,32 +2550,31 @@
     "lang": "pt",
     "items": [
      {
-      "title": "Tabelle Once Caldas vs. Atlético Nacional",
-      "link": "https://sports.yahoo.com/articles/nacional-announce-squad-face-once-210800514.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "classificações de once caldas x atlético nacional"
+      "title": "Wettervorhersage für Porto Alegre",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/22/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-e-chuva-passageira-a-noite-muitas-nuvens-mas-com-tempo-firme.ghtml",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "previsão do tempo porto alegre"
      },
      {
-      "title": "joseph zada",
-      "link": "https://people.com/joseph-zada-jokes-his-haymitch-accent-was-so-bad-at-first-it-really-evolved-exclusive-12268255",
+      "title": "apple",
+      "link": "https://www.billboard.com/culture/product-recommendations/best-black-friday-streaming-deals-2026-prices-plans-1236386882/",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "F1-Fahrpläne",
-      "link": "https://ge.globo.com/motor/formula-1/noticia/2026/11/21/gp-de-las-vegas-de-f1-horarios-e-onde-assistir-ao-vivo.ghtml",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "f1 horarios"
-     },
-     {
-      "title": "Engelwurz",
-      "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/angelica-lamenta-morte-de-ex-assistente-de-palco-que-deus-conforte-o-coracao-de-voces.ghtml",
+      "title": "Abendessen",
+      "link": "https://people.com/miley-cyrus-marries-maxx-morando-11877139",
       "meta": "100+ Suchanfragen",
-      "title_orig": "angélica"
+      "title_orig": "dinner"
      },
      {
-      "title": "rocky",
-      "link": "https://www.ksl.com/article/51647130/review-i-play-rocky-might-be-even-more-inspiring-than-original-rocky",
-      "meta": "100+ Suchanfragen"
+      "title": "chitãozinho",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/11/22/chitaozinho-e-xororo-anunciam-aposentadoria-dos-palcos.ghtml",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "keanu reeves",
+      "link": "https://www.adorocinema.com/noticias/filmes/noticia-1000232382/",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2579,34 +2583,34 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Matcha-Tiramisu-Frappuccino",
-      "link": "https://www.sankei.com/article/20261120-JJVCGQFQJVMMJNIROCK3D3264A/?outputType=theme_oriconnews",
+      "title": "Kumamoto gegen Kitakyushu",
+      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E7%86%8A%E6%9C%AC%20%E5%AF%BE%20%E5%8C%97%E4%B9%9D%E5%B7%9E",
       "meta": "200+ Suchanfragen",
-      "title_orig": "抹茶ティラミスフラペチーノ"
+      "title_orig": "熊本 対 北九州"
      },
      {
-      "title": "Legenden-Match",
-      "link": "https://news.yahoo.co.jp/articles/531d175e9346fba075b7d6eb76a4dea1fcde464b",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "レジェンドマッチ"
-     },
-     {
-      "title": "Sixtones-Stream",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=sixtones%20%E9%85%8D%E4%BF%A1",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "sixtones 配信"
-     },
-     {
-      "title": "Minister für Katastrophenschutz Hosono",
-      "link": "https://trends.google.com/trends/explore?geo=JP&q=%E7%B4%B0%E9%87%8E%E9%98%B2%E7%81%BD%E5%A4%A7%E8%87%A3",
+      "title": "Tokyo Sports Hai Ni-sai Stakes",
+      "link": "https://www.jra.go.jp/keiba/race/106.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "細野防災大臣"
+      "title_orig": "東京スポーツ杯2歳ステークス"
      },
      {
-      "title": "Amateur-Gesangswettbewerb",
-      "link": "https://topics.smt.docomo.ne.jp/article/ggtnews/entertainment/ggtnews-qtqZq",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "のど自慢"
+      "title": "Japan Cup",
+      "link": "https://news.yahoo.co.jp/articles/a3d133967dc3abe807da6398f58dac19d843df00",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "ジャパンカップ"
+     },
+     {
+      "title": "Ellie Golf",
+      "link": "https://news.yahoo.co.jp/articles/a46dd134852d0f4fd2f842315de83d0e7101f62c",
+      "meta": "5000+ Suchanfragen",
+      "title_orig": "エリエールゴルフ"
+     },
+     {
+      "title": "Tama鷲",
+      "link": "https://news.yahoo.co.jp/articles/ebb33e913a6fb3ee5b18005090f1f0a6e47c3107",
+      "meta": "1000+ Suchanfragen",
+      "title_orig": "玉鷲"
      }
     ]
    },
@@ -2685,13 +2689,13 @@
      {
       "title": "Pille zur Behandlung von Bauchspeicheldrüsenkrebs als „größter Durchbruch seit Jahrzehnten“ gefeiert",
       "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "meta": "The Guardian · 235 Personen teilen",
+      "meta": "The Guardian · 236 Personen teilen",
       "title_orig": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’"
      },
      {
       "title": "Forscher platziert 2 Millionen Kanarienvögel in die KI-Lieferkette. Es kam zu einem Datenschutzdesaster.",
       "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "meta": "Ars Technica · 611 Personen teilen",
+      "meta": "Ars Technica · 647 Personen teilen",
       "title_orig": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced."
      },
      {
@@ -2736,7 +2740,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 163,
+   "count": 162,
    "error": ""
   },
   {
@@ -2792,7 +2796,7 @@
    "source": "The Paypers",
    "category": "pay_eu",
    "ok": true,
-   "count": 89,
+   "count": 87,
    "error": ""
   },
   {
@@ -2933,7 +2937,7 @@
    "category": "translate",
    "ok": true,
    "count": 103,
-   "info": "103 von 103 Überschriften übersetzt (neu in diesem Lauf: MyMemory 40). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "info": "103 von 103 Überschriften übersetzt (neu in diesem Lauf: MyMemory 42). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
