@@ -1,19 +1,120 @@
 {
- "generated": "2026-11-25T19:15:26+00:00",
+ "generated": "2026-11-26T03:34:18+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
    {
-    "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
-    "image": "https://images.tagesschau.de/image/bcd27a52-99f9-4134-9b94-9d8b22e471c4/AAABohPD-PQ/AAABnSSvrFg/16x9-big/merz-weidel-114.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-25T18:10:19+00:00",
+    "title": "Mit 65 Jahren: Duran-Duran-Gitarrist Andy Taylor gestorben",
+    "link": "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html",
+    "image": "https://images.tagesschau.de/image/7e083346-67cf-4595-8a61-224c5171e1f2/AAABohUWYUc/AAABnSSvrFg/16x9-big/andytaylor-100.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-26T03:11:15+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html"
+      "title": "Mit 65 Jahren: Duran-Duran-Gitarrist Andy Taylor gestorben",
+      "link": "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Duran Duran: Ex-Gitarrist Andy Taylor im Alter von 65 Jahren gestorben",
+      "link": "https://www.spiegel.de/kultur/musik/duran-duran-ex-gitarrist-andy-taylor-im-alter-von-65-jahren-gestorben-a-79954b88-ecf6-45f9-8d90-6a531481f60f#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Andy Taylor: Duran-Duran-Gitarrist Andy Taylor ist tot",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/andy-taylor-duran-duran-gitarrist-tod-prostatakrebs"
+     },
+     {
+      "name": "FAZ",
+      "title": "Britische New-Wave-Band: Ehemaliger Duran-Duran-Gitarrist Andy Taylor gestorben",
+      "link": "https://www.faz.net/aktuell/gesellschaft/menschen/andy-taylor-gestorben-duran-duran-gitarrist-erlag-prostatakrebs-accg-201718193.html"
+     }
+    ]
+   },
+   {
+    "title": "Tote und Vermisste nach Überflutung in Goldmine",
+    "link": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html",
+    "image": "https://images.tagesschau.de/image/6a208b04-649b-4680-a949-089705bc36cc/AAABohIQbJs/AAABnSSvrFg/16x9-big/goldmine-indonesien-100.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-26T03:05:05+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Tote und Vermisste nach Überflutung in Goldmine",
+      "link": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Illegaler Bergbau: 13 Tote aus überfluteter Goldmine in Indonesien geborgen",
+      "link": "https://www.zeit.de/news/2026-11/26/13-tote-aus-ueberfluteter-goldmine-in-indonesien-geborgen"
+     },
+     {
+      "name": "FAZ",
+      "title": "Indonesien: Dutzende Vermisste nach Überflutung einer Goldmine",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/dutzende-vermisste-in-indonesien-nach-ueberflutung-in-goldmine-accg-201715306.html"
+     }
+    ]
+   },
+   {
+    "title": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
+    "link": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
+    "image": "https://images.tagesschau.de/image/375a2712-4ace-4f86-8427-3a1086acaa7d/AAABohSLUM0/AAABnSSvrFg/16x9-big/aegypten-grossbrand-100.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-26T02:22:01+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
+      "link": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Ägypten: Mindestens 31 Tote bei Großbrand nach Verkehrsunfall bei Kairo",
+      "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/aegypten-gizeh-tanklaster-unfall-autobahn-kairo"
+     },
+     {
+      "name": "FAZ",
+      "title": "Ägypten: Mindestens 31 Tote bei Großbrand in Gizeh bei Kairo",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/grossbrand-in-gizeh-mindestens-31-tote-nach-lkw-unfall-accg-201718163.html"
+     }
+    ]
+   },
+   {
+    "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
+    "image": "https://images.tagesschau.de/image/ee1320b8-70a0-4194-b749-b4edd868901c/AAABohVSmy8/AAABnSSvrFg/16x9-big/spacex-326.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-26T01:58:55+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Projekt Starmind: SpaceX darf Satelliten für KI-Rechenzentren ins All schicken",
+      "link": "https://www.zeit.de/digital/2026-11/spacex-starmind-satelliten-fcc-elon-musk-nvidia"
+     },
+     {
+      "name": "FAZ",
+      "title": "Satellitennetz „Starmind“: SpaceX darf eine Million Satelliten ins All bringen",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spacex-darf-eine-million-satelliten-fuer-ki-rechenzentren-ins-all-bringen-201717821.html"
+     }
+    ]
+   },
+   {
+    "title": "Bundestag diskutiert in Generaldebatte Haushalt für 2027",
+    "link": "https://www.tagesschau.de/tagesthemen/video-1690010.html",
+    "image": "https://images.tagesschau.de/image/ede7d576-8156-4ae5-adca-5b06def80bd2/AAABohSaoIQ/AAABnSSvrFg/16x9-big/sendungsbild-1833176.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-25T21:26:53+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Bundestag diskutiert in Generaldebatte Haushalt für 2027",
+      "link": "https://www.tagesschau.de/tagesthemen/video-1690010.html"
      },
      {
       "name": "Spiegel",
@@ -21,9 +122,81 @@
       "link": "https://www.spiegel.de/politik/deutschland/bundestag-so-laeuft-die-generaldebatte-zum-haushalt-live-a-e9f39663-47e8-4835-a192-24bcfe73cc6e#ref=rss"
      },
      {
+      "name": "Handelsblatt",
+      "title": "+++ Bundespolitik +++: Jetzt live – Merz spricht bei Generaldebatte im Bundestag",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-jetzt-live-merz-spricht-bei-generaldebatte-im-bundestag/100137034.html"
+     }
+    ]
+   },
+   {
+    "title": "Champions League: Bayern verlieren 1:2 in Lille",
+    "link": "https://www.sportschau.de/fussball/championsleague/bayern-verstolpern-sieg-in-lille,spielbericht-lille-bayern-muenchen-100.html",
+    "image": "https://images.sportschau.de/image/b70afad9-f64c-48d2-bcd2-022d1b03df8c/AAABohS6CVk/AAABnSSvrFg/16x9-big/pavlovic-eigentor-100.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-25T23:13:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Champions League: Bayern verlieren 1:2 in Lille",
+      "link": "https://www.sportschau.de/fussball/championsleague/bayern-verstolpern-sieg-in-lille,spielbericht-lille-bayern-muenchen-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Champions League: FC Bayern München verliert nach Führung in Lille",
+      "link": "https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-verliert-nach-fuehrung-in-lille-a-705d3778-1c49-4f83-b5b8-030c9b4b06c2#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Champions League: Bayern kassieren in Lille erste Saison-Niederlage",
+      "link": "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-muenchen-verliert-in-champions-league-bei-osc-lille-201305467.html"
+     }
+    ]
+   },
+   {
+    "title": "Champions League: Stuttgart verliert 0:2 bei Inter Mailand",
+    "link": "https://www.sportschau.de/fussball/championsleague/inter-kocht-stuttgart-ab,spielbericht-inter-mailand-vfb-stuttgart-100.html",
+    "image": "https://images.sportschau.de/image/a983010d-be15-4d9f-9c4b-46b8b2bd8ec6/AAABohSvUzc/AAABnSSvrFg/16x9-big/demirovic-172.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-25T22:29:45+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Champions League: Stuttgart verliert 0:2 bei Inter Mailand",
+      "link": "https://www.sportschau.de/fussball/championsleague/inter-kocht-stuttgart-ab,spielbericht-inter-mailand-vfb-stuttgart-100.html"
+     },
+     {
       "name": "Zeit Online",
-      "title": "Haushaltsdebatte im Bundestag: Tino Chrupalla kritisiert in Generaldebatte Ukrainehilfen",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/bundeshaushalt-generaldebatte-bundestag-live"
+      "title": "Champions League, 5. Spieltag: Bayern verliert durch Eigentor, Mailand gewinnt gegen Stuttgart",
+      "link": "https://www.zeit.de/sport/2026-11/champions-league-fc-bayern-losc-lille-inter-mailand-vfb-stuttgart"
+     },
+     {
+      "name": "FAZ",
+      "title": "0:2 bei Inter: Stuttgart verliert im strömenden Regen von Mailand",
+      "link": "https://www.faz.net/aktuell/sport/fussball/champions-league/vfb-stuttgart-verliert-in-champions-league-bei-inter-mailand-201305466.html"
+     }
+    ]
+   },
+   {
+    "title": "Reformpläne: Unionspolitiker schlagen Kompromiss im Rentenstreit vor",
+    "link": "https://www.zeit.de/news/2026-11/25/unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor",
+    "image": "https://img.zeit.de/news/2026-11/25/unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor-image-group/original__640x360",
+    "n_sources": 3,
+    "time": "2026-11-25T20:14:28+00:00",
+    "sources": [
+     {
+      "name": "Zeit Online",
+      "title": "Reformpläne: Unionspolitiker schlagen Kompromiss im Rentenstreit vor",
+      "link": "https://www.zeit.de/news/2026-11/25/unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor"
+     },
+     {
+      "name": "FAZ",
+      "title": "Deutschland Liveblog: Unionspolitiker schlagen Kompromiss im Rentenstreit vor",
+      "link": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor-faz-110093143.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Reformpläne: Unionspolitiker schlagen Kompromiss im Rentenstreit vor",
+      "link": "https://www.handelsblatt.com/politik/deutschland/reformplaene-unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor/100272818.html"
      }
     ]
    },
@@ -52,30 +225,6 @@
     ]
    },
    {
-    "title": "US-Gericht spricht Huawei wegen Betrugs schuldig",
-    "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/huawei-geldwaesche-us-gericht-urteil-100.html",
-    "image": "https://images.tagesschau.de/image/a768e361-de60-4895-a12e-46c8cbe8f5b8/AAABmT4zjMA/AAABnSSvrFg/16x9-big/huawei-logo-100.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-25T12:25:02+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "US-Gericht spricht Huawei wegen Betrugs schuldig",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/huawei-geldwaesche-us-gericht-urteil-100.html"
-     },
-     {
-      "name": "FAZ",
-      "title": "chinesischer Technologiekonzern: US-Gericht spricht Huawei wegen Betrugs schuldig",
-      "link": "https://www.faz.net/video/us-gericht-spricht-huawei-wegen-betrugs-schuldig-201715966.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "USA: US-Gericht spricht Huawei wegen Betrugs schuldig",
-      "link": "https://www.handelsblatt.com/politik/international/usa-us-gericht-spricht-huawei-wegen-betrugs-schuldig/100272531.html"
-     }
-    ]
-   },
-   {
     "title": "Flixtrain-Tickets bald auch bei Deutscher Bahn buchbar",
     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/flixtrain-deutsche-bahn-ticketverkauf-100.html",
     "image": "https://images.tagesschau.de/image/62d4e2d3-1d10-4b9a-8b92-ce3bf760ee4c/AAABohKTREo/AAABnSSvrFg/16x9-big/flixtrain-120.jpg?width=1920",
@@ -98,14 +247,21 @@
       "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/flixtrain-tickets-bald-bei-der-deutschen-bahn-buchbar-accg-201715170.html"
      }
     ]
-   },
+   }
+  ],
+  "7d": [
    {
-    "title": "USA: Hacker sollen offenbar CIA-Geheimdienst angegriffen haben",
-    "link": "https://www.spiegel.de/ausland/usa-hacker-sollen-offenbar-cia-geheimdienst-angegriffen-haben-a-2f3378e4-e6a9-4b83-b4f6-c2ee97ab9cbf#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/181672a2-254f-4a0b-8fea-85f8656d6355_w520_r2.08_fpx37.99_fpy50.jpg",
-    "n_sources": 3,
+    "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
+    "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
+    "image": "https://images.tagesschau.de/image/c4a8129d-5713-48b5-b0cc-3d6541af9469/AAABlMc781U/AAABnSSvrFg/16x9-big/fbi-hauptquartier-100.jpg?width=1920",
+    "n_sources": 5,
     "time": "2026-11-25T01:28:00+00:00",
     "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html"
+     },
      {
       "name": "Spiegel",
       "title": "USA: Hacker sollen offenbar CIA-Geheimdienst angegriffen haben",
@@ -120,111 +276,14 @@
       "name": "FAZ",
       "title": "USA unter Trump: Hackerangriff auf US-Geheimdienst CIA laut Medien",
       "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-hackerangriff-auf-us-geheimdienst-cia-laut-medien-faz-19444916.html"
-     }
-    ]
-   },
-   {
-    "title": "Nvidia: Jensen Huang entschuldigt sich bei Belegschaft und spricht über seine Therapie",
-    "link": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-entschuldigt-sich-bei-belegschaft-und-spricht-ueber-seine-therapie-a-b5286ad4-9ebb-4aa8-b004-d1825b9f262e#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/0046628e-c537-4cd4-92d6-e2578334ce46_w520_r2.08_fpx43_fpy30.jpg",
-    "n_sources": 3,
-    "time": "2026-11-25T01:06:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Nvidia: Jensen Huang entschuldigt sich bei Belegschaft und spricht über seine Therapie",
-      "link": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-entschuldigt-sich-bei-belegschaft-und-spricht-ueber-seine-therapie-a-b5286ad4-9ebb-4aa8-b004-d1825b9f262e#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Jensen Huang: Huang will Nvidia weiter ohne Nachfolgeplan führen",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-ruecktritt-rueckkehr-donald-trump"
      },
      {
       "name": "Handelsblatt",
-      "title": "Nvidia-Chef: Huang entschuldigt sich bei Mitarbeitern für Fehlverhalten und lehnt Nachfolgeregelung ab",
-      "link": "https://www.handelsblatt.com/technik/ki/nvidia-chef-huang-entschuldigt-sich-bei-mitarbeitern-fuer-fehlverhalten/100272520.html"
+      "title": "Cyberangriff: EU-Kommission von Hackerangriff durch KI betroffen",
+      "link": "https://www.handelsblatt.com/politik/international/cyberangriff-hacker-greifen-eu-kommission-an-und-erbeuten-womoeglich-daten/100271187.html"
      }
     ]
    },
-   {
-    "title": "Veruschka ist tot",
-    "link": "https://www.spiegel.de/panorama/leute/veruschka-ist-tot-a-a133b1cf-3383-441a-9a91-ba0a4d967919#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/2e6be54f-bbb1-4c81-ba43-8dae8507cfe9_w520_r2.08_fpx49_fpy47.jpg",
-    "n_sources": 2,
-    "time": "2026-11-25T18:06:43+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Veruschka ist tot",
-      "link": "https://www.spiegel.de/panorama/leute/veruschka-ist-tot-a-a133b1cf-3383-441a-9a91-ba0a4d967919#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Todesfall: Deutschlands erstes Topmodel - Veruschka ist tot",
-      "link": "https://www.zeit.de/news/2026-11/25/frueheres-topmodel-vera-graefin-von-lehndorff-ist-gestorben"
-     }
-    ]
-   },
-   {
-    "title": "Vera Lehndorff: Das Leben von Supermodel und Schauspielerin Veruschka in Bildern",
-    "link": "https://www.spiegel.de/panorama/vera-lehndorff-das-leben-von-supermodel-und-schauspielerin-veruschka-in-bildern-a-ddcc3127-4faf-41f5-b591-a1cc0a6ee093#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/ee14d6eb-fdfa-425d-aeb8-4d7a78cdc783_w520_r2.08_fpx55.01_fpy55.01.jpg",
-    "n_sources": 2,
-    "time": "2026-11-25T17:39:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Vera Lehndorff: Das Leben von Supermodel und Schauspielerin Veruschka in Bildern",
-      "link": "https://www.spiegel.de/panorama/vera-lehndorff-das-leben-von-supermodel-und-schauspielerin-veruschka-in-bildern-a-ddcc3127-4faf-41f5-b591-a1cc0a6ee093#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Veruschka gestorben: Das Supermodel vor den Supermodels",
-      "link": "https://www.faz.net/aktuell/besser-leben/stil/veruschka-ist-tot-das-erste-grosse-deutsche-supermodel-stirbt-mit-87-201717182.html"
-     }
-    ]
-   },
-   {
-    "title": "Polen plant Flugverbotszone an Grenze zur Ukraine",
-    "link": "https://www.spiegel.de/ausland/polen-plant-flugverbotszone-an-grenze-zur-ukraine-a-48f2a001-0790-4c83-9d83-5ef4c91a389d#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/ad288de6-9ce0-4f53-a7cb-b98c28dba69f_w520_r2.08_fpx39_fpy44.jpg",
-    "n_sources": 2,
-    "time": "2026-11-25T15:08:00+00:00",
-    "sources": [
-     {
-      "name": "Spiegel",
-      "title": "Polen plant Flugverbotszone an Grenze zur Ukraine",
-      "link": "https://www.spiegel.de/ausland/polen-plant-flugverbotszone-an-grenze-zur-ukraine-a-48f2a001-0790-4c83-9d83-5ef4c91a389d#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "Liveblog Ukrainekrieg: Polen will Flugverbotszone an Grenze zur Ukraine einrichten",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-polen-will-flugverbotszone-an-grenze-zur-ukraine-einrichten-faz-110683325.html"
-     }
-    ]
-   },
-   {
-    "title": "Tote und Vermisste nach Überflutung in Goldmine",
-    "link": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html",
-    "image": "https://images.tagesschau.de/image/6a208b04-649b-4680-a949-089705bc36cc/AAABohIQbJs/AAABnSSvrFg/16x9-big/goldmine-indonesien-100.jpg?width=1920",
-    "n_sources": 2,
-    "time": "2026-11-25T15:01:03+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Tote und Vermisste nach Überflutung in Goldmine",
-      "link": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html"
-     },
-     {
-      "name": "FAZ",
-      "title": "Indonesien: Dutzende Vermisste nach Überflutung einer Goldmine",
-      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/dutzende-vermisste-in-indonesien-nach-ueberflutung-in-goldmine-accg-201715306.html"
-     }
-    ]
-   }
-  ],
-  "7d": [
    {
     "title": "Berliner Linke schließt Emde aus Fraktion aus",
     "link": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html",
@@ -260,16 +319,16 @@
     ]
    },
    {
-    "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
-    "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html",
-    "image": "https://images.tagesschau.de/image/70f88975-6c61-4e1b-ba62-100845608afc/AAABofinKAQ/AAABnSSvrFg/16x9-big/nyse-478.jpg?width=1920",
+    "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+    "image": "https://images.tagesschau.de/image/daf543ea-b8c4-46bc-8df5-327236c4b94a/AAABofRDns8/AAABnSSvrFg/16x9-big/anthropic-142.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-24T17:19:38+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html"
+      "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html"
      },
      {
       "name": "Spiegel",
@@ -312,13 +371,13 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Jensen Huang: Ein krasser Powermove (5/5)",
-      "link": "https://www.zeit.de/wirtschaft/2026-11/jensen-huang-nvidia-ceo-boerse-aktie"
+      "title": "Chip-Riese: Nach Trump-Eingreifen: Nvidia holt Firmenchef Huang zurück",
+      "link": "https://www.zeit.de/news/2026-11/23/nvidia-holt-firmenchef-huang-zurueck"
      },
      {
       "name": "FAZ",
-      "title": "Jensen huang: Der unersetzliche Mann",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/jensen-huang-und-trumps-maennerkult-201711303.html"
+      "title": "Tech-Konzern: Nvidia holt Jensen Huang als Chef zurück",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-accg-201709972.html"
      },
      {
       "name": "Handelsblatt",
@@ -464,40 +523,6 @@
     ]
    },
    {
-    "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
-    "image": "https://images.tagesschau.de/image/6962dfba-07c1-4aa0-aa94-86857f740465/AAABofETAbs/AAABnSSvrFg/16x9-big/anthropic-138.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-19T17:09:35+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Anthropic-Börsengang: Ausgabepreis von 83 Dollar je Aktie festgelegt",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-boersengang-ausgabepreis-von-83-dollar-je-aktie-festgelegt-a-816300aa-dd4b-44d5-90cd-f7f5403e3b35#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Rekord-Börsengang: Anthropic sammelt über 81 Milliarden Dollar ein",
-      "link": "https://www.zeit.de/video/2026-11/rekord-boersengang-anthropic-sammelt-ueber-81-milliarden-dollar-ein"
-     },
-     {
-      "name": "FAZ",
-      "title": "81 Milliarden Dollar: Anthropic setzt sich an die Spitze der größten Börsengänge der Geschichte",
-      "link": "https://www.faz.net/aktuell/finanzen/anthropics-boersengang-was-anleger-aus-der-ipo-geschichte-lernen-koennen-201698718.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Erstnotiz: Historischer IPO – Anthropic sammelt 81 Milliarden Dollar ein",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-historischer-ipo-anthropic-sammelt-81-milliarden-dollar-ein/100270370.html"
-     }
-    ]
-   },
-   {
     "title": "Jörg Endriss, ARD Peking, zzt. Shenzhen/China, zu den Gesprächen zwischen Trump, Putin und Xi über die Ukraine und Atomwaffen",
     "link": "https://www.tagesschau.de/video/video-1686490.html",
     "image": "https://images.tagesschau.de/image/5853b5fa-720e-4770-8774-efadf3ad446d/AAABofQiMXE/AAABnSSvrFg/16x9-big/sendungsbild-1829992.jpg?width=1920",
@@ -532,36 +557,70 @@
     ]
    },
    {
-    "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
-    "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
-    "image": "https://images.tagesschau.de/image/10ddc20a-9cab-4313-9a82-d522f3253b13/AAABoga3BK0/AAABnSSvrFg/16x9-big/ukraine-2940.jpg?width=1920",
+    "title": "Tote und Vermisste nach Überflutung in Goldmine",
+    "link": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html",
+    "image": "https://images.tagesschau.de/image/6a208b04-649b-4680-a949-089705bc36cc/AAABohIQbJs/AAABnSSvrFg/16x9-big/goldmine-indonesien-100.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-11-25T07:41:00+00:00",
+    "time": "2026-11-26T03:05:05+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html"
+      "title": "Tote und Vermisste nach Überflutung in Goldmine",
+      "link": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Womöglich Dutzende Tote bei Brand in indonesischer Fabrik",
+      "link": "https://www.spiegel.de/panorama/womoeglich-dutzende-tote-bei-brand-in-indonesischer-fabrik-a-ac06851d-5be1-4d30-b738-86546e30474b#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Krieg in der Ukraine: Was über den Angriff auf Russlands »Sparta II« bekannt ist",
-      "link": "https://www.zeit.de/politik/2026-11/drohnenangriff-sparta-ii-frachtschiff-ukraine-russland-faq"
+      "title": "Illegaler Bergbau: 13 Tote aus überfluteter Goldmine in Indonesien geborgen",
+      "link": "https://www.zeit.de/news/2026-11/26/13-tote-aus-ueberfluteter-goldmine-in-indonesien-geborgen"
      },
      {
       "name": "FAZ",
-      "title": "Angriff auf „Sparta II“: Krieg vor Finnlands Haustür",
-      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-greift-russisches-schiff-sparta-ii-an-finnlands-gefaehrliches-dilemma-in-der-ostsee-201702129.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "+++ Ukraine-Krieg +++: Bericht: USA ändert laut Kushner Strategie zu Geschäften mit Russland",
-      "link": "https://www.handelsblatt.com/politik/international/ukraine-usa-aendert-wohl-strategie-zu-geschaeftsabschluessen-mit-russland/27982126.html"
+      "title": "Indonesien: Dutzende Vermisste nach Überflutung einer Goldmine",
+      "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/dutzende-vermisste-in-indonesien-nach-ueberflutung-in-goldmine-accg-201715306.html"
      }
     ]
    }
   ],
   "30d": [
+   {
+    "title": "Weltweite Störung bei Microsoft ist behoben",
+    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683976.html",
+    "image": "https://images.tagesschau.de/image/40cf42b1-4a52-4484-bc62-5b0a7b7093e2/AAABodt4a6c/AAABnSSvrFg/16x9-big/sendungsbild-1827626.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-25T19:51:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Weltweite Störung bei Microsoft ist behoben",
+      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683976.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Microsoft: Konzern reagiert mit »Code Red« auf globale IT-Störung",
+      "link": "https://www.spiegel.de/netzwelt/microsoft-konzern-reagiert-mit-code-red-auf-globale-it-stoerung-a-fc06304f-0754-4c93-a44b-c931f775a79c#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "E-Mail-Probleme: Störung bei Microsofts Cloud-E-Mail",
+      "link": "https://www.zeit.de/news/2026-11/12/stoerung-bei-microsofts-cloud-e-mail"
+     },
+     {
+      "name": "FAZ",
+      "title": "Noch nicht behoben: Weltweite Störung bei Microsofts Cloud-E-Mail",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/stundenlange-stoerung-bei-microsofts-cloud-e-mail-accg-201679156.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "IT-Störung: Microsoft ruft nach weltweitem Ausfall „Code Red“ aus",
+      "link": "https://www.handelsblatt.com/unternehmen/industrie/it-stoerung-microsoft-ruft-nach-weltweitem-ausfall-code-red-aus/100272518.html"
+     }
+    ]
+   },
    {
     "title": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
     "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
@@ -593,6 +652,40 @@
       "name": "Handelsblatt",
       "title": "Dax aktuell: Dax rutscht unter 25.000‑Punkte-Marke – und schließt auf tiefstem Stand seit Ende Juni",
       "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-auf-tiefstem-stand-seit-ende-juni/100272589.html"
+     }
+    ]
+   },
+   {
+    "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
+    "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
+    "image": "https://images.tagesschau.de/image/c4a8129d-5713-48b5-b0cc-3d6541af9469/AAABlMc781U/AAABnSSvrFg/16x9-big/fbi-hauptquartier-100.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-25T01:28:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "USA: Hacker sollen offenbar CIA-Geheimdienst angegriffen haben",
+      "link": "https://www.spiegel.de/ausland/usa-hacker-sollen-offenbar-cia-geheimdienst-angegriffen-haben-a-2f3378e4-e6a9-4b83-b4f6-c2ee97ab9cbf#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Cyberangriffe: Hacker greifen offenbar die CIA an",
+      "link": "https://www.zeit.de/politik/2026-11/cia-hackerangriff-cyberangriff-odni-fbi"
+     },
+     {
+      "name": "FAZ",
+      "title": "USA unter Trump: Hackerangriff auf US-Geheimdienst CIA laut Medien",
+      "link": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-hackerangriff-auf-us-geheimdienst-cia-laut-medien-faz-19444916.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Cyberangriff: EU-Kommission von Hackerangriff durch KI betroffen",
+      "link": "https://www.handelsblatt.com/politik/international/cyberangriff-hacker-greifen-eu-kommission-an-und-erbeuten-womoeglich-daten/100271187.html"
      }
     ]
    },
@@ -631,16 +724,16 @@
     ]
    },
    {
-    "title": "Koalitionsverhandlungen in Berlin: Das Rumoren in der SPD",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html",
-    "image": "https://images.tagesschau.de/image/6ce16fe9-c887-4aec-b0f8-c8818e938aee/AAABoZ1IQHk/AAABnSSvrFg/16x9-big/berlin-koalition-106.jpg?width=1920",
+    "title": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
+    "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html",
+    "image": "https://images.tagesschau.de/image/0c786d38-2da6-4bd4-97f4-308eff3a15d8/AAABoZrgYIE/AAABnSSvrFg/16x9-big/berlin-koalition-104.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-24T19:20:40+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Koalitionsverhandlungen in Berlin: Das Rumoren in der SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html"
+      "title": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html"
      },
      {
       "name": "Spiegel",
@@ -665,16 +758,16 @@
     ]
    },
    {
-    "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
-    "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html",
-    "image": "https://images.tagesschau.de/image/70f88975-6c61-4e1b-ba62-100845608afc/AAABofinKAQ/AAABnSSvrFg/16x9-big/nyse-478.jpg?width=1920",
+    "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+    "image": "https://images.tagesschau.de/image/daf543ea-b8c4-46bc-8df5-327236c4b94a/AAABofRDns8/AAABnSSvrFg/16x9-big/anthropic-142.jpg?width=1920",
     "n_sources": 5,
     "time": "2026-11-24T17:19:38+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html"
+      "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html"
      },
      {
       "name": "Spiegel",
@@ -717,13 +810,13 @@
      },
      {
       "name": "Zeit Online",
-      "title": "Jensen Huang: Ein krasser Powermove (5/5)",
-      "link": "https://www.zeit.de/wirtschaft/2026-11/jensen-huang-nvidia-ceo-boerse-aktie"
+      "title": "Chip-Riese: Nach Trump-Eingreifen: Nvidia holt Firmenchef Huang zurück",
+      "link": "https://www.zeit.de/news/2026-11/23/nvidia-holt-firmenchef-huang-zurueck"
      },
      {
       "name": "FAZ",
-      "title": "Jensen huang: Der unersetzliche Mann",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/jensen-huang-und-trumps-maennerkult-201711303.html"
+      "title": "Tech-Konzern: Nvidia holt Jensen Huang als Chef zurück",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-accg-201709972.html"
      },
      {
       "name": "Handelsblatt",
@@ -763,40 +856,6 @@
       "name": "Handelsblatt",
       "title": "Nvidia-Skandal: USA setzen Chip-Firma Megaspeed wegen Spionageverdachts auf Sperrliste",
       "link": "https://www.handelsblatt.com/politik/international/nvidia-skandal-usa-setzen-chip-firma-megaspeed-wegen-spionageverdachts-auf-sperrliste/100272205.html"
-     }
-    ]
-   },
-   {
-    "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
-    "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html",
-    "image": "https://images.tagesschau.de/image/3966cd19-2564-49cf-a6ae-bb657d8c8144/AAABoauwfdU/AAABnSSvrFg/16x9-big/oel-260.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-23T19:43:11+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Dax springt auf Rekordhoch",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-auf-rekordhoch-a-c3ac80a4-d033-4cc7-9e19-d76b8f9874be#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Alterssicherung: Renten steigen 2027 voraussichtlich um vier Prozent",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/rente-deutschland-rentenerhoehung-2027-rentenversicherung-bezuege-preise"
-     },
-     {
-      "name": "FAZ",
-      "title": "Nasdaq und Dow Jones: US-Börsen rutschen weiter ab",
-      "link": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/aktien-indizes/nasdaq-im-sinkflug-experte-zieht-parallele-zu-2018-201703883.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Wall Street: Nasdaq schließt nach Huang-Rückkehr sechs Prozent im Plus – Dow Jones gewinnt mehr als 1400 Punkte",
-      "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-schliesst-nach-huang-rueckkehr-mehr-als-sechs-prozent-im-plus/100272031.html"
      }
     ]
    },
@@ -865,40 +924,6 @@
       "name": "Handelsblatt",
       "title": "USA: 258 Sitze: Demokraten im Repräsentantenhaus so stark wie zuletzt 1992",
       "link": "https://www.handelsblatt.com/politik/international/usa-demokraten-im-repraesentantenhaus-so-stark-wie-zuletzt-1992/100271940.html"
-     }
-    ]
-   },
-   {
-    "title": "Tesla investiert 3. Mrd. Euro in Werk in Grünheide",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684958.html",
-    "image": "https://images.tagesschau.de/image/fb374571-dfb9-473c-b0ad-b31661a94a15/AAABoei3zyQ/AAABnSSvrFg/16x9-big/tesla-cybercab-106.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-23T12:41:24+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Tesla investiert 3. Mrd. Euro in Werk in Grünheide",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684958.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Tesla will Milliardensumme für Robotaxi-Bau in Deutschland investieren",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-investiert-milliardensumme-fuer-robotaxi-bau-in-deutschland-a-65132952-1c63-4862-b2ce-f82c5def838f#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
-      "link": "https://www.zeit.de/news/2026-11/16/tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken"
-     },
-     {
-      "name": "FAZ",
-      "title": "Business-Ticker: Lego investiert über eine Milliarde Euro in neues Werk in Portugal",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lego-investiert-ueber-eine-milliarde-euro-in-neues-werk-in-portugal-faz-200452404.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Tesla: US-Autobauer investiert drei Milliarden Euro in Grünheide",
-      "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-us-autobauer-investiert-drei-milliarden-euro-in-gruenheide/100270267.html"
      }
     ]
    }
@@ -1367,18 +1392,33 @@
    "24h": [
     {
      "title": "- FinTech-Futures",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2MxUU54ZlVKX2JueVRQZnJtQU1IeGQ1ODVhcG1fbUJHOGJSRk1Id2hWMUY2cnkzUkkwbzgyUHRxU1pmXzdOS0hWbHJfUW5zQVBIaDAydklOdEVGeGd1YXdvSkF3WEtOUXZCQ3FBRWFfT2c1RHJHNzFiaUMxS0cxbW5Bc1VmU2lIWWxrZjh1Y1hxMk91dElocUZlZlhnU1E?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGJxMGdyQWxrdjREakVMLXI1WXFqT1ZUcUNOdXlZUFB4S0xqbEpOUV95aFIyeGRLTkhaMkNDOFhNb1NkN3EtUnpRVmEyd3IxQ2I4dTF5aHQtaVdtcE9Dek5BLWsweURIeWZiSHU5TTVDcDdoQ2RTa1V0cXlKSGs0VzQ4VjZBV0lOUWxhLUFNelBUVk1Qd0RXVFliUUIxSXc?oc=5",
      "image": "",
      "n_sources": 1,
-     "time": "2026-11-25T17:39:55+00:00",
+     "time": "2026-11-26T00:10:48+00:00",
      "sources": [
       {
        "name": "Fintech Futures",
        "title": "- FinTech Futures",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2MxUU54ZlVKX2JueVRQZnJtQU1IeGQ1ODVhcG1fbUJHOGJSRk1Id2hWMUY2cnkzUkkwbzgyUHRxU1pmXzdOS0hWbHJfUW5zQVBIaDAydklOdEVGeGd1YXdvSkF3WEtOUXZCQ3FBRWFfT2c1RHJHNzFiaUMxS0cxbW5Bc1VmU2lIWWxrZjh1Y1hxMk91dElocUZlZlhnU1E?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGJxMGdyQWxrdjREakVMLXI1WXFqT1ZUcUNOdXlZUFB4S0xqbEpOUV95aFIyeGRLTkhaMkNDOFhNb1NkN3EtUnpRVmEyd3IxQ2I4dTF5aHQtaVdtcE9Dek5BLWsweURIeWZiSHU5TTVDcDdoQ2RTa1V0cXlKSGs0VzQ4VjZBV0lOUWxhLUFNelBUVk1Qd0RXVFliUUIxSXc?oc=5"
       }
      ],
      "title_orig": "- FinTech Futures"
+    },
+    {
+     "title": "Das Vereinigte Königreich ernennt erneut Führungskräfte von Starling und Lloyds zu KI-Champions",
+     "link": "https://www.finextra.com/newsarticle/48815/uk-reappoints-starling-and-lloyds-execs-as-ai-champions?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-26T00:01:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "UK reappoints Starling and Lloyds execs as AI champions",
+       "link": "https://www.finextra.com/newsarticle/48815/uk-reappoints-starling-and-lloyds-execs-as-ai-champions?utm_medium=rssfinextra&utm_source=finextrafeed"
+      }
+     ],
+     "title_orig": "UK reappoints Starling and Lloyds execs as AI champions"
     },
     {
      "title": "Das ägyptische Fintech-Unternehmen Kiwe bringt eine Social-Money-App und -Karte auf den Markt",
@@ -1394,6 +1434,21 @@
       }
      ],
      "title_orig": "Egyptian fintech Kiwe launches social money app and card"
+    },
+    {
+     "title": "BizTravex erhält Finanzierungsangebot in Höhe von 5 Mio. USD in den VAE",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVRMbmF2RnZvZEZYUkpqZzVURS1yZ21aVEQyanJWQjZNcDFlbTFTcFFIcG5VUW9TSnFESlBlZ1M5Y1pUVmVrdlJOQ0tqMldYeFMzSnd2UXg1VVhuZkhpNTQ5d3Fjd0NlUGNfWTdsOWtpNkNWZWFxckhBTzVHcGQ5SGlPWHdlWXJOeUVvSE9Pb25fT1U0bFY3Yjlya0tKaVRMLVotdDc3dXU5UQ?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-25T16:47:14+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "BizTravex receives USD 5 mln funding proposal in the UAE",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVRMbmF2RnZvZEZYUkpqZzVURS1yZ21aVEQyanJWQjZNcDFlbTFTcFFIcG5VUW9TSnFESlBlZ1M5Y1pUVmVrdlJOQ0tqMldYeFMzSnd2UXg1VVhuZkhpNTQ5d3Fjd0NlUGNfWTdsOWtpNkNWZWFxckhBTzVHcGQ5SGlPWHdlWXJOeUVvSE9Pb25fT1U0bFY3Yjlya0tKaVRMLVotdDc3dXU5UQ?oc=5"
+      }
+     ],
+     "title_orig": "BizTravex receives USD 5 mln funding proposal in the UAE"
     },
     {
      "title": "CheckAlt übernimmt Finexio, um in den Bereich Geschäftszahlungen zu expandieren",
@@ -1484,36 +1539,6 @@
       }
      ],
      "title_orig": "Ping An Digital Bank gets USD 64 mln capital injection from Lufax"
-    },
-    {
-     "title": "Marex startet globale Zahlungsplattform nach FCA-Zulassung",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTcxOEQxSzUxa01ZU0VZb0pWaW90azdZdEFxeURQZS1yeGFUdTBNSXJKNGZOU2RUSDNlbTltbjZRSHR5YzFOYUJjb2pIM1Y2S3pDS1dUOUVsUk01OFhqMkt3Ui05N3VUNXdhNFlYZU5neGpXZHFyM01Ha3R1cXF1Y3M3RG9lNm5ZUEpFNVF3WjRZWWt6UDJtOHNoSWhMZnhmekE?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-25T15:56:53+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Marex launches global payments platform after FCA authorisation",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTcxOEQxSzUxa01ZU0VZb0pWaW90azdZdEFxeURQZS1yeGFUdTBNSXJKNGZOU2RUSDNlbTltbjZRSHR5YzFOYUJjb2pIM1Y2S3pDS1dUOUVsUk01OFhqMkt3Ui05N3VUNXdhNFlYZU5neGpXZHFyM01Ha3R1cXF1Y3M3RG9lNm5ZUEpFNVF3WjRZWWt6UDJtOHNoSWhMZnhmekE?oc=5"
-      }
-     ],
-     "title_orig": "Marex launches global payments platform after FCA authorisation"
-    },
-    {
-     "title": "Veriff-Bericht über Identitätsbetrug bei BNPL",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEpsYk9vdDFwcnlmc0UyUFNGWnktZjJpRjBqREJQQUNZRi1VRXRtNmRDemczVmQ3cVlWNHRKRFlyQTJPd0hweDQzMVRhYlc4eWo4cENtM0ZMWXJlNmtxOU5fMFBlZGU0STBCYTJkbFhKajVHYjA5Wl8tM3VCRG5WZmc4STVlcWwybE9ZRFJhTkc2M1ZVN3VVUXlzTDZMbzY5bkxMVmRYUmdraTg?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-25T15:32:31+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Veriff report on BNPL identity fraud",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEpsYk9vdDFwcnlmc0UyUFNGWnktZjJpRjBqREJQQUNZRi1VRXRtNmRDemczVmQ3cVlWNHRKRFlyQTJPd0hweDQzMVRhYlc4eWo4cENtM0ZMWXJlNmtxOU5fMFBlZGU0STBCYTJkbFhKajVHYjA5Wl8tM3VCRG5WZmc4STVlcWwybE9ZRFJhTkc2M1ZVN3VVUXlzTDZMbzY5bkxMVmRYUmdraTg?oc=5"
-      }
-     ],
-     "title_orig": "Veriff report on BNPL identity fraud"
     }
    ],
    "7d": [
@@ -1648,16 +1673,16 @@
      "title_orig": "DBS and Circle partner to expand institutional USDC access in Asia"
     },
     {
-     "title": "Grenzüberschreitende Zahlungen und Devisen: Preise und Risiken",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT01vX1MyNHd3c0xIVlVBTlNteUJobUt5WVR6b0NpdUdyeWl3dVIyYlBSZi0ycVI0U2lLOUxqOUFxeXFHeXIwcjVGQjF6bUNCUnI3QW1iVkZPQlk3SmQ1dERmaF9iZDVXUUw5TjBuNVh2Q3RuWFRMYmNMR05OVDFiQzJsUHd6ZGZrVFdWRWhkcHNRN1ZqS1NWcEhKcm05d2YxT2Y3T0VoSWo2UlRHU2t1TmsyZFlzNEgtRzNoSXdR?oc=5",
+     "title": "Finmo arbeitet bei grenzüberschreitendem Treasury-Management mit J.P. Morgan Payments zusammen",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHh3Mzl4VHNoQVdKenFrSzM4X0tfNERIM0tQcXQ0SGpxT1oyVVY1NUdmZzJGbTRFTUw3Zm9DNzhOeml1RHZhX25hbERlYWlaX0lLd0hjak43WGN0RU13SHNqelFZenZ4bEhEM25pT3FxdXV2aWFsc2lxNG1GWmdsNmo2cXlTVV9Rd1k3b09ITklCZFlqbFRBYTJJQUxVd2o3MEE?oc=5",
      "image": "",
      "n_sources": 2,
-     "time": "2026-11-24T12:24:07+00:00",
+     "time": "2026-11-23T18:00:33+00:00",
      "sources": [
       {
        "name": "The Paypers",
-       "title": "Cross-border payments and FX: pricing and risk",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT01vX1MyNHd3c0xIVlVBTlNteUJobUt5WVR6b0NpdUdyeWl3dVIyYlBSZi0ycVI0U2lLOUxqOUFxeXFHeXIwcjVGQjF6bUNCUnI3QW1iVkZPQlk3SmQ1dERmaF9iZDVXUUw5TjBuNVh2Q3RuWFRMYmNMR05OVDFiQzJsUHd6ZGZrVFdWRWhkcHNRN1ZqS1NWcEhKcm05d2YxT2Y3T0VoSWo2UlRHU2t1TmsyZFlzNEgtRzNoSXdR?oc=5"
+       "title": "Finmo partners with J.P. Morgan Payments on cross-border treasury",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHh3Mzl4VHNoQVdKenFrSzM4X0tfNERIM0tQcXQ0SGpxT1oyVVY1NUdmZzJGbTRFTUw3Zm9DNzhOeml1RHZhX25hbERlYWlaX0lLd0hjak43WGN0RU13SHNqelFZenZ4bEhEM25pT3FxdXV2aWFsc2lxNG1GWmdsNmo2cXlTVV9Rd1k3b09ITklCZFlqbFRBYTJJQUxVd2o3MEE?oc=5"
       },
       {
        "name": "Fintech Futures",
@@ -1665,7 +1690,7 @@
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWFNand1QmZVYlpVSWNLZG15ckkyakF1Nk0zM2REcW5rUm1TTzNiVFZ1dVJfMXI2b3EzNWtYNWF2RWpZVVd1cnpzemFmXzZOT0RRWTBHQlQ0bDJ6cmRfbnNVQXRvV0ROQVoya0RvU2NKT2JVZEJkbEZGaXVEcHV1VUQ3ZU9WR1VJazZRbEJ0S1IxUmg5dDdDUEtwV21ycWJBOU1rZw?oc=5"
       }
      ],
-     "title_orig": "Cross-border payments and FX: pricing and risk"
+     "title_orig": "Finmo partners with J.P. Morgan Payments on cross-border treasury"
     },
     {
      "title": "Woori Bank setzt bei Geldüberweisungen auf Nium",
@@ -1688,26 +1713,6 @@
      "title_orig": "Woori Bank taps Nium for remittances"
     },
     {
-     "title": "Wise Platform fügt BNI hinzu und erweitert Bankpartnerschaften im APAC-Raum",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTm5ucVhHSlEtRHlqcWd4b3FPeGRCTWcyeng5NDBMOVBuUUFYWjY5ejRrSnZhdk5jNnU4M21Cbmw4ZzREb1NZektucE80eHk1Qy1mVVNjc0ZfcHl1UjZreGUxSFF2UXNWUHFtLU1TSXlBN3dqY2dHT1otZjVpZ0hEY1FWNmRNTzhzMDVneEJTTkJJLUJQYlU1Ti1UWUtlczNMdGVULVhjcHM?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-23T18:00:33+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Wise Platform adds BNI and expands APAC bank partnerships",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTm5ucVhHSlEtRHlqcWd4b3FPeGRCTWcyeng5NDBMOVBuUUFYWjY5ejRrSnZhdk5jNnU4M21Cbmw4ZzREb1NZektucE80eHk1Qy1mVVNjc0ZfcHl1UjZreGUxSFF2UXNWUHFtLU1TSXlBN3dqY2dHT1otZjVpZ0hEY1FWNmRNTzhzMDVneEJTTkJJLUJQYlU1Ti1UWUtlczNMdGVULVhjcHM?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Bank Negara Indonesia (BNI)",
-       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jMzFZYTYzZjN1RFFwdkJuM2dYZVNEVWFpWVBTcmt1SnZSZXQ2eG9kZXNCMmp6cWpYU2pFRlYwY3lkX3Y0Z25SX3JjcElpMTBHSlBKSk5ySG1EeXN5NGxQWG9yQ3hWczNxYU02QWs0M2JGRDg?oc=5"
-      }
-     ],
-     "title_orig": "Wise Platform adds BNI and expands APAC bank partnerships"
-    },
-    {
      "title": "TPG und Corpay übernehmen BILL Holdings",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckxGRGs1b09yb1RhRzV4VFVoNmc5VDYzc2ZtQ2ZPaVFoNXM0alBLdUtPMjdmeldYRWFocEliLWtBcmtSRDJVbWdLdVNLZU1Uc0x0dzlURDNjM04tV2FDRHFWOTNyOUdJQ1JUSFpobXdqeE43TmxGQXVjZnEtdDBuTW9EeVhaMnJMbUprUl94Y2dwandvMVhVR05fUGJBaTU1QTNVTnV4VkE2cThwcWRNQ3RNU1piSXlHQ0U1U2N6c2ZRd1VN?oc=5",
      "image": "",
@@ -1726,6 +1731,26 @@
       }
      ],
      "title_orig": "TPG and Corpay to acquire BILL Holdings"
+    },
+    {
+     "title": "SymphonyAI Finanzdienstleistungen",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGQzZDVXOFpWbVVnWkh5MTFuaXFpT0VndTFhdkp0bFJ4aGFhd3BaOHoyME1xMU9uei15LWJMWmZWOThReWNCUmdvQTlYX05tQVFSdUxDY016YzFtaEZVYWNZLUlXaXNrVnRFbWtpZ29XRFBjVUN0YzhYYldHdkY3MVB0N0loR2o0al9US0MxdktRVjFtb2c?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-20T16:25:02+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "SymphonyAI Financial Services",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGQzZDVXOFpWbVVnWkh5MTFuaXFpT0VndTFhdkp0bFJ4aGFhd3BaOHoyME1xMU9uei15LWJMWmZWOThReWNCUmdvQTlYX05tQVFSdUxDY016YzFtaEZVYWNZLUlXaXNrVnRFbWtpZ29XRFBjVUN0YzhYYldHdkY3MVB0N0loR2o0al9US0MxdktRVjFtb2c?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "White paper: The state of European financial services in 2026",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUpUdXR1N1diRWduOUxBRlZWaVVTbno2VlNBUThsSmtSck05c1F2QW9VR1RoU05zMk05ZmdLT01LSjBhTVNrRTdyemsxM3F3dWM0eTVMR1ZHMXB0RnJXbl80VWM4SEdtMzBKVnBnVEExaElMX3A1TXZXRzJvWWFWeEpBYlB6VDlIb1hHSGdHTmdNeEhZVFJuMXl6c1ZnbGRI?oc=5"
+      }
+     ],
+     "title_orig": "SymphonyAI Financial Services"
     }
    ],
    "30d": [
@@ -1825,6 +1850,26 @@
      "title_orig": "Pine Labs launches research series on agentic commerce accountability"
     },
     {
+     "title": "Finmo arbeitet bei grenzüberschreitendem Treasury-Management mit J.P. Morgan Payments zusammen",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHh3Mzl4VHNoQVdKenFrSzM4X0tfNERIM0tQcXQ0SGpxT1oyVVY1NUdmZzJGbTRFTUw3Zm9DNzhOeml1RHZhX25hbERlYWlaX0lLd0hjak43WGN0RU13SHNqelFZenZ4bEhEM25pT3FxdXV2aWFsc2lxNG1GWmdsNmo2cXlTVV9Rd1k3b09ITklCZFlqbFRBYTJJQUxVd2o3MEE?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-23T18:00:33+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Finmo partners with J.P. Morgan Payments on cross-border treasury",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHh3Mzl4VHNoQVdKenFrSzM4X0tfNERIM0tQcXQ0SGpxT1oyVVY1NUdmZzJGbTRFTUw3Zm9DNzhOeml1RHZhX25hbERlYWlaX0lLd0hjak43WGN0RU13SHNqelFZenZ4bEhEM25pT3FxdXV2aWFsc2lxNG1GWmdsNmo2cXlTVV9Rd1k3b09ITklCZFlqbFRBYTJJQUxVd2o3MEE?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "SFF 2026: AI agents enter the cross-border payments market",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWFNand1QmZVYlpVSWNLZG15ckkyakF1Nk0zM2REcW5rUm1TTzNiVFZ1dVJfMXI2b3EzNWtYNWF2RWpZVVd1cnpzemFmXzZOT0RRWTBHQlQ0bDJ6cmRfbnNVQXRvV0ROQVoya0RvU2NKT2JVZEJkbEZGaXVEcHV1VUQ3ZU9WR1VJazZRbEJ0S1IxUmg5dDdDUEtwV21ycWJBOU1rZw?oc=5"
+      }
+     ],
+     "title_orig": "Finmo partners with J.P. Morgan Payments on cross-border treasury"
+    },
+    {
      "title": "Global Kiwi Labs sammelt 4 Mio. USD an Startkapital für die TheHUB-Plattform",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSjNnV3ZPandEdk1aVFp3bndnZDJRWjRCSlprWk1aTWpPeHVnNzVQbTUxdDFUSzdYSWxXTGN1ZUlsc09vY3g5dFNYWEtGTUdsT2xCTlUtYld2d05kSFFUYWYycXhvOHppcS1JM0V1LTN2Wjh3dUtZd1dqTVBkOUc5eUxTbjV6RU9vUHk3Y3RzRjVnV3hwaUI2c2tFakZVRFRQZGVGVWJ3VHVWX3BJd2pzVFpYemtmZw?oc=5",
      "image": "",
@@ -1885,26 +1930,6 @@
      "title_orig": "DBS and Circle partner to expand institutional USDC access in Asia"
     },
     {
-     "title": "Grenzüberschreitende Zahlungen und Devisen: Preise und Risiken",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT01vX1MyNHd3c0xIVlVBTlNteUJobUt5WVR6b0NpdUdyeWl3dVIyYlBSZi0ycVI0U2lLOUxqOUFxeXFHeXIwcjVGQjF6bUNCUnI3QW1iVkZPQlk3SmQ1dERmaF9iZDVXUUw5TjBuNVh2Q3RuWFRMYmNMR05OVDFiQzJsUHd6ZGZrVFdWRWhkcHNRN1ZqS1NWcEhKcm05d2YxT2Y3T0VoSWo2UlRHU2t1TmsyZFlzNEgtRzNoSXdR?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-24T12:24:07+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Cross-border payments and FX: pricing and risk",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT01vX1MyNHd3c0xIVlVBTlNteUJobUt5WVR6b0NpdUdyeWl3dVIyYlBSZi0ycVI0U2lLOUxqOUFxeXFHeXIwcjVGQjF6bUNCUnI3QW1iVkZPQlk3SmQ1dERmaF9iZDVXUUw5TjBuNVh2Q3RuWFRMYmNMR05OVDFiQzJsUHd6ZGZrVFdWRWhkcHNRN1ZqS1NWcEhKcm05d2YxT2Y3T0VoSWo2UlRHU2t1TmsyZFlzNEgtRzNoSXdR?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "SFF 2026: AI agents enter the cross-border payments market",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWFNand1QmZVYlpVSWNLZG15ckkyakF1Nk0zM2REcW5rUm1TTzNiVFZ1dVJfMXI2b3EzNWtYNWF2RWpZVVd1cnpzemFmXzZOT0RRWTBHQlQ0bDJ6cmRfbnNVQXRvV0ROQVoya0RvU2NKT2JVZEJkbEZGaXVEcHV1VUQ3ZU9WR1VJazZRbEJ0S1IxUmg5dDdDUEtwV21ycWJBOU1rZw?oc=5"
-      }
-     ],
-     "title_orig": "Cross-border payments and FX: pricing and risk"
-    },
-    {
      "title": "CheckAlt übernimmt Finexio, um in den Bereich Geschäftszahlungen zu expandieren",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQamVrbHVpRGNnWW0tQVQtUHpsdEJIYk15M3gxY183dnozZEt6eURFbmJCTUJMcmtJRnBSOVBLTzBsSnQ0aTRfcHU5ZnNpcmtQUm9od05NQjJZSHI0WWRndlhocDdVSHdzVXlmd3NqNlpiajNMVURsMWlWUE5hUmQ1a1VjV051cF83QnRQWmVoeGdaUkcteTktZmxsSDM5UDRtQ2VSelF2Y2gwTV9EYVA5a2lqZmhwMnYwVTRFMGFQUjVBNGd3a0NKUGF4Zw?oc=5",
      "image": "",
@@ -1949,6 +1974,26 @@
   "world": {
    "24h": [
     {
+     "title": "Kalifornien verhängt gegen den BNPL-Kreditgeber Afterpay eine Strafe in Höhe von 2,7 Mio. USD",
+     "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp",
+     "n_sources": 2,
+     "time": "2026-11-26T00:01:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "California hits BNPL lender Afterpay with $2.7m penalty",
+       "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "Payments Dive",
+       "title": "California fines Afterpay $2.7M",
+       "link": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/"
+      }
+     ],
+     "title_orig": "California hits BNPL lender Afterpay with $2.7m penalty"
+    },
+    {
      "title": "Ant International und BNY unterzeichnen Absichtserklärung zur Erforschung von Devisen- und Zahlungsinnovationen rund um die Uhr",
      "link": "https://www.finextra.com/pressarticle/111781/ant-international-and-bny-ink-mou-to-explore-247-fx-and-payments-innovation?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Ant-International.png?w=457&quality=82",
@@ -1969,144 +2014,124 @@
      "title_orig": "Ant International and BNY ink MoU to explore 24/7 FX and payments innovation"
     },
     {
-     "title": "Utah lässt Strafanzeigen fallen, nachdem Kalshi den Bundesstaat verlassen hat",
-     "link": "https://www.finextra.com/newsarticle/48814/utah-drops-criminal-charges-after-kalshi-exits-state?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/02/Kalshi-sports-betting1.jpg?w=457",
-     "n_sources": 2,
-     "time": "2026-11-25T15:32:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Utah drops criminal charges after Kalshi exits state",
-       "link": "https://www.finextra.com/newsarticle/48814/utah-drops-criminal-charges-after-kalshi-exits-state?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Utah Drops Criminal Charges Against Kalshi and Founders After Company Exits State",
-       "link": "https://www.pymnts.com/legal/2026/utah-drops-criminal-charges-against-kalshi-and-founders-after-company-exits-state/"
-      }
-     ],
-     "title_orig": "Utah drops criminal charges after Kalshi exits state"
-    },
-    {
-     "title": "Start-ups sammeln 515 Millionen US-Dollar, um KI-Agenten ihr eigenes Internet zu schaffen",
-     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/startups-raise-515-million-to-build-ai-agents-their-own-internet/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/AI-agents-internet-agentic-commerce.jpeg?w=457",
+     "title": "Pinterest-Aktien steigen um 20 %, da die Offenlegung der Gehälter der Führungskräfte Verkaufsgerüchte schürt",
+     "link": "https://www.pymnts.com/commerce/social-commerce/2026/pinterest-shares-surge-20-as-executive-pay-filing-fuels-sale-rumors/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2025/05/Pinterest-AI.jpg?w=457",
      "n_sources": 1,
-     "time": "2026-11-25T19:06:55+00:00",
+     "time": "2026-11-26T03:27:26+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Startups Raise $515 Million to Build AI Agents Their Own Internet",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/startups-raise-515-million-to-build-ai-agents-their-own-internet/"
+       "title": "Pinterest Shares Surge 20% as Executive Pay Filing Fuels Sale Rumors",
+       "link": "https://www.pymnts.com/commerce/social-commerce/2026/pinterest-shares-surge-20-as-executive-pay-filing-fuels-sale-rumors/"
       }
      ],
-     "title_orig": "Startups Raise $515 Million to Build AI Agents Their Own Internet"
+     "title_orig": "Pinterest Shares Surge 20% as Executive Pay Filing Fuels Sale Rumors"
     },
     {
-     "title": "FinCEN nimmt einige Systeme nach vermutetem Cyberangriff offline",
-     "link": "https://www.finextra.com/newsarticle/48816/fincen-takes-some-systems-offline-after-suspected-cyber-attack?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "title": "OpenAI sagt, dass die meisten Nutzer nach der Zusammenführung von Chat und Arbeit die Limits nicht schneller erreichen werden",
+     "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-most-users-wont-hit-limits-faster-after-merger-of-chat-and-work/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/08/OpenAI-smart-speaker-1.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-11-26T03:17:33+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "OpenAI Says Most Users Won’t Hit Limits Faster After Merger of Chat and Work",
+       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-most-users-wont-hit-limits-faster-after-merger-of-chat-and-work/"
+      }
+     ],
+     "title_orig": "OpenAI Says Most Users Won’t Hit Limits Faster After Merger of Chat and Work"
+    },
+    {
+     "title": "Kalifornien verhängt gegen Afterpay eine Geldstrafe in Höhe von 2,7 Millionen US-Dollar wegen „Versäumnissen“ bei der Kreditprüfung",
+     "link": "https://www.pymnts.com/legal/2026/calif-fines-afterpay-2-7-million-for-underwriting-failures/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2022/10/afterpay-bnpl-installments-monthly-payments.jpg?w=457",
+     "n_sources": 1,
+     "time": "2026-11-26T03:05:25+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Calif. Fines Afterpay $2.7 Million for Underwriting ‘Failures’",
+       "link": "https://www.pymnts.com/legal/2026/calif-fines-afterpay-2-7-million-for-underwriting-failures/"
+      }
+     ],
+     "title_orig": "Calif. Fines Afterpay $2.7 Million for Underwriting ‘Failures’"
+    },
+    {
+     "title": "ElevenLabs strebt bei Finanzierungsrunde Anfang 2027 eine Bewertung von 33 Mrd. USD an",
+     "link": "https://www.pymnts.com/news/investment-tracker/2026/elevenlabs-targets-33-billion-valuation-in-early-2027-funding-round/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/ElevenLabs.png?w=457&quality=82",
+     "n_sources": 1,
+     "time": "2026-11-26T01:04:23+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "ElevenLabs Targets $33 Billion Valuation in Early 2027 Funding Round",
+       "link": "https://www.pymnts.com/news/investment-tracker/2026/elevenlabs-targets-33-billion-valuation-in-early-2027-funding-round/"
+      }
+     ],
+     "title_orig": "ElevenLabs Targets $33 Billion Valuation in Early 2027 Funding Round"
+    },
+    {
+     "title": "Der Aufbau von Kreditwürdigkeit geht über die monatliche Kreditrate hinaus",
+     "link": "https://www.pymnts.com/consumer-finance/2026/credit-building-moves-beyond-the-monthly-loan-payment/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/consumer-credit.jpeg?w=457",
+     "n_sources": 1,
+     "time": "2026-11-26T00:41:20+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Credit Building Moves Beyond the Monthly Loan Payment",
+       "link": "https://www.pymnts.com/consumer-finance/2026/credit-building-moves-beyond-the-monthly-loan-payment/"
+      }
+     ],
+     "title_orig": "Credit Building Moves Beyond the Monthly Loan Payment"
+    },
+    {
+     "title": "Das Vereinigte Königreich ernennt erneut Führungskräfte von Starling und Lloyds zu KI-Champions",
+     "link": "https://www.finextra.com/newsarticle/48815/uk-reappoints-starling-and-lloyds-execs-as-ai-champions?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 1,
-     "time": "2026-11-25T18:16:00+00:00",
+     "time": "2026-11-26T00:01:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "FinCEN takes some systems offline after suspected cyber attack",
-       "link": "https://www.finextra.com/newsarticle/48816/fincen-takes-some-systems-offline-after-suspected-cyber-attack?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "UK reappoints Starling and Lloyds execs as AI champions",
+       "link": "https://www.finextra.com/newsarticle/48815/uk-reappoints-starling-and-lloyds-execs-as-ai-champions?utm_medium=rssfinextra&utm_source=finextrafeed"
       }
      ],
-     "title_orig": "FinCEN takes some systems offline after suspected cyber attack"
+     "title_orig": "UK reappoints Starling and Lloyds execs as AI champions"
     },
     {
-     "title": "Iliad Solutions zielt auf den südafrikanischen Markt ab",
-     "link": "https://www.finextra.com/pressarticle/111789/iliad-solutions-targets-south-african-market?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "FinCEN verlängert Meldefristen aufgrund von cyberbedingten Serviceunterbrechungen",
+     "link": "https://www.pymnts.com/cybersecurity/2026/fincen-extends-reporting-deadlines-amid-cyber-related-service-disruption/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/FinCEN-regulations.jpeg?w=457",
      "n_sources": 1,
-     "time": "2026-11-25T18:08:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Iliad Solutions targets South African market",
-       "link": "https://www.finextra.com/pressarticle/111789/iliad-solutions-targets-south-african-market?utm_medium=rssfinextra&utm_source=finextrafeed"
-      }
-     ],
-     "title_orig": "Iliad Solutions targets South African market"
-    },
-    {
-     "title": "Meta ermöglicht es Instagram-Creators, Affiliate-Links von Amazon in ihre Beiträge einzufügen",
-     "link": "https://www.pymnts.com/facebook-meta/2026/meta-lets-instagram-creators-add-amazon-affiliate-links-posts/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Instagram-Meta.jpeg?w=457",
-     "n_sources": 1,
-     "time": "2026-11-25T18:05:43+00:00",
+     "time": "2026-11-25T23:51:23+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "Meta Lets Instagram Creators Add Amazon Affiliate Links to Posts",
-       "link": "https://www.pymnts.com/facebook-meta/2026/meta-lets-instagram-creators-add-amazon-affiliate-links-posts/"
+       "title": "FinCEN Extends Reporting Deadlines Amid Cyber-Related Service Disruption",
+       "link": "https://www.pymnts.com/cybersecurity/2026/fincen-extends-reporting-deadlines-amid-cyber-related-service-disruption/"
       }
      ],
-     "title_orig": "Meta Lets Instagram Creators Add Amazon Affiliate Links to Posts"
+     "title_orig": "FinCEN Extends Reporting Deadlines Amid Cyber-Related Service Disruption"
     },
     {
-     "title": "Beratung der CFTC-Mitarbeiter öffnet Betriebsreserven für Krypto",
-     "link": "https://www.pymnts.com/cryptocurrency/2026/cftc-staff-advisory-opens-operating-reserves-crypto/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2022/08/CFTC-crypto.jpg?w=457",
+     "title": "Ausfall bei Allstate schließt Kunden und Agenten von Schadenfällen und Zahlungen aus",
+     "link": "https://www.pymnts.com/technology/2026/allstate-outage-locks-customers-agents-out-claims-payments/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Allstate.jpeg?w=457",
      "n_sources": 1,
-     "time": "2026-11-25T17:32:54+00:00",
+     "time": "2026-11-25T21:30:26+00:00",
      "sources": [
       {
        "name": "PYMNTS",
-       "title": "CFTC Staff Advisory Opens Operating Reserves to Crypto",
-       "link": "https://www.pymnts.com/cryptocurrency/2026/cftc-staff-advisory-opens-operating-reserves-crypto/"
+       "title": "Allstate Outage Locks Customers and Agents Out of Claims and Payments",
+       "link": "https://www.pymnts.com/technology/2026/allstate-outage-locks-customers-agents-out-claims-payments/"
       }
      ],
-     "title_orig": "CFTC Staff Advisory Opens Operating Reserves to Crypto"
-    },
-    {
-     "title": "Das BIP wächst schneller, aber die Verbraucher zögern bei großen Anschaffungen",
-     "link": "https://www.pymnts.com/economy/2026/gdp-accelerates-consumers-balk-big-purchases/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/consumer-spending-economy-holidays.jpeg?w=457",
-     "n_sources": 1,
-     "time": "2026-11-25T17:08:49+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "GDP Accelerates, but Consumers Balk at Big Purchases",
-       "link": "https://www.pymnts.com/economy/2026/gdp-accelerates-consumers-balk-big-purchases/"
-      }
-     ],
-     "title_orig": "GDP Accelerates, but Consumers Balk at Big Purchases"
-    },
-    {
-     "title": "Amazon bereitet den Start einer Plattform für den Autokauf in Großbritannien für 2027 vor",
-     "link": "https://www.pymnts.com/commerce/ecommerce/2026/amazon-readies-2027-uk-launch-of-car-buying-platform/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Amazon-car-buying.jpeg?w=457",
-     "n_sources": 1,
-     "time": "2026-11-25T17:01:17+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Amazon Readies 2027 UK Launch of Car-Buying Platform",
-       "link": "https://www.pymnts.com/commerce/ecommerce/2026/amazon-readies-2027-uk-launch-of-car-buying-platform/"
-      }
-     ],
-     "title_orig": "Amazon Readies 2027 UK Launch of Car-Buying Platform"
-    },
-    {
-     "title": "Vorbereitung auf Prüfungen: Was Aufsichtsbehörden der Landesbanken möglicherweise über KI fragen",
-     "link": "https://www.pymnts.com/legal/bank-regulation/2026/exam-prep-what-state-bank-supervisors-may-ask-about-ai/",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/banking-regulation-AI.jpeg?w=457",
-     "n_sources": 1,
-     "time": "2026-11-25T16:55:26+00:00",
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "title": "Exam Prep: What State Bank Supervisors May Ask About AI",
-       "link": "https://www.pymnts.com/legal/bank-regulation/2026/exam-prep-what-state-bank-supervisors-may-ask-about-ai/"
-      }
-     ],
-     "title_orig": "Exam Prep: What State Bank Supervisors May Ask About AI"
+     "title_orig": "Allstate Outage Locks Customers and Agents Out of Claims and Payments"
     }
    ],
    "7d": [
@@ -2159,6 +2184,26 @@
       }
      ],
      "title_orig": "Google Wallet lands on iOS in the US"
+    },
+    {
+     "title": "Kalifornien verhängt gegen den BNPL-Kreditgeber Afterpay eine Strafe in Höhe von 2,7 Mio. USD",
+     "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp",
+     "n_sources": 2,
+     "time": "2026-11-26T00:01:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "California hits BNPL lender Afterpay with $2.7m penalty",
+       "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "Payments Dive",
+       "title": "California fines Afterpay $2.7M",
+       "link": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/"
+      }
+     ],
+     "title_orig": "California hits BNPL lender Afterpay with $2.7m penalty"
     },
     {
      "title": "Ant International und BNY unterzeichnen Absichtserklärung zur Erforschung von Devisen- und Zahlungsinnovationen rund um die Uhr",
@@ -2299,54 +2344,9 @@
       }
      ],
      "title_orig": "Klarna expands Visa partnership"
-    },
-    {
-     "title": "StraitsX und OCBC führen Pilotprojekt für grenzüberschreitende Stablecoin-Zahlungen auf Geschäftskonten durch",
-     "link": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Visa-APAC-stablecoins.jpeg?w=457",
-     "n_sources": 2,
-     "time": "2026-11-23T13:09:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts",
-       "link": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Visa Direct Brings Cross-Border Payment Stablecoins to APAC",
-       "link": "https://www.pymnts.com/news/cross-border-payments/2026/visa-direct-brings-cross-border-payment-stablecoins-to-apac/"
-      }
-     ],
-     "title_orig": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts"
     }
    ],
    "30d": [
-    {
-     "title": "Ant International und BNY unterzeichnen Absichtserklärung zur Erforschung von Devisen- und Zahlungsinnovationen rund um die Uhr",
-     "link": "https://www.finextra.com/pressarticle/111781/ant-international-and-bny-ink-mou-to-explore-247-fx-and-payments-innovation?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Ant-International.png?w=457&quality=82",
-     "n_sources": 3,
-     "time": "2026-11-25T17:23:24+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Ant International and BNY ink MoU to explore 24/7 FX and payments innovation",
-       "link": "https://www.finextra.com/pressarticle/111781/ant-international-and-bny-ink-mou-to-explore-247-fx-and-payments-innovation?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "Payments Dive",
-       "title": "Visa adapts to tech innovations",
-       "link": "https://www.paymentsdive.com/news/visa-adapts-to-tech-innovations/873045/"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Ant International and BNY Partner On Cross-Border Payments",
-       "link": "https://www.pymnts.com/partnerships/2026/ant-international-and-bny-partner-on-cross-border-payments/"
-      }
-     ],
-     "title_orig": "Ant International and BNY ink MoU to explore 24/7 FX and payments innovation"
-    },
     {
      "title": "Payoneer erhält vorläufige OCC-Zulassung für Stablecoin-Bank",
      "link": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -2371,31 +2371,6 @@
       }
      ],
      "title_orig": "Payoneer scores preliminarily OCC approval for stablecoin bank"
-    },
-    {
-     "title": "StraitsX und OCBC führen Pilotprojekt für grenzüberschreitende Stablecoin-Zahlungen auf Geschäftskonten durch",
-     "link": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Visa-APAC-stablecoins.jpeg?w=457",
-     "n_sources": 3,
-     "time": "2026-11-23T13:09:00+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts",
-       "link": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "Payments Dive",
-       "title": "Settling cross-border payments remains tough",
-       "link": "https://www.paymentsdive.com/news/settling-cross-border-payments-remains-tough/872997/"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Visa Direct Brings Cross-Border Payment Stablecoins to APAC",
-       "link": "https://www.pymnts.com/news/cross-border-payments/2026/visa-direct-brings-cross-border-payment-stablecoins-to-apac/"
-      }
-     ],
-     "title_orig": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts"
     },
     {
      "title": "Google Wallet kommt in den USA auf iOS",
@@ -2423,69 +2398,104 @@
      "title_orig": "Google Wallet lands on iOS in the US"
     },
     {
-     "title": "Intermex „lehnt“ die Beendigung der Übernahmevereinbarung durch Western Union ab",
-     "link": "https://www.finextra.com/newsarticle/48747/intermex-rejects-western-unions-termination-of-takeover-deal?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://imgproxy.divecdn.com/7ArmdDfPlQULF7EdB95PitS0YVaYMYtiConkt58eKx0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIyMTAwMV8yMzIxMTkuanBn.webp",
-     "n_sources": 3,
-     "time": "2026-11-12T15:02:00+00:00",
+     "title": "Monzo sieht frische Finanzierung mit einer Bewertung von 7,5 Mrd. £ - FT",
+     "link": "https://www.finextra.com/newsarticle/48715/monzo-eyes-fresh-funding-at-75bn-valuation---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/ElevenLabs.png?w=457&quality=82",
+     "n_sources": 2,
+     "time": "2026-11-26T01:04:23+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Intermex 'rejects' Western Union's termination of takeover deal",
-       "link": "https://www.finextra.com/newsarticle/48747/intermex-rejects-western-unions-termination-of-takeover-deal?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "Payments Dive",
-       "title": "Western Union, Intermex clash",
-       "link": "https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/"
+       "title": "Monzo eyes fresh funding at £7.5bn valuation - FT",
+       "link": "https://www.finextra.com/newsarticle/48715/monzo-eyes-fresh-funding-at-75bn-valuation---ft?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
        "name": "PYMNTS",
-       "title": "Western Union Scraps Intermex Deal After Regulatory Fight",
-       "link": "https://www.pymnts.com/news/acquiring/2026/western-union-scraps-intermex-deal-after-regulatory-fight/"
+       "title": "ElevenLabs Targets $33 Billion Valuation in Early 2027 Funding Round",
+       "link": "https://www.pymnts.com/news/investment-tracker/2026/elevenlabs-targets-33-billion-valuation-in-early-2027-funding-round/"
       }
      ],
-     "title_orig": "Intermex 'rejects' Western Union's termination of takeover deal"
+     "title_orig": "Monzo eyes fresh funding at £7.5bn valuation - FT"
     },
     {
-     "title": "Die Kalshi-Bewertung steigt bei der letzten Erhöhung auf 40 Mrd. $",
-     "link": "https://www.finextra.com/newsarticle/48673/kalshi-valuation-jumps-to-40-billion-on-latest-raise?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Databricks.jpeg?w=457",
+     "title": "Ant International und BNY unterzeichnen Absichtserklärung zur Erforschung von Devisen- und Zahlungsinnovationen rund um die Uhr",
+     "link": "https://www.finextra.com/pressarticle/111781/ant-international-and-bny-ink-mou-to-explore-247-fx-and-payments-innovation?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Ant-International.png?w=457&quality=82",
      "n_sources": 2,
-     "time": "2026-11-24T23:37:06+00:00",
+     "time": "2026-11-25T17:23:24+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Kalshi valuation jumps to $40 billion on latest raise",
-       "link": "https://www.finextra.com/newsarticle/48673/kalshi-valuation-jumps-to-40-billion-on-latest-raise?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "Ant International and BNY ink MoU to explore 24/7 FX and payments innovation",
+       "link": "https://www.finextra.com/pressarticle/111781/ant-international-and-bny-ink-mou-to-explore-247-fx-and-payments-innovation?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
        "name": "PYMNTS",
-       "title": "Databricks Pursues $225 Billion Valuation Months After $5 Billion Raise",
-       "link": "https://www.pymnts.com/news/investment-tracker/2026/databricks-pursues-225-billion-valuation-months-after-5-billion-raise/"
+       "title": "Ant International and BNY Partner On Cross-Border Payments",
+       "link": "https://www.pymnts.com/partnerships/2026/ant-international-and-bny-partner-on-cross-border-payments/"
       }
      ],
-     "title_orig": "Kalshi valuation jumps to $40 billion on latest raise"
+     "title_orig": "Ant International and BNY ink MoU to explore 24/7 FX and payments innovation"
     },
     {
-     "title": "Worldline führt eine eigene Marke für grenzüberschreitende Zahlungen im Reise- und digitalen Handel wieder ein",
-     "link": "https://www.finextra.com/pressarticle/111770/worldline-relaunches-dedicated-cross-border-payments-brand-for-travel-an-digital-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "",
+     "title": "StraitsX und OCBC führen Pilotprojekt für grenzüberschreitende Stablecoin-Zahlungen auf Geschäftskonten durch",
+     "link": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Visa-APAC-stablecoins.jpeg?w=457",
      "n_sources": 2,
-     "time": "2026-11-24T13:17:00+00:00",
+     "time": "2026-11-23T13:09:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Worldline relaunches dedicated cross-border payments brand for travel an digital commerce",
-       "link": "https://www.finextra.com/pressarticle/111770/worldline-relaunches-dedicated-cross-border-payments-brand-for-travel-an-digital-commerce?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts",
+       "link": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Visa Direct Brings Cross-Border Payment Stablecoins to APAC",
+       "link": "https://www.pymnts.com/news/cross-border-payments/2026/visa-direct-brings-cross-border-payment-stablecoins-to-apac/"
+      }
+     ],
+     "title_orig": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts"
+    },
+    {
+     "title": "Kanadas Echtzeit-Zahlungssystem startet",
+     "link": "https://www.finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Federal-Reserve.jpeg?w=457",
+     "n_sources": 2,
+     "time": "2026-11-23T16:23:16+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "Canada's real-time payments system launches",
+       "link": "https://www.finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "PYMNTS",
+       "title": "Real-Time Payments Are Changing the Economics of Corporate Liquidity",
+       "link": "https://www.pymnts.com/real-time-payments/2026/real-time-payments-are-changing-economics-corporate-liquidity/"
+      }
+     ],
+     "title_orig": "Canada's real-time payments system launches"
+    },
+    {
+     "title": "Kalifornien verhängt gegen den BNPL-Kreditgeber Afterpay eine Strafe in Höhe von 2,7 Mio. USD",
+     "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp",
+     "n_sources": 2,
+     "time": "2026-11-26T00:01:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "California hits BNPL lender Afterpay with $2.7m penalty",
+       "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
        "name": "Payments Dive",
-       "title": "How digital dollars improve cross-border payment management",
-       "link": "https://www.paymentsdive.com/spons/how-digital-dollars-improve-cross-border-payment-management/874849/"
+       "title": "California fines Afterpay $2.7M",
+       "link": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/"
       }
      ],
-     "title_orig": "Worldline relaunches dedicated cross-border payments brand for travel an digital commerce"
+     "title_orig": "California hits BNPL lender Afterpay with $2.7m penalty"
     },
     {
      "title": "Utah lässt Strafanzeigen fallen, nachdem Kalshi den Bundesstaat verlassen hat",
@@ -2528,24 +2538,24 @@
      "title_orig": "Binance users withdraw $5bn in wake of hack"
     },
     {
-     "title": "Warum autonome KI-Agenten das Bankwesen neu gestalten und nicht zerstören werden",
-     "link": "https://www.finextra.com/blogposting/33546/why-autonomous-ai-agents-will-reshape-banking-not-break-it?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/10/2026-Web-Hero-Image-KLW-NEXT-1200x780-10272.jpg?w=457",
+     "title": "Wells Fargo an seine Kunden: Ihr KI-Agent, Ihr Problem",
+     "link": "https://www.finextra.com/blogposting/33547/wells-fargo-to-customers-your-ai-agent-your-problem?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Wells-Fargo-AI-agents.jpeg?w=457",
      "n_sources": 2,
-     "time": "2026-11-23T10:17:11+00:00",
+     "time": "2026-11-24T20:04:45+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Why autonomous AI agents will reshape banking, not break it",
-       "link": "https://www.finextra.com/blogposting/33546/why-autonomous-ai-agents-will-reshape-banking-not-break-it?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "Wells Fargo to Customers: Your AI Agent, Your Problem",
+       "link": "https://www.finextra.com/blogposting/33547/wells-fargo-to-customers-your-ai-agent-your-problem?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
        "name": "PYMNTS",
-       "title": "Why AI Agents Will Live or Die on Permission",
-       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/why-ai-agents-will-live-or-die-on-permission/"
+       "title": "Wells Fargo Tells Customers They Are Responsible for AI Agents",
+       "link": "https://www.pymnts.com/news/banking/2026/wells-fargo-tells-customers-they-are-responsible-for-ai-agents/"
       }
      ],
-     "title_orig": "Why autonomous AI agents will reshape banking, not break it"
+     "title_orig": "Wells Fargo to Customers: Your AI Agent, Your Problem"
     }
    ]
   }
@@ -2557,54 +2567,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "gregor gysi",
-      "link": "https://www.faz.net/aktuell/sport/sportpolitik/gregor-gysi-im-interview-ueber-parallelen-zwischen-judo-und-politik-accg-201691504.html",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "villarreal",
-      "link": "https://as.com/futbol/champions/cardona-calendario-asequible-ya-aprendimos-la-leccion-el-ano-pasado-f202611-n/",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "uefa youth league",
-      "link": "https://www.sport1.de/news/fussball/uefa-youth-league/2026/11/bayern-juwel-assomo-brilliert-in-der-youth-league",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "die geschichte von jim",
-      "link": "https://www.ardmediathek.de/tv-programm/6abddb13bcf2cbb4dd56d9fe",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "pedri",
-      "link": "https://www.goal.com/es/noticias/aprovecho-la-ausencia-de-yamal-y-raphinha-pedri-recibe-dos-regalos-en-su-cumpleanos/blt941ed32916f60b03",
+      "title": "hornets – bulls",
+      "link": "https://www.espn.com/nba/recap?gameId=401909318",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "kertsch",
-      "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html",
-      "meta": "2000+ Suchanfragen"
+      "title": "rockstar",
+      "link": "https://www.bbc.com/news/articles/c5lyk9dm3g1ko",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "losc lille",
-      "link": "https://www.lequipe.fr/Football/Actualites/-c-est-comme-un-derby-de-retour-dans-le-nord-pour-affronter-lille-avec-le-bayern-onze-ans-apres-son-passage-a-valenciennes-dayot-upamecano-s-attend-a-un-gros-match/1745917",
+      "title": "nfl",
+      "link": "https://www.imdb.com/news/ni66128812/?ref_=nwc_art_perm",
       "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "radsport",
-      "link": "https://www.eurosport.de/radsport/tadej-pogacar-spricht-ueber-depression-und-laesst-tief-blicken-schwierige-phase-nach-schwerem-sturz-bei-vuelta-a-espana_sto23358247/story.shtml",
-      "meta": "200+ Suchanfragen"
+      "title": "rams – packers",
+      "link": "https://www.packers.com/news/packers-vs-rams-how-to-watch-stream-listen-week-12-2026",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "schweinfurt",
-      "link": "https://www.bild.de/news/sechs-jugendliche-festgenommen-13-jaehrige-offenbar-monatelang-missbraucht-6b071282c75e09cb88d15fb2",
-      "meta": "200+ Suchanfragen"
+      "title": "senta berger",
+      "link": "https://www.t-online.de/unterhaltung/stars/id_101544024/senta-berger-spricht-verlust-ihres-ehemannes-michael-verhoeven.html",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "dazn",
-      "link": "https://www.sportschau.de/regional/swr/swr-vfb-stuttgart-mit-vorfreude-auf-inter-im-san-siro-unglaubliche-geschichte-100.html",
+      "title": "kalkbuster wasserhahn entkalker",
+      "link": "https://www.joyn.de/bts/serien/die-millionenidee-mit-ralf-duemmel/sieger-folge3-dieses-produkt-verlaengert-die-lebensmittel-haltbarkeit-218902",
       "meta": "2000+ Suchanfragen"
+     },
+     {
+      "title": "russland ukraine krieg",
+      "link": "https://www.zeit.de/news/2026-11/24/selenskyj-usa-machen-ukraine-druck-auf-frieden-bis-januar",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "hm",
+      "link": "https://wwd.com/business-news/retail/hm-north-america-growth-plans-puerto-rico-1239465645/",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "sandisk aktie",
+      "link": "https://www.wallstreet-online.de/nachricht/21748180-sandisk-aktie-minus-70-trade-180-rendite",
+      "meta": "500+ Suchanfragen"
      }
     ]
    },
@@ -2615,52 +2625,52 @@
      {
       "title": "Vanessa Emde",
       "link": "https://de.wikipedia.org/wiki/Vanessa_Emde",
-      "meta": "50.582 Aufrufe am 24.11."
+      "meta": "58.226 Aufrufe am 25.11."
      },
      {
-      "title": "Crossair-Flug 3597",
-      "link": "https://de.wikipedia.org/wiki/Crossair-Flug_3597",
-      "meta": "32.772 Aufrufe am 24.11."
+      "title": "Chamäleon (2026)",
+      "link": "https://de.wikipedia.org/wiki/Cham%C3%A4leon_(2026)",
+      "meta": "42.416 Aufrufe am 25.11."
      },
      {
-      "title": "Melanie Thornton",
-      "link": "https://de.wikipedia.org/wiki/Melanie_Thornton",
-      "meta": "32.532 Aufrufe am 24.11."
+      "title": "Veruschka Gräfin von Lehndorff",
+      "link": "https://de.wikipedia.org/wiki/Veruschka_Gr%C3%A4fin_von_Lehndorff",
+      "meta": "37.261 Aufrufe am 25.11."
      },
      {
       "title": "Liste der größten Auslegerbrücken",
       "link": "https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6%C3%9Ften_Auslegerbr%C3%BCcken",
-      "meta": "31.644 Aufrufe am 24.11."
+      "meta": "32.744 Aufrufe am 25.11."
+     },
+     {
+      "title": "Vera von Lehndorff",
+      "link": "https://de.wikipedia.org/wiki/Vera_von_Lehndorff",
+      "meta": "26.981 Aufrufe am 25.11."
+     },
+     {
+      "title": "Marianne Atzeroth-Freier",
+      "link": "https://de.wikipedia.org/wiki/Marianne_Atzeroth-Freier",
+      "meta": "26.263 Aufrufe am 25.11."
      },
      {
       "title": "Jeanine Grasmeijer",
       "link": "https://de.wikipedia.org/wiki/Jeanine_Grasmeijer",
-      "meta": "30.219 Aufrufe am 24.11."
+      "meta": "24.947 Aufrufe am 25.11."
      },
      {
       "title": "Riemannsche Vermutung",
       "link": "https://de.wikipedia.org/wiki/Riemannsche_Vermutung",
-      "meta": "27.668 Aufrufe am 24.11."
+      "meta": "20.981 Aufrufe am 25.11."
      },
      {
-      "title": "Freddie Mercury",
-      "link": "https://de.wikipedia.org/wiki/Freddie_Mercury",
-      "meta": "23.191 Aufrufe am 24.11."
+      "title": "Olivia Jones",
+      "link": "https://de.wikipedia.org/wiki/Olivia_Jones",
+      "meta": "18.190 Aufrufe am 25.11."
      },
      {
-      "title": "Jensen Huang",
-      "link": "https://de.wikipedia.org/wiki/Jensen_Huang",
-      "meta": "18.590 Aufrufe am 24.11."
-     },
-     {
-      "title": "Der talentierte Mr. F.",
-      "link": "https://de.wikipedia.org/wiki/Der_talentierte_Mr._F.",
-      "meta": "17.972 Aufrufe am 24.11."
-     },
-     {
-      "title": "Molybdän",
-      "link": "https://de.wikipedia.org/wiki/Molybd%C3%A4n",
-      "meta": "17.657 Aufrufe am 24.11."
+      "title": "Wieslauftalbahn",
+      "link": "https://de.wikipedia.org/wiki/Wieslauftalbahn",
+      "meta": "15.081 Aufrufe am 25.11."
      }
     ]
    }
@@ -2671,31 +2681,33 @@
     "lang": "fr",
     "items": [
      {
-      "title": "jean-marc furlan",
-      "link": "https://www.franceinfo.fr/sports/foot/ligue-1/l-epouse-de-l-entraineur-jean-marc-furlan-atteint-d-une-maladie-neurodegenerative-alerte-sur-les-risques-lies-au-football_8299878.html",
-      "meta": "500+ Suchanfragen"
+      "title": "trail Blazer – Spurs",
+      "link": "https://www.poundingtherock.com/spurs-game-previews/110709/game-preview-san-antonio-spurs-vs-portland-trail-blazers",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "trail blazers – spurs"
      },
      {
-      "title": "Elektrofahrzeug",
-      "link": "https://www.jechange.fr/energie/electricite/news/prime-voiture-electrique-380-km-autonomie-seuil-ecoscore-3500-euros-aide",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "véhicule électrique"
-     },
-     {
-      "title": "anthony ippolito",
-      "link": "https://www.laineygossip.com/i-play-rocky-and-star-anthony-ippolito-surge-ahead-in-varietys-oscar-nomination-predictions/",
+      "title": "le parisien",
+      "link": "https://www.lefigaro.fr/faits-divers/paris-un-homme-perd-sa-main-en-manipulant-un-engin-explosif-sur-le-boulevard-saint-martin-20261125",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Baku",
-      "link": "https://www.armenews.com/apres-berlin-rome-au-service-de-bakou/",
+      "title": "Knicks – Cavaliers",
+      "link": "https://www.reutersconnect.com/item/nba-cleveland-cavaliers-at-new-york-knicks/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NDc1NTM",
       "meta": "100+ Suchanfragen",
-      "title_orig": "bakou"
+      "title_orig": "knicks – cavaliers"
      },
      {
-      "title": "grand frais clichy",
-      "link": "https://www.bfmtv.com/economie/consommation/des-prix-pas-trop-eleves-comme-en-province-on-a-fait-l-ouverture-du-premier-grand-frais-aux-portes-de-paris-l-enseigne-qui-a-conquis-le-territoire-avant-la-capitale_AN-202611250475.html",
-      "meta": "100+ Suchanfragen"
+      "title": "lotto Ziehung Ergebnisse",
+      "link": "https://www.fdj.fr/jeux-de-tirage/loto/resultats/mercredi-25-novembre-2026",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "tirage loto résultats"
+     },
+     {
+      "title": "Thunder – Timberwolves",
+      "link": "https://www.startribune.com/minnesota-timberwolves-oklahoma-city-thunder-score-today-lamelo-ball-stats-anthony-edwards-injury/601916813",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "thunder – timberwolves"
      }
     ]
    },
@@ -2704,32 +2716,33 @@
     "lang": "it",
     "items": [
      {
-      "title": "Messgewand",
-      "link": "https://tg24.sky.it/scienze/2026/11/23/pianeta-nove",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "pianeta"
-     },
-     {
-      "title": "gabriel jesus",
-      "link": "https://www.goal.com/en-in/news/60-minutes-in-six-matches-flick-s-decision-causes-confusion-at-barcelona/blt8627c2442bb00cb3",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "wesley fofana",
-      "link": "https://www.thetimes.com/sport/football/article/wesley-fofana-missed-penalty-chelsea-liverpool-nmtnp6rhz",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "Aserbaidschan",
-      "link": "https://todaypress.tv/en/news/direct-flights-between-azerbaijan-and-lithuania-may-be-launched",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "azerbaijan"
-     },
-     {
-      "title": "Arbeitnehmer",
-      "link": "https://www.brindisireport.it/economia/brindisi-tre-vertenze-petrolchimico-failm-nessun-lavoratore-deve-essere-lasciato-indietro.html",
+      "title": "Andy Taylor von Duran Duran gestorben",
+      "link": "https://tg24.sky.it/spettacolo/musica/2026/11/25/andy-taylor-morto-duran-duran",
       "meta": "500+ Suchanfragen",
-      "title_orig": "lavoratore"
+      "title_orig": "morto andy taylor duran duran"
+     },
+     {
+      "title": "Wetter Palermo",
+      "link": "https://www.rainews.it/tgr/sicilia/articoli/2026/11/il-meteo-della-sicilia-83a738d0-4a95-4ade-959d-fe587b5d1645.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "meteo palermo"
+     },
+     {
+      "title": "Musk",
+      "link": "https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "elon musk"
+     },
+     {
+      "title": "tesla",
+      "link": "https://www.reuters.com/business/autos-transportation/eu-postpones-discussion-approve-teslas-self-driving-tech-2026-11-25/",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "PlayStation Plus Spiele des Monats",
+      "link": "https://blog.it.playstation.com/2026/11/25/giochi-mensili-playstation-plus-per-dicembre-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-amnesia-the-bunker/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "playstation plus giochi mensili"
      }
     ]
    },
@@ -2738,32 +2751,34 @@
     "lang": "es",
     "items": [
      {
-      "title": "Real Madrid – Žalgiris",
-      "link": "https://www.realmadrid.com/es-ES/noticias/baloncesto/primer-equipo/previas/real-madrid-zalgiris-25-11-2026",
+      "title": "Neueste Umfragen zu den Parlamentswahlen",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-24/llega-el-apagon-de-encuestas-que-dice-el-promedio-con-todas-las-ultimas.html",
       "meta": "500+ Suchanfragen",
-      "title_orig": "real madrid - žalgiris"
+      "title_orig": "últimas encuestas elecciones generales"
      },
      {
-      "title": "curro romero",
-      "link": "https://www.elmundo.es/cultura/toros/2026/11/25/6b05c89fe85ecef83f8b4583.html",
-      "meta": "500+ Suchanfragen"
+      "title": "Bonoloto heute überprüfen",
+      "link": "https://www.lavanguardia.com/comprobar-loteria/bonoloto/bonoloto-20261124/",
+      "meta": "10000+ Suchanfragen",
+      "title_orig": "comprobar bonoloto hoy"
      },
      {
-      "title": "Olympiakos – Hapoel Tel Aviv",
-      "link": "https://robinhood.com/us/en/prediction-markets/mens-pro-basketball/events/hapoel-tel-aviv-vs-bc-olympiakos-piraeus-nov-25-2026/",
+      "title": "Atlético Nacional – Medellín",
+      "link": "https://colombia.as.com/futbol/nacional-medellin-en-vivo-online-cuadrangulares-de-la-liga-betplay-en-directo-f202611-d/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "atlético nacional - medellín"
+     },
+     {
+      "title": "Thunder – Timberwolves",
+      "link": "https://www.marca.com/en/basket/nba/thunder-timberwolves/2026/11/26/02_0202_20261126_8960_7426-live.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "olympiacos - hapoel tel aviv"
+      "title_orig": "thunder - timberwolves"
      },
      {
-      "title": "el corte inglés",
-      "link": "https://www.elmundo.es/economia/empresas/2026/11/25/6b06ee02fdddff677f8b45a2.html",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "Baskonia – Anadolu Efes",
-      "link": "https://www.aspor.com.tr/basketbol/2026/11/25/baskonia-anadolu-efes-maci-ne-zaman-saat-kacta-ve-hangi-kanalda",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "baskonia - anadolu efes"
+      "title": "fuel",
+      "link": "https://www.elmundo.es/internacional/2026/11/25/6b073538fc6c836b678b4575.html",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "combustible"
      }
     ]
    },
@@ -2772,32 +2787,33 @@
     "lang": "en",
     "items": [
      {
-      "title": "PSG gegen Roma",
-      "link": "https://www.bbc.co.uk/sport/football/live/crd6151l6y7zt",
+      "title": "Grillen",
+      "link": "https://www.bbc.com/sport/cricket/videos/cm62pgjz6wv6o",
       "meta": "500+ Suchanfragen",
-      "title_orig": "psg vs roma"
+      "title_orig": "cricket"
      },
      {
-      "title": "Losc vs. Bayern",
-      "link": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-losc-lille-vs.-fc-bayern-champions-league",
+      "title": "NFL-Ergebnisse",
+      "link": "https://www.nfl.com/news/nfl-picks-week-12-2026-nfl-season",
       "meta": "200+ Suchanfragen",
-      "title_orig": "losc vs bayern"
+      "title_orig": "nfl scores"
      },
      {
-      "title": "robert lindsay",
-      "link": "https://www.whatsonstage.com/news/the-notebook-announces-initial-west-end-casting_1738255/",
-      "meta": "200+ Suchanfragen"
+      "title": "la rams",
+      "link": "https://sports.yahoo.com/nfl/articles/rams-qb-matthew-stafford-choose-022958287.html",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "сабах – барселона",
-      "link": "https://azertag.az/ru/xeber/barselona_provela_trenirovku_v_baku_-4523568",
-      "meta": "200+ Suchanfragen"
+      "title": "Fluch der Karibik",
+      "link": "https://collider.com/pirates-of-the-caribbean-captain-jack-sparrow-disney-immersive-adventure-2027/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "pirates of the caribbean"
      },
      {
-      "title": "Burnley gegen Birmingham",
-      "link": "https://www.bbc.co.uk/sport/football/live/ckqx505l5x4qt",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "burnley vs birmingham"
+      "title": "Epische Spiele",
+      "link": "https://wccftech.com/epic-games-ceo-tim-sweeney-calls-claude-garbage/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "epic games"
      }
     ]
    },
@@ -2806,31 +2822,31 @@
     "lang": "pl",
     "items": [
      {
-      "title": "the last of us",
-      "link": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/laura-bailey-says-last-us-191724045.html",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "izabela leszczyna",
-      "link": "https://wyborcza.pl/7,75398,33149039,izabela-leszczyna-kandydatka-ko-do-rady-polityki-pienieznej.html",
+      "title": "karol nawrocki",
+      "link": "https://wiadomosci.wp.pl/ostry-spor-o-medale-tusk-zaatakowal-palac-odpowiada-7354838227511392a",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "gabriel jesus",
-      "link": "https://www.goal.com/en-in/news/60-minutes-in-six-matches-flick-s-decision-causes-confusion-at-barcelona/blt8627c2442bb00cb3",
-      "meta": "100+ Suchanfragen"
+      "title": "tomasz sakiewicz",
+      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/przeszukania-w-miejscach-zwiazanych-z-szefem-tv-republika-chodzi-o-powolywanie-sie-na/s05cr8g",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Erntedankfest",
-      "link": "https://styl.interia.pl/trendy/news-melania-trump-w-plaszczu-w-krate-na-ulaskawieniu-indyka-wzor,nId,23578609",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "święto dziękczynienia"
+      "title": "andy taylor",
+      "link": "https://duranduran.com/2026/andy-taylor-1961-2026/",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "Sabah Baku – FC Barcelona – Statistiken",
-      "link": "https://www.fcbarcelona.com/en/football/barca-academy/news/4614501/uefa-youth-league-sabah-fk-0-7-fc-barcelona-big-win-in-baku",
+      "title": "Tennis",
+      "link": "https://canaltenis.com/alex-corretja-se-deshace-de-elogios-para-jodar-es-alucinante/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "sabah baku – fc barcelona – statystyki"
+      "title_orig": "tenis"
+     },
+     {
+      "title": "Flughafen Chopin",
+      "link": "https://warszawawpigulce.pl/alarm-na-lotnisku-chopina-w-warszawie-problemy-zglosil-samolot-ze-190-pasazerami-na-pokladzie/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "lotnisko chopina"
      }
     ]
    },
@@ -2839,33 +2855,30 @@
     "lang": "fr",
     "items": [
      {
+      "title": "Gabriel Matzneff",
+      "link": "https://fr.wikipedia.org/wiki/Gabriel_Matzneff",
+      "meta": "149.614 Aufrufe am 25.11."
+     },
+     {
       "title": "David Lisnard",
       "link": "https://fr.wikipedia.org/wiki/David_Lisnard",
-      "meta": "43.423 Aufrufe am 24.11."
+      "meta": "94.204 Aufrufe am 25.11."
+     },
+     {
+      "title": "Vanessa Springora",
+      "link": "https://fr.wikipedia.org/wiki/Vanessa_Springora",
+      "meta": "61.246 Aufrufe am 25.11."
      },
      {
       "title": "Liste der Umfragen zur französischen Präsidentschaftswahl 2027",
       "link": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-      "meta": "42.629 Aufrufe am 24.11.",
+      "meta": "48.542 Aufrufe am 25.11.",
       "title_orig": "Liste de sondages sur l'élection présidentielle française de 2027"
      },
      {
-      "title": "Michel Dumas (Koch)",
-      "link": "https://fr.wikipedia.org/wiki/Michel_Dumas_(cuisinier)",
-      "meta": "32.002 Aufrufe am 24.11.",
-      "title_orig": "Michel Dumas (cuisinier)"
-     },
-     {
-      "title": "Riemannsche Hypothese",
-      "link": "https://fr.wikipedia.org/wiki/Hypoth%C3%A8se_de_Riemann",
-      "meta": "18.298 Aufrufe am 24.11.",
-      "title_orig": "Hypothèse de Riemann"
-     },
-     {
-      "title": "Fußball-Afrika-Cup 2025",
-      "link": "https://fr.wikipedia.org/wiki/Coupe_d'Afrique_des_nations_de_football_2025",
-      "meta": "16.862 Aufrufe am 24.11.",
-      "title_orig": "Coupe d'Afrique des nations de football 2025"
+      "title": "Kim Higelin",
+      "link": "https://fr.wikipedia.org/wiki/Kim_Higelin",
+      "meta": "38.080 Aufrufe am 25.11."
      }
     ]
    },
@@ -2874,32 +2887,30 @@
     "lang": "it",
     "items": [
      {
-      "title": "Ein Fenster mit Seeblick (Fernsehserie)",
-      "link": "https://it.wikipedia.org/wiki/Una_finestra_vista_lago_(serie_televisiva)",
-      "meta": "51.882 Aufrufe am 24.11.",
-      "title_orig": "Una finestra vista lago (serie televisiva)"
-     },
-     {
       "title": "Gianni De Gennaro",
       "link": "https://it.wikipedia.org/wiki/Gianni_De_Gennaro",
-      "meta": "41.505 Aufrufe am 24.11."
+      "meta": "27.467 Aufrufe am 25.11."
      },
      {
-      "title": "Entführung von Farouk Kassam",
-      "link": "https://it.wikipedia.org/wiki/Sequestro_di_Farouk_Kassam",
-      "meta": "31.624 Aufrufe am 24.11.",
-      "title_orig": "Sequestro di Farouk Kassam"
+      "title": "Lucrezia Borgia",
+      "link": "https://it.wikipedia.org/wiki/Lucrezia_Borgia",
+      "meta": "21.213 Aufrufe am 25.11."
      },
      {
-      "title": "Gustavo Varela (Fußballspieler 2005)",
-      "link": "https://it.wikipedia.org/wiki/Gustavo_Varela_(calciatore_2005)",
-      "meta": "29.479 Aufrufe am 24.11.",
-      "title_orig": "Gustavo Varela (calciatore 2005)"
+      "title": "Federica Brignone",
+      "link": "https://it.wikipedia.org/wiki/Federica_Brignone",
+      "meta": "19.250 Aufrufe am 25.11."
      },
      {
-      "title": "Enzo Maresca",
-      "link": "https://it.wikipedia.org/wiki/Enzo_Maresca",
-      "meta": "15.524 Aufrufe am 24.11."
+      "title": "Internationaler Tag gegen Gewalt an Frauen",
+      "link": "https://it.wikipedia.org/wiki/Giornata_internazionale_per_l'eliminazione_della_violenza_contro_le_donne",
+      "meta": "17.069 Aufrufe am 25.11.",
+      "title_orig": "Giornata internazionale per l'eliminazione della violenza contro le donne"
+     },
+     {
+      "title": "Holland (film)",
+      "link": "https://it.wikipedia.org/wiki/Holland_(film)",
+      "meta": "16.833 Aufrufe am 25.11."
      }
     ]
    }
@@ -2910,33 +2921,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "PSG gegen Roma",
-      "link": "https://www.bbc.com/sport/football/live/crd6151l6y7zt",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "psg vs roma"
-     },
-     {
-      "title": "Opus 5.6",
-      "link": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "opus 5.6"
-     },
-     {
-      "title": "veruschka",
-      "link": "https://www.vogue.com/article/veruschka-obituary",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "Luftwaffenstützpunkt Sawaslejka",
-      "link": "https://www.bbc.com/news/articles/ck9q8xp5r5pgo",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "savasleyka air base"
-     },
-     {
-      "title": "Kevin Porter Jr.",
-      "link": "https://www.espn.com/nba/story/_/id/50595534/agent-kevin-porter-jr-finalizing-2-year-deal-magic",
+      "title": "Doktor Doom",
+      "link": "https://deadline.com/2026/11/avengers-doomsday-final-trailer-viewership-record-1237232943/",
       "meta": "2000+ Suchanfragen",
-      "title_orig": "kevin porter jr"
+      "title_orig": "dr doom"
+     },
+     {
+      "title": "ja morant",
+      "link": "https://www.blazersedge.com/trail-blazers-news/118895/portland-trail-blazers-ja-morant-nba-injury-news-return-micah-nori-spurs-grizzlies",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "Avengers Doomsday Besetzung",
+      "link": "https://ew.com/connor-storrie-ghost-rider-marvel-kevin-feige-reacts-exclusive-12262949",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "avengers doomsday cast"
+     },
+     {
+      "title": "Küste von Oregon",
+      "link": "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "oregon coast"
+     },
+     {
+      "title": "kevin ginkel",
+      "link": "https://www.mlbtraderumors.com/2026/11/twins-to-sign-kevin-ginkel.html",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2945,32 +2955,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "Sporting gegen Manchester United",
-      "link": "https://www.bbc.com/sport/football/live/cx98zmzyn0y7t",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "sporting vs man utd"
+      "title": "Trail Blazers gegen Spurs",
+      "link": "https://www.blazersedge.com/gameday-coverage/118876/portland-trail-blazers-san-antonio-spurs-time-tv-streaming-latest-injury-report-nba-cup-standings",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "trail blazers vs spurs"
      },
      {
-      "title": "PSG gegen Roma",
-      "link": "https://www.goal.com/en-in/news/psg-vs-roma-predicted-line-ups-two-doubts-for-gasperini-pastore-luis-enrique-has-the-best-full-backs-in-the-world/bltaeb827be39b9af03",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "psg vs roma"
+      "title": "MP vs. PUD",
+      "link": "https://www.indiatoday.in/live-score/cricket/madhya-pradesh-puducherry-live-cricket-scorecard-273316",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "mp vs pud"
      },
      {
-      "title": "Wirtschaftliches Wachstum",
-      "link": "https://www.reuters.com/business/finance/us-third-quarter-gdp-growth-revised-sharply-higher-2026-11-25/",
+      "title": "వృషకర్మ",
+      "link": "https://www.eenadu.net/telugu-news/movies/vrushakarma-will-be-a-pride-for-the-telugu-film-industry/0299/126214980",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "*US-Dollar-Index ",
+      "link": "https://www.reuters.com/world/africa/dollar-steady-sliding-yields-temper-safe-haven-bid-2026-11-26/",
       "meta": "100+ Suchanfragen",
-      "title_orig": "economic growth"
+      "title_orig": "dollar index"
      },
      {
-      "title": "ব্যাংক",
-      "link": "https://www.anandabazar.com/world/nobel-laureate-muhammad-yunus-alleges-more-than-100-branches-of-bangladesh-grameen-bank-were-attacked-with-the-slogan-joy-bangla-dgtl/cid/1728535",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "joan garcía",
-      "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255447/flick-mantiene-apuesta-joan-garcia-baku.html",
-      "meta": "100+ Suchanfragen"
+      "title": "musheer khan",
+      "link": "https://www.bcci.tv/matches/3b22efb3-5b1f-4fd9-8754-ebe8807a9b75/odisha-vs-mumbai/commentary",
+      "meta": "2000+ Suchanfragen"
      }
     ]
    },
@@ -2979,31 +2989,31 @@
     "lang": "pt",
     "items": [
      {
-      "title": "Xtream Skate",
-      "link": "https://www.espn.com.br/futebol/champions-league/artigo/_/id/17554161/psg-x-roma-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-champions-league",
-      "meta": "5000+ Suchanfragen",
-      "title_orig": "champions"
+      "title": "Wer liebt, kümmert sich – Telenovela",
+      "link": "https://gshow.globo.com/novelas/quem-ama-cuida/vem-por-ai/noticia/ulisses-usa-segredo-do-passado-para-chantagear-pilar-em-quem-ama-cuida.ghtml",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "quem ama cuida novela"
      },
      {
-      "title": "veruschka",
-      "link": "https://www.vogue.com/article/veruschka-obituary",
-      "meta": "200+ Suchanfragen"
+      "title": "minnesota timberwolves",
+      "link": "https://sports.yahoo.com/nba/breaking-news/article/timberwolves-g-lamelo-ball-leaves-win-vs-thunder-early-due-to-apparent-ankle-injury-031210964.html",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "celso amorim",
-      "link": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/11/24/uol-entrevista-ganha-edicao-semanal-e-recebe-celso-amorim-nesta-quarta.ghtm",
-      "meta": "200+ Suchanfragen"
+      "title": "nba cup",
+      "link": "https://www.afp.com/en/james-becomes-oldest-nba-triple-double-sixers-win",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "uefa",
-      "link": "https://www.transfermarkt.com.tr/sampiyonlar-liginde-sali-mesaisi-tamamlandi-iste-gecenin-skorlari-ve-golculeri/view/news/491194",
-      "meta": "200+ Suchanfragen"
+      "title": "jean lucas",
+      "link": "https://netvasco.com.br/n/397120/vasco-oferece-8-milhoes-de-euros-e-se-aproxima-de-acertar-a-contratacao-do-meia-jean-lucas-do-bahia",
+      "meta": "100+ Suchanfragen"
      },
      {
-      "title": "weizen",
-      "link": "https://globorural.globo.com/agricultura/trigo/noticia/2026/11/dolar-e-oferta-limitada-de-graos-de-qualidade-sustentam-precos-do-trigo.ghtml",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "trigo"
+      "title": "bauernhof-Umfrage",
+      "link": "https://record.r7.com/a-fazenda/a-fazenda-18/novidades/fran-almeida-serginho-hondjakoff-e-thaide-estao-na-decima-roca-de-a-fazenda-18-26112026/",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "enquete a fazenda"
      }
     ]
    },
@@ -3012,34 +3022,34 @@
     "lang": "ja",
     "items": [
      {
-      "title": "FK Sabah gegen FC Barcelona",
-      "link": "https://www.bbc.com/sport/football/live/c674232v2gv3t",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "sabah fk vs barcelona"
+      "title": "Eintritt in den Ring",
+      "link": "https://news.yahoo.co.jp/articles/e342bf43d82a94cb1a016d120f202454925f660d",
+      "meta": "2000+ Suchanfragen",
+      "title_orig": "土俵入り"
      },
      {
-      "title": "Angeklagter Shinji Saito",
-      "link": "https://news.yahoo.co.jp/articles/1b485b6d08ff149eade0ddaf9e6839dedd389a68",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "斉藤慎二被告"
+      "title": "Rika Kihira",
+      "link": "https://news.yahoo.co.jp/pickup/6604030",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "紀平梨花"
      },
      {
-      "title": "Twitch",
-      "link": "https://www.thewrap.com/culture-lifestyle/culture/twitch-features-update-grand-theft-auto-vi-breaks-records/",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "ツイッチ"
-     },
-     {
-      "title": "Barcelona.",
-      "link": "https://news.yahoo.co.jp/expert/articles/778482688d5bafed64cd680d246ac7d4613a3968",
+      "title": "Unantastbar",
+      "link": "https://www.sponichi.co.jp/entertainment/news/2026/11/26/kiji/20261126s00041000163000c.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "バルセロナ"
+      "title_orig": "アンタッチャブル"
      },
      {
-      "title": "Udon-Nudeln",
-      "link": "https://www.asahi.com/and/m/article/17074950/31601429",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "うどん"
+      "title": "Aso Cement",
+      "link": "https://www.nishinippon.co.jp/item/1564330/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "麻生セメント"
+     },
+     {
+      "title": "Maskenball",
+      "link": "https://news.yahoo.co.jp/articles/9f4a225385e7947bf3f987d2a42ad396a2cea8f5",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "マスカレードボール"
      }
     ]
    },
@@ -3048,60 +3058,59 @@
     "lang": "en",
     "items": [
      {
-      "title": "Jensen Huang",
-      "link": "https://en.wikipedia.org/wiki/Jensen_Huang",
-      "meta": "254.240 Aufrufe am 24.11."
+      "title": "Miss Universe 2026",
+      "link": "https://en.wikipedia.org/wiki/Miss_Universe_2026",
+      "meta": "394.056 Aufrufe am 25.11."
+     },
+     {
+      "title": "Ezra Frech",
+      "link": "https://en.wikipedia.org/wiki/Ezra_Frech",
+      "meta": "260.732 Aufrufe am 25.11."
+     },
+     {
+      "title": "Dancing with the Stars (amerikanische TV-Serie) Staffel 35",
+      "link": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_35",
+      "meta": "205.438 Aufrufe am 25.11.",
+      "title_orig": "Dancing with the Stars (American TV series) season 35"
      },
      {
       "title": "Grand Theft Auto",
       "link": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-      "meta": "198.339 Aufrufe am 24.11.",
+      "meta": "151.092 Aufrufe am 25.11.",
       "title_orig": "Grand Theft Auto VI"
+     },
+     {
+      "title": "Jennifer Barreto",
+      "link": "https://en.wikipedia.org/wiki/Jennifer_Barreto",
+      "meta": "149.785 Aufrufe am 25.11."
      },
      {
       "title": "Todesfälle im Jahr 2026",
       "link": "https://en.wikipedia.org/wiki/Deaths_in_2026",
-      "meta": "129.741 Aufrufe am 24.11.",
+      "meta": "136.608 Aufrufe am 25.11.",
       "title_orig": "Deaths in 2026"
+     },
+     {
+      "title": "Andy Taylor (Gitarrist)",
+      "link": "https://en.wikipedia.org/wiki/Andy_Taylor_(guitarist)",
+      "meta": "135.665 Aufrufe am 25.11.",
+      "title_orig": "Andy Taylor (guitarist)"
+     },
+     {
+      "title": "Mike McCarthy",
+      "link": "https://en.wikipedia.org/wiki/Mike_McCarthy",
+      "meta": "128.019 Aufrufe am 25.11."
      },
      {
       "title": "Liste der umsatzstärksten indischen Filme",
       "link": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films",
-      "meta": "128.464 Aufrufe am 24.11.",
+      "meta": "127.151 Aufrufe am 25.11.",
       "title_orig": "List of highest-grossing Indian films"
      },
      {
-      "title": "Riemannsche Hypothese",
-      "link": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
-      "meta": "102.084 Aufrufe am 24.11.",
-      "title_orig": "Riemann hypothesis"
-     },
-     {
-      "title": "Nvidia",
-      "link": "https://en.wikipedia.org/wiki/Nvidia",
-      "meta": "89.488 Aufrufe am 24.11."
-     },
-     {
-      "title": "Soham-Morde",
-      "link": "https://en.wikipedia.org/wiki/Soham_murders",
-      "meta": "87.021 Aufrufe am 24.11.",
-      "title_orig": "Soham murders"
-     },
-     {
-      "title": "The Body (Fernsehserie)",
-      "link": "https://en.wikipedia.org/wiki/The_Body_(TV_series)",
-      "meta": "83.943 Aufrufe am 24.11.",
-      "title_orig": "The Body (TV series)"
-     },
-     {
-      "title": "Miley Cyrus",
-      "link": "https://en.wikipedia.org/wiki/Miley_Cyrus",
-      "meta": "81.270 Aufrufe am 24.11."
-     },
-     {
-      "title": "Mariella Frostrup",
-      "link": "https://en.wikipedia.org/wiki/Mariella_Frostrup",
-      "meta": "80.552 Aufrufe am 24.11."
+      "title": "Aaron Rodgers",
+      "link": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+      "meta": "120.910 Aufrufe am 25.11."
      }
     ]
    },
@@ -3110,34 +3119,34 @@
     "lang": "en",
     "items": [
      {
-      "title": "Ein alarmierender Anstieg der Todesfälle bei Eileiterschwangerschaften war in einem bundesstaatlichen Datensatz direkt vor unseren Augen verborgen",
-      "link": "https://www.propublica.org/article/ectopic-pregnancy-data-analysis",
-      "meta": "ProPublica · 192 Personen teilen",
-      "title_orig": "An Alarming Spike in Ectopic Pregnancy Deaths Was Hiding in Plain Sight in a Federal Dataset"
-     },
-     {
-      "title": "Tidal verbietet KI-generierte Musik",
-      "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-      "meta": "Variety · 288 Personen teilen",
-      "title_orig": "Tidal Bans AI-Generated Music"
-     },
-     {
       "title": "Ein neues Wettrennen im Weltraum könnte unsere Atmosphäre in ein „Krematorium für Satelliten“ verwandeln",
       "link": "https://theconversation.com/a-new-space-race-could-turn-our-atmosphere-into-a-crematorium-for-satellites-276366",
-      "meta": "The Conversation · 131 Personen teilen",
+      "meta": "The Conversation · 560 Personen teilen",
       "title_orig": "A new space race could turn our atmosphere into a ‘crematorium for satellites’"
      },
      {
-      "title": "Was ist die nachhaltigste Art, Fisch zu essen? Vergessen Sie es. Es gibt keine.",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/25/sustainable-fishing-conservation-charities-ecosystems-health",
-      "meta": "The Guardian · 101 Personen teilen",
-      "title_orig": "What’s the most sustainable way to eat fish? Forget it. There isn’t one"
+      "title": "Ein alarmierender Anstieg der Todesfälle bei Eileiterschwangerschaften war in einem bundesstaatlichen Datensatz direkt vor unseren Augen verborgen",
+      "link": "https://www.propublica.org/article/ectopic-pregnancy-data-analysis",
+      "meta": "ProPublica · 226 Personen teilen",
+      "title_orig": "An Alarming Spike in Ectopic Pregnancy Deaths Was Hiding in Plain Sight in a Federal Dataset"
      },
      {
-      "title": "Der CIO des Finanzministeriums programmiert einen „Civilization“-Klon während des Hacks des Finanzministeriums",
-      "link": "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/",
-      "meta": "404 Media · 97 Personen teilen",
-      "title_orig": "Treasury CIO Is Vibe Coding a ‘Civilization’ Clone During Treasury Department Hack"
+      "title": "Die FCC hat SpaceX die Genehmigung erteilt, 1 Million Satelliten in Betrieb zu nehmen",
+      "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "meta": "Ars Technica · 234 Personen teilen",
+      "title_orig": "The FCC has authorized SpaceX to deploy 1 million satellites"
+     },
+     {
+      "title": "Vorschläge für „orbitale Rechenzentren“ von Unternehmen sind eine Gefahr für die Menschheit",
+      "link": "https://theconversation.com/corporate-orbital-data-centre-proposals-are-dangerous-for-humanity-293085",
+      "meta": "The Conversation · 173 Personen teilen",
+      "title_orig": "Corporate ‘orbital data centre’ proposals are dangerous for humanity"
+     },
+     {
+      "title": "Die Trump-Administration genehmigt den Plan von Elon Musk für Rechenzentren im Weltraum",
+      "link": "https://www.theguardian.com/us-news/2026/nov/25/spacex-datacenter-satellites-approval",
+      "meta": "The Guardian · 202 Personen teilen",
+      "title_orig": "Trump administration approves Elon Musk’s plan for datacenters in space"
      }
     ]
    }
@@ -3148,7 +3157,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 74,
+   "count": 64,
    "error": ""
   },
   {
@@ -3218,7 +3227,7 @@
    "source": "Finextra",
    "category": "pay_eu",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": ""
   },
   {
@@ -3239,7 +3248,7 @@
    "source": "Finextra",
    "category": "pay_world",
    "ok": true,
-   "count": 51,
+   "count": 50,
    "error": ""
   },
   {
@@ -3365,8 +3374,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 113,
-   "info": "113 von 113 Überschriften übersetzt (neu in diesem Lauf: MyMemory 65). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 114,
+   "info": "114 von 114 Überschriften übersetzt (neu in diesem Lauf: MyMemory 60). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
