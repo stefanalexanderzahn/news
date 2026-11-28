@@ -1,8 +1,32 @@
 {
- "generated": "2026-11-27T23:27:10+00:00",
+ "generated": "2026-11-28T07:47:57+00:00",
  "history_since": "2026-10-25T11:28:37+00:00",
  "news": {
   "24h": [
+   {
+    "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+    "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+    "image": "https://images.tagesschau.de/image/0e430599-2cda-4821-8c37-65ff5c608f91/AAABoiCE0T8/AAABnSSvrFg/16x9-big/schweitzer-186.jpg?width=1920",
+    "n_sources": 3,
+    "time": "2026-11-28T06:56:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+      "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Rente: Arbeitsminister Schweitzer verärgert Union mit eigenem Rentenplan - die Stimmen",
+      "link": "https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen-a-55dea0b2-3d47-4c29-89c2-3bc1ad73b4f7#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "RentenGesetzentwurf: Schweitzer will „Rente mit 65“ statt „Rente mit 63“",
+      "link": "https://www.faz.net/aktuell/wirtschaft/rente-mit-63-schweitzer-will-abschlagsfreie-fruehrente-einschraenken-201724330.html"
+     }
+    ]
+   },
    {
     "title": "Gladbach und Bremen mit spektakulärem Remis",
     "link": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
@@ -28,26 +52,21 @@
     ]
    },
    {
-    "title": "Das plant Arbeitsminister Schweitzer für die Rente",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
-    "image": "https://images.tagesschau.de/image/eb4e4b7c-9b50-470b-abfe-ce3627d16970/AAABoh1I5C4/AAABnSSvrFg/16x9-big/handwerker-streicht-100.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-27T22:40:00+00:00",
+    "title": "Wetter: Minusgrade und Glätte am ersten Adventswochenende",
+    "link": "https://www.spiegel.de/panorama/wetter-minusgrade-und-glaette-am-ersten-adventswochenende-a-51f64aef-1c7a-47f6-b28e-2843340ef501#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/6e6f1b5d-300f-460f-a1c6-6c950bd58768_w520_r2.08_fpx33.34_fpy50.jpg",
+    "n_sources": 2,
+    "time": "2026-11-28T07:20:54+00:00",
     "sources": [
      {
-      "name": "Tagesschau",
-      "title": "Das plant Arbeitsminister Schweitzer für die Rente",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html"
-     },
-     {
       "name": "Spiegel",
-      "title": "Rente: Riskanter Alleingang von Arbeitsminister Alexander Schweitzer",
-      "link": "https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss"
+      "title": "Wetter: Minusgrade und Glätte am ersten Adventswochenende",
+      "link": "https://www.spiegel.de/panorama/wetter-minusgrade-und-glaette-am-ersten-adventswochenende-a-51f64aef-1c7a-47f6-b28e-2843340ef501#ref=rss"
      },
      {
-      "name": "FAZ",
-      "title": "RentenGesetzentwurf: Schweitzer will „Rente mit 65“ statt „Rente mit 63“",
-      "link": "https://www.faz.net/aktuell/wirtschaft/rente-mit-63-schweitzer-will-abschlagsfreie-fruehrente-einschraenken-201724330.html"
+      "name": "Zeit Online",
+      "title": "Glatte Straßen: Minusgrade und Sonnenschein am ersten Adventswochenende",
+      "link": "https://www.zeit.de/news/2026-11/28/minusgrade-und-sonnenschein-am-ersten-adventswochenende"
      }
     ]
    },
@@ -55,8 +74,8 @@
     "title": "Streit um Rentenreform: Arbeitsminister Schweitzer optimistisch",
     "link": "https://www.tagesschau.de/inland/bundestag-haushalt-rentenreform-schweitzer-100.html",
     "image": "https://images.tagesschau.de/image/213c5abd-da23-4a4b-80b6-9a8717817581/AAABohxxRjI/AAABnSSvrFg/16x9-big/schweitzer-180.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-27T15:34:17+00:00",
+    "n_sources": 2,
+    "time": "2026-11-28T05:34:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
@@ -65,109 +84,27 @@
      },
      {
       "name": "Spiegel",
-      "title": "Rente: Arbeitsminister Alexander Schweitzer legt Gesetzentwurf zur Rentenreform vor",
-      "link": "https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor-a-78332671-b923-4dc6-addc-399722e6d309#ref=rss"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Koalition: „Maximale Eskalation“: Arbeitsminister Schweitzer legt unabgestimmt Gesetzentwurf zur Rente vor",
-      "link": "https://www.handelsblatt.com/politik/deutschland/rentenreform-schweitzer-legt-neuen-gesetzentwurf-vor-union-laeuft-sturm/100273340.html"
+      "title": "News: Pedro Sánchez unter Druck, Welthungerkrise, Streit um Arbeitsminister Schweitzer",
+      "link": "https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss"
      }
     ]
    },
    {
-    "title": "Bundesregierung will KI-Anbieter zur Kasse bitten",
-    "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-urheberrecht-verguetung-100.html",
-    "image": "https://images.tagesschau.de/image/a05d0567-a4e8-423f-9864-af8e372face1/AAABohvHCS0/AAABnSSvrFg/16x9-big/chatgpt-160.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-27T11:52:42+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Bundesregierung will KI-Anbieter zur Kasse bitten",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-urheberrecht-verguetung-100.html"
-     },
-     {
-      "name": "FAZ",
-      "title": "Empfehlung für EU: Bundesregierung will KI-Anbieter zur Kasse bitten",
-      "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bundesregierung-will-ki-anbieter-zu-urheberrecht-abgabe-zwingen-accg-201722383.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Medien: Bundesregierung will KI-Anbieter zur Kasse bitten",
-      "link": "https://www.handelsblatt.com/politik/deutschland/medien-bundesregierung-will-ki-anbieter-zur-kasse-bitten/100273189.html"
-     }
-    ]
-   },
-   {
-    "title": "Rekordhohe Arbeitslosigkeit bei Menschen mit Schwerbehinderung",
-    "link": "https://www.tagesschau.de/inland/gesellschaft/schwerbehinderung-arbeitslose-100.html",
-    "image": "https://images.tagesschau.de/image/20ac1aaa-6f8b-4bd2-8934-9c93d2b24776/AAABohsMcsU/AAABnSSvrFg/16x9-big/jobcenter-berlin-102.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-27T11:25:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Rekordhohe Arbeitslosigkeit bei Menschen mit Schwerbehinderung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/schwerbehinderung-arbeitslose-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Inklusion: In der Wirtschaftsflaute steigt die Arbeitslosigkeit von Schwerbehinderten",
-      "link": "https://www.spiegel.de/karriere/inklusion-in-der-wirtschaftsflaute-steigt-die-arbeitslosigkeit-von-schwerbehinderten-a-667e97cb-fb8e-4ac6-a7c0-21376482297e#ref=rss"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Arbeitsmarkt: Konjunkturschwäche bremst Inklusion auf dem Arbeitsmarkt",
-      "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-konjunkturschwaeche-bremst-inklusion-auf-dem-arbeitsmarkt/100271530.html"
-     }
-    ]
-   },
-   {
-    "title": "Parteitag in Dresden: Wie hält es das BSW mit der AfD?",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-afd-sachsen-anhalt-100.html",
-    "image": "https://images.tagesschau.de/image/23887d92-f1bd-4439-a5a4-5ec3a93dbb0f/AAABohwZbvE/AAABnSSvrFg/16x9-big/bsw-afd-112.jpg?width=1920",
-    "n_sources": 3,
-    "time": "2026-11-27T11:10:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Parteitag in Dresden: Wie hält es das BSW mit der AfD?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-afd-sachsen-anhalt-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "BSW: Parteitag in Dresden ringt um Kurs zur AfD-Zusammenarbeit",
-      "link": "https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-dresden-ringt-um-kurs-zur-afd-zusammenarbeit-a-76fa5c12-4306-42ea-b5af-16dff89eeea4#ref=rss"
-     },
-     {
-      "name": "FAZ",
-      "title": "F.A.Z. Frühdenker: Zerbricht das BSW an der AfD?",
-      "link": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/zerbricht-das-bsw-an-der-afd-faz-fruehdenker-201721719.html"
-     }
-    ]
-   },
-   {
-    "title": "Frankreich: Knochen bleibt Krokodil im Hals stecken – Feuerwehr rückt an",
-    "link": "https://www.spiegel.de/panorama/frankreich-knochen-bleibt-krokodil-im-hals-stecken-feuerwehr-rueckt-an-a-d7a9b10e-d993-482d-a386-1469a5c6385c#ref=rss",
-    "image": "https://cdn.prod.www.spiegel.de/images/1832e8db-bccf-4662-89d5-1897e8fd4464_w520_r2.08_fpx63.33_fpy55.jpg",
-    "n_sources": 3,
-    "time": "2026-11-27T06:50:00+00:00",
+    "title": "Umweltminister Schneider plädiert für Umbau des Rheins",
+    "link": "https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins-a-9bdd3f7a-fe7f-4e4c-ac53-c978f80c2fba#ref=rss",
+    "image": "https://cdn.prod.www.spiegel.de/images/87151f34-a601-4214-9fdb-cfff09f88946_w520_r2.08_fpx67.75_fpy49.99.jpg",
+    "n_sources": 2,
+    "time": "2026-11-28T03:26:00+00:00",
     "sources": [
      {
       "name": "Spiegel",
-      "title": "Frankreich: Knochen bleibt Krokodil im Hals stecken – Feuerwehr rückt an",
-      "link": "https://www.spiegel.de/panorama/frankreich-knochen-bleibt-krokodil-im-hals-stecken-feuerwehr-rueckt-an-a-d7a9b10e-d993-482d-a386-1469a5c6385c#ref=rss"
+      "title": "Umweltminister Schneider plädiert für Umbau des Rheins",
+      "link": "https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins-a-9bdd3f7a-fe7f-4e4c-ac53-c978f80c2fba#ref=rss"
      },
      {
-      "name": "Zeit Online",
-      "title": "Frankreich: Krokodil verschluckt sich an Knochen - Feuerwehreinsatz",
-      "link": "https://www.zeit.de/news/2026-11/27/krokodil-verschluckt-sich-an-knochen-feuerwehreinsatz"
-     },
-     {
-      "name": "FAZ",
-      "title": "Feuerwehreinsatz: Krokodil verschluckt sich an Knochen",
-      "link": "https://www.faz.net/aktuell/gesellschaft/tiere/knochen-im-rachen-feuerwehr-rettet-krokodil-georges-accg-201721757.html"
+      "name": "Handelsblatt",
+      "title": "+++ Bundespolitik +++: Umweltminister plädiert für Umbau des Rheins",
+      "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-umweltminister-plaediert-fuer-umbau-des-rheins/100137034.html"
      }
     ]
    },
@@ -225,6 +162,44 @@
       "name": "Zeit Online",
       "title": "Arbeitsmarkt: Zahl der Arbeitslosen sinkt leicht",
       "link": "https://www.zeit.de/wirtschaft/2026-11/arbeitslosenzahlen-arbeitslosenquote-arbeitslosigkeit-bundesagentur-fuer-arbeit-gxe"
+     }
+    ]
+   },
+   {
+    "title": "Bundesregierung: Bundestag verabschiedet Haushalt 2027 mit 555,9 Milliarden Euro",
+    "link": "https://www.faz.net/video/bundestag-verabschiedet-haushalt-2027-mit-555-9-milliarden-euro-201724554.html",
+    "image": "https://media0.faz.net/image/a0206ed202fd/w5000h2813x0y79/202611/5c30809e-294a-4f95-ad69-7d98d75cb82d/reuters.webp",
+    "n_sources": 2,
+    "time": "2026-11-27T15:34:56+00:00",
+    "sources": [
+     {
+      "name": "FAZ",
+      "title": "Bundesregierung: Bundestag verabschiedet Haushalt 2027 mit 555,9 Milliarden Euro",
+      "link": "https://www.faz.net/video/bundestag-verabschiedet-haushalt-2027-mit-555-9-milliarden-euro-201724554.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Neuverschuldung: Bundestag beschließt Haushalt für 2027",
+      "link": "https://www.handelsblatt.com/politik/deutschland/neuverschuldung-bundestag-beschliesst-haushalt-fuer-2027/100273330.html"
+     }
+    ]
+   },
+   {
+    "title": "Rüstung: Rheinmetall senkt die Ziele",
+    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-senkt-ziele-armin-papperger-will-konservativer-planen-201723237.html",
+    "image": "https://media0.faz.net/image/6aa06b50b211/w5729h3223x0y97/202608/43601.0.2476808437/in-einer-produktion-des.webp",
+    "n_sources": 2,
+    "time": "2026-11-27T17:24:31+00:00",
+    "sources": [
+     {
+      "name": "FAZ",
+      "title": "Rüstung: Rheinmetall senkt die Ziele",
+      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-senkt-ziele-armin-papperger-will-konservativer-planen-201723237.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Rüstungsindustrie: Rheinmetall senkt Umsatzziel für 2030",
+      "link": "https://www.handelsblatt.com/unternehmen/industrie/rheinmetall-umsatzziel-fuer-2030-sinkt-auf-33-bis-37-milliarden-euro/100273257.html"
      }
     ]
    }
@@ -295,40 +270,6 @@
       "name": "Handelsblatt",
       "title": "Abgeordnetenhaus: „Wir vertrauen ihr nicht mehr“: Berliner Linke schließt umstrittene Abgeordnete Emde aus Fraktion aus",
       "link": "https://www.handelsblatt.com/politik/deutschland/vanessa-emde-berliner-linken-fraktion-schliesst-umstrittene-abgeordnete-aus/100271178.html"
-     }
-    ]
-   },
-   {
-    "title": "Nvidia holt Jensen Huang zurück an die Firmenspitze",
-    "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688746.html",
-    "image": "https://images.tagesschau.de/image/faed9071-23af-465b-be2a-6bf0f057ced5/AAABognrFf4/AAABnSSvrFg/16x9-big/sendungsbild-1831984.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-24T11:00:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Nvidia holt Jensen Huang zurück an die Firmenspitze",
-      "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688746.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Donald Trump und Nvidia-CEO Jensen Huang: Chronologie einer Männerfreundschaft",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-donald-trump-und-jensen-huang-chronologie-einer-maennerfreundschaft-a-30eab5d4-81f6-415c-8b05-13a7ffdafcca#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Chip-Riese: Nach Trump-Eingreifen: Nvidia holt Firmenchef Huang zurück",
-      "link": "https://www.zeit.de/news/2026-11/23/nvidia-holt-firmenchef-huang-zurueck"
-     },
-     {
-      "name": "FAZ",
-      "title": "Tech-Konzern: Nvidia holt Jensen Huang als Chef zurück",
-      "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-accg-201709972.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Chipkonzern: Jensen Huang kehrt als Nvidia-Chef zurück – Aktie steigt um 30 Prozent",
-      "link": "https://www.handelsblatt.com/technik/ki/nvidia-huang-kehrt-als-konzernchef-zurueck-aktie-legt-um-30-prozent-zu/100272106.html"
      }
     ]
    },
@@ -430,6 +371,35 @@
     ]
    },
    {
+    "title": "Kommentar: Hernández de Cos - ein EZB-Chef im Sinne Frankreichs",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
+    "image": "https://images.tagesschau.de/image/0bf82890-9f7b-49e8-ab56-22b18236a1af/AAABohxAAjA/AAABnSSvrFg/16x9-big/de-cos-104.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-27T13:20:03+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Kommentar: Hernández de Cos - ein EZB-Chef im Sinne Frankreichs",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "EZB: Spanier ​Pablo Hernández de Cos soll Nachfolger von Christine Lagarde werden",
+      "link": "https://www.spiegel.de/wirtschaft/ezb-spanier-pablo-hernandez-de-cos-soll-nachfolger-von-christine-lagarde-werden-a-9cbee37b-5d10-4e23-8cd8-6bb207ea6809#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Künftige EZB-Spitze: Geldpolitik auch im Sinne Deutschlands",
+      "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/de-cos-wird-ezb-chef-grosse-verantwortung-liegt-nun-auf-chefvolkswirt-markus-brunnermeier-201719584.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Geldpolitik: Pablo Hernández de Cos wird neuer Chef der Europäischen Zentralbank",
+      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-pablo-hernandez-de-cos-wird-neuer-chef-der-euro-notenbank/100272970.html"
+     }
+    ]
+   },
+   {
     "title": "SAP erwägt offenbar Abbau von Tausenden Stellen",
     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html",
     "image": "https://images.tagesschau.de/image/b3b8038c-db20-47f6-9613-94518993e6b8/AAABnAjAofI/AAABnSSvrFg/16x9-big/sap-144.jpg?width=1920",
@@ -459,31 +429,60 @@
     ]
    },
    {
-    "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
-    "link": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html",
-    "image": "https://images.tagesschau.de/image/bf3b5402-a539-47d4-89b3-8b9d1bc52dde/AAABohiCYKQ/AAABnSSvrFg/16x9-big/de-cos-102.jpg?width=1920",
+    "title": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
+    "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
+    "image": "https://images.tagesschau.de/image/fbfd6c05-411d-4c85-8f98-050057fc6af4/AAABogMZlfs/AAABnSSvrFg/16x9-big/frachter-russland-sparta-100.jpg?width=1920",
     "n_sources": 4,
-    "time": "2026-11-26T16:12:10+00:00",
+    "time": "2026-11-27T09:43:00+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html"
+      "title": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "EZB: Spanier ​Pablo Hernández de Cos soll Nachfolger von Christine Lagarde werden",
-      "link": "https://www.spiegel.de/wirtschaft/ezb-spanier-pablo-hernandez-de-cos-soll-nachfolger-von-christine-lagarde-werden-a-9cbee37b-5d10-4e23-8cd8-6bb207ea6809#ref=rss"
+      "title": "Ukraine-Russland-Krieg: Frau bei Drohnenangriff auf St. Petersburg verletzt",
+      "link": "https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt-a-4d604758-b994-470c-bd3c-46fcb14e157e#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Krieg in der Ukraine: Was über den Angriff auf Russlands »Sparta II« bekannt ist",
+      "link": "https://www.zeit.de/politik/2026-11/drohnenangriff-sparta-ii-frachtschiff-ukraine-russland-faq"
      },
      {
       "name": "FAZ",
-      "title": "Lagarde-Nachfolge: Pablo Hernández de Cos wird neuer EZB-Präsident",
-      "link": "https://www.faz.net/aktuell/finanzen/pablo-hernandez-de-cos-wird-neuer-ezb-praesident-201718838.html"
+      "title": "Angriff auf „Sparta II“: Krieg vor Finnlands Haustür",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-greift-russisches-schiff-sparta-ii-an-finnlands-gefaehrliches-dilemma-in-der-ostsee-201702129.html"
+     }
+    ]
+   },
+   {
+    "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+    "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+    "image": "https://images.tagesschau.de/image/9661d086-75d2-4c4e-94da-70f83c687c91/AAABohpAjdo/AAABnSSvrFg/16x9-big/merz-1832.jpg?width=1920",
+    "n_sources": 4,
+    "time": "2026-11-27T00:02:22+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "EU-Gipfel: Merz kündigt vorzeitiges Ende der Haushaltsberatungen an",
+      "link": "https://www.spiegel.de/politik/deutschland/eu-gipfel-merz-kuendigt-vorzeitiges-ende-der-haushaltsberatungen-an-a-7a483887-37b0-474f-9aeb-59cc2f83db36#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "title": "Ohne Einigung: Gipfel zum EU-Haushalt vorzeitig beendet",
+      "link": "https://www.faz.net/aktuell/wirtschaft/eu-haushaltsgipfel-abgebrochen-merz-bleibt-zuversichtlich-201721642.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Geldpolitik: Pablo Hernández de Cos wird neuer Chef der Europäischen Zentralbank",
-      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-pablo-hernandez-de-cos-wird-neuer-chef-der-euro-notenbank/100272970.html"
+      "title": "EU-Haushalt: EU-Sondergipfel zum Haushalt wird vorzeitig beendet",
+      "link": "https://www.handelsblatt.com/politik/international/eu-haushalt-eu-sondergipfel-zum-haushalt-wird-vorzeitig-beendet/100273137.html"
      }
     ]
    },
@@ -515,38 +514,43 @@
       "link": "https://www.faz.net/aktuell/gesellschaft/ungluecke/dutzende-vermisste-in-indonesien-nach-ueberflutung-in-goldmine-accg-201715306.html"
      }
     ]
-   },
-   {
-    "title": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
-    "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
-    "image": "https://images.tagesschau.de/image/59680543-e758-4c86-b9bd-47eec3847061/AAABof4dVkI/AAABnSSvrFg/16x9-big/gennaro-100.jpg?width=1920",
-    "n_sources": 4,
-    "time": "2026-11-26T15:18:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Italien: Suizid von Italiens ehemaligem Polizeichef Gianni De Gennaro wirft Fragen auf",
-      "link": "https://www.spiegel.de/ausland/italien-suizid-von-italiens-ehemaligem-polizeichef-gianni-de-gennaro-wirft-fragen-auf-a-4438294c-29f6-402f-ab44-fe4c7d820ded#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Gianni De Gennaro: Sein Tod erschüttert Italien",
-      "link": "https://www.zeit.de/politik/ausland/2026-11/gianni-de-gennaro-polizeichef-suizid-italien-5vor8"
-     },
-     {
-      "name": "FAZ",
-      "title": "Gegen ihn wurde ermittelt: Italiens ehemaliger Polizei- und Geheimdienstchef begeht Suizid",
-      "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/italiens-ex-polizeichef-de-gennaro-begeht-suizid-accg-201706594.html"
-     }
-    ]
    }
   ],
   "30d": [
+   {
+    "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+    "image": "https://images.tagesschau.de/image/daf543ea-b8c4-46bc-8df5-327236c4b94a/AAABofRDns8/AAABnSSvrFg/16x9-big/anthropic-142.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-27T18:04:00+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Anthropic kann den Negativtrend an den Börsen nicht aufhalten",
+      "link": "https://www.spiegel.de/wirtschaft/anthropic-kann-den-negativtrend-an-den-boersen-nicht-aufhalten-a-2ebc6562-4f98-4fe9-9efe-f4a8a0b805fe#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Anthropic-Aktie: Aktien von Anthropic starten mit deutlichem Kursplus an der Börse",
+      "link": "https://www.zeit.de/wirtschaft/2026-11/anthropic-aktie-boersengang-wall-street-ki-claude"
+     },
+     {
+      "name": "FAZ",
+      "title": "Verpuffter Börsengang: Anthropic-Aktie verliert 11 Prozent",
+      "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/anthropic-10-prozent-im-minus-nach-rekord-boersengang-accg-201700660.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Wall Street: US-Börsen schließen im Plus – Nvidia-Aktie sackt zwischenzeitlich ab",
+      "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-us-boersen-schliessen-im-plus-anthropic-wieder-ueber-ausgabepreis/100273324.html"
+     }
+    ]
+   },
    {
     "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
     "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
@@ -595,13 +599,13 @@
      },
      {
       "name": "Spiegel",
-      "title": "Nvidia – Jensen Huang: Konzern verkauft keine KI-Chips mehr nach China",
-      "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-konzern-verkauft-keine-ki-chips-mehr-nach-china-a-e59ab63e-68d8-48c0-9f9b-5621595d27a2#ref=rss"
+      "title": "Nvidia: Chipkonzern holt Jensen Huang nach Spionageskandal zurück",
+      "link": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-kehrt-als-chef-zurueck-a-0b0c979f-9cf5-4e4d-be27-79ecbbb6945e#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Jensen Huang: Huang will Nvidia weiter ohne Nachfolgeplan führen",
-      "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-ruecktritt-rueckkehr-donald-trump"
+      "title": "Nvidia ohne Jensen Huang: Wackelt jetzt der KI-Boom?",
+      "link": "https://www.zeit.de/politik/2026-11/jensen-huang-nvidia-chips-ki-megaspeed-trump-usa-china-was-jetzt-videopodcast"
      },
      {
       "name": "FAZ",
@@ -610,8 +614,8 @@
      },
      {
       "name": "Handelsblatt",
-      "title": "Nvidia: Diese Manager gelten als potenzielle Nachfolger von Jensen Huang",
-      "link": "https://www.handelsblatt.com/technik/ki/nvidia-diese-manager-gelten-als-potenzielle-huang-nachfolger/100269410.html"
+      "title": "Chipkonzern: Jensen Huang zeigt sich bereit zur Rückkehr an Nvidia-Spitze",
+      "link": "https://www.handelsblatt.com/technik/ki/chipkonzern-jensen-huang-zeigt-sich-bereit-zur-rueckkehr-an-die-nvidia-spitze/100270714.html"
      }
     ]
    },
@@ -650,36 +654,36 @@
     ]
    },
    {
-    "title": "Einigung bei Commerzbank-Übernahme",
-    "link": "https://www.tagesschau.de/video/video-1686238.html",
-    "image": "https://images.tagesschau.de/image/ef43d327-7393-4f1b-ae26-f0ba65430470/AAABofIhbOI/AAABnSSvrFg/16x9-big/sendungsbild-1829686.jpg?width=1920",
+    "title": "Kommentar: Hernández de Cos - ein EZB-Chef im Sinne Frankreichs",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
+    "image": "https://images.tagesschau.de/image/0bf82890-9f7b-49e8-ab56-22b18236a1af/AAABohxAAjA/AAABnSSvrFg/16x9-big/de-cos-104.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-27T10:35:31+00:00",
+    "time": "2026-11-27T13:20:03+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Einigung bei Commerzbank-Übernahme",
-      "link": "https://www.tagesschau.de/video/video-1686238.html"
+      "title": "Kommentar: Hernández de Cos - ein EZB-Chef im Sinne Frankreichs",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "Commerzbank: EU genehmigt Übernahme durch Unicredit",
-      "link": "https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss"
+      "title": "EZB: Spanier ​Pablo Hernández de Cos soll Nachfolger von Christine Lagarde werden",
+      "link": "https://www.spiegel.de/wirtschaft/ezb-spanier-pablo-hernandez-de-cos-soll-nachfolger-von-christine-lagarde-werden-a-9cbee37b-5d10-4e23-8cd8-6bb207ea6809#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Bundesregierung und UniCredit bei Commerzbank-Übernahme einig",
-      "link": "https://www.zeit.de/video/2026-11/bundesregierung-und-unicredit-bei-commerzbank-uebernahme-einig"
+      "title": "Hintergrund: Frauen an der Spitze des Bundes",
+      "link": "https://www.zeit.de/news/2026-11/07/frauen-an-der-spitze-des-bundes"
      },
      {
       "name": "FAZ",
-      "title": "übernahme durch Unicredit: Bundesregierung stimmt für Commerzbank-Übernahme",
-      "link": "https://www.faz.net/video/bundesregierung-stimmt-fuer-commerzbank-uebernahme-201697940.html"
+      "title": "Künftige EZB-Spitze: Geldpolitik auch im Sinne Deutschlands",
+      "link": "https://www.faz.net/aktuell/finanzen/finanzmarkt/de-cos-wird-ezb-chef-grosse-verantwortung-liegt-nun-auf-chefvolkswirt-markus-brunnermeier-201719584.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Unicredit: Bundesregierung stellt sich hinter Orcel-Pläne für den Aufsichtsrat der Commerzbank",
-      "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/commerzbank-bundesregierung-stellt-sich-hinter-orcels-plaene-fuer-den-aufsichtsrat/100273270.html"
+      "title": "Geldpolitik: Pablo Hernández de Cos wird neuer Chef der Europäischen Zentralbank",
+      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-pablo-hernandez-de-cos-wird-neuer-chef-der-euro-notenbank/100272970.html"
      }
     ]
    },
@@ -718,36 +722,70 @@
     ]
    },
    {
-    "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
-    "link": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html",
-    "image": "https://images.tagesschau.de/image/bf3b5402-a539-47d4-89b3-8b9d1bc52dde/AAABohiCYKQ/AAABnSSvrFg/16x9-big/de-cos-102.jpg?width=1920",
+    "title": "Krieg gegen die Ukraine: Angriffe auf Kiew - Tote in Saporischschja",
+    "link": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html",
+    "image": "https://images.tagesschau.de/image/92855586-195c-44ac-9b56-dcd3e49b66fb/AAABohbPWTI/AAABnSSvrFg/16x9-big/kiew-584.jpg?width=1920",
     "n_sources": 5,
-    "time": "2026-11-26T16:12:10+00:00",
+    "time": "2026-11-26T13:20:47+00:00",
     "sources": [
      {
       "name": "Tagesschau",
-      "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html"
+      "title": "Krieg gegen die Ukraine: Angriffe auf Kiew - Tote in Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html"
      },
      {
       "name": "Spiegel",
-      "title": "EZB: Spanier ​Pablo Hernández de Cos soll Nachfolger von Christine Lagarde werden",
-      "link": "https://www.spiegel.de/wirtschaft/ezb-spanier-pablo-hernandez-de-cos-soll-nachfolger-von-christine-lagarde-werden-a-9cbee37b-5d10-4e23-8cd8-6bb207ea6809#ref=rss"
+      "title": "New York: Mehrere Tote und Verletzte bei Hauseinsturz",
+      "link": "https://www.spiegel.de/panorama/new-york-mehrere-tote-und-verletzte-bei-hauseinsturz-a-9bad4173-ead0-4581-bd8b-77af52817279#ref=rss"
      },
      {
       "name": "Zeit Online",
-      "title": "Europäische Zentralbank: Lagarde-Nachfolge: Euroländer sollen zügig Vorschläge machen",
-      "link": "https://www.zeit.de/news/2026-11/03/lagarde-nachfolge-eurolaender-sollen-zuegig-vorschlaege-machen"
+      "title": "Unglück in Brooklyn: Mindestens zwei Tote bei Hauseinsturz in New York",
+      "link": "https://www.zeit.de/news/2026-11/12/mindestens-zwei-tote-bei-hauseinsturz-in-new-york"
      },
      {
       "name": "FAZ",
-      "title": "Lagarde-Nachfolge: Pablo Hernández de Cos wird neuer EZB-Präsident",
-      "link": "https://www.faz.net/aktuell/finanzen/pablo-hernandez-de-cos-wird-neuer-ezb-praesident-201718838.html"
+      "title": "Liveblog Ukrainekrieg: Tote und Verletzte bei russischen Angriffen auf Brücken in Kiew",
+      "link": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-tote-und-verletzte-bei-russischen-angriffen-auf-bruecken-in-kiew-faz-110683325.html"
      },
      {
       "name": "Handelsblatt",
-      "title": "Geldpolitik: Pablo Hernández de Cos wird neuer Chef der Europäischen Zentralbank",
-      "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-pablo-hernandez-de-cos-wird-neuer-chef-der-euro-notenbank/100272970.html"
+      "title": "+++ Ukraine-Krieg +++: 18 Tote bei Luftangriff auf Ausgabe von Hilfsgütern",
+      "link": "https://www.handelsblatt.com/politik/international/ukraine-18-tote-bei-luftangriff-auf-ausgabe-von-hilfsguetern/27982126.html"
+     }
+    ]
+   },
+   {
+    "title": "Einigung bei Commerzbank-Übernahme",
+    "link": "https://www.tagesschau.de/video/video-1686238.html",
+    "image": "https://images.tagesschau.de/image/ef43d327-7393-4f1b-ae26-f0ba65430470/AAABofIhbOI/AAABnSSvrFg/16x9-big/sendungsbild-1829686.jpg?width=1920",
+    "n_sources": 5,
+    "time": "2026-11-26T08:59:54+00:00",
+    "sources": [
+     {
+      "name": "Tagesschau",
+      "title": "Einigung bei Commerzbank-Übernahme",
+      "link": "https://www.tagesschau.de/video/video-1686238.html"
+     },
+     {
+      "name": "Spiegel",
+      "title": "Commerzbank: EU genehmigt Übernahme durch Unicredit",
+      "link": "https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss"
+     },
+     {
+      "name": "Zeit Online",
+      "title": "Bundesregierung und UniCredit bei Commerzbank-Übernahme einig",
+      "link": "https://www.zeit.de/video/2026-11/bundesregierung-und-unicredit-bei-commerzbank-uebernahme-einig"
+     },
+     {
+      "name": "FAZ",
+      "title": "Übernahme: Unicredit-Chef will Aufsichtsrat der Commerzbank führen – anstelle von Jens Weidmann",
+      "link": "https://www.faz.net/aktuell/finanzen/andrea-orcel-will-aufsichtsratschef-der-commerzbank-werden-anstelle-von-jens-weidmann-accg-201718811.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "title": "Banken: Bund und Unicredit einigen sich bei Commerzbank-Übernahme",
+      "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bund-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html"
      }
     ]
    },
@@ -816,74 +854,6 @@
       "name": "Handelsblatt",
       "title": "Dax aktuell: Dax rutscht unter 25.000‑Punkte-Marke – und schließt auf tiefstem Stand seit Ende Juni",
       "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-auf-tiefstem-stand-seit-ende-juni/100272589.html"
-     }
-    ]
-   },
-   {
-    "title": "Berliner Linke schließt Emde aus Fraktion aus",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html",
-    "image": "https://images.tagesschau.de/image/1c451789-1eed-4126-9883-2749033be163/AAABog5ru3c/AAABnSSvrFg/16x9-big/emde-104.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-24T20:27:00+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Berliner Linke schließt Emde aus Fraktion aus",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Vanessa Emde: Berliner Linke stimmt knapp für Ausschluss aus Fraktion",
-      "link": "https://www.spiegel.de/politik/vanessa-emde-berliner-linke-stimmt-knapp-fuer-ausschluss-aus-fraktion-a-8de561c3-e2ae-4d93-b6e1-1aa5fb438f7a#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Vanessa Emde: Berliner Linke entscheidet über Fraktionsausschluss von Vanessa Emde",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/vanessa-emde-linke-berlin-abgeordnete-fraktion-ausschluss-gxe"
-     },
-     {
-      "name": "FAZ",
-      "title": "F.A.Z. Frühdenker: Wirft die Berliner Linke Vanessa Emde aus der Fraktion?",
-      "link": "https://www.faz.net/podcasts/wirft-die-berliner-linke-vanessa-emde-aus-der-fraktion-faz-fruehdenker-201710967.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Abgeordnetenhaus: „Wir vertrauen ihr nicht mehr“: Berliner Linke schließt umstrittene Abgeordnete Emde aus Fraktion aus",
-      "link": "https://www.handelsblatt.com/politik/deutschland/vanessa-emde-berliner-linken-fraktion-schliesst-umstrittene-abgeordnete-aus/100271178.html"
-     }
-    ]
-   },
-   {
-    "title": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
-    "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html",
-    "image": "https://images.tagesschau.de/image/0c786d38-2da6-4bd4-97f4-308eff3a15d8/AAABoZrgYIE/AAABnSSvrFg/16x9-big/berlin-koalition-104.jpg?width=1920",
-    "n_sources": 5,
-    "time": "2026-11-24T19:20:40+00:00",
-    "sources": [
-     {
-      "name": "Tagesschau",
-      "title": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html"
-     },
-     {
-      "name": "Spiegel",
-      "title": "Berlin: Warum die SPD-Spitze auf ein Scheitern von Rot-Grün-Rot hofft",
-      "link": "https://www.spiegel.de/politik/deutschland/berlin-warum-die-spd-spitze-auf-ein-scheitern-von-rot-gruen-rot-hofft-a-fc81f2f3-78ae-4d2f-9dbc-9c3eb9253b55#ref=rss"
-     },
-     {
-      "name": "Zeit Online",
-      "title": "Koalition in Berlin: Scheitert eine rot-grün-rote Koalition an dieser Frau?",
-      "link": "https://www.zeit.de/politik/deutschland/2026-11/koalition-berlin-die-linke-die-gruenen-vanessa-emde"
-     },
-     {
-      "name": "FAZ",
-      "title": "Koalitionsverhandlungen: Was Emdes Ausschluss für Rot-Grün-Rot in Berlin bedeutet",
-      "link": "https://www.faz.net/aktuell/politik/inland/vanessa-emde-aus-linksfraktion-ausgeschlossen-was-das-fuer-rot-gruen-rot-bedeutet-201714282.html"
-     },
-     {
-      "name": "Handelsblatt",
-      "title": "Berlin: Weg frei für rot-grün-rote Koalitionsgespräche in Berlin",
-      "link": "https://www.handelsblatt.com/politik/deutschland/berlin-weg-frei-fuer-rot-gruen-rote-koalitionsgespraeche-in-berlin/100266336.html"
      }
     ]
    }
@@ -959,76 +929,6 @@
        "name": "IT-Finanzmagazin",
        "title": "EUDI-Wallet in der Bank-IT: Ein Protokoll ist noch keine Wallet-Anbindung",
        "link": "https://www.it-finanzmagazin.de/plattformarchitektur-eudi-wallet-bank-it-254773/"
-      }
-     ]
-    },
-    {
-     "title": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital",
-     "link": "https://www.it-finanzmagazin.de/hiscox-startet-digitales-versicherungsangebot-fuer-kmu-254901/",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-27T07:00:41+00:00",
-     "sources": [
-      {
-       "name": "IT-Finanzmagazin",
-       "title": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital",
-       "link": "https://www.it-finanzmagazin.de/hiscox-startet-digitales-versicherungsangebot-fuer-kmu-254901/"
-      }
-     ]
-    },
-    {
-     "title": "Altersvorsorgedepot: Die Zulage kennen alle, aber wer holt die Steuererstattung ab?",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDE4R3NDYTZGNHgzSENwQmVEckszeDVIaVkxUS1NOUEyVU55eUQtdjc4dG5wWVBqbWg4cGRHeml3cmgwaGlMR3I2VnEwT2RjZjF6YmJ1ZDB3ZGFhcUgwMklwZHVfUFRvMnBJZlhZQmxIQmw1Uk5RT004WF8zRVVRYUt0OUFFN1Jaa04zU3NBWkk5NE9lc0Y3WVFjdjNGb1lWanFZMVJ1WWptWHZzNzA4Mg?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-27T06:50:34+00:00",
-     "sources": [
-      {
-       "name": "Payment & Banking",
-       "title": "Altersvorsorgedepot: Die Zulage kennen alle, aber wer holt die Steuererstattung ab?",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDE4R3NDYTZGNHgzSENwQmVEckszeDVIaVkxUS1NOUEyVU55eUQtdjc4dG5wWVBqbWg4cGRHeml3cmgwaGlMR3I2VnEwT2RjZjF6YmJ1ZDB3ZGFhcUgwMklwZHVfUFRvMnBJZlhZQmxIQmw1Uk5RT004WF8zRVVRYUt0OUFFN1Jaa04zU3NBWkk5NE9lc0Y3WVFjdjNGb1lWanFZMVJ1WWptWHZzNzA4Mg?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Altersvorsorgedepot: Kauft Joe Sixpack selbst oder wird ihm verkauft?",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3NzZ2d5R1Jodlo1UmZpVmNZd2JVbzdyMkpYRzBacWkySVhIR3g0WXZkdHh4NXdWV2tJRXo1WTVzcmlSMHcwckx0cFVSYXdxQTAtRlh1RE5LdlZ5MmxaVHV6UlNqR2hzeFl5VWNnSUJVMlVHcFEwUnlEdzRCcHpBWHBXaDRqUTZWaGNpaVcxd2tMVURWT3I3RFk3bmNnWWM?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-27T06:05:34+00:00",
-     "sources": [
-      {
-       "name": "Payment & Banking",
-       "title": "Altersvorsorgedepot: Kauft Joe Sixpack selbst oder wird ihm verkauft?",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3NzZ2d5R1Jodlo1UmZpVmNZd2JVbzdyMkpYRzBacWkySVhIR3g0WXZkdHh4NXdWV2tJRXo1WTVzcmlSMHcwckx0cFVSYXdxQTAtRlh1RE5LdlZ5MmxaVHV6UlNqR2hzeFl5VWNnSUJVMlVHcFEwUnlEdzRCcHpBWHBXaDRqUTZWaGNpaVcxd2tMVURWT3I3RFk3bmNnWWM?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "„Das Executive Committee der Unicredit wird zum Aufsichtsrat der Coba“",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXBvZTNLVk43YWNnZXlmOGs5UXhyaVZZa2swTzl4N1NSdDVEMklpdm5ZNGZ2TG1XRlZKT1BOR3hWc1hGTU44YnI2eXdRbi1kMF9Ld2d5bFZTd2MwaFNWWWhRcjZhMjB2OEhnV3JoMmNRUUNiVUNDZVBLMV9iYUdkY1JfOVVuMV9Yb2RNU2NWWXFic0JUWWkxTW0yVlBLclplUmR4QzFCZFZINVVHaW92dzFVdXlTTi05MUE?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-27T04:19:02+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "„Das Executive Committee der Unicredit wird zum Aufsichtsrat der Coba“",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXBvZTNLVk43YWNnZXlmOGs5UXhyaVZZa2swTzl4N1NSdDVEMklpdm5ZNGZ2TG1XRlZKT1BOR3hWc1hGTU44YnI2eXdRbi1kMF9Ld2d5bFZTd2MwaFNWWWhRcjZhMjB2OEhnV3JoMmNRUUNiVUNDZVBLMV9iYUdkY1JfOVVuMV9Yb2RNU2NWWXFic0JUWWkxTW0yVlBLclplUmR4QzFCZFZINVVHaW92dzFVdXlTTi05MUE?oc=5"
-      }
-     ]
-    },
-    {
-     "title": "Fiona, Rita, Stefano (und Andrea!) – das sind die künftigen Coba-Kontrolleure",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDNNWlpFWnVJX2U3VElmQm9ibWJxT2RGRjZTUFdldl9Kc2NGRlExZlAzbjZUZkcwMlJEVC1ZaXk3eWh4ODJPZ195S1FQaTFva29Yemdpa0Y0czcxRWxEQ0tRVXQzNnp5N00tWmRDcFZEN3A4U2wzZVhVQUN4UDBTTW81V19UV1JaUnU2Z2I3XzFTcGdoaEtlN1BTOVZqb25SOHU5b29qMA?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-27T04:17:52+00:00",
-     "sources": [
-      {
-       "name": "Finanz-Szene",
-       "title": "Fiona, Rita, Stefano (und Andrea!) – das sind die künftigen Coba-Kontrolleure",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDNNWlpFWnVJX2U3VElmQm9ibWJxT2RGRjZTUFdldl9Kc2NGRlExZlAzbjZUZkcwMlJEVC1ZaXk3eWh4ODJPZ195S1FQaTFva29Yemdpa0Y0czcxRWxEQ0tRVXQzNnp5N00tWmRDcFZEN3A4U2wzZVhVQUN4UDBTTW81V19UV1JaUnU2Z2I3XzFTcGdoaEtlN1BTOVZqb25SOHU5b29qMA?oc=5"
       }
      ]
     }
@@ -1361,6 +1261,51 @@
      "title_orig": "iProov secures GOV.UK One Login ID verification deal"
     },
     {
+     "title": "- FinTech-Futures",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHB3SktCTkkxUl9qYUpUaGcxOENzR3Q0Q2I5SHBILUdVOGNWQWxoTVJIQnZyUkFVY1lXYnlKV0lyQmRmdnk3TEhXX0U4TU1JeHBjM08zYVNGNmVwTk94emNXN0h4WkRDZ3JqNlVOLWdhb1h0NGRaQjdLeGZENHR0QkNobDl3Z2xEd1JXemNJMEtYcE9nU0U3M3NPcmNUOG8?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-28T04:02:18+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "- FinTech Futures",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHB3SktCTkkxUl9qYUpUaGcxOENzR3Q0Q2I5SHBILUdVOGNWQWxoTVJIQnZyUkFVY1lXYnlKV0lyQmRmdnk3TEhXX0U4TU1JeHBjM08zYVNGNmVwTk94emNXN0h4WkRDZ3JqNlVOLWdhb1h0NGRaQjdLeGZENHR0QkNobDl3Z2xEd1JXemNJMEtYcE9nU0U3M3NPcmNUOG8?oc=5"
+      }
+     ],
+     "title_orig": "- FinTech Futures"
+    },
+    {
+     "title": "AKTUELLE NEUIGKEITEN",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3MnF5dEM1bGxSNGNPUTdaT3hDek1TV05BQTk3YkNfTF9oQm1aaE9mRDVaRTQ3LV9PZERLZlROWHhvTk1abW5IMXRMNm82ZjU5d1VWRmJn?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-28T04:00:18+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Ulys recent news",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3MnF5dEM1bGxSNGNPUTdaT3hDek1TV05BQTk3YkNfTF9oQm1aaE9mRDVaRTQ3LV9PZERLZlROWHhvTk1abW5IMXRMNm82ZjU5d1VWRmJn?oc=5"
+      }
+     ],
+     "title_orig": "Ulys recent news"
+    },
+    {
+     "title": "The Capital Group",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vamhDZno2dlExRDFGQ0xLMjFKLWlLSEJPQ0p3eXNFRHZoRlBqWVFKem5oUExaT1YtUFpKUVA1YWo5T25aVENmQjZPcWNwNk9xSGFuUmRYT1pjX3FMNThxMi1B?oc=5",
+     "image": "",
+     "n_sources": 1,
+     "time": "2026-11-28T04:00:20+00:00",
+     "sources": [
+      {
+       "name": "Fintech Futures",
+       "title": "Capital Group",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vamhDZno2dlExRDFGQ0xLMjFKLWlLSEJPQ0p3eXNFRHZoRlBqWVFKem5oUExaT1YtUFpKUVA1YWo5T25aVENmQjZPcWNwNk9xSGFuUmRYT1pjX3FMNThxMi1B?oc=5"
+      }
+     ],
+     "title_orig": "Capital Group"
+    },
+    {
      "title": "Die fünf wichtigsten Nachrichten der Woche – 27. November",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcTktWGdWQWlYQXI4RlJfdGFoZE1LdE4xbjQzN1FsUUtydExVeFVkVXhnZFh2akNqZUowZ1Z2N01DdkhmdFlDSFdQd2pTUkhqWmVWNWJiek5oaWIyMm1jUHBVZkQwUndHdlVLaFg4MjZjWDBWNTJqejdrOUxSMXNUbVhLRF9DNVN1UEM0cHFKX2o4S0VNMVRjYTYtNGtxN3BIa1JyV0F1cG0?oc=5",
      "image": "",
@@ -1449,51 +1394,6 @@
       }
      ],
      "title_orig": "Highnote applies for US national bank charter"
-    },
-    {
-     "title": "Pine Labs führt KI-Agenten für indische KMU ein",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaTJTOFB6eTJLLXRyTm01ejVOV3hfX2hScmtyTC1QMGN2SlFMZ1JhWHdpVlVKVnFUdGNwcXR5TnNYZUNLVFRSb2Q5c2JHTHVvVTBpN2RzRWtrQnhYNHR5cURwbzNMbGdoNlBsbENNRkt6RU5ZbnpySFYzY0lQMUdpcTNMdmFIWVNwbVFPbDh2OUJoLUJiVmpVZ19XYVdsRTMt?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-27T16:25:17+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Pine Labs launches AI agents for Indian SMBs",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaTJTOFB6eTJLLXRyTm01ejVOV3hfX2hScmtyTC1QMGN2SlFMZ1JhWHdpVlVKVnFUdGNwcXR5TnNYZUNLVFRSb2Q5c2JHTHVvVTBpN2RzRWtrQnhYNHR5cURwbzNMbGdoNlBsbENNRkt6RU5ZbnpySFYzY0lQMUdpcTNMdmFIWVNwbVFPbDh2OUJoLUJiVmpVZ19XYVdsRTMt?oc=5"
-      }
-     ],
-     "title_orig": "Pine Labs launches AI agents for Indian SMBs"
-    },
-    {
-     "title": "SNB und Schweizer Banken prüfen ein Schweizer Finanzregister auf Basis der DLT",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOVJJRklMc0pqa002bHR6Z3F0Y19WdGZOd3RXQi1aaUt0UklDUGdnSU12QmlRZHduSTZKbDdldGhQc1BtRTBMUFctVjkzSGdEUk42MXB6Um5tcy0tY1pFQ0dCc0txa0I3S3dwQXVrelhJT0lOZGVmNXVqZXgzZkhOWVpjSVo2RmppUGI3a3FoRVJNRlROc0d0Qm1B?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-27T16:20:15+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "SNB and Swiss banks explore a Swiss Financial Ledger on DLT",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOVJJRklMc0pqa002bHR6Z3F0Y19WdGZOd3RXQi1aaUt0UklDUGdnSU12QmlRZHduSTZKbDdldGhQc1BtRTBMUFctVjkzSGdEUk42MXB6Um5tcy0tY1pFQ0dCc0txa0I3S3dwQXVrelhJT0lOZGVmNXVqZXgzZkhOWVpjSVo2RmppUGI3a3FoRVJNRlROc0d0Qm1B?oc=5"
-      }
-     ],
-     "title_orig": "SNB and Swiss banks explore a Swiss Financial Ledger on DLT"
-    },
-    {
-     "title": "Rain erweitert Beta-Version für nicht personalisierte Stablecoin-Karten",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXZhX1loZmVpa01ZdDJSdC1RWmJKY1ptSnhjc19CR3JuUUxGUzMyYXBFMG9HQ3Mtd3puUGFWeHBZT1JtV1lzODcyc1RBY2tYRXNKdzdTc1o0UWctT3RLand5ZW1IV3hjUENOR1g0NkNhbHV2QXRsUjJhdWFTa0NrTzBXdjhkYkFueU42UXJFVU1PRkdiYWhjSThqcWI3TzlmN1lnR1R3TQ?oc=5",
-     "image": "",
-     "n_sources": 1,
-     "time": "2026-11-27T16:05:06+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Rain expands beta for non-personalised stablecoin cards",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXZhX1loZmVpa01ZdDJSdC1RWmJKY1ptSnhjc19CR3JuUUxGUzMyYXBFMG9HQ3Mtd3puUGFWeHBZT1JtV1lzODcyc1RBY2tYRXNKdzdTc1o0UWctT3RLand5ZW1IV3hjUENOR1g0NkNhbHV2QXRsUjJhdWFTa0NrTzBXdjhkYkFueU42UXJFVU1PRkdiYWhjSThqcWI3TzlmN1lnR1R3TQ?oc=5"
-      }
-     ],
-     "title_orig": "Rain expands beta for non-personalised stablecoin cards"
     }
    ],
    "7d": [
@@ -1795,26 +1695,6 @@
      "title_orig": "Highnote applies for US national bank charter"
     },
     {
-     "title": "Ant International und BNY unterzeichnen Absichtserklärung zu Treasury, 24/7-Devisengeschäften und Zahlungen",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcldyVmxnYmp4ZmwySXVLN25vUjBtcWV1VU1yQThnX0w3ekxlRFF0cWZwU0h4c1pZQjJpMDkzMGl3alFQeFY2X1pqR2RsczdOUDIyUlRGX0tWcGZhR1pnODFobFBfWERSMVozSVZETDNFQkhjckFMcDBEYnhPWkpHNW9QUFV1Mkx1UjVXSzVDcW1sLW56dVJjNkZTTWhTV3BlM0ZWZ1p3?oc=5",
-     "image": "",
-     "n_sources": 2,
-     "time": "2026-11-27T09:35:07+00:00",
-     "sources": [
-      {
-       "name": "The Paypers",
-       "title": "Ant International and BNY sign MoU on treasury, 24/7 FX, and payments",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcldyVmxnYmp4ZmwySXVLN25vUjBtcWV1VU1yQThnX0w3ekxlRFF0cWZwU0h4c1pZQjJpMDkzMGl3alFQeFY2X1pqR2RsczdOUDIyUlRGX0tWcGZhR1pnODFobFBfWERSMVozSVZETDNFQkhjckFMcDBEYnhPWkpHNW9QUFV1Mkx1UjVXSzVDcW1sLW56dVJjNkZTTWhTV3BlM0ZWZ1p3?oc=5"
-      },
-      {
-       "name": "Fintech Futures",
-       "title": "Ant International and BNY ink MoU to deepen collaboration across treasury, liquidity, and payments solutions",
-       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTENvZ2lmVXdLbFdIeHY0aDFnaDRYeEhnaTAybVZ3OHY0TUwzWE9DY291UlE1eS1nUERIck1NMmpYMk9xX0ViUTJfaFVHZGI2cE90OHNTYllvYnk1b2VQaGJjWWh2T1dpbWNEUXRiN2FIUWhQUnNOMy1SX0hsUWxhRld0bw?oc=5"
-      }
-     ],
-     "title_orig": "Ant International and BNY sign MoU on treasury, 24/7 FX, and payments"
-    },
-    {
      "title": "Bound sichert sich eine Kreditfazilität in Höhe von 50 Mio. USD von Viola Credit",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0xVbVpjbGdCcnQ3cF9tUWUyWUZlUmdXTkJYNS1ENVpJSVlWOTdzLWhfOHZURkVacm0xTkdCQjUzenNBT0FSeWJzcWRHbUhCWnMwN3MtUkZqRkpoV1hkRzJiUGsyVlFTRk5aa0t1YVB1MWtIQ3Fjdmo3Zm5NelU3Qlc1by1DcUpKakJ1dnRydF9GOGN4cTJkZklWT0ZDdw?oc=5",
      "image": "",
@@ -1833,6 +1713,26 @@
       }
      ],
      "title_orig": "Bound secures USD 50 mln debt facility from Viola Credit"
+    },
+    {
+     "title": "Ant International und BNY unterzeichnen Absichtserklärung zu Treasury, 24/7-Devisengeschäften und Zahlungen",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcldyVmxnYmp4ZmwySXVLN25vUjBtcWV1VU1yQThnX0w3ekxlRFF0cWZwU0h4c1pZQjJpMDkzMGl3alFQeFY2X1pqR2RsczdOUDIyUlRGX0tWcGZhR1pnODFobFBfWERSMVozSVZETDNFQkhjckFMcDBEYnhPWkpHNW9QUFV1Mkx1UjVXSzVDcW1sLW56dVJjNkZTTWhTV3BlM0ZWZ1p3?oc=5",
+     "image": "",
+     "n_sources": 2,
+     "time": "2026-11-27T09:35:07+00:00",
+     "sources": [
+      {
+       "name": "The Paypers",
+       "title": "Ant International and BNY sign MoU on treasury, 24/7 FX, and payments",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcldyVmxnYmp4ZmwySXVLN25vUjBtcWV1VU1yQThnX0w3ekxlRFF0cWZwU0h4c1pZQjJpMDkzMGl3alFQeFY2X1pqR2RsczdOUDIyUlRGX0tWcGZhR1pnODFobFBfWERSMVozSVZETDNFQkhjckFMcDBEYnhPWkpHNW9QUFV1Mkx1UjVXSzVDcW1sLW56dVJjNkZTTWhTV3BlM0ZWZ1p3?oc=5"
+      },
+      {
+       "name": "Fintech Futures",
+       "title": "Ant International and BNY ink MoU to deepen collaboration across treasury, liquidity, and payments solutions",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTENvZ2lmVXdLbFdIeHY0aDFnaDRYeEhnaTAybVZ3OHY0TUwzWE9DY291UlE1eS1nUERIck1NMmpYMk9xX0ViUTJfaFVHZGI2cE90OHNTYllvYnk1b2VQaGJjWWh2T1dpbWNEUXRiN2FIUWhQUnNOMy1SX0hsUWxhRld0bw?oc=5"
+      }
+     ],
+     "title_orig": "Ant International and BNY sign MoU on treasury, 24/7 FX, and payments"
     },
     {
      "title": "Pine Labs startet Forschungsreihe zur Rechenschaftspflicht im Agentic Commerce",
@@ -1895,24 +1795,24 @@
      "title_orig": "iProov secures GOV.UK One Login ID verification deal"
     },
     {
-     "title": "MidChains geht Partnerschaft mit Standard Chartered ein",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2J3cEI5QjhRblhkTnpyT0Jma3JldmpmNDBMYnA2Z1dVd3Fucmo3V3haRTVNNUhVaUM0c0x2N1FndzhmUGxGTkJXdUhsbzl3Ykp2c3dsOHFhYkE0LUhpb1BPRWpCaE1PMHRHY2g4cm5XSXVJVldaLVVDZUVydnJ0eE1sbmFUb1RLTVZCMFhVaWZCZGg2VnpwSQ?oc=5",
+     "title": "N26 führt digitales privates Rentenkonto in Deutschland ein",
+     "link": "https://www.finextra.com/pressarticle/111654/n26-launches-digital-private-retirement-account-in-germany?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "",
      "n_sources": 2,
-     "time": "2026-11-27T07:00:32+00:00",
+     "time": "2026-11-25T12:35:33+00:00",
      "sources": [
       {
-       "name": "The Paypers",
-       "title": "MidChains partners with Standard Chartered",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2J3cEI5QjhRblhkTnpyT0Jma3JldmpmNDBMYnA2Z1dVd3Fucmo3V3haRTVNNUhVaUM0c0x2N1FndzhmUGxGTkJXdUhsbzl3Ykp2c3dsOHFhYkE0LUhpb1BPRWpCaE1PMHRHY2g4cm5XSXVJVldaLVVDZUVydnJ0eE1sbmFUb1RLTVZCMFhVaWZCZGg2VnpwSQ?oc=5"
+       "name": "Finextra",
+       "title": "N26 launches digital private retirement account in Germany",
+       "link": "https://www.finextra.com/pressarticle/111654/n26-launches-digital-private-retirement-account-in-germany?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
-       "name": "Fintech Futures",
-       "title": "Standard Chartered's Guillermo Veiga named new Capital Group CIO",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1JFN2FxbF9qUUhlMDE0NWlKaWlVQTBqRXJxWW9QY1UzSXZFd2U4YnlSTEFRc0xsbTlnQnRpNXVGbzBSVmZEc0FsVHJwXzhEOXBSdFFjSlRUdVNyWS0yWFNvRFVuVTBYT3ZHSGNhaVd6c2NVQ0xxdFNLME5CeXVjWFMxaGY1R3BmUmlCdGQxQ0ZrYkQwRTBfcEh5Ym9rMzJCNE9sVG5hSUxvdDBweE4wZU1aM3g?oc=5"
+       "name": "The Paypers",
+       "title": "N26 launches Aura premium account for customers in Germany",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0FWZWc4NXQ1dE1TX2YwbVV1WjNWMnRGelpJb3NscVJkbG40cURiYUwyelNMNWdCRlVOanA3aDdMNmFrRE1JOTdVOUFwMnpFelh4SUozRG9rbXFsSEZsVGVEUVdRcEM4UFVFcG9jYjdjZTlVbHRaQnRycFFkSG9IU25CMXdsSldvWTNndHFfYXBvWlNPTTVfRUVzZWZVN00?oc=5"
       }
      ],
-     "title_orig": "MidChains partners with Standard Chartered"
+     "title_orig": "N26 launches digital private retirement account in Germany"
     }
    ]
   },
@@ -2141,44 +2041,24 @@
      "title_orig": "Intermex sues Western Union over merger agreement termination"
     },
     {
-     "title": "Kalifornien verhängt Geldbuße von 2,7 Mio. $ gegen Afterpay",
-     "link": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/",
+     "title": "Kalifornien verhängt gegen den BNPL-Kreditgeber Afterpay eine Strafe in Höhe von 2,7 Mio. USD",
+     "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed",
      "image": "https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp",
      "n_sources": 2,
-     "time": "2026-11-26T03:05:25+00:00",
+     "time": "2026-11-26T00:01:00+00:00",
      "sources": [
+      {
+       "name": "Finextra",
+       "title": "California hits BNPL lender Afterpay with $2.7m penalty",
+       "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
       {
        "name": "Payments Dive",
        "title": "California fines Afterpay $2.7M",
        "link": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Calif. Fines Afterpay $2.7 Million for Underwriting ‘Failures’",
-       "link": "https://www.pymnts.com/legal/2026/calif-fines-afterpay-2-7-million-for-underwriting-failures/"
       }
      ],
-     "title_orig": "California fines Afterpay $2.7M"
-    },
-    {
-     "title": "Klarna erweitert Partnerschaft mit Visa",
-     "link": "https://www.finextra.com/pressarticle/111763/klarna-expands-visa-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2024/10/Klarna-gift-cards.jpg?w=457",
-     "n_sources": 2,
-     "time": "2026-11-25T20:39:16+00:00",
-     "sources": [
-      {
-       "name": "Finextra",
-       "title": "Klarna expands Visa partnership",
-       "link": "https://www.finextra.com/pressarticle/111763/klarna-expands-visa-partnership?utm_medium=rssfinextra&utm_source=finextrafeed"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Klarna Expands European Price Comparison, Adds Canada Virtual Card",
-       "link": "https://www.pymnts.com/bnpl/2026/klarna-expands-price-comparison-in-europe-and-launches-virtual-card-in-canada/"
-      }
-     ],
-     "title_orig": "Klarna expands Visa partnership"
+     "title_orig": "California hits BNPL lender Afterpay with $2.7m penalty"
     },
     {
      "title": "Ant International und BNY unterzeichnen Absichtserklärung zur Erforschung von Devisen- und Zahlungsinnovationen rund um die Uhr",
@@ -2279,6 +2159,21 @@
       }
      ],
      "title_orig": "Worldline relaunches dedicated cross-border payments brand for travel an digital commerce"
+    },
+    {
+     "title": "Kalshi wirbt für den Vorhersagemarkt als Absicherungslösung für Kleinunternehmen",
+     "link": "https://www.pymnts.com/economy/markets/2026/kalshi-promotes-prediction-market-as-hedging-solution-for-small-businesses/",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Kalshi.png?w=457&quality=82",
+     "n_sources": 1,
+     "time": "2026-11-27T21:57:33+00:00",
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "title": "Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses",
+       "link": "https://www.pymnts.com/economy/markets/2026/kalshi-promotes-prediction-market-as-hedging-solution-for-small-businesses/"
+      }
+     ],
+     "title_orig": "Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses"
     }
    ],
    "30d": [
@@ -2438,44 +2333,24 @@
      "title_orig": "Canada's real-time payments system launches"
     },
     {
-     "title": "Die Kalshi-Bewertung steigt bei der letzten Erhöhung auf 40 Mrd. $",
-     "link": "https://www.finextra.com/newsarticle/48673/kalshi-valuation-jumps-to-40-billion-on-latest-raise?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Databricks.jpeg?w=457",
+     "title": "Britische Einzelhandelsgruppe Frasers schließt Partnerschaft mit Visa für virtuelle Karte",
+     "link": "https://www.finextra.com/pressarticle/111771/uk-retail-group-frasers-partners-visa-for-virtual-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Anchorage-Digital.jpg?w=457",
      "n_sources": 2,
-     "time": "2026-11-24T23:37:06+00:00",
+     "time": "2026-11-24T13:19:00+00:00",
      "sources": [
       {
        "name": "Finextra",
-       "title": "Kalshi valuation jumps to $40 billion on latest raise",
-       "link": "https://www.finextra.com/newsarticle/48673/kalshi-valuation-jumps-to-40-billion-on-latest-raise?utm_medium=rssfinextra&utm_source=finextrafeed"
+       "title": "UK retail group Frasers partners Visa for virtual card",
+       "link": "https://www.finextra.com/pressarticle/111771/uk-retail-group-frasers-partners-visa-for-virtual-card?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
        "name": "PYMNTS",
-       "title": "Databricks Pursues $225 Billion Valuation Months After $5 Billion Raise",
-       "link": "https://www.pymnts.com/news/investment-tracker/2026/databricks-pursues-225-billion-valuation-months-after-5-billion-raise/"
+       "title": "Visa Expands Stablecoin Services With Anchorage Partnership",
+       "link": "https://www.pymnts.com/news/b2b-payments/2026/visa-expands-stablecoin-services-with-anchorage-partnership/"
       }
      ],
-     "title_orig": "Kalshi valuation jumps to $40 billion on latest raise"
-    },
-    {
-     "title": "Kalifornien verhängt Geldbuße von 2,7 Mio. $ gegen Afterpay",
-     "link": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/",
-     "image": "https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp",
-     "n_sources": 2,
-     "time": "2026-11-26T03:05:25+00:00",
-     "sources": [
-      {
-       "name": "Payments Dive",
-       "title": "California fines Afterpay $2.7M",
-       "link": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/"
-      },
-      {
-       "name": "PYMNTS",
-       "title": "Calif. Fines Afterpay $2.7 Million for Underwriting ‘Failures’",
-       "link": "https://www.pymnts.com/legal/2026/calif-fines-afterpay-2-7-million-for-underwriting-failures/"
-      }
-     ],
-     "title_orig": "California fines Afterpay $2.7M"
+     "title_orig": "UK retail group Frasers partners Visa for virtual card"
     },
     {
      "title": "Worldline führt eine eigene Marke für grenzüberschreitende Zahlungen im Reise- und digitalen Handel wieder ein",
@@ -2496,6 +2371,26 @@
       }
      ],
      "title_orig": "Worldline relaunches dedicated cross-border payments brand for travel an digital commerce"
+    },
+    {
+     "title": "Kalifornien verhängt gegen den BNPL-Kreditgeber Afterpay eine Strafe in Höhe von 2,7 Mio. USD",
+     "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "image": "https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp",
+     "n_sources": 2,
+     "time": "2026-11-26T00:01:00+00:00",
+     "sources": [
+      {
+       "name": "Finextra",
+       "title": "California hits BNPL lender Afterpay with $2.7m penalty",
+       "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+       "name": "Payments Dive",
+       "title": "California fines Afterpay $2.7M",
+       "link": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/"
+      }
+     ],
+     "title_orig": "California hits BNPL lender Afterpay with $2.7m penalty"
     }
    ]
   }
@@ -2507,54 +2402,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "agit kabayel",
-      "link": "https://www.dazn.com/fr-BE/news/boxe/kabayel-hysa-glory-rivals-6-rws-comment-regarder-sports-combat-weekend-t3r/1ui700pvd8kwm1b68ym5q7gwga",
+      "title": "anika neuer manuel neuer",
+      "link": "https://www.bild.de/sport/fussball/anika-neuer-ruehrende-geste-fuer-die-ehefrau-von-bayerns-torwart-manuel-neuer-6b09dfe97df78695bac962d2",
+      "meta": "500+ Suchanfragen"
+     },
+     {
+      "title": "trinkwasser",
+      "link": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-trinkwasser-muss-in-teilen-von-kuenzelsau-abgekocht-werden-100.html",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "tommy lee jones",
-      "link": "https://www.avclub.com/lowdown-ethan-hawke-season-2-finale-sterlin-harjo-interview",
+      "title": "nicolai von dellingshausen",
+      "link": "https://www.welt.de/sport/golf/article6b09889d6a4ea151d91c2865/golf-seltener-als-ein-ass-von-dellingshausen-uebernimmt-mit-traumschlag-die-fuehrung.html",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "alsfeld",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-warnung-vor-moeglichen-giftstoffen-grossbrand-bei-grillanzuender-hersteller-in-alsfeld-100.html",
-      "meta": "100+ Suchanfragen"
+      "title": "gta 6 black friday",
+      "link": "https://www.n-tv.de/shopping-und-service/GTA-6-sinkt-wieder-im-Preis-Das-sind-die-besten-Black-Friday-Deals-bei-Ebay-id31521170.html",
+      "meta": "10000+ Suchanfragen"
      },
      {
-      "title": "flughafen köln bonn",
-      "link": "https://www.ksta.de/koeln/flughafen-koeln-bonn-bundespolizei-nimmt-mutmasslichen-schleuser-fest-1426775",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "hunting wives",
-      "link": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/11/27/donald-trump-jr-hunting-wives-thanksgiving-promo/92979592007/",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "swr nachtcafé heute",
-      "link": "https://www.ardmediathek.de/tv-programm/6acdfed7e4fbbbf64978ed46",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "homesman",
-      "link": "https://www.ardmediathek.de/tv-programm/6af3b7090a9da876460947a1",
+      "title": "крымский полуостров",
+      "link": "https://sevastopol.su/news/dlya-kryma-i-sevastopolya-osen-zakonchitsya-morozami",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "the voice of germany",
-      "link": "https://www.joyn.de/bts/serien/the-voice-of-germany/michi-smudo-traenen-busfahrer-timo-goernhardt-222946",
+      "title": "pünktlichkeit",
+      "link": "https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus-a-93f03fc0-0a5b-4e7e-9499-9f9241fafc80",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "berlin – tag & nacht",
+      "link": "https://www.rnd.de/medien/lange-pause-fuer-berlin-tag-und-nacht-bei-rtl-zwei-was-steckt-dahinter-EYBPEU53JZETFPYZS3VRZB6KTM.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "blitzeis sonntag",
+      "link": "https://www.bild.de/news/wetter/winterfalle-zum-1-advent-erst-sonne-dann-kommt-eisregen-6b094ec109772de3718511e6",
       "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "alexander blessin",
-      "link": "https://www.kicker.de/bonhof-bestaetigt-gespraech-mit-der-fanszene-ein-ehrlicher-schlagabtausch-1275725/artikel",
-      "meta": "500+ Suchanfragen"
+      "title": "königsfamilie",
+      "link": "https://www.gala.de/royals/allgemein/niederlande-royals--mitglied-der-koenigsfamilie-sorgt-fuer-ueberraschung-24722278.html",
+      "meta": "1000+ Suchanfragen"
      },
      {
-      "title": "messerangriff",
-      "link": "https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0",
-      "meta": "500+ Suchanfragen"
+      "title": "handball-europameisterschaft der frauen",
+      "link": "https://presseportal.zdf.de/pressemitteilung/handball-em-zdfsportstudio-live-uebertraegt-deutschen-turnierauftakt",
+      "meta": "200+ Suchanfragen"
      }
     ]
    },
@@ -2563,54 +2458,54 @@
     "lang": "de",
     "items": [
      {
-      "title": "Andy Taylor (Musiker)",
-      "link": "https://de.wikipedia.org/wiki/Andy_Taylor_(Musiker)",
-      "meta": "51.533 Aufrufe am 26.11."
-     },
-     {
-      "title": "Vera von Lehndorff",
-      "link": "https://de.wikipedia.org/wiki/Vera_von_Lehndorff",
-      "meta": "45.490 Aufrufe am 26.11."
-     },
-     {
       "title": "Liste der größten Auslegerbrücken",
       "link": "https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6%C3%9Ften_Auslegerbr%C3%BCcken",
-      "meta": "32.851 Aufrufe am 26.11."
+      "meta": "32.128 Aufrufe am 27.11."
      },
      {
-      "title": "Steirerstich",
-      "link": "https://de.wikipedia.org/wiki/Steirerstich",
-      "meta": "32.197 Aufrufe am 26.11."
+      "title": "24 Türchen zu dir",
+      "link": "https://de.wikipedia.org/wiki/24_T%C3%BCrchen_zu_dir",
+      "meta": "22.727 Aufrufe am 27.11."
      },
      {
-      "title": "Vanessa Emde",
-      "link": "https://de.wikipedia.org/wiki/Vanessa_Emde",
-      "meta": "22.415 Aufrufe am 26.11."
-     },
-     {
-      "title": "Ralf Wolter",
-      "link": "https://de.wikipedia.org/wiki/Ralf_Wolter",
-      "meta": "21.837 Aufrufe am 26.11."
-     },
-     {
-      "title": "Duran Duran",
-      "link": "https://de.wikipedia.org/wiki/Duran_Duran",
-      "meta": "21.344 Aufrufe am 26.11."
-     },
-     {
-      "title": "Thanksgiving",
-      "link": "https://de.wikipedia.org/wiki/Thanksgiving",
-      "meta": "19.831 Aufrufe am 26.11."
+      "title": "Inez Bjørg David",
+      "link": "https://de.wikipedia.org/wiki/Inez_Bj%C3%B8rg_David",
+      "meta": "19.686 Aufrufe am 27.11."
      },
      {
       "title": "Riemannsche Vermutung",
       "link": "https://de.wikipedia.org/wiki/Riemannsche_Vermutung",
-      "meta": "19.153 Aufrufe am 26.11."
+      "meta": "18.000 Aufrufe am 27.11."
+     },
+     {
+      "title": "Marc Márquez",
+      "link": "https://de.wikipedia.org/wiki/Marc_M%C3%A1rquez",
+      "meta": "15.541 Aufrufe am 27.11."
+     },
+     {
+      "title": "Helena Zengel",
+      "link": "https://de.wikipedia.org/wiki/Helena_Zengel",
+      "meta": "14.617 Aufrufe am 27.11."
+     },
+     {
+      "title": "Lotte Lenya",
+      "link": "https://de.wikipedia.org/wiki/Lotte_Lenya",
+      "meta": "13.907 Aufrufe am 27.11."
      },
      {
       "title": "Regine Hildebrandt",
       "link": "https://de.wikipedia.org/wiki/Regine_Hildebrandt",
-      "meta": "18.410 Aufrufe am 26.11."
+      "meta": "13.781 Aufrufe am 27.11."
+     },
+     {
+      "title": "Frauenstraflager Flußbach",
+      "link": "https://de.wikipedia.org/wiki/Frauenstraflager_Flu%C3%9Fbach",
+      "meta": "13.692 Aufrufe am 27.11."
+     },
+     {
+      "title": "Charlotte Müller (Straßenhändlerin)",
+      "link": "https://de.wikipedia.org/wiki/Charlotte_M%C3%BCller_(Stra%C3%9Fenh%C3%A4ndlerin)",
+      "meta": "13.671 Aufrufe am 27.11."
      }
     ]
    }
@@ -2621,28 +2516,30 @@
     "lang": "fr",
     "items": [
      {
-      "title": "ez abde",
-      "link": "https://as.com/futbol/primera/abde-llega-a-tiempo-y-ceballos-tendra-que-esperar-f202611-n/",
+      "title": "marathon la rochelle 2026",
+      "link": "https://www.sudouest.fr/sante/cancer/cancer-du-sein/je-vais-pleurer-c-est-sur-au-marathon-de-la-rochelle-2026-le-dossard-de-l-apres-cancer-du-sein-pour-melanie-brossart-31692873.php",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "racing santander",
-      "link": "https://onefootball.com/es/noticias/pablo-garcia-el-bandolero-que-asalto-el-ciutat-de-valencia-43854608",
+      "title": "Banknote",
+      "link": "https://fr.style.yahoo.com/argent-liquide-banque-france-veut-164531343.html",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "billet"
+     },
+     {
+      "title": "Muse Konzert Paris",
+      "link": "https://www.leparisien.fr/culture-loisirs/musique/muse-en-concert-a-la-plenitude-arena-un-show-futuriste-et-epoustouflant-27-11-2026-FG2CL4I2QJB3VBWPU3LMCLUVUM.php",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "muse concert paris"
+     },
+     {
+      "title": "kev adams",
+      "link": "https://www.20minutes.fr/arts-stars/people/4266332-20261127-kev-adams-veut-celle-epousera-meilleure-pote-avant-savoir-si-bon-coup",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "zabiri",
-      "link": "https://www.lequipe.fr/Football/Actualites/Pendant-que-rennes-n-a-plus-d-entraineur-son-attaquant-yassir-zabiri-marque-encore-avec-santander-en-liga/1746814",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "kalash",
-      "link": "https://rci.fm/martinique/infos/Faits-divers/Trafic-de-stupefiants-vague-dinterpellations-en-Martinique-des-noms-connus-parmi",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "emanuel emegha",
-      "link": "https://www.lequipe.fr/Football/Actualites/Chelsea-coule-a-nottingham-wesley-fofana-hue-et-fautif/1746805",
+      "title": "nadir hifi",
+      "link": "https://www.lequipe.fr/Basket/Actualites/-je-ne-lui-ai-jamais-dit-que-je-faisais-une-croix-sur-lui-frederic-fauthoux-repond-a-nadir-hifi-apres-estonie-france/1746818",
       "meta": "100+ Suchanfragen"
      }
     ]
@@ -2652,29 +2549,32 @@
     "lang": "it",
     "items": [
      {
-      "title": "falcao",
-      "link": "https://www.gazzetta.it/en/football/italian-football/serie-a/storie/27-11-2026/serie-from-juary-to-falcao-the-first-foreigners-of-1980/the-sprite-who-danced-around-the-corner-flag.shtml",
-      "meta": "200+ Suchanfragen"
+      "title": "achille serra",
+      "link": "https://www.lastampa.it/cronaca/2026/11/28/news/gianni_de_gennaro_politica_diserta_funerali_solenni_leader_assenti-15812081/",
+      "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "rick dalton",
-      "link": "https://www.ilpost.it/2026/11/27/tarantino-fincher-disavventure-cliff-booth/",
-      "meta": "100+ Suchanfragen"
+      "title": "Fernsehserie",
+      "link": "https://tg24.sky.it/spettacolo/serie-tv/2026/11/27/nido-di-vipere-the-hunting-wives-netflix-2",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "serie televisiva"
      },
      {
-      "title": "anna wintour",
-      "link": "https://www.vogue.com/article/focus-on-learning-career-lessons-with-burberrys-daniel-lee-and-anna-wintour",
-      "meta": "100+ Suchanfragen"
+      "title": "Kerker",
+      "link": "https://www.newsrimini.it/ultima-ora/medico-in-carcere-fino-alle-22-consiglio-unanime-su-odg-pari",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "carcere"
      },
      {
-      "title": "stanley tucci",
-      "link": "https://www.reutersconnect.com/item/uncaptioned-stanley-tucci-reportedly-to-join-cast-of-mobland/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzEyMTExMTE",
-      "meta": "100+ Suchanfragen"
-     },
-     {
-      "title": "capoterra",
-      "link": "https://www.unionesarda.it/news-sardegna/provincia-cagliari/capoterra-trovato-senza-vita-il-giovane-scomparso-da-giorni-khmpvvjw",
+      "title": "urbano cairo",
+      "link": "https://www.corriere.it/cronache/26_novembre_26/stefano-barigelli-designato-direttore-del-corriere-della-sera-succede-a-luciano-fontana-2e62ded4-d843-462f-8372-59b54c3a6xlk.shtml",
       "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "Turin Lazio",
+      "link": "https://www.gazzetta.it/Calcio/Serie-A/Lazio/27-11-2026/torino-lazio-conferenza-gattuso-infortunio-taylor-gioca-dele-bashiru-e-sfida-ad-abate.shtml",
+      "meta": "10000+ Suchanfragen",
+      "title_orig": "torino lazio"
      }
     ]
    },
@@ -2683,34 +2583,31 @@
     "lang": "es",
     "items": [
      {
-      "title": "der Gäste am Freitag",
-      "link": "https://www.elconfidencial.com/television/programas-tv/2026-11-27/de-viernes-invitados-telecinco-famosos_4473918/",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "de viernes invitados"
-     },
-     {
-      "title": "Sportivo Luqueño – Olimpia",
-      "link": "https://www.vssports.com.py/versus/2026/11/27/un-sorpresivo-retorno-y-un-par-de-juveniles-convocados-en-el-olimpia-bicampeon",
+      "title": "Hauptverteiler",
+      "link": "https://www.lavozdegalicia.es/noticia/ferrol/2026/11/26/repartidor-acaba-detenido-mandar-hospital-presunto-atacante/00031795719464439306755.htm",
       "meta": "200+ Suchanfragen",
-      "title_orig": "sportivo luqueño - olimpia"
+      "title_orig": "repartidor"
      },
      {
-      "title": "Deportivo Cali – Bucaramanga",
-      "link": "https://as.com/apuestas/pronosticos/deportivo-cali-vs-atletico-bucaramanga-pronostico-28-11-2026/",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "deportivo cali - bucaramanga"
-     },
-     {
-      "title": "Fluminense – Cruzeiro",
-      "link": "https://aloalobahia.com/esportes/2026/11/27/fluminense-x-cruzeiro-onde-assistir-ao-vivo-pelo-brasileirao-em-confronto-direto-pelo-terceiro-lugar/",
+      "title": "Boesartige Neubildung ohne Angabe der Lokalisation",
+      "link": "https://cuidateplus.marca.com/bienestar/2026/11/28/posible-aumento-cancer-gastrico-50-inquieta-investigadores-senales-alerta-185905.html",
       "meta": "200+ Suchanfragen",
-      "title_orig": "fluminense - cruzeiro"
+      "title_orig": "cáncer"
      },
      {
-      "title": "Film Belén Cuesta Netflix",
-      "link": "https://www.elmundo.es/cultura/cine/2026/11/27/6b0967c3e9cf4a353b8b4592.html",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "pelicula belen cuesta netflix"
+      "title": "cristina pedroche",
+      "link": "https://elpais.com/gente/2026-11-27/aitana-loles-leon-o-diego-arroyo-que-pasa-cuando-los-famosos-se-posicionan-politicamente.html",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "pensie",
+      "link": "https://adevarul.ro/economie/romanii-pot-economisi-acum-pentru-pensie-printr-un-2574331.html",
+      "meta": "100+ Suchanfragen"
+     },
+     {
+      "title": "robert de niro",
+      "link": "https://elpais.com/cultura/cine/2026-11-27/ahora-los-suegros-son-ellos-la-comodidad-de-una-comedia-familiar-a-la-antigua.html",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2719,31 +2616,30 @@
     "lang": "en",
     "items": [
      {
-      "title": "leomie anderson",
-      "link": "https://www.manchestereveningnews.co.uk/news/tv/leomie-andersons-cousin-says-im-34979038",
-      "meta": "2000+ Suchanfragen"
-     },
-     {
-      "title": "Fluminense – Cruzeiro",
-      "link": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/noticia/2026/11/27/fluminense-x-cruzeiro-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "fluminense vs cruzeiro"
-     },
-     {
-      "title": "penelope cruz",
-      "link": "https://geektyrant.com/news/javier-bardem-and-penlope-cruz-face-billionaire-paranoia-in-trailer-for-bunker",
+      "title": "george lucas",
+      "link": "https://collider.com/star-wars-george-lucas-sequel-plans-bob-iger-disney-deal/",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "jack lowden",
-      "link": "https://www.independent.co.uk/arts-entertainment/tv/news/jack-lowden-colin-firth-matthew-macfadyen-darcy-b3092852.html",
-      "meta": "5000+ Suchanfragen"
+      "title": "tyson fury anthony joshua",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo",
+      "meta": "500+ Suchanfragen"
      },
      {
-      "title": "Largs Thistle FC gegen Ayr",
-      "link": "https://www.bbc.co.uk/sport/football/live/cqe87096465wt",
-      "meta": "2000+ Suchanfragen",
-      "title_orig": "largs thistle fc vs ayr"
+      "title": "capita",
+      "link": "https://www.theregister.com/public-sector/2026/11/26/uk-government-working-around-the-clock-on-capita-contingency-plans/5312298",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "-A500",
+      "link": "https://twaslnews1.twaslnews.com/8424066/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "a500"
+     },
+     {
+      "title": "pete hoekstra",
+      "link": "https://trends.google.com/trends/explore?geo=GB&q=pete%20hoekstra",
+      "meta": "100+ Suchanfragen"
      }
     ]
    },
@@ -2752,32 +2648,30 @@
     "lang": "pl",
     "items": [
      {
-      "title": "Flug 93 von Newark",
-      "link": "https://film.interia.pl/wiadomosci/news-polacy-dzisiaj-nie-zasna-w-telewizji-wstrzasajacy-film-ktory,nId,23579616",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "lot 93 z newark"
+      "title": "tilda swinton",
+      "link": "https://film.interia.pl/wiadomosci/news-laureatka-oscara-przyjechala-do-polski-chwali-andrzeja-wajde,nId,23580333",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "franciszek karpowicz",
-      "link": "https://www.fakt.pl/wydarzenia/nie-zyje-franciszek-karpowicz-utalentowany-muzyk-mial-zaledwie-25-lat/mdy7m9s",
+      "title": "nasams",
+      "link": "https://united24media.com/world/ukraines-former-commander-in-chief-helps-norway-strengthen-air-defenses-along-border-with-russia-24746",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Brand in Karpacz",
-      "link": "https://wiadomosci.wp.pl/ogromny-pozar-w-centrum-karpacza-jedna-osoba-poszkodowana-7355637972564064a",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "pożar karpacz"
+      "title": "onet.pl",
+      "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-stracil-pierwsze-miejsce-tak-wyglada-nowy-sondaz-zaufania/07edfwt",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "simlat",
-      "link": "https://www.rp.pl/film/art45554691-lukasz-simlat-sandra-drzymalska-agnieszka-dygant-i-cezary-zak-gwiazdy-polskich-seriali-na-3-bnp-paribas-warsaw-serialcon",
+      "title": "alab",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
       "meta": "100+ Suchanfragen"
      },
      {
-      "title": "Léa Seydoux",
-      "link": "https://www.rogerebert.com/features/lea-seydoux-the-face-of-melancholy",
+      "title": "Libyen",
+      "link": "https://www.reuters.com/world/europe/russian-military-flotilla-bound-libya-turns-around-after-warship-sunk-nov-22-2026-11-27/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "lea seydoux"
+      "title_orig": "libia"
      }
     ]
    },
@@ -2788,28 +2682,29 @@
      {
       "title": "David Lisnard",
       "link": "https://fr.wikipedia.org/wiki/David_Lisnard",
-      "meta": "76.004 Aufrufe am 26.11."
-     },
-     {
-      "title": "Gabriel Matzneff",
-      "link": "https://fr.wikipedia.org/wiki/Gabriel_Matzneff",
-      "meta": "50.724 Aufrufe am 26.11."
+      "meta": "58.123 Aufrufe am 27.11."
      },
      {
       "title": "Liste der Umfragen zur französischen Präsidentschaftswahl 2027",
       "link": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-      "meta": "48.626 Aufrufe am 26.11.",
+      "meta": "46.311 Aufrufe am 27.11.",
       "title_orig": "Liste de sondages sur l'élection présidentielle française de 2027"
      },
      {
-      "title": "Blue Velvet",
-      "link": "https://fr.wikipedia.org/wiki/Blue_Velvet",
-      "meta": "37.665 Aufrufe am 26.11."
+      "title": "Auf der Straße nach Madison",
+      "link": "https://fr.wikipedia.org/wiki/Sur_la_route_de_Madison",
+      "meta": "25.197 Aufrufe am 27.11.",
+      "title_orig": "Sur la route de Madison"
      },
      {
       "title": "Charlotte Arnould",
       "link": "https://fr.wikipedia.org/wiki/Charlotte_Arnould",
-      "meta": "31.188 Aufrufe am 26.11."
+      "meta": "21.537 Aufrufe am 27.11."
+     },
+     {
+      "title": "Marc Márquez",
+      "link": "https://fr.wikipedia.org/wiki/Marc_M%C3%A1rquez",
+      "meta": "20.427 Aufrufe am 27.11."
      }
     ]
    },
@@ -2818,30 +2713,31 @@
     "lang": "it",
     "items": [
      {
-      "title": "Andy Taylor",
-      "link": "https://it.wikipedia.org/wiki/Andy_Taylor",
-      "meta": "57.281 Aufrufe am 26.11."
+      "title": "Juary",
+      "link": "https://it.wikipedia.org/wiki/Juary",
+      "meta": "55.329 Aufrufe am 27.11."
+     },
+     {
+      "title": "Marc Márquez",
+      "link": "https://it.wikipedia.org/wiki/Marc_M%C3%A1rquez",
+      "meta": "46.019 Aufrufe am 27.11."
+     },
+     {
+      "title": "Es war einmal in … Hollywood",
+      "link": "https://it.wikipedia.org/wiki/C'era_una_volta_a..._Hollywood",
+      "meta": "22.416 Aufrufe am 27.11.",
+      "title_orig": "C'era una volta a... Hollywood"
+     },
+     {
+      "title": "Daviscup",
+      "link": "https://it.wikipedia.org/wiki/Coppa_Davis",
+      "meta": "22.030 Aufrufe am 27.11.",
+      "title_orig": "Coppa Davis"
      },
      {
       "title": "Gianni De Gennaro",
       "link": "https://it.wikipedia.org/wiki/Gianni_De_Gennaro",
-      "meta": "35.170 Aufrufe am 26.11."
-     },
-     {
-      "title": "Duran Duran",
-      "link": "https://it.wikipedia.org/wiki/Duran_Duran",
-      "meta": "22.723 Aufrufe am 26.11."
-     },
-     {
-      "title": "Lorenzo Pirola",
-      "link": "https://it.wikipedia.org/wiki/Lorenzo_Pirola",
-      "meta": "18.315 Aufrufe am 26.11."
-     },
-     {
-      "title": "Thanksgiving",
-      "link": "https://it.wikipedia.org/wiki/Giorno_del_ringraziamento",
-      "meta": "17.743 Aufrufe am 26.11.",
-      "title_orig": "Giorno del ringraziamento"
+      "meta": "21.817 Aufrufe am 27.11."
      }
     ]
    }
@@ -2852,31 +2748,32 @@
     "lang": "en",
     "items": [
      {
-      "title": "NFL-Tabelle Steelers",
-      "link": "https://www.espn.com/nfl/story/_/id/50606625/aaron-rodgers-officially-free-agent-clearing-waivers",
-      "meta": "10000+ Suchanfragen",
-      "title_orig": "steelers nfl standings"
+      "title": "Gefangene freizulassen.",
+      "link": "https://www.cbsnews.com/news/pregnant-prisoner-escapes-corrections-vehicle-new-mexico/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "prisoners"
      },
      {
-      "title": "chicago blackhawks",
-      "link": "https://www.espn.com/nhl/story/_/id/50615550/chicago-blackhawks-place-patrick-kane-injured-reserve",
-      "meta": "1000+ Suchanfragen"
+      "title": "Warnung vor Gefahren am Strand",
+      "link": "https://www.dailynews.com/2026/11/27/high-surf-advisory-in-place-for-malibu-and-los-angeles-county-beaches-until-early-saturday-evening/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "beach hazards statement"
      },
      {
-      "title": "drummer",
-      "link": "https://www.rollingstone.com/music/music-news/phil-barker-buzzcocks-drummer-obituary-1235665168/",
-      "meta": "500+ Suchanfragen"
-     },
-     {
-      "title": "mike norvell",
-      "link": "https://www.espn.com/college-football/story/_/id/50577665/uga-defensive-coordinator-schumann-coach-florida-state",
+      "title": "ocelot jugular gta 6",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/",
       "meta": "200+ Suchanfragen"
      },
      {
-      "title": "Bowling Green gegen Indiana",
-      "link": "https://247sports.com/college/indiana/longformarticle/scouting-report-preview-no-23-indiana-vs-bowling-green-293361781/",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "bowling green vs indiana"
+      "title": "xaivian lee",
+      "link": "https://sports.yahoo.com/mens-college-basketball/articles/gonzaga-may-unlocking-best-version-193604789.html",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Erdbebenzentrum Alaska",
+      "link": "https://alaskabeacon.com/2026/11/27/new-app-consolidates-alaska-tsunami-hazard-and-preparation-information/",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "alaska earthquake center"
      }
     ]
    },
@@ -2885,33 +2782,31 @@
     "lang": "en",
     "items": [
      {
-      "title": "రాశి",
-      "link": "https://www.eenadu.net/telugu-news/india/daily-horoscope-for-27th-november-2026-friday-in-telugu/0701/126215633",
+      "title": "reliance digital",
+      "link": "https://m.thewire.in/article/ptiprnews/reliance-digitals-black-friday-sale-enjoy-up-to-50-off-on-smartphones-laptops-tvs-home-appliances-and-more",
+      "meta": "1000+ Suchanfragen"
+     },
+     {
+      "title": "kevin pietersen",
+      "link": "https://timesofindia.indiatimes.com/videos/entertainment/music/hindi/panchayat-season-5-song-rang-daali-re/videoshow/136219444.cms",
+      "meta": "200+ Suchanfragen"
+     },
+     {
+      "title": "Selbsterhebung",
+      "link": "https://www.etvbharat.com/en/bharat/uttarakhands-bagadtoli-becomes-first-village-in-country-to-achieve-100-percent-self-enumeration-enn26112702667",
+      "meta": "200+ Suchanfragen",
+      "title_orig": "self enumeration"
+     },
+     {
+      "title": "ಪ್ರತಿಭಟನೆ",
+      "link": "https://kannada.asianetnews.com/bengaluru-urban/karnataka-asha-workers-protest-ut-khader-offers-rs-2000-hike-union-refuses-to-withdraw-stir-gdp/articleshow-p359rb4",
       "meta": "2000+ Suchanfragen"
      },
      {
-      "title": "Delhi-Polizei",
-      "link": "https://www.bhaskar.com/local/uttar-pradesh/gautambudh-nagar/news/noida-pg-cyber-fraud-case-foreign-nationals-arrest-cabs-fir-139807998.html",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "दिल्ली पुलिस"
-     },
-     {
-      "title": "1: 1:1",
-      "link": "https://www.dinamani.com/all-editions/edition-thirunelveli/tuticorin/2026/Nov/27/rs-1002-crore-allocated-for-road-development-in-thoothukudi",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "சாலை"
-     },
-     {
-      "title": "Wettervorhersage für Thanksgiving-Sturm",
-      "link": "https://www.bbc.com/news/articles/cre3dj5n7dpwo",
-      "meta": "100+ Suchanfragen",
-      "title_orig": "thanksgiving storm weather forecast"
-     },
-     {
-      "title": "Bengalischer Golf",
-      "link": "https://trends.google.com/trends/explore?geo=IN&q=%E0%B0%AC%E0%B0%82%E0%B0%97%E0%B0%BE%E0%B0%B3%E0%B0%BE%E0%B0%96%E0%B0%BE%E0%B0%A4%E0%B0%AE%E0%B1%81",
-      "meta": "1000+ Suchanfragen",
-      "title_orig": "బంగాళాఖాతము"
+      "title": "Wähler der Europäischen Bürgerinitiative",
+      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-opposition-raises-alarm-over-police-visits-to-deleted-voters-homes/article71746429.ece",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "eci voter"
      }
     ]
    },
@@ -2920,29 +2815,32 @@
     "lang": "pt",
     "items": [
      {
-      "title": "Knicks vs. Heat",
-      "link": "https://www.365scores.com/pt-br/news/magazine/knicks-x-heat-onde-assistir-nba-hoje-27/",
+      "title": "Wert des Dollars heute",
+      "link": "https://www1.folha.uol.com.br/mercado/2026/11/antes-de-aceitar-convite-de-lula-trabuco-hesitou-entre-mais-tempo-com-a-familia-e-o-ministerio-da-fazenda.shtml",
+      "meta": "10000+ Suchanfragen",
+      "title_orig": "valor do dolar hoje"
+     },
+     {
+      "title": "Pater Gilson",
+      "link": "https://professorrafaelporcari.com/2026/11/28/santo-rosario-com-frei-gilson-dia-5-de-7/",
       "meta": "200+ Suchanfragen",
-      "title_orig": "knicks x heat"
+      "title_orig": "frei gilson"
      },
      {
-      "title": "flu",
-      "link": "https://www.fluminense.com.br/noticia/fluminense-acerta-extensao-do-contrato-de-wesley-nata",
-      "meta": "500+ Suchanfragen"
+      "title": "beruflicher Aufstieg",
+      "link": "https://passageirodeprimeira.com/azul-fidelidade-oferece-ate-14-pontos-por-real-gasto-no-magalu-9/",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "promoção"
      },
      {
-      "title": "fernanda lima",
-      "link": "https://ffw.com.br/noticias/moda/elegancia-sem-esforco-fernanda-lima-usa-calca-creme-em-look-de-alfaiataria-com-camisa/",
-      "meta": "200+ Suchanfragen"
+      "title": "Lotterien Mega-Sena-Ziehung",
+      "link": "https://istoedinheiro.com.br/resultado-mega-sena-3091-26-11-2026",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "loterias sorteio mega sena"
      },
      {
-      "title": "cruzeiro fc",
-      "link": "https://ge.globo.com/gato-mestre/noticia/2026/11/26/classificacao-do-segundo-turno-cruzeiro-encosta-na-lideranca-e-inter-tem-maior-queda.ghtml",
-      "meta": "200+ Suchanfragen"
-     },
-     {
-      "title": "daniel de oliveira",
-      "link": "https://gshow.globo.com/novelas/la-na-minha-terra/vem-por-ai/noticia/em-la-na-minha-terra-cesario-explode-com-ismalia-voce-e-uma-cobra.ghtml",
+      "title": "3",
+      "link": "https://www.espn.com/mens-college-basketball/story/_/id/50619428/pope-booed-rupp-floor-wichita-state-stuns-kentucky",
       "meta": "100+ Suchanfragen"
      }
     ]
@@ -2952,34 +2850,33 @@
     "lang": "ja",
     "items": [
      {
-      "title": "Oedo Onsen Monogatari",
-      "link": "https://hotelbank.jp/investment/atami-ooedo-onsen-sold-premium-atami-disposition-taoya-2026/",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "大江戸温泉物語"
+      "title": "ain",
+      "link": "https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097",
+      "meta": "200+ Suchanfragen"
      },
      {
-      "title": "NHK-Karaoke-Wettbewerb",
-      "link": "https://tver.jp/episodes/epzffn50if",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "nhkのど自慢"
-     },
-     {
-      "title": "Nozomi Sasaki",
-      "link": "https://topics.smt.docomo.ne.jp/article/sponichi/entertainment/sponichi-spngoo-20261127-0339",
-      "meta": "500+ Suchanfragen",
-      "title_orig": "佐々木 希"
-     },
-     {
-      "title": "Präsident der Marshallinseln",
-      "link": "https://news.tv-asahi.co.jp/news_society/articles/000551124.html",
-      "meta": "200+ Suchanfragen",
-      "title_orig": "マーシャル諸島の大統領"
-     },
-     {
-      "title": "Das Wetter heute in Osaka",
-      "link": "https://news.yahoo.co.jp/articles/0ade9f42862e114f0a82b62047af6e2326da0748",
+      "title": "Fische",
+      "link": "https://madamefigaro.jp/horoscope/gomen-celebrity/weekly/pisces/2026-11-23/",
       "meta": "100+ Suchanfragen",
-      "title_orig": "今日の天気 大阪"
+      "title_orig": "うお座"
+     },
+     {
+      "title": "Ryuu Ku Tsuchida",
+      "link": "https://dnomotoke.com/archives/20261128133059/",
+      "meta": "500+ Suchanfragen",
+      "title_orig": "土田 龍 空"
+     },
+     {
+      "title": "Bruder und Schwester",
+      "link": "https://news.yahoo.co.jp/articles/18bc0c8a2f0ef0f5c3e6624eb242e04b749aa359",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "あ に いもうと"
+     },
+     {
+      "title": "Kazuyoshi Miura",
+      "link": "https://news.yahoo.co.jp/articles/4c3ab46d52052942226d3f9896ae19163d59ba8f",
+      "meta": "100+ Suchanfragen",
+      "title_orig": "三浦 知良"
      }
     ]
    },
@@ -2988,58 +2885,57 @@
     "lang": "en",
     "items": [
      {
-      "title": "Andy Taylor (Gitarrist)",
-      "link": "https://en.wikipedia.org/wiki/Andy_Taylor_(guitarist)",
-      "meta": "318.400 Aufrufe am 26.11.",
-      "title_orig": "Andy Taylor (guitarist)"
-     },
-     {
-      "title": "Aaron Rodgers",
-      "link": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
-      "meta": "183.037 Aufrufe am 26.11."
-     },
-     {
-      "title": "Mike McCarthy",
-      "link": "https://en.wikipedia.org/wiki/Mike_McCarthy",
-      "meta": "178.864 Aufrufe am 26.11."
-     },
-     {
-      "title": "Duran Duran",
-      "link": "https://en.wikipedia.org/wiki/Duran_Duran",
-      "meta": "164.045 Aufrufe am 26.11."
-     },
-     {
-      "title": "Wu-Tang Clan",
-      "link": "https://en.wikipedia.org/wiki/Wu-Tang_Clan",
-      "meta": "147.607 Aufrufe am 26.11."
+      "title": "Joe Milton",
+      "link": "https://en.wikipedia.org/wiki/Joe_Milton",
+      "meta": "385.182 Aufrufe am 27.11."
      },
      {
       "title": "Todesfälle im Jahr 2026",
       "link": "https://en.wikipedia.org/wiki/Deaths_in_2026",
-      "meta": "134.094 Aufrufe am 26.11.",
+      "meta": "127.653 Aufrufe am 27.11.",
       "title_orig": "Deaths in 2026"
      },
      {
-      "title": "Liste der umsatzstärksten indischen Filme",
-      "link": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films",
-      "meta": "125.901 Aufrufe am 26.11.",
-      "title_orig": "List of highest-grossing Indian films"
-     },
-     {
-      "title": "Grand Theft Auto",
-      "link": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-      "meta": "123.574 Aufrufe am 26.11.",
-      "title_orig": "Grand Theft Auto VI"
-     },
-     {
-      "title": "Ezra Frech",
-      "link": "https://en.wikipedia.org/wiki/Ezra_Frech",
-      "meta": "119.420 Aufrufe am 26.11."
+      "title": "Mason Rudolph (American football)",
+      "link": "https://en.wikipedia.org/wiki/Mason_Rudolph_(American_football)",
+      "meta": "117.924 Aufrufe am 27.11."
      },
      {
       "title": "Elizabeth Holmes",
       "link": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
-      "meta": "109.388 Aufrufe am 26.11."
+      "meta": "117.706 Aufrufe am 27.11."
+     },
+     {
+      "title": "Liste der umsatzstärksten indischen Filme",
+      "link": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films",
+      "meta": "116.885 Aufrufe am 27.11.",
+      "title_orig": "List of highest-grossing Indian films"
+     },
+     {
+      "title": "Ansel Adams",
+      "link": "https://en.wikipedia.org/wiki/Ansel_Adams",
+      "meta": "111.201 Aufrufe am 27.11."
+     },
+     {
+      "title": "Aaron Rodgers",
+      "link": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+      "meta": "110.558 Aufrufe am 27.11."
+     },
+     {
+      "title": "Grand Theft Auto",
+      "link": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "meta": "109.088 Aufrufe am 27.11.",
+      "title_orig": "Grand Theft Auto VI"
+     },
+     {
+      "title": "You Can See Everything",
+      "link": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+      "meta": "96.240 Aufrufe am 27.11."
+     },
+     {
+      "title": "Marc Márquez",
+      "link": "https://en.wikipedia.org/wiki/Marc_M%C3%A1rquez",
+      "meta": "86.276 Aufrufe am 27.11."
      }
     ]
    },
@@ -3050,32 +2946,32 @@
      {
       "title": "Tausende von Mädchen und Frauen berichten von Blutungen und Fehlgeburten, nachdem die französische Polizei Tränengas eingesetzt hat",
       "link": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas",
-      "meta": "The Guardian · 766 Personen teilen",
+      "meta": "The Guardian · 864 Personen teilen",
       "title_orig": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas"
      },
      {
       "title": "„Ich habe Angst“: Die Autorin von „Careless People“, Sarah Wynn-Williams, über das Leben unter einer Maulkorbverordnung – und warum es an der Zeit ist, sich gegen die großen Technologieunternehmen zu erheben",
       "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
-      "meta": "The Guardian · 175 Personen teilen",
+      "meta": "The Guardian · 214 Personen teilen",
       "title_orig": "‘I am scared’: Careless People author Sarah Wynn-Williams on living under a gag order - and why it’s time to speak out against big tech"
      },
      {
       "title": "Microsofts Rechnung für Schul-E-Mails gibt Konkurrenten Anlass zum Schmunzeln",
       "link": "https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296",
-      "meta": "theregister · 174 Personen teilen",
+      "meta": "theregister · 187 Personen teilen",
       "title_orig": "Microsoft's school email bill gives rivals something to smile about"
+     },
+     {
+      "title": "Google wird aufgefordert, den Bau des Rechenzentrums in Belgien wegen fehlender Baugenehmigung einzustellen",
+      "link": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+      "meta": "The Guardian · 301 Personen teilen",
+      "title_orig": "Google told to halt Belgium datacentre construction over lack of planning permit"
      },
      {
       "title": "Natural England erhob Einspruch gegen ein Rechenzentrum. Wochen später drohten die Minister, die Behörde aufzulösen.",
       "link": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
-      "meta": "The Guardian · 163 Personen teilen",
+      "meta": "The Guardian · 186 Personen teilen",
       "title_orig": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency"
-     },
-     {
-      "title": "Belgische Behörden fordern Google auf, den Bau eines Rechenzentrums wegen fehlender Genehmigungen einzustellen",
-      "link": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
-      "meta": "The Guardian · 148 Personen teilen",
-      "title_orig": "Belgian authorities order Google to halt datacentre construction over lack of permits"
      }
     ]
    }
@@ -3086,7 +2982,7 @@
    "source": "Tagesschau",
    "category": "news",
    "ok": true,
-   "count": 65,
+   "count": 60,
    "error": ""
   },
   {
@@ -3107,7 +3003,7 @@
    "source": "FAZ",
    "category": "news",
    "ok": true,
-   "count": 174,
+   "count": 173,
    "error": ""
   },
   {
@@ -3121,7 +3017,7 @@
    "source": "Finanz-Szene",
    "category": "pay_de",
    "ok": true,
-   "count": 27,
+   "count": 24,
    "error": ""
   },
   {
@@ -3170,7 +3066,7 @@
    "source": "Fintech Futures",
    "category": "pay_eu",
    "ok": true,
-   "count": 87,
+   "count": 100,
    "error": ""
   },
   {
@@ -3303,8 +3199,8 @@
    "source": "Übersetzung",
    "category": "translate",
    "ok": true,
-   "count": 116,
-   "info": "116 von 116 Überschriften übersetzt (neu in diesem Lauf: MyMemory 63). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
+   "count": 115,
+   "info": "115 von 115 Überschriften übersetzt (neu in diesem Lauf: MyMemory 55). Ohne DeepL-Schlüssel wird der kostenlose Dienst MyMemory mit Tageslimit genutzt",
    "error": "0 Überschriften noch ohne Übersetzung. "
   }
  ]
